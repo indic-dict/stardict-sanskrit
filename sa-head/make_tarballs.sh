@@ -8,7 +8,7 @@ do
 	tar -czf "${base}.tar.gz" `ls *.idx *.dict *.ifo *.syn`
 	mv "${base}.tar.gz" ../tars/
 	cd ..
-	if [ ! -f "$dir/${base}.tar.gz" ]; then
+	if [ -f "tars/${base}.tar.gz" ]; then
 	  echo "<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/${base}.tar.gz>" >> tars/tars.MD
 	fi
 done
