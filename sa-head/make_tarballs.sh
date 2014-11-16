@@ -9,6 +9,6 @@ do
 	mv "${base}.tar.gz" ../tars/
 	cd ..
 	if [ ! -f "$dir/${base}.tar.gz" ]; then
-	  echo "<https://github.com/vvasuki/sanskritnlp/raw/master/src/main/stardict-sanskrit/sa-head/tars/${base}.tar.gz>" >> tars/tars.MD
+	  echo "<https://github.com/vvasuki/stardict-sanskrit/raw/master/src/main/stardict-sanskrit/sa-head/tars/${base}.tar.gz>" >> tars/tars.MD
 	fi
 done
