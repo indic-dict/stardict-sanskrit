@@ -8,10 +8,10 @@ endif
 all:
 	$(TABFILE) $(dicts)/*.tsv
 	dictunzip $(dicts)/*.dz
-	bash ./make_tarballs.sh $(dicts)
+	bash ../bin/make_tarballs.sh $(dicts)
 
 tars:
-	bash ./make_tarballs.sh $(dicts)
+	bash ../bin/make_tarballs.sh $(dicts)
 
 test:
 	echo $(dicts)
