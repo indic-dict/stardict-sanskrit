@@ -1,3 +1,5 @@
+urlbase=$1
+
 touch tars/tars.MD
 rm tars/tars.MD
 touch tars/tars.MD
@@ -9,6 +11,6 @@ do
 	mv "${base}.tar.gz" ../tars/
 	cd ..
 	if [ -f "tars/${base}.tar.gz" ]; then
-	  echo "<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/${base}.tar.gz>" >> tars/tars.MD
+	  echo "<$urlbase/tars/${base}.tar.gz>" >> tars/tars.MD
 	fi
 done
