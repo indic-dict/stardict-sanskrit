@@ -3,6 +3,8 @@ ifndef dicts
 	dicts="*"
 endif
 
+.PHONY: all tars decompile
+
 all:decompile
 
 tars:

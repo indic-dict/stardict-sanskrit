@@ -1,0 +1,10 @@
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/apte-bi.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/balamanorama.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/dhatupatha.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kalpadruma.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kashika.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/laghu-kaumudi.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/mw-bi-itrans-dev.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/nyasa.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/tattvabodhini.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/vAchaspatyam.tar.gz>
