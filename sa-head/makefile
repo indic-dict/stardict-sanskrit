@@ -5,14 +5,14 @@ ifndef dicts
 	dicts="*"
 endif
 
-all:
-	$(TABFILE) $(dicts)/*.tsv
+.PHONY: all stardict tars
+
+all:stardict tars
+
+stardict:
+	eval $(TABFILE) $(dicts)/*.tsv
 	dictunzip $(dicts)/*.dz
-	bash ../bin/make_tarballs.sh $(dicts)
 
 tars:
-	bash ../bin/make_tarballs.sh $(dicts)
+	bash ../bin/make_tarballs.sh https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head
 
-test:
-	echo $(dicts)
-	bash ./make_tarballs.sh https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head
