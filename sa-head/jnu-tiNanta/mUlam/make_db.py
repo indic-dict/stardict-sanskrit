@@ -8,6 +8,7 @@ import sys
 
 HOME = "/home/vvasuki/"
 # print HOME
+# 1 to 451 with some missing dhAtu-files in-between.
 for i in range(1,451):
   filename = HOME + "/tinanta/%d" % i
   f = open(filename, 'r')
@@ -22,7 +23,7 @@ for i in range(1,451):
   text = re.sub(".n.n +", "\n", text)
   text = re.sub(".n.n *$", "", text)
   if not '\t' in text:
-    print sys.stderr, "Cannot parse: " + filename
+    print >> sys.stderr, "Cannot parse: " + filename
     continue
 
   # At this point, text is a collecion of lines such as the below:
@@ -30,9 +31,11 @@ for i in range(1,451):
   # Now, we add lines with each of भवति भवतः भवन्ति ... as a headword.
   lines = text.split("\n")
   for line in lines:
-    lakAra_detail, forms_line = line.split("\t")
-    value = lakAra_detail + "\\n" + forms_line
-    print lakAra_detail + "\t" + value
+    dhAtu_lakAra_detail, forms_line = line.split("\t")
+    value = dhAtu_lakAra_detail + "\\n" + forms_line
+    dhAtu, lakAra_detail = dhAtu_lakAra_detail.split(" (")
+    lakAra_detail = lakAra_detail.replace(")", "")
+    print dhAtu + "\t" + value
     headwords = re.sub(".n+", "", forms_line).strip().split(" ")
     for headword in headwords:
       print headword + "\t" + value
