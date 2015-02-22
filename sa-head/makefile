@@ -11,7 +11,7 @@ all:stardict tars
 
 stardict:
 	eval $(TABFILE) $(dicts)/*.tsv
-	dictunzip $(dicts)/*.dz
+	eval dictunzip $(dicts)/*.dz
 
 tars:
 	bash ../bin/make_tarballs.sh https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head
