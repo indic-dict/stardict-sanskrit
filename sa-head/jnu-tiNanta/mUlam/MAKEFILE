@@ -1,0 +1,10 @@
+.PHONY: all dump_files tars
+
+all:dump_files
+
+dump_files:
+	python dump_data_files.py
+
+tars:
+	bash ../bin/make_tarballs.sh https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head
+
