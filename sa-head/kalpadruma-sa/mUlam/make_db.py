@@ -24,7 +24,8 @@ for line in sys.stdin:
 
   # Print the headword with the prathamA-vibhakti ending.
   if (len(set(headwords)) > 1):
-    #print headwords[1] + "\t" + value.strip()
+    headword = headwords[1].replace('ं', "म्")
+    print headword + "\t" + value.strip()
     pass
   
 
