@@ -16,7 +16,7 @@ for line in sys.stdin:
   headwords = filter(lambda headword : headword != "", headwords)
   word_count[len(set(headwords))] += 1
   if (len(set(headwords)) < 2):
-       print line.strip()
+       # print line.strip()
        # print headwords
        pass
   # Print the headword without the prathamA-vibhakti ending.
