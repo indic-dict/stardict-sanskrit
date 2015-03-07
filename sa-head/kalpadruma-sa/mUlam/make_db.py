@@ -20,12 +20,12 @@ for line in sys.stdin:
        # print headwords
        pass
   # Print the headword without the prathamA-vibhakti ending.
-  # print headwords[0] + "\t" + value.strip()
+  print headwords[0] + "\t" + value.strip()
 
   # Print the headword with the prathamA-vibhakti ending.
   if (len(set(headwords)) > 1):
     headword = headwords[1].replace('ं', "म्")
-    print headword + "\t" + value.strip()
+    # print headword + "\t" + value.strip()
     pass
   
 
