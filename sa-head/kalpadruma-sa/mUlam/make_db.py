@@ -3,16 +3,6 @@
 import regex
 import sys
 import collections
-
-def print_entry(headwords, value):
-  printed_words = set()
-  for headword in headwords:
-    # print headword
-    if (not headword in printed_words):
-      print headword + "\t" + value.strip()
-      printed_words.add(headword)
-      # just print the first headword
-      break
   
 
 word_count = collections.Counter()
@@ -25,11 +15,17 @@ for line in sys.stdin:
   headwords = map(lambda headword : regex.sub(r'\p{P}+', "", headword).strip(), headwords)
   headwords = filter(lambda headword : headword != "", headwords)
   word_count[len(set(headwords))] += 1
-  if (len(set(headwords)) > 4):
-       #print line.strip()
-       #print headwords
+  if (len(set(headwords)) < 2):
+       print line.strip()
+       # print headwords
        pass
-  print_entry(headwords, value)
+  # Print the headword without the prathamA-vibhakti ending.
+  # print headwords[0] + "\t" + value.strip()
+
+  # Print the headword with the prathamA-vibhakti ending.
+  if (len(set(headwords)) > 1):
+    #print headwords[1] + "\t" + value.strip()
+    pass
   
 
 # print word_count
