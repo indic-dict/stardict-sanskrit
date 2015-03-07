@@ -1,5 +1,6 @@
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/AkhyAtachandrikA.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/amara-onto.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/apte-prAtipadikam-sa.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/apte-sa.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/dhAtupATha-sa.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/jnu-tiNanta.tar.gz>
