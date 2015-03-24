@@ -1,6 +1,6 @@
 #!/bin/sh
-exec scala "$0" "$@"
+exec scala -classpath "~/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT.jar " "$0" "$@"
 !#
 
-print "hello"
-
+import sanskritnlp.transliteration._;
+// print "hello"
