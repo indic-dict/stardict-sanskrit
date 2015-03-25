@@ -3,4 +3,5 @@ exec scala -classpath "/home/vvasuki/sanskritnlpjava/target/sanskritnlp-1.0-SNAP
 !#
 
 import sanskritnlp.transliteration._;
-// print "hello"
+println("hello")
+
