@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31cc2d52-fd51-4913-b8e8-c41bd980d21d" name="Default" comment="df">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/README.md" />
-      <change type="DELETED" beforePath="$USER_HOME$/sanskritnlpjava/sanskritnlp.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mUlam/make_tsv.scala" afterPath="$PROJECT_DIR$/mUlam/make_tsv.scala" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/.idea/workspace.xml" afterPath="$USER_HOME$/sanskritnlpjava/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mUlam/make_tsv.scala" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt" afterPath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v0.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv" afterPath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" afterPath="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shabda-sAgara.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,41 +32,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="716">
+              <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Source.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.52" vertical-offset="482" max-vertical-offset="1185">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="make_tsv.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.scala">
+      <file leaf-file-name="romanScripts.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1924" max-vertical-offset="2640">
+              <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shs_orig_utf8.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8.txt">
+      <file leaf-file-name="make_tsv.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="1507125">
-              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shs_orig_utf8_tsv.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt">
+      <file leaf-file-name="shs_orig_utf8_v1.tsv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4347826" vertical-offset="6150" max-vertical-offset="710610">
-              <caret line="428" column="44" selection-start-line="428" selection-start-column="44" selection-end-line="428" selection-end-column="44" />
+            <state vertical-scroll-proportion="-3.4390244" vertical-offset="317208" max-vertical-offset="710610">
+              <caret line="21166" column="36" selection-start-line="21166" selection-start-column="36" selection-end-line="21166" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -81,12 +94,14 @@
       <list>
         <option value="$PROJECT_DIR$/mUlam/make_tsv.scala" />
         <option value="$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt" />
+        <option value="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv" />
+        <option value="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-1176" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
     <option name="height" value="1176" />
   </component>
@@ -410,7 +425,7 @@
     </configuration>
     <configuration default="false" name="make_tsv" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
       <module name="shabda-sAgara" />
-      <setting name="path" value="$PROJECT_DIR$/mUlam/make_tsv.scala" />
+      <setting name="path" value="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
       <setting name="vmparams" value="" />
       <setting name="consoleargs" value="" />
       <setting name="params" value="" />
@@ -449,11 +464,35 @@
       <option name="project" value="LOCAL" />
       <updated>1427383437478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="df">
+      <created>1427420221054</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1427420221054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="df">
+      <created>1427420342951</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1427420342951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="df">
+      <created>1427422065782</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1427422065782</updated>
+    </task>
+    <task id="LOCAL-00007" summary="df">
+      <created>1427423541368</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1427423541368</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-1176" width="1855" height="1176" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -466,6 +505,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942238" sideWeight="0.49973047" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -473,13 +513,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942238" sideWeight="0.49973047" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -513,15 +552,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -533,26 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt">
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v0.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -572,11 +589,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt">
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v0.tsv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4347826" vertical-offset="6150" max-vertical-offset="710610">
-          <caret line="428" column="44" selection-start-line="428" selection-start-column="44" selection-end-line="428" selection-end-column="44" />
+        <state vertical-scroll-proportion="-2.707317" vertical-offset="6003" max-vertical-offset="710610">
+          <caret line="415" column="24" selection-start-line="415" selection-start-column="24" selection-end-line="415" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1339" max-vertical-offset="2640">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.52" vertical-offset="482" max-vertical-offset="1185">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4390244" vertical-offset="317208" max-vertical-offset="710610">
+          <caret line="21166" column="36" selection-start-line="21166" selection-start-column="36" selection-end-line="21166" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="716">
+          <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
