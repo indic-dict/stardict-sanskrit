@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31cc2d52-fd51-4913-b8e8-c41bd980d21d" name="Default" comment="df">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1_dev.tsv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/AkhyAtachandrikA.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/AkhyAtachandrikA.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/amara-onto.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/amara-onto.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/apte-prAtipadikam-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/apte-prAtipadikam-sa.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/apte-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/apte-sa.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/dhAtupATha-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/dhAtupATha-sa.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/jnu-tiNanta.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/jnu-tiNanta.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-prathamA.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-prathamA.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-sa.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/mw-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/mw-sa.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/vAchAspatyam-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/vAchAspatyam-sa.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/tars.MD" afterPath="$PROJECT_DIR$/../../sa-head/tars/tars.MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" afterPath="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="shabda-sAgara.iws" />
@@ -40,60 +28,7 @@
     <favorites_list name="shabda-sAgara" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35614526" vertical-offset="0" max-vertical-offset="716">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Source.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.52" vertical-offset="482" max-vertical-offset="1185">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="romanScripts.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1924" max-vertical-offset="2640">
-              <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="make_tsv.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shs_orig_utf8_v1.tsv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.47561" vertical-offset="709164" max-vertical-offset="709785">
-              <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -105,14 +40,16 @@
         <option value="$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt" />
         <option value="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv" />
         <option value="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
+        <option value="$USER_HOME$/sanskritnlpjava/src/main/scala/scripts/PadFilenames.scala" />
+        <option value="$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-1204" />
     <option name="width" value="1855" />
-    <option name="height" value="1176" />
+    <option name="height" value="1204" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -138,7 +75,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,32 +83,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shabda-sAgara" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shabda-sAgara" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shabda-sAgara" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shabda-sAgara" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mUlam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,7 +95,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/sanskritnlpjava/sanskritnlpjava.iml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/sanskritnlpjava/src/main/scala/scripts/PadFilenames.scala" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -192,13 +105,17 @@
     <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mUlam" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/sanskritnlpjava/" />
+    </key>
   </component>
-  <component name="RunManager" selected="Scala Script.make_tsv">
+  <component name="RunManager" selected="Scala Script.Unnamed">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -289,6 +206,13 @@
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
+      <module name="" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -432,7 +356,27 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="make_tsv" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
+    <configuration default="false" name="Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
+      <module name="sanskritnlpjava" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$USER_HOME$/Dropbox/podcasts/samskrtam" />
+      <setting name="consoleArgs" value="-usejavacp" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
+      <module name="sanskritnlpjava" />
+      <setting name="path" value="$USER_HOME$/sanskritnlpjava//scripts/PadFilenames.scala" />
+      <setting name="vmparams" value="" />
+      <setting name="consoleargs" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="to_devanAgarI.scala" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
       <module name="shabda-sAgara" />
       <setting name="path" value="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
       <setting name="vmparams" value="" />
@@ -443,11 +387,16 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Scala Script.make_tsv" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Scala Console.Console" />
+      <item index="1" class="java.lang.String" itemvalue="Scala Script.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Scala Script.to_devanAgarI.scala" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="31cc2d52-fd51-4913-b8e8-c41bd980d21d" name="Default" comment="" />
@@ -507,8 +456,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-1204" width="1855" height="1204" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -523,7 +472,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942238" sideWeight="0.49973047" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -565,11 +514,169 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1185">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="2640">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="709695" max-vertical-offset="709785">
+          <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1185">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="2640">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="709695" max-vertical-offset="709785">
+          <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1185">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="2640">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="709695" max-vertical-offset="709785">
+          <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="240">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1185">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="2640">
+          <caret line="109" column="24" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="709695" max-vertical-offset="709785">
+          <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="1507125">
           <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="1507125">
           <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,14 +705,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.707317" vertical-offset="6003" max-vertical-offset="710610">
           <caret line="415" column="24" selection-start-line="415" selection-start-column="24" selection-end-line="415" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1507125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/scripts/PadFilenames.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2932961" vertical-offset="0" max-vertical-offset="716">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/make_tsv.sh">
+    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.31424582" vertical-offset="0" max-vertical-offset="716">
+          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53539824" vertical-offset="507" max-vertical-offset="1185">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -621,37 +747,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar!/scala/io/Source.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.52" vertical-offset="482" max-vertical-offset="1185">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1507125">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.47561" vertical-offset="709164" max-vertical-offset="709785">
-          <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8820059" vertical-offset="709082" max-vertical-offset="709785">
+          <caret line="47312" column="12" selection-start-line="47312" selection-start-column="12" selection-end-line="47312" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35614526" vertical-offset="0" max-vertical-offset="716">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

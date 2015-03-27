@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- krm.dtd  
+ May 28, 2014
+ 
+-->
+<!ELEMENT  krm (H1)*>
+<!ELEMENT H1 (h,body,tail) >
+<!ENTITY % body_elts "i |s |lb|P|H|NI|F|Poem|b|nd" >
+<!-- h element -->
+<!ELEMENT h  (key1,key2,hom?)>
+<!ELEMENT key1 (#PCDATA) > <!-- in slp1 -->
+<!ELEMENT key2 (#PCDATA )><!-- in AS -->
+<!ELEMENT hom (#PCDATA)> <!-- homonym -->
+
+<!ELEMENT body (#PCDATA  | %body_elts;)*> 
+<!ELEMENT i (s )> <!-- in body, Tamil coded with HK (twice)-->
+<!ELEMENT b (#PCDATA |s | lb)*> <!-- bold-->
+<!ELEMENT s (#PCDATA)> <!-- Sanskrit, in slp1 transliteration  -->
+<!ELEMENT nd (#PCDATA)> <!-- non-Devanagari. {#X#}  -->
+<!ELEMENT F (#PCDATA  | lb | s | i | Poem|nd)*>  <!-- footnote -->
+<!ELEMENT Poem (#PCDATA  | lb | s)*> 
+<!ELEMENT lb EMPTY>  <!-- line break -->
+<!ELEMENT P EMPTY>  
+<!ELEMENT H EMPTY>  
+<!ELEMENT NI EMPTY>  
+
+<!-- tail -->
+<!ELEMENT tail (#PCDATA | L | pc )*>
+<!ELEMENT L (#PCDATA) >
+<!ELEMENT pc (#PCDATA) >
+
+<!-- attributes  -->
+
