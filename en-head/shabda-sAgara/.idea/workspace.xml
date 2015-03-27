@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31cc2d52-fd51-4913-b8e8-c41bd980d21d" name="Default" comment="df">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mUlam/make_tsv.scala" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mUlam/shs_orig_utf8_tsv.txt" afterPath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v0.tsv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv" afterPath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mUlam/shs_orig_utf8_v1_dev.tsv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/AkhyAtachandrikA.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/AkhyAtachandrikA.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/amara-onto.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/amara-onto.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/apte-prAtipadikam-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/apte-prAtipadikam-sa.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/apte-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/apte-sa.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/dhAtupATha-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/dhAtupATha-sa.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/jnu-tiNanta.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/jnu-tiNanta.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-prathamA.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-prathamA.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/kalpadruma-sa.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/mw-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/mw-sa.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/vAchAspatyam-sa.tar.gz" afterPath="$PROJECT_DIR$/../../sa-head/tars/vAchAspatyam-sa.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sa-head/tars/tars.MD" afterPath="$PROJECT_DIR$/../../sa-head/tars/tars.MD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" afterPath="$PROJECT_DIR$/mUlam/to_devanAgarI.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -35,8 +44,8 @@
       <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="716">
-              <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+            <state vertical-scroll-proportion="0.35614526" vertical-offset="0" max-vertical-offset="716">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -77,8 +86,8 @@
       <file leaf-file-name="shs_orig_utf8_v1.tsv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4390244" vertical-offset="317208" max-vertical-offset="710610">
-              <caret line="21166" column="36" selection-start-line="21166" selection-start-column="36" selection-end-line="21166" selection-end-column="36" />
+            <state vertical-scroll-proportion="-6.47561" vertical-offset="709164" max-vertical-offset="709785">
+              <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -488,7 +497,13 @@
       <option name="project" value="LOCAL" />
       <updated>1427423541368</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="df">
+      <created>1427426478522</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1427426478522</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -505,7 +520,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942238" sideWeight="0.49973047" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942238" sideWeight="0.49973047" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -582,13 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86975396" vertical-offset="1506434" max-vertical-offset="1507125">
-          <caret line="100469" column="0" selection-start-line="100469" selection-start-column="0" selection-end-line="100469" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v0.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.707317" vertical-offset="6003" max-vertical-offset="710610">
@@ -621,18 +629,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mUlam/shs_orig.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1507125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mUlam/shs_orig_utf8_v1.tsv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4390244" vertical-offset="317208" max-vertical-offset="710610">
-          <caret line="21166" column="36" selection-start-line="21166" selection-start-column="36" selection-end-line="21166" selection-end-column="36" />
+        <state vertical-scroll-proportion="-6.47561" vertical-offset="709164" max-vertical-offset="709785">
+          <caret line="47313" column="0" selection-start-line="47313" selection-start-column="0" selection-end-line="47313" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mUlam/to_devanAgarI.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10474861" vertical-offset="0" max-vertical-offset="716">
-          <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+        <state vertical-scroll-proportion="0.35614526" vertical-offset="0" max-vertical-offset="716">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
