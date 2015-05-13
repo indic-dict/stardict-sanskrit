@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- pui.dtd  
+ July 15, 2013
+ 
+-->
+<!ELEMENT  pui (H1)*>
+<!ELEMENT H1 (h,body,tail) >
+<!ENTITY % body_elts "F |  br | H | b | i | s" >
+<!-- h element -->
+<!ELEMENT h  (key1,key2)>
+<!ELEMENT key1 (#PCDATA)>
+<!ELEMENT key2 (#PCDATA )*>
+
+<!ELEMENT body (#PCDATA  | %body_elts;)*> 
+<!ELEMENT br EMPTY > <!-- line breaks in bhs.txt -->
+<!ELEMENT F (#PCDATA | br | i)*> <!-- Footnote  -->
+<!ELEMENT s (#PCDATA | br)*> <!-- Devanagari, in HK transliteration  -->
+<!ELEMENT H EMPTY> <!--   -->
+<!ELEMENT b (#PCDATA | br)*> <!-- bold  -->
+<!ELEMENT i (#PCDATA | br )*> <!-- italic  -->
+
+<!-- tail -->
+<!ELEMENT tail (#PCDATA | L | pc )*>
+<!ELEMENT L (#PCDATA) >
+<!ELEMENT pc (#PCDATA) >
+<!-- attributes  -->
