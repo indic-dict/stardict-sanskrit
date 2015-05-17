@@ -1,0 +1,13 @@
+- For transliterating between indic alphabets to/ from devanAgarI: simple character-to-character mapping.
+- For transliterating from a roman scheme to devanAgarI, do the following, in the specified order (using standard regex routines where possible):
+  - Replace all independent vowels (ie vowels not preceeded by a consonant), longer roman codes first.
+  - Replace all vowels preceded by a consonant, longer roman codes first. At this point, there string will have only devanAgarI vowel signs, excepting the roman symbol corresponding to 'short-a'.
+  - Replace all consonants preceding a vowel with the corresponding devanAgarI letter, without the virAma sign.
+  - Replace all remaining consonants with the corresponding devanAgarI letter followed by the virAma sign.
+  - Replace all other characters (such as digits).
+- Transliterating from devanAgarI to an roman schema is done in the following way (not yet implemented, again using standard regex routines):
+  - Replace all devanAgarI consonants followed by a virAma by the appropriate roman code.
+  - Replace all devanAgarI consonants followed by a mAtrA symbol by the appropriate (consonant + vowel) roman codes.
+  - Replace all remaining devanAgarI consonants with the appropriate roman code followed by the roman-scheme's 'short-a' symbol.
+  - Do all other replacements using a simple string-to-string mapping.
+- With the above, one can map from scheme A to scheme B by function composition: A -> devanAgarI -> B.
