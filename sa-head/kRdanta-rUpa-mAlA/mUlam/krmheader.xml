@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- %{date2) -->
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader xml:lang="en-Latn">
+    <fileDesc>
+      <titleStmt>
+        <title>Kṛdantarūpamālā</title>
+        <editor>Jim Funderburk</editor>
+        <editor>Thomas Malten</editor>
+        <principal>Thomas Malten</principal>
+        <funder>DFG - Deutsche Forschungsgemeinschaft</funder>
+        <!--<funder>Glasenapp Stiftung</funder>-->
+        <!--<funder>ECCP, European Union</funder>-->
+      </titleStmt>
+      <editionStmt>
+         <edition>digital edition, krm.txt <date>2014</date></edition>
+        <respStmt>
+          <resp>markup</resp>
+          <name>Thomas Malten</name>
+        </respStmt>
+      </editionStmt>
+      <extent>2.7 MB</extent>
+      <publicationStmt>
+        <publisher>University of Cologne</publisher>
+        <pubPlace>Cologne, Germany</pubPlace>
+        <date when="2014">2014</date>
+        <availability>
+          <p>All rights reserved other than those granted under the Creative Commons Attribution
+            Non-Commercial Share Alike license available in full at <ptr
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized
+            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is
+            granted to build upon this work non-commercially, as long as credit is explicitly
+            acknowledged exactly as described herein and derivative work is distributed under the
+            same license.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s"></title>
+        <respStmt>
+          <resp></resp>
+          <name></name>
+        </respStmt>
+        <idno></idno>
+      </seriesStmt>
+      <notesStmt>
+        <note></note>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct xml:id="KRM">
+          <monogr>
+            <author>Pandit S. Ramasubba Sastri</author>
+            <author> </author>
+            <title type="main" level="m">Kṛdantarūpamālā</title>
+            <title type="subordinate" level="m">
+	      A Concordance of Verbal Derivatives
+	    </title>
+            <edition></edition>
+            <imprint>
+              <pubPlace>Madras</pubPlace>
+              <publisher>Samskrit Education Society</publisher>
+              <date>Volume One 1965</date>
+              <date>Volume Two 1966</date>
+              <date>Volume Three 1967</date>
+              <date>Volume Four 1968</date>
+              <date>Volume Five 1971</date>
+            </imprint>
+            <extent>1489 pages</extent>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+      <projectDesc>
+        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and
+            merge all published Sanskrit dictionaries. Its aim is
+            to provide a basic lexical corpus to provide an easy access to all available meanings of
+            Sanskrit words and to allow the creation of a number of computer programs that will help
+            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review
+                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p>
+      </projectDesc>
+      <editorialDecl>
+        <p>
+          <date>2014</date></p>
+      </editorialDecl>
+      <tagsDecl> </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation> </creation>
+      <langUsage>
+        <language ident="de-Latn">Sanskrit</language>
+        <language ident="sa-Latn-x-AS">Sanskrit</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#lcsh">
+          <list>
+            <item>Sanskrit language -- Dictionaries -- Sanskrit language</item>
+          </list>
+        </keywords>
+        <classCode scheme="#lc"></classCode>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>0</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    See downloads krm_bookmark.pdf,  
+   from http://www.sanskrit-lexicon.uni-koeln.de
+  </facsimile>
+
+  <text>
+    <body>
+      <xi:include href="krm.txt">
+        <xi:fallback>
+         See download krm.txt from http://www.sanskrit-lexicon.uni-koeln.de
+        </xi:fallback>
+      </xi:include>
+    </body>
+  </text>
+</TEI>
