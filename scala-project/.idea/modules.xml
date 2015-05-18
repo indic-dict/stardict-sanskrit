@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/kRdanta-rUpa-mAlA.iml" filepath="$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/kRdanta-rUpa-mAlA.iml" />
       <module fileurl="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/mUlam.iml" filepath="$PROJECT_DIR$/../en-head/purANa-index/mUlam/mUlam.iml" />
       <module fileurl="file://$USER_HOME$/sanskritnlpjava/sanskritnlp.iml" filepath="$USER_HOME$/sanskritnlpjava/sanskritnlp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../en-head/shabda-sAgara/shabda-sAgara.iml" filepath="$PROJECT_DIR$/../en-head/shabda-sAgara/shabda-sAgara.iml" />

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bda482e-4d06-484d-8670-4aa04f7e8a9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/iast.scala" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript$$anonfun$1.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript$$anonfun$1.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript$$anonfun$2.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript$$anonfun$2.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript$$anonfun$3.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript$$anonfun$3.class" />
@@ -24,11 +23,12 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/RomanScript.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/as$.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/as$.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/as.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/as.class" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/asTest$.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/asTest$.class" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/asTest.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/asTest.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/harvardKyoto$.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/harvardKyoto$.class" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/harvardKyoto.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/harvardKyoto.class" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala" afterPath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/harvardKyotoTest$.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/harvardKyotoTest$.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/iast$.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/iast$.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/iast.class" afterPath="$USER_HOME$/sanskritnlpjava/target/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes/sanskritnlp/transliteration/iast.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/harvardKyoto.scala" afterPath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/harvardKyoto.scala" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala" afterPath="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/sanskritnlpjava/.idea/workspace.xml" afterPath="$USER_HOME$/sanskritnlpjava/.idea/workspace.xml" />
     </list>
@@ -58,18 +58,28 @@
       <file leaf-file-name="romanScripts.scala" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.0" vertical-offset="405" max-vertical-offset="2685">
+            <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3090">
               <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43994415" vertical-offset="0" max-vertical-offset="716">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+              <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37709498" vertical-offset="0" max-vertical-offset="716">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,7 +88,7 @@
       <file leaf-file-name="to_devanAgarI.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="420">
               <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding />
             </state>
@@ -88,7 +98,7 @@
       <file leaf-file-name="as.scala" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2" vertical-offset="0" max-vertical-offset="1065">
+            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
               <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
@@ -106,6 +116,7 @@
         <option value="$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala" />
         <option value="$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala" />
         <option value="$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala" />
+        <option value="$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala" />
       </list>
     </option>
   </component>
@@ -138,8 +149,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,7 +165,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shabda-sAgara" />
+              <option name="myItemId" value="kRdanta-rUpa-mAlA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -164,46 +175,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shabda-sAgara" />
+              <option name="myItemId" value="kRdanta-rUpa-mAlA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mUlam" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stardict-sanskrit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanskritnlpjava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stardict-sanskrit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sanskritnlpjava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stardict-sanskrit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mUlam" />
@@ -221,7 +194,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -230,7 +203,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Scala Script.purANa-index-to-devanAgarI">
+  <component name="RunManager" selected="Scala Script.krdantaRM">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -475,6 +448,17 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="krdantaRM" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
+      <module name="kRdanta-rUpa-mAlA" />
+      <setting name="path" value="$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala" />
+      <setting name="vmparams" value="" />
+      <setting name="consoleargs" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="shabdasAgara" type="ScalaScriptRunConfiguration" factoryName="Scala Script">
       <module name="mUlam" />
       <setting name="path" value="$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala" />
@@ -486,9 +470,10 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Scala Script.purANa-index-to-devanAgarI" />
-      <item index="1" class="java.lang.String" itemvalue="Scala Script.shabdasAgara" />
+      <item index="1" class="java.lang.String" itemvalue="Scala Script.krdantaRM" />
+      <item index="2" class="java.lang.String" itemvalue="Scala Script.shabdasAgara" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -518,7 +503,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -559,6 +544,198 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3090">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="420">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3060">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="390">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3060">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="390">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3060">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="390">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="2715">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../en-head/shabda-sAgara/mUlam/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="420">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
@@ -646,13 +823,13 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="674">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/indicMaps.scala">
@@ -671,7 +848,7 @@
     </entry>
     <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/as.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2" vertical-offset="0" max-vertical-offset="1065">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1065">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
@@ -687,7 +864,7 @@
     </entry>
     <entry file="file://$USER_HOME$/sanskritnlpjava/src/main/scala/sanskritnlp/transliteration/romanScripts.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.0" vertical-offset="405" max-vertical-offset="2685">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="2715">
           <caret line="44" column="56" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="56" />
           <folding />
         </state>
@@ -695,8 +872,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../en-head/purANa-index/mUlam/to_devanAgarI.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43994415" vertical-offset="0" max-vertical-offset="716">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sa-head/kRdanta-rUpa-mAlA/to_devanAgarI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37709498" vertical-offset="0" max-vertical-offset="716">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
