@@ -8,5 +8,6 @@
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kalpadruma-prathamA.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kalpadruma-sa.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/mw-sa.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/purANa-index-dev.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/vAchAspatyam-sa.tar.gz>
