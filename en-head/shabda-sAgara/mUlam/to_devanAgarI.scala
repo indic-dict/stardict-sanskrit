@@ -7,11 +7,16 @@ val outfile = "/home/vvasuki/stardict-sanskrit/sa-head/shabda-sAgara/shabda-sAga
 val src = Source.fromFile(infile, "utf8")
 val destination = new PrintWriter(new File(outfile))
 
-val pattern = """\{#(.+?)#\}""".r
+val hkPattern = """\{#(.+?)#\}""".r
+val numPattern = """(\d+?\.)""".r
 src.getLines.foreach(line => {
-  val newLine = pattern.replaceAllIn(line, _ match {
-    case pattern(hk) => harvardKyoto.toDevanagari(hk)})
-  // println(line)
+  var newLine = hkPattern.replaceAllIn(line, _ match {
+    case hkPattern(hk) => harvardKyoto.toDevanagari(hk)})
+
+  newLine = numPattern.replaceAllIn(newLine, _ match {
+    case numPattern(num) => "\\\\n" + num})
   destination.println(newLine)
+  println(newLine)
 })
+destination.close()
 println("")
