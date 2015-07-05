@@ -4,7 +4,7 @@ import java.io._
 
 val infile = "/home/vvasuki/stardict-sanskrit/sa-head/rv-base/mUlam/rv-titus.txt"
 val outfile = "/home/vvasuki/stardict-sanskrit/ea-head/rv-padapATha/rv-padapATha.tsv"
-val src = Source.fromFile(infile, "utf8")
+val src = Source.fromFile(infile, "iso-8859-1")
 // val destination = new PrintWriter(new File(outfile))
 
 val hkPattern = """\{#(.+?)#\}""".r
@@ -25,7 +25,7 @@ var word_index = mutable.HashMap[String, List[String]]()
 var unmatched_lines = mutable.Set[String]()
 
 src.getLines.foreach(line => {
-  println("line " + line)
+  // println("line " + line)
   line match {
   case verse_id_pattern(verse_match) => {
     verse = verse_match
@@ -41,13 +41,14 @@ src.getLines.foreach(line => {
     pAda = pAda_match
   }
   case padapATha_pattern(padapATha_match) => {
+    // println("line " + line)
     assert(verse != "", "Invalid verse!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
     assert(foot != "", "Invalid foot!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
     assert(samhitA != "", "Invalid samhitA!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
     assert(pAda != "", "Invalid pAda!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
     padapATha = padapATha_match
     pAda_index += (pAda -> List(verse, foot, samhitA, padapATha, pAda))
-    println(f"$pAda%s\t" + pAda_index(pAda).mkString("\\n"))
+    // println(f"$pAda%s\t" + pAda_index(pAda).mkString("\\n"))
 
     foot = ""
     // samhitA = ""
