@@ -3,7 +3,7 @@ import scala.io.Source
 import java.io._
 
 val infile = "/home/vvasuki/stardict-sanskrit/sa-head/rv-base/mUlam/rv-titus.txt"
-val outfile = "/home/vvasuki/stardict-sanskrit/en-head/rv-padapATha-hk/rv-padapATha.tsv"
+val outfile = "/home/vvasuki/stardict-sanskrit/en-head/rv-padapATha-hk/rv-padapATha-hk.tsv"
 val src = Source.fromFile(infile, "iso-8859-1")
 val destination = new PrintWriter(new File(outfile))
 
@@ -48,8 +48,8 @@ src.getLines.foreach(line => {
     assert(pAda != "", "Invalid pAda!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
     padapATha = padapATha_match
     pAda_index += (pAda -> List(verse, foot, samhitA, padapATha, pAda))
-    val pAda_key = pAda.replace("<", "").replace(">", "").replace("/", "").replace("~N", "n").replace("~n", "")
-    destination.println(f"$pAda_key%s\t" + pAda_index(pAda).mkString("\\n"))
+    val pAda_key = pAda.replace("<", "").replace(">", "").replace("/", "").replace("~N", "n").replace("~n", "").replace("\\", "")
+    destination.println(f"$pAda_key%s\t" + pAda_index(pAda).map(_.replace("\\", "\\\\")).mkString("\\n"))
 
     foot = ""
     // samhitA = ""
