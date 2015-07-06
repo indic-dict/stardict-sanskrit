@@ -10,5 +10,6 @@
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kRdanta-rUpa-mAlA.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/mw-sa.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/purANa-index-dev.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/rv-padapATha-dev.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/vAchAspatyam-sa.tar.gz>

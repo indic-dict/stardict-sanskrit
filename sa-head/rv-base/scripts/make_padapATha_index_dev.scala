@@ -3,7 +3,7 @@ import scala.io.Source
 import java.io._
 
 val infile = "/home/vvasuki/stardict-sanskrit/sa-head/rv-base/mUlam/rv-dev.txt"
-val outfile = "/home/vvasuki/stardict-sanskrit/en-head/rv-padapATha-hk/rv-padapATha-hk.tsv"
+val outfile = "/home/vvasuki/stardict-sanskrit/sa-head/rv-padapATha-dev/rv-padapATha-dev.tsv"
 val src = Source.fromFile(infile, "utf8")
 val destination = new PrintWriter(new File(outfile))
 
@@ -16,9 +16,10 @@ val foot_id_pattern = "<HV>(.+)".r
 val samhitA_pattern = "<SA>(.+)".r
 val padapATha_pattern = "<PP>(.+)".r
 
-var foot = ""
-var verse = ""
 var book = ""
+var hymn = ""
+var verse = ""
+var foot = ""
 var samhitA = ""
 var padapATha = ""
 var pAda_index = mutable.HashMap[String, List[String]]()
@@ -26,38 +27,41 @@ var word_index = mutable.HashMap[String, List[String]]()
 var unmatched_lines = mutable.Set[String]()
 
 src.getLines.foreach(line => {
-  println("line " + line)
+  // println("line " + line)
   line match {
     case book_id_pattern(book_match) => {
       book = book_match
     }
+    case hymn_id_pattern(hymn_match) => {
+      assert(book != "", "Invalid book!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
+      hymn = hymn_match
+    }
     case verse_id_pattern(verse_match) => {
+      assert(hymn != "", "Invalid hymn!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
       verse = verse_match
     }
     case foot_id_pattern(foot_match) => {
-      assert(verse != "", "Invalid verse!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
+      assert(verse != "", "Invalid verse!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
       foot = foot_match
     }
     case samhitA_pattern(samhitA_match) => {
       samhitA = samhitA_match
     }
-    case pAda_pattern(pAda_match) => {
-      pAda = pAda_match
-    }
     case padapATha_pattern(padapATha_match) => {
       // println("line " + line)
-      assert(verse != "", "Invalid verse!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
-      assert(foot != "", "Invalid foot!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
-      assert(samhitA != "", "Invalid samhitA!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
-      assert(pAda != "", "Invalid pAda!" + List(verse, foot, samhitA, padapATha, pAda).mkString("|||||||"))
+      assert(book != "", "Invalid book!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
+      assert(hymn != "", "Invalid hymn!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
+      assert(verse != "", "Invalid verse!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
+      assert(foot != "", "Invalid foot!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
+      assert(samhitA != "", "Invalid samhitA!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
       padapATha = padapATha_match
-      pAda_index += (pAda -> List(book, verse, foot, samhitA, padapATha, pAda))
-      val pAda_key = pAda.replace("<", "").replace(">", "").replace("/", "").replace("~N", "n").replace("~n", "").replace("\\", "")
-      destination.println(f"$pAda_key%s\t" + pAda_index(pAda).map(_.replace("\\", "\\\\")).mkString("\\n"))
+      pAda_index += (samhitA -> List(List(book, hymn, verse, foot).mkString(" "), samhitA, padapATha))
+      val pAda_key = samhitA.replace("॒", "").replace("॑", "").replace("।", "").replace("॥", "")
+      destination.println(f"$pAda_key%s\t" + pAda_index(samhitA).mkString("\\n"))
+      println(f"$pAda_key%s\t" + pAda_index(samhitA).mkString("\\n"))
 
       foot = ""
-      // samhitA = ""
-      pAda = ""
+      samhitA = ""
       padapATha = ""
     }
     case somethingElse => {
