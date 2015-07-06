@@ -9,19 +9,17 @@ val destination = new PrintWriter(new File(outfile))
 
 val hkPattern = """\{#(.+?)#\}""".r
 val numPattern = """(\d+?\.)""".r
-val book_id_pattern = "(Book.+)".r
-val hymn_id_pattern = "(Hymn.+)".r
-val verse_id_pattern = "(Verse.+)".r
-val foot_id_pattern = "Halfverse: (.+) +(.+)".r
-val samhitA_pattern = ".*(\\(.+\\)).*".r
-val pAda_pattern = ".*(<.+>).*".r
-val padapATha_pattern = ".*(\\[.+\\]).*".r
+val book_id_pattern = "<BB>(.+)".r
+val hymn_id_pattern = "<HH>(.+)".r
+val verse_id_pattern = "<VV>(.+)".r
+val foot_id_pattern = "<HV>(.+)".r
+val samhitA_pattern = "<SA>(.+)".r
+val padapATha_pattern = "<PP>(.+)".r
 
 var foot = ""
 var verse = ""
 var book = ""
 var samhitA = ""
-var pAda = ""
 var padapATha = ""
 var pAda_index = mutable.HashMap[String, List[String]]()
 var word_index = mutable.HashMap[String, List[String]]()
@@ -29,7 +27,6 @@ var unmatched_lines = mutable.Set[String]()
 
 src.getLines.foreach(line => {
   println("line " + line)
-  /*
   line match {
     case book_id_pattern(book_match) => {
       book = book_match
@@ -70,7 +67,7 @@ src.getLines.foreach(line => {
       }
     }
 
-  } */
+  }
 })
 destination.close()
 println("")
