@@ -3,9 +3,11 @@ import scala.io.Source
 import java.io._
 
 val infile = "/home/vvasuki/stardict-sanskrit/sa-head/rv-base/mUlam/rv-dev.txt"
-val outfile = "/home/vvasuki/stardict-sanskrit/sa-head/rv-padapATha-dev/rv-padapATha-dev.tsv"
+val outfile_padapATha = "/home/vvasuki/stardict-sanskrit/sa-head/rv-padapATha-dev/rv-padapATha-dev.tsv"
+val outfile_padasvara = "/home/vvasuki/stardict-sanskrit/sa-head/rv-padasvara-dev/rv-padasvara-dev.tsv"
 val src = Source.fromFile(infile, "utf8")
-val destination = new PrintWriter(new File(outfile))
+// val destination_padapATha = new PrintWriter(new File(outfile_padapATha))
+val destination_padasvara = new PrintWriter(new File(outfile_padasvara))
 
 val hkPattern = """\{#(.+?)#\}""".r
 val numPattern = """(\d+?\.)""".r
@@ -55,11 +57,15 @@ src.getLines.foreach(line => {
       assert(foot != "", "Invalid foot!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
       assert(samhitA != "", "Invalid samhitA!" + List(book, hymn, verse, foot, samhitA, padapATha).mkString("|||||||"))
       padapATha = padapATha_match
-      pAda_index += (samhitA -> List(List(book, hymn, verse, foot).mkString(" "), samhitA, padapATha))
+      val verse_locus = List(book, hymn, verse, foot).mkString(" ")
+      pAda_index += (samhitA -> List(verse_locus, samhitA, padapATha))
       val pAda_key = samhitA.replace("॒", "").replace("॑", "").replace("।", "").replace("॥", "")
-      destination.println(f"$pAda_key%s\t" + pAda_index(samhitA).mkString("\\n"))
-      println(f"$pAda_key%s\t" + pAda_index(samhitA).mkString("\\n"))
-
+      // destination_padapATha.println(f"$pAda_key%s\t" + pAda_index(samhitA).mkString("\\n"))
+      // println(f"$pAda_key%s\t" + pAda_index(samhitA).mkString("\\n"))
+      val words = padapATha.split(" ").filterNot(x => x == "।" || x == "॥")
+      words.foreach(word => {
+        word_index += (word -> word_index.getOrElse(word, List()).++(List(verse_locus)))
+      } )
       foot = ""
       samhitA = ""
       padapATha = ""
@@ -70,8 +76,14 @@ src.getLines.foreach(line => {
         unmatched_lines += somethingElse
       }
     }
-
   }
 })
-destination.close()
+word_index.keys.foreach(word => {
+  val word_key = word.replace("॒", "").replace("॑", "")
+  destination_padasvara.println(word_key + "\t" + f"$word\\n" + word_index(word).mkString(", "))
+  println(word_key + "\t" + f"$word\\n" + word_index(word).mkString(", "))
+})
+
+// destination_padapATha.close()
+destination_padasvara.close()
 println("")
