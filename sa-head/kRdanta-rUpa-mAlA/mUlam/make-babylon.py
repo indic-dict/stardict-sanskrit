@@ -20,7 +20,6 @@ for line in sys.stdin:
     headword_str = regex.sub(" *\[\[.+?\]\] *", "", headword_str, flags=regex.UNICODE)
     headword_str = regex.sub(" *‘.+?’", "", headword_str, flags=regex.UNICODE)
     headword_str = regex.sub(" *इति.+?। *", "", headword_str, flags=regex.UNICODE)
-    headword_str = regex.sub("वा", "", headword_str, flags=regex.UNICODE)
     headword_str = regex.sub("१|२|३|४|५|६|७|८|९|०", "", headword_str, flags=regex.UNICODE)
     headword_str = regex.sub("\\\\n", "", headword_str, flags=regex.UNICODE)
     headword_str = regex.sub(" *-+", "-", headword_str, flags=regex.UNICODE)
@@ -33,7 +32,7 @@ for line in sys.stdin:
     headwords = map(lambda headword : regex.sub("ं$", "म्", headword, flags=regex.UNICODE), headwords)
     headwords = list(set(headwords))
     headwords = [head] + headwords
-    print "|".join(headwords) + "\n" + value.strip() + "\n"
+    print "|".join(headwords) + "\n" + value.strip().replace("\\n", "<br>") + "\n"
   except ValueError:
     print line
     break

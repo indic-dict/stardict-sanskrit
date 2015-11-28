@@ -15,5 +15,5 @@ for line in lines:
     matches = regex.findall(r"( [^,;\)\\]+? )", line, flags=re.UNICODE, overlapped=True)
     matches = [match.strip() for match in matches]
     matches = list(set(matches))
-    print u'|'.join(matches) + "\n" + line.strip() + "\n"
+    print u'|'.join(matches) + "\n" + line.strip().replace("\\n", "<br>") + "\n"
     # break
