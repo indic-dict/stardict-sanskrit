@@ -13,21 +13,20 @@ for line in sys.stdin:
   headwords = regex.sub(" +", " ", head_v1).strip().split(" ")
 
   headwords = map(lambda headword : regex.sub(r'\p{P}+', "", headword).strip(), headwords)
+  headwords = map(lambda headword : headword.replace('ं ', "म् "), headwords)
   headwords = filter(lambda headword : headword != "", headwords)
-  word_count[len(set(headwords))] += 1
-  if (len(set(headwords)) < 2):
-       # print line.strip()
-       # print headwords
-       pass
+  headwords = list(set(headwords))
+  word_count[len(headwords)] += 1
+  if (len(headwords) > 2):
+    headwords = headwords[:1]
   # Print the headword without the prathamA-vibhakti ending.
-  print headwords[0] + "\t" + value.strip()
-
-  # Print the headword with the prathamA-vibhakti ending.
-  if (len(set(headwords)) > 1):
-    headword = headwords[1].replace('ं', "म्")
-    # print headword + "\t" + value.strip()
-    pass
-  
-
-# print word_count
+  value = regex.compile(r'\s+').sub(value, " ")
+  value = value.replace(" ..", "॥ ")
+  value = value.replace(" .", "। ")
+  value = value.replace("..", "॥ ")
+  value = value.replace(".", "। ")
+  value = regex.compile(r'\s+').sub(value, " ")
+  # value = regex.compile(r' [.]').sub(value, "|")
+  # value = regex.compile(r' *\\.').sub(value, "। ")
+  print "|".join(headwords) + "\n" + value.strip() + "\n"
 
