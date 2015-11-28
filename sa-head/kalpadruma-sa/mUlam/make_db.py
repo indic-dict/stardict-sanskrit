@@ -13,7 +13,7 @@ for line in sys.stdin:
   headwords = regex.sub(" +", " ", head_v1).strip().split(" ")
 
   headwords = map(lambda headword : regex.sub(r'\p{P}+', "", headword).strip(), headwords)
-  headwords = map(lambda headword : headword.replace('ं ', "म् "), headwords)
+  headwords = map(lambda headword : regex.sub(r'ं$', "म्", headword), headwords)
   headwords = filter(lambda headword : headword != "", headwords)
   headwords = list(set(headwords))
   word_count[len(headwords)] += 1
@@ -21,12 +21,9 @@ for line in sys.stdin:
     headwords = headwords[:1]
   # Print the headword without the prathamA-vibhakti ending.
   value = regex.compile(r'\s+').sub(value, " ")
-  value = value.replace(" ..", "॥ ")
-  value = value.replace(" .", "। ")
-  value = value.replace("..", "॥ ")
-  value = value.replace(".", "। ")
-  value = regex.compile(r'\s+').sub(value, " ")
-  # value = regex.compile(r' [.]').sub(value, "|")
-  # value = regex.compile(r' *\\.').sub(value, "। ")
+  value = regex.sub(r'\s+\.\.', "॥<br>", value)
+  value = regex.sub(r'\s+\.', "। ", value)
+  value = regex.sub(r'\s+', " ", value)
+  value = regex.sub(r'((०|१|२|३|४|५|६|७|८|९|१०)+)', r'<br>\g<1>', value)
   print "|".join(headwords) + "\n" + value.strip() + "\n"
 
