@@ -3,7 +3,7 @@ import re
 import sys
 
 # Should be run after dump_data_files.py.
-# Reads files in /tinanta, and creates a tsv with lines such as:
+# Reads files in ~/tinanta, and creates a tsv with lines such as:
 # भू (सत्तायाम्, भ्वादिगण, परस्मै, लट्)	भवति भवतः भवन्ति\n भवसि भवथः भवथ\n भवामि भवावः भवामः
 
 HOME = "/home/vvasuki/"
