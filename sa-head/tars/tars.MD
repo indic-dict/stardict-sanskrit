@@ -14,4 +14,4 @@
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/rv-padapATha-dev.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/rv-padasvara-dev.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara.tar.gz>
-<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/vAchAspatyam-sa.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/vAchaspatyam-sa.tar.gz>
