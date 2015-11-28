@@ -21,6 +21,5 @@ for line in sys.stdin:
   except ValueError:
     print line
     break
-    continue
    
 

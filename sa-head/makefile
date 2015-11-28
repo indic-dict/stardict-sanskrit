@@ -14,8 +14,8 @@ dictunzip:
 	eval dictunzip $(dicts)/*.dz
 
 stardict:
-	for file in `ls $(dicts)/*.tsv` ; do $(TABFILE) $$file; done;
-	for file in `ls $(dicts)/*.babylon` ; do $(BABYLON) $$file; done;
+	for file in `ls $(dicts)/*.tsv` ; do echo $$file; $(TABFILE) $$file; done;
+	for file in `ls $(dicts)/*.babylon` ; do echo $$file; $(BABYLON) $$file; done;
 
 babylon:
 	for file in `ls $(dicts)/*.babylon` ; do $(BABYLON) $$file; done;
