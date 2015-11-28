@@ -12,6 +12,7 @@ HOME = "/home/vvasuki/"
 f = open(HOME + '/stardict-sanskrit/sa-head/jnu-tiNanta/mUlam/jnu-tiNanta-values.txt', 'r')
 lines = f.readlines()
 for line in lines:
-    matches = regex.findall(r"( .+ )", line, flags=re.UNICODE, overlapped=True)
+    matches = regex.findall(r"( [^,;\)\\]+? )", line, flags=re.UNICODE, overlapped=True)
+    matches = [match.strip() for match in matches]
     print u'|'.join(matches) + "\n" + line.strip() + "\n"
     # break
