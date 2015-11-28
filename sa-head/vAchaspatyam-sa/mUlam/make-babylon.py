@@ -18,7 +18,7 @@ for line in sys.stdin:
     print head + "\n" + value + "\n"
   except ValueError:
     print line
-    raise ValueError
+    raise ValueError()
     break
    
 
