@@ -13,21 +13,17 @@ for line in sys.stdin:
   headwords = regex.sub(" +", " ", head_v1).strip().split(" ")
 
   headwords = map(lambda headword : regex.sub(r'\p{P}+', "", headword).strip(), headwords)
+  headwords = map(lambda headword : regex.sub(r'ं$', "म्", headword), headwords)
   headwords = filter(lambda headword : headword != "", headwords)
-  word_count[len(set(headwords))] += 1
-  if (len(set(headwords)) < 2):
-       # print line.strip()
-       # print headwords
-       pass
+  headwords = list(set(headwords))
+  word_count[len(headwords)] += 1
+  if (len(headwords) > 2):
+    headwords = headwords[:1]
   # Print the headword without the prathamA-vibhakti ending.
-  print headwords[0] + "\t" + value.strip()
-
-  # Print the headword with the prathamA-vibhakti ending.
-  if (len(set(headwords)) > 1):
-    headword = headwords[1].replace('ं', "म्")
-    # print headword + "\t" + value.strip()
-    pass
-  
-
-# print word_count
+  value = regex.compile(r'\s+').sub(value, " ")
+  value = regex.sub(r'\s+\.\.', "॥<br>", value)
+  value = regex.sub(r'\s+\.', "। ", value)
+  value = regex.sub(r'\s+', " ", value)
+  value = regex.sub(r'((०|१|२|३|४|५|६|७|८|९|१०)+)', r'<br>\g<1>', value)
+  print "|".join(headwords) + "\n" + value.strip() + "\n"
 

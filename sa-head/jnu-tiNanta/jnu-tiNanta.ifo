@@ -1,6 +1,7 @@
 StarDict's dict ifo file
 version=2.4.2
-wordcount=56300
-idxfilesize=1913772
+wordcount=5630
+synwordcount=50701
+idxfilesize=190461
 bookname=jnu-tiNanta
 sametypesequence=m
