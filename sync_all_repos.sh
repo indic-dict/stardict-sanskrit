@@ -1,4 +1,5 @@
 #! /bin/bash
+GIT_MODE=$1 # gp or git pull
 set -o verbose
 shopt -s expand_aliases
 source ~/.bash_aliases
@@ -8,6 +9,6 @@ INFREQUENT_REPOS=(~/stardict-pali/ ~/stardict-hindi/ ~/stardict-kannada/)
 for repo in "${REPOS[@]}"; 
 do echo processing: $repo;
 cd $repo
-$1
+$GIT_MODE
 done;
 cd $CUR_DIR
