@@ -13,7 +13,7 @@ for line in sys.stdin:
 # for line in test_lines:
   try:
     (head, value) = line.split("\t")
-    value = regex.sub(r'((०|१|२|३|४|५|६|७|८|९|१०)+)', r'<br><br>\g<1> ', value)    
+    value = regex.sub(r'((०|१|२|३|४|५|६|७|८|९|१०){1,2})', r'<br><br>\g<1> ', value)    
     value = regex.sub(r'“', '<br>“', value)    
     value = regex.sub(r' +', ' ', value)    
     print head + "\n" + value.strip() + "\n"
