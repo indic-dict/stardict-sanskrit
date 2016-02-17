@@ -1,0 +1,112 @@
+pui-meta.txt
+June 21, 2014
+April 2, 2015
+
+This file describes the coding conventions of the data files.
+This file is encoded in utf-8 encoding.
+
+The original digitization is file pui_orig.txt, which is
+coded in the cp1252 (windows 1252) encoding,
+and is best viewed in a text editor which supports this encoding.
+For example, in Emacs, one may use the command
+revert-buffer-with-coding-system
+and then select cp1252 as the coding.
+The internet reference http://www.cp1252.com/ describes this coding system.
+
+The file pui_orig_utf8.txt is a conversion of pui_orig.txt to the
+more common utf-8 encoding.
+(April 2, 2015) The file pui_orig_utf8_slp1.txt contains the same data, but
+  has Devanagari coded in SLP1 transliteration.  It is the basis of further
+  corrections.
+The file pui.txt is also in the utf-8 encoding, and incorporates various
+editing changes, such as corrections of typographical errors.
+
+There are several extended ascii codes occurring in pui.txt:
+©  (\u00a9)     2 := COPYRIGHT SIGN
+×  (\u00d7)     7 := MULTIPLICATION SIGN
+‘  (\u2018)    27 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    32 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    10 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)     9 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK
+
+
+
+The {X...X} style of coding serves several purposes:
+{#X#}     3 : {#X#} devanagari text, coded with HK (only 3 lines)
+              (April 2, 2015) X coded as SLP1
+{@X@}    10 : bold text
+{%X%} 23153 : italic text 
+{??}      5 : unreadable text
+
+The following  <x> type tags are found in pui.txt:
+<F>X</F>  8890  : Footnote 
+<>       23812  : start of new line
+<P>      32843  :  start of new paragraph
+<H>         41  : Title line
+<HI>        20  : sub-title line
+
+Page breaks are coded as [Page...].
+Page breaks have the form [PageV-PPP+ n], where
+V is the volume (1,2 or 3)
+PPP is the page (within volume)
+n is the number of lines in the new page
+
+The lines of the digitization  represent lines of the text.
+
+Headword are coded as
+<P>{%X%} Where X is in AS encoding of European transliteration of Sanskrit.
+
+Here is the regular expression used in python programs to recognize headwords;
+it is in headword.py.
+reHeadword = r'^<P>{%(.*?)%}'
+
+
+The headwords are ordered according to Sanskrit alphabet ordering.
+
+
+Most Sanskrit in the text appears in the European Indological form, which is
+coded in pui.txt with the the AS (Anglicized Sanskrit) coding.
+
+The general AS scheme, as described in CDSL.pdf, uses Latin alphabetical
+letters 'x (a-z,A-Z), possibly with suffixed numbers; the letter-number
+combinations are, in the general scheme:
+x1 = macron
+x2 = dot below
+x3 = dot above
+x4 = accent aigu
+x5 = tilde
+x6 = dash below
+x7 = umlaut
+x10 = circonflex (hat)
+x11 = accent grave
+
+Here are the characters that occur in pui.txt in this coding,
+with their approximate frequency.  
+
+A1   997 := Ā  (\u0100)  LATIN CAPITAL LETTER A WITH MACRON
+a1 41682 := ā  (\u0101)  LATIN SMALL LETTER A WITH MACRON
+d2  1670 := ḍ  (\u1e0d)  LATIN SMALL LETTER D WITH DOT BELOW
+D2     5 := Ḍ  (\u1e0c)  LATIN CAPITAL LETTER D WITH DOT BELOW
+h2    97 := ḥ  (\u1e25)  LATIN SMALL LETTER H WITH DOT BELOW
+I1    64 := Ī  (\u012a)  LATIN CAPITAL LETTER I WITH MACRON
+i1  7230 := ī  (\u012b)  LATIN SMALL LETTER I WITH MACRON
+L2     1 := Ḷ  (\u1e36)  LATIN CAPITAL LETTER L WITH DOT BELOW
+l2    10 := ḷ  (\u1e37)  LATIN SMALL LETTER L WITH DOT BELOW
+m2     8 := ṃ  (\u1e43)  LATIN SMALL LETTER M WITH DOT BELOW
+m3   119 := ṁ  (\u1e41)  LATIN SMALL LETTER M WITH DOT ABOVE
+N2     4 := Ṇ  (\u1e46)  LATIN CAPITAL LETTER N WITH DOT BELOW
+n2  7792 := ṇ  (\u1e47)  LATIN SMALL LETTER N WITH DOT BELOW
+n3   517 := ṅ  (\u1e45)  LATIN SMALL LETTER N WITH DOT ABOVE
+n5  1197 := ñ  (\u00f1)  LATIN SMALL LETTER N WITH TILDE
+o1     9 := ō  (\u014d)  LATIN SMALL LETTER O WITH MACRON
+R2   512 := Ṛ  (\u1e5a)  LATIN CAPITAL LETTER R WITH DOT BELOW
+r2  5275 := ṛ  (\u1e5b)  LATIN SMALL LETTER R WITH DOT BELOW
+S2    47 := Ṣ  (\u1e62)  LATIN CAPITAL LETTER S WITH DOT BELOW
+s2  9154 := ṣ  (\u1e63)  LATIN SMALL LETTER S WITH DOT BELOW
+S4  4105 := Ś  (\u015a)  LATIN CAPITAL LETTER S WITH ACUTE
+s4  6208 := ś  (\u015b)  LATIN SMALL LETTER S WITH ACUTE
+T2     7 := Ṭ  (\u1e6c)  LATIN CAPITAL LETTER T WITH DOT BELOW
+t2  1842 := ṭ  (\u1e6d)  LATIN SMALL LETTER T WITH DOT BELOW
+U1   177 := Ū  (\u016a)  LATIN CAPITAL LETTER U WITH MACRON
+u1  2412 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
