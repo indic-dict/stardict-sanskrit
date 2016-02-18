@@ -12,5 +12,7 @@ do
 	cd ..
 	if [ -f "tars/${base}.tar.gz" ]; then
 	  echo "<$urlbase/tars/${base}.tar.gz>" >> tars/tars.MD
+	else
+	  echo "did not find ${base}.tar.gz"
 	fi
 done

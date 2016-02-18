@@ -1,12 +1,7 @@
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/apte-bi.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/balamanorama.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/computer-shrIkAnta.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/dhatupatha.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/kalpadruma.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/kashika.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/laghu-kaumudi.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/mw-bi-itrans-dev.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/nyasa.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/rv-padapATha-hk.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/tattvabodhini.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head/tars/vAchaspatyam.tar.gz>

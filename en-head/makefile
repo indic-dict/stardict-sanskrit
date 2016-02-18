@@ -11,8 +11,7 @@ endif
 all:stardict tars
 
 stardict:
-	eval $(TABFILE) $(dicts)/*.tsv
-	eval dictunzip $(dicts)/*.dz
+	bash ../bin/tsv_to_stardict.sh
 
 tars:
 	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head
