@@ -1,6 +1,8 @@
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/AkhyAtachandrikA.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/amara-onto.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/apte-sa.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/aShTAdhyAyI-anuvRtti.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/aShTAdhyAyI-english.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/balamanorama.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/bloomfield-vedic-sa.tar.gz>
 <https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/dhAtupATha-sa.tar.gz>
