@@ -2,7 +2,7 @@ STARDICT_TOOLS_DIR=~/stardict/tools/src/
 TABFILE=$STARDICT_TOOLS_DIR/tabfile
 BABYLON=$STARDICT_TOOLS_DIR/babylon
 
-dictunzip */*.dz
+# dictunzip */*.dz
 
 for tsv_file in `ls */*.tsv`
 do
@@ -16,7 +16,7 @@ do
   fi
 done
 
-for babylon_file in `ls */*.babylon`
+for babylon_file in `ls */*.babylon.final`
 do
     echo "processing $babylon_file"
     $BABYLON $babylon_file
