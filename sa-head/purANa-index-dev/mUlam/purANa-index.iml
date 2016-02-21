@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-2.10.3" level="application" />
     <orderEntry type="module" module-name="sanskritnlp" />
+    <orderEntry type="library" name="scala-sdk-2.10.3 (2)" level="application" />
   </component>
 </module>
