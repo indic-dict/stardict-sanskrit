@@ -1,6 +1,7 @@
 StarDict's dict ifo file
 version=2.4.2
 wordcount=2282
-idxfilesize=51926
+synwordcount=2282
+idxfilesize=30442
 bookname=dhatupatha-sa
 sametypesequence=m

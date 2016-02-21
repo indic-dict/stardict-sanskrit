@@ -2,8 +2,6 @@ STARDICT_TOOLS_DIR=~/stardict/tools/src/
 TABFILE=$STARDICT_TOOLS_DIR/tabfile
 BABYLON=$STARDICT_TOOLS_DIR/babylon
 
-# dictunzip */*.dz
-
 for tsv_file in `ls */*.tsv`
 do
   syn_file=`ls $tsv_file|sed s/.tsv/.syn/`;
@@ -16,8 +14,10 @@ do
   fi
 done
 
-for babylon_file in `ls */*.babylon.final`
+for babylon_file in `ls */*.babylon_final`
 do
     echo "processing $babylon_file"
     $BABYLON $babylon_file
 done
+
+dictunzip */*.dz

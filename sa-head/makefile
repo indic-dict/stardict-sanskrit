@@ -6,10 +6,7 @@ endif
 
 .PHONY: all stardict tars
 
-all:final_babylon stardict dictunzip tars
-
-dictunzip:
-	eval dictunzip $(dicts)/*.dz
+all:final_babylon stardict tars
 
 final_babylon:
 	bash ../bin/babylon_add_optitrans.sh
