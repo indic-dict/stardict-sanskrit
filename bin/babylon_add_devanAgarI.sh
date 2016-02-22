@@ -11,5 +11,5 @@ val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flat
 
 babylon_files.foreach(file => {
   println(file)
-  sanskritnlp.transliteration.dictTools.addTransliteratedHeadwords(file, ".babylon_final", "dev", "optitrans")
+  sanskritnlp.transliteration.dictTools.addTransliteratedHeadwords(file, ".babylon_final", "iast", "dev")
 })

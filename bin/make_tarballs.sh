@@ -2,7 +2,7 @@ urlbase=$1
 set -o verbose
 
 touch tars/tars.MD
-rm tars/tars.MD
+rm tars/*
 touch tars/tars.MD
 for dir in */
 do

@@ -14,10 +14,17 @@ do
   fi
 done
 
-for babylon_file in `ls */*.babylon_final`
+for babylon_file in `ls */*.babylon*`
 do
+  final_file=`ls $babylon_file|sed s/\.babylon$/.babylon_final/`;
+  if [[ -e $final_file ]]
+  then 
+    echo "processing $final_file"
+    $BABYLON $final_file
+  else 
     echo "processing $babylon_file"
     $BABYLON $babylon_file
+  fi
 done
 
 dictunzip */*.dz
