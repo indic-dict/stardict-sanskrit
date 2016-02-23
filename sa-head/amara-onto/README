@@ -12,8 +12,8 @@ Output example:
  सेवक : इन्द्रपुरः,इन्द्राश्वः,इन्द्रसारथिः,इन्द्रवनम्,इन्द्रगृहम्,इन्द्रहस्तिः,इन्द्रस्य_वज्रायुधम्,देवरथः,देवसभा,देववृक्षः,अश्विनीकुमारौ,अप्सरस्,घृताचीनामाप्सरा,मेनकानामाप्सरा,रम्भानामाप्सरा,उर्वशीनामाप्सरा,तिलोत्तमानामाप्सरा,सुकेशीनामाप्सरा,मञ्जुघोषानामाप्सरा,हाहानामदेवगायकः,हूहूनामदेवगायकः,देवगायकः,देवशिल्पिः
  पदार्थ-विभागः : , द्रव्यम्, आत्मा, देवता
 
-​Where are the files? 
-https://github.com/vvasuki/sanskritnlp/tree/master/src/main/stardict-sanskrit/sa-head/amara-onto
+Where are the files? 
+https://github.com/sanskrit-coders/stardict-sanskrit/edit/master/sa-head/amara-onto/README
 
 In particular: dict_deva.dict.dz
 
