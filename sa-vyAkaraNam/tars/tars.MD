@@ -1,0 +1,13 @@
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/aShTAdhyAyI-anuvRtti__2016-02-20_23-22-26.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/aShTAdhyAyI-english__2016-02-20_23-22-26.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/balamanorama__2016-02-20_23-22-26.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/dhAtupATha-sa__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/dhAtupradIpa__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/jnu-tiNanta__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kashika__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kRdanta-rUpa-mAlA__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/kShIratarangiNI__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/laghu-kaumudi__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/mAdhavIya-dhAtu-vRtti__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/nyasa__2016-02-20_23-22-27.tar.gz>
+<https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head/tars/tattvabodhini__2016-02-20_23-22-27.tar.gz>

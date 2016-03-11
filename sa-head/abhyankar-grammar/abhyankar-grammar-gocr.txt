@@ -1,2 +1,0 @@
-Moved here:
-https://raw.githubusercontent.com/sanskrit-coders/sanskrit-ocr-r0/master/vaak/vyAkaraNam/abhyankar-grammar/abhyankar-grammar-gocr.txt
