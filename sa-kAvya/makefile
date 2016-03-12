@@ -1,4 +1,5 @@
 STARDICT_TOOLS_DIR=~/stardict/tools/src/
+STARDICT_SANSKRIT_BIN=~/stardict-sanskrit/bin
 
 ifndef dicts
 	dicts=*
@@ -15,5 +16,5 @@ stardict:
 	bash ../bin/tsv_to_stardict.sh
 	
 tars:
-	bash ../bin/make_tarballs.sh https://github.com/vvasuki/stardict-sanskrit/raw/master/sa-head
+	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya
 
