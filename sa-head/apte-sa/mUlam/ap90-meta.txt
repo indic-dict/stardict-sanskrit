@@ -1,0 +1,132 @@
+ap90-meta.txt
+May 24, 2014
+Sep 20, 2014
+Nov 17, 2014
+
+This file describes the coding conventions of the data files.
+This file is encoded in utf-8 encoding.
+
+The original digitization is file ap90_orig.txt, which is
+coded in the cp1252 (windows 1252) encoding,
+and is best viewed in a text editor which supports this encoding.
+For example, in Emacs, one may use the command
+revert-buffer-with-coding-system
+and then select cp1252 as the coding.
+The internet reference http://www.cp1252.com/ describes this coding system.
+
+The file ap90_orig_utf8.txt is a conversion of ap90_orig.txt to the
+more common utf-8 encoding.
+(Nov 17, 2014) The file ap90_orig_utf8_slp1.txt contains the same data, but
+  has Devanagari coded in SLP1 transliteration.  It is the basis of further
+  corrections.
+The file ap90.txt is also in the utf-8 encoding, and incorporates various
+editing changes, such as corrections of typographical errors.
+
+There are several extended ascii codes occurring in ap90.txt:
+¤  (\u00a4)    73 := CURRENCY SIGN  usage unclear 
+¦  (\u00a6) 31909 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+º  (\u00ba)  3925 := MASCULINE ORDINAL INDICATOR
+Æ  (\u00c6)     3 := LATIN CAPITAL LETTER AE
+×  (\u00d7)     5 := MULTIPLICATION SIGN
+æ  (\u00e6)    27 := LATIN SMALL LETTER AE
+œ  (\u0153)    63 := LATIN SMALL LIGATURE OE
+‘  (\u2018)  2509 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  2499 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    31 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    29 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     2 := DOUBLE LOW-9 QUOTATION MARK
+…  (\u2026)   382 := HORIZONTAL ELLIPSIS
+⁁  (\u2041)     1 :  CARET INSERTION POINT (under headword kAkaH,subword -padaM
+
+The {X...X} style of coding serves several purposes:
+{# #}  116049  : {#X#} devanagari text, coded in KH transliteration
+                 Nov 17, 2014. X now in SLP1 transliteration
+{@X@}    137307 : bold text  There are many instances pf {#{@X@}#},
+                  indicating bold devanagari text.
+                  Nov 17, 2014. The coding is now {@{#X#}@}.
+{%X%}     40595 : italic text 
+{|X|}         5 : widely spaced text
+{??}        749 : unreadable text 
+Note of Sep 20, 2014:
+Sampada Savardekar corrected the unreadable text. Now, there are
+only 3 instances.
+
+
+There is no pseudo-xml type coding.
+
+Page breaks are coded as [Page...].
+In general, a page number has form [PageX+ n], where X identifies the
+subsequent page and column and n is the number of lines of text on that
+page and column. (for blank pages, n = 'No')
+Here are the forms of X
+In preface
+  -I,-II
+  -1 through -6
+  7-a through 9-b
+  10  (Here n = 'No' - a blank page)
+ 11-a through 13-1b
+In body of text,
+ PPPP-C  where PPPP is 4-digit page number (0001 - 1178)
+         and C is usually 'a','b','c' but may be '1a',etc or '2a',etc.
+ Occasionally, the form is 
+ PPPP--C 
+In Appendices, the form is as in body:
+ PPPP-C  where PPPP is from 1179 to 1196
+
+The lines of the digitization represent lines of the text.
+
+Headword coding is exemplified by: <P>.{#hve#}¦ or <P>.{#eva#}^1¦
+The general form is <P>.{#X#}¦ or <P>.{#X#}^n¦
+where X (key1) is coded in Harvard-Kyoto transliteration,
+and 'n' is homonym number.
+Nov 17, 2014:  X is now in SLP1 transliteration.
+
+The headwords are generally ordered according to Sanskrit alphabet ordering.
+
+Some Sanskrit words and words in non-English languages are coded in AS coding.
+The general AS scheme, as described in CDSL.pdf, uses Latin alphabetical
+letters 'x (a-z,A-Z), possibly with suffixed numbers; the letter-number
+combinations are, in the general scheme:
+x1 = macron
+x2 = dot below
+x3 = dot above
+x4 = accent aigu
+x5 = tilde
+x6 = dash below
+x7 = umlaut
+x10 = circonflex (hat)
+x11 = accent grave
+
+Here are the characters that occur in ap90.txt in this coding,
+with their approximate frequency.  
+
+a10  6222 := â  (\u00e2)  LATIN SMALL LETTER A WITH CIRCUMFLEX
+a11   932 := à  (\u00e0)  LATIN SMALL LETTER A WITH GRAVE
+a4   905 := á(\u00e1) LATIN SMALL LETTER A WITH ACUTE
+d2   307 := ḍ  (\u1e0d)  LATIN SMALL LETTER D WITH DOT BELOW
+e11     5 := è  (\u00e8)  LATIN SMALL LETTER E WITH GRAVE
+e4     5 := é  (\u00e9)  LATIN SMALL LETTER E WITH ACUTE
+i10  1579 := î  (\u00ee)  LATIN SMALL LETTER I WITH CIRCUMFLEX
+i11      8 := ì  (\u00ec)  LATIN SMALL LETTER I WITH GRAVE
+i3     1 :=  probable error in text. Not a diacritic
+i4    15 := í (\u00ed) LATIN SMALL LETTER I WITH ACUTE
+n2  3027 := ṇ  (\u1e47)  LATIN SMALL LETTER N WITH DOT BELOW
+o7     4 := ö  (\u00f6)  LATIN SMALL LETTER O WITH DIAERESIS (in Preface)
+r2   592 := ṛ  (\u1e5b)  LATIN SMALL LETTER R WITH DOT BELOW
+t2   298 := ṭ  (\u1e6d)  LATIN SMALL LETTER T WITH DOT BELOW
+u10   440 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
+u11    11 := ù  (\u00f9)  LATIN SMALL LETTER U WITH GRAVE
+u4    12 := ú (\u00fa) LATIN SMALL LETTER U WITH ACUTE
+u7     4 := ü  (\u00fc)  LATIN SMALL LETTER U WITH DIAERESIS
+
+A0     1 := continuation in Devanagari
+a0     1 := continuation in Devanagari
+i0     2 := continuation in Devanagari
+o0     2 := continuation in Devanagari
+
+For Sanskrit words written in Indological form, long vowels are generally
+written with a circumflex diacritic, rather than the currently more common
+macron.  In the scanned images, it is sometimes difficult to distinguish
+between a grave diacritic and a circumflex diacritic. Thus, some of the 
+codings of a11, e11, i11, u11 may need to be changed to a10, etc.

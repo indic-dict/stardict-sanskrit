@@ -1,0 +1,98 @@
+bor-meta.txt
+June 30, 2014
+Nov 26, 2014
+This file describes the coding conventions of the data files.
+This file is encoded in utf-8 encoding.
+
+The original digitization is file bor_orig.txt, which is
+coded in the cp1252 (windows 1252) encoding,
+and is best viewed in a text editor which supports this encoding.
+For example, in Emacs, one may use the command
+revert-buffer-with-coding-system
+and then select cp1252 as the coding.
+The internet reference http://www.cp1252.com/ describes this coding system.
+
+The file bor_orig_utf8.txt is a conversion of bor_orig.txt to the
+more common utf-8 encoding.
+(Nov 26, 2014) The file bor_orig_utf8_slp1.txt contains the same data, but
+  has Devanagari coded in SLP1 transliteration.  It is the basis of further
+  corrections.
+The file bor.txt is also in the utf-8 encoding, and incorporates various
+editing changes, such as corrections of typographical errors.
+
+There are several extended ascii codes occurring in bor.txt:
+¦  (\u00a6)    53 := BROKEN BAR
+§  (\u00a7)    16 := SECTION SIGN
+²  (\u00b2) 15871 := SUPERSCRIPT TWO
+³  (\u00b3) 27205 := SUPERSCRIPT THREE
+½  (\u00bd)     1 := VULGAR FRACTION ONE HALF
+¾  (\u00be)     1 := VULGAR FRACTION THREE QUARTERS
+Æ  (\u00c6)     8 := LATIN CAPITAL LETTER AE
+æ  (\u00e6)     1 := LATIN SMALL LETTER AE
+Œ  (\u0152)     4 := LATIN CAPITAL LIGATURE OE
+œ  (\u0153)     2 := LATIN SMALL LIGATURE OE
+‘  (\u2018)    65 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    65 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)   262 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)   262 := RIGHT DOUBLE QUOTATION MARK
+
+…  (\u2026) 89303 := HORIZONTAL ELLIPSIS  (These are markup - prob. unneeded)
+            (Replaced by space character in bor.txt by change_01)
+
+
+The {X...X} style of coding serves several purposes:
+{#X#}  84595  : {#X#} devanagari text, coded with HK
+                Nov 26, 2014  X is in SLP1 transliteration
+{@X@}  25623  : bold text.  Also, used to delimit headword
+{%X%}  18716  : italic text 
+{??} or {?}     221  : unreadable text
+           Note: Oct 6, 2014.  All unreadbles corrected by
+	     Sampada Savardekar.
+
+The following  <x> type tags are found in bor.txt:
+<P>  used only in headword designation
+
+Page breaks are coded as [PagePPP],
+where PPP goes from 001 to 772.
+
+The lines of the digitization generally represent 'sections' of the text; the
+actual line-breaks of the text are often indicated by a vertical bar '|'.
+
+Headword coding is exemplified by: <P>{@BRACE@}
+The general form is <P>{@X@}  where X is in capital letters.
+
+
+The headwords are ordered according to English alphabet ordering.
+
+
+Some Sanskrit in the text appears in the European Indological form, which is
+coded in bor.txt with the the AS (Anglicized Sanskrit) coding.
+
+The general AS scheme, as described in CDSL.pdf, uses Latin alphabetical
+letters 'x (a-z,A-Z), possibly with suffixed numbers; the letter-number
+combinations are, in the general scheme:
+x1 = macron
+x2 = dot below
+x3 = dot above
+x4 = accent aigu
+x5 = tilde
+x6 = dash below
+x7 = umlaut
+x10 = circonflex (hat)
+x11 = accent grave
+
+Here are the characters that occur in bor.txt in this coding,
+with their approximate frequency.  
+
+A1     3 := Ā  (\u0100)  LATIN CAPITAL LETTER A WITH MACRON
+a1   492 := ā  (\u0101)  LATIN SMALL LETTER A WITH MACRON
+a7     1 := ä  (\u00e4)  LATIN SMALL LETTER A WITH DIAERESIS
+d2    25 := ḍ  (\u1e0d)  LATIN SMALL LETTER D WITH DOT BELOW
+i1    53 := ī  (\u012b)  LATIN SMALL LETTER I WITH MACRON
+n2    74 := ṇ  (\u1e47)  LATIN SMALL LETTER N WITH DOT BELOW
+o1     3 := ō  (\u014d)  LATIN SMALL LETTER O WITH MACRON
+s2     8 := ṣ  (\u1e63)  LATIN SMALL LETTER S WITH DOT BELOW
+S4    94 := Ś  (\u015a)  LATIN CAPITAL LETTER S WITH ACUTE
+s4    39 := ś  (\u015b)  LATIN SMALL LETTER S WITH ACUTE
+t2    20 := ṭ  (\u1e6d)  LATIN SMALL LETTER T WITH DOT BELOW
+u1    18 := ū  (\u016b)  LATIN SMALL LETTER U WITH MACRON
