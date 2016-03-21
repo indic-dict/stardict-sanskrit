@@ -1,3 +1,4 @@
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/AkhyAtachandrikA__2016-02-20_23-22-26.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-anuvRtti__2016-02-20_23-22-26.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-english__2016-02-20_23-22-26.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/balamanorama__2016-02-20_23-22-26.tar.gz>
