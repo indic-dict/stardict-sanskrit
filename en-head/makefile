@@ -18,4 +18,5 @@ tars:
 	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head
 	
 decompile:
-	bash ./decompile_all.sh
+	# Note: cannot usefully decompile apte-bi and mw-bi
+	bash ../bin/decompile_all.sh

@@ -6,12 +6,12 @@ do
   syn_file=`ls $ifo_file|sed s/.ifo/.syn/`;
   if [[ -e $syn_file ]]
   then 
-    echo "skipping $ifo_file";
+    echo "Can't handle synonyms! skipping $ifo_file";
   else 
     echo "processing $ifo_file";
     txt_file=`ls $ifo_file|sed s/.ifo/.txt/`;
     tsv_file=`ls $ifo_file|sed s/.ifo/.tsv/`;
-    # $DECOMPILE $ifo_file $txt_file;
+    $DECOMPILE $ifo_file $tsv_file;
     # mv $txt_file $tsv_file
   fi
 done
