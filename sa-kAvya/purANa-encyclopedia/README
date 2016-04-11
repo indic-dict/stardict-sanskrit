@@ -1,0 +1,77 @@
+###This file tracks update history
+
+11/04/2016
+------------------------------------
+
+1. first update
+
+2. devanagari, opttitrans, and extra patched words for annusvaara, deerghas, 
+   and telugu , varga  pancchamas ,IAST words ,all are created and added to headwords.
+   IAST words are for linking purpose as, all names in description of words are formatted
+   to IAST for reading.., and when double clicking them these headers will be  used.
+
+3. All description is cleaned, and neatly formatted for using  screenspace effectively.
+   And all book size specific new lines  cleaned, and added clean newlines.
+   in description,all coded words are transformed to IAST. like 'Ra1van2a' to 'Rāvaṇa', like so.
+
+4. Search terms expanssion  done. like if in source there is  <HI>BHA1RATA (MAHA1BHA1RATA) .
+   is there, then changed it to 'bhaarata|mahaabhaarata' , so that words in brackets
+   also can be searchable. And for words like 'ADR2S4YA (M)', it is expanded like
+   'adRshya|adRshyaM'. i.e if option is there in brackets to append, then created
+   new appended word and  added it to headers.
+
+5. Padya layout preserved. As there are padyas in description, and they all are displayed
+   with indent, and formatting.. those indent and formatting  are preserved , with out
+   effecting others.
+
+6. Tables are some how preserved. but not effective desplay. will be improved next updates,
+
+7. foot notes are kept. and next update display will be much better for footnotes  too.
+
+8. Some main words like 'JA1NAKI I', etc are wrongly coded as sub words, even though they
+   are main words. These errors of original text file fixed, and all such are searched, and
+   transformed to main words, by comparing with print book.
+
+9. Roman numerals are transformed to hindu decimal numerals in headers.like if headword is
+   like 'SUDARS4NA VIII' ,then it is transformed to 'sudarshana 8' in header words.And IAST
+   also kept in headers as mentioned before for linking , when double clicked.
+
+10.All head words lists are provided. angla.list is for english headwords,deva.list for hindi
+   IAST.list for iast, and  telugu.list for telugu. 
+
+....And so many other minor things.
+
+
+TO DO
+-------------------------------------
+
+1.giving original book page number, the word belongs to, at end of each word deescription.
+
+2.using bgl compiler for enabling tags for bold and italic, color values,formaatting etc displaying.
+
+3.Creating mucch more neat display for tables, when ever they occur.
+
+4.Adding foot notes at end  of word, which it is referring to.
+
+5.Mainly, adding hrasvas. as for sounds 'e' and 'o' ,are not distinguishable, as for both
+  same letters are used.. we have to manually check and prepare list.. and thus can transliterate
+  into  southern languages, with out error.
+
+6.Adding other language headwords, as all characters names are completely same in all.
+
+6.Removing errors if any.
+
+
+And so many like
+Creating html files for all words. for all other usages. etc...
+
+-------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
