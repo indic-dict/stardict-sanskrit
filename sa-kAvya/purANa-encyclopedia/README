@@ -69,6 +69,48 @@ Creating html files for all words. for all other usages. etc...
 
 
 
+13/04/2016
+-----------------------------------------
+1.Many fixes  
+
+2.Telugu transliteration is completely corrected. now it is errorless as much possible.
+
+3.Very Importaant feature,  now added page number and position of word in original book
+  at end  of each word,, neatly formatted. address is for example  like
+  '6th word in left half of page 679 in original book' . this will greatly
+  easifies referring, and oother.
+
+4. Paadya layout improved.
+
+5.Digit orders in head words like abhimanyu 1 etc,completely removed for iast head words.
+  as when double clicking name in description, it is redirecting to list of those words, instead
+  of giving description of all at one page. Now it is fixed by this,
+
+6.Like previous, Digit orders removed for normal english head words too.
+  as we searcch mostly with them, instead of giving all list it now gives
+  single entry with out digits, and contain all details.same with telugu  words too.
+
+7.Due to these changes, when we click on that unified entry, we will get all
+  those results in one page.but with same bold titles for all entries. it displays
+  first headword of that entry as bold title. that's why we kept devanagari entry
+  as first entry in heaadwords.. to display devanagari headword as bold title.
+  and IAST headword is there in description. So first devanagari entry is mainly
+  intended for display, along with search. So in devanagari headwords, digits are
+  not removed. as there is no problem for double clicking, linking with these words.
+  And an Unified digit  less devanagari word also is appended,and it will be first
+  result, when you  searched in devnagari, as normal.
+
+8.By these changes , now no problem when double clicked, 
+  no numbered lists when searched in english, but unified entry.
+  when searched in devanagari, though numbered lists desplayed
+  but unified entry only first option to click.
+  And thus display is not cubersome.titles are well defferentiated.
+  and can  differentiate words in source file too.
+
+9 And a lot of improvements.
+
+
+
 
 
 
