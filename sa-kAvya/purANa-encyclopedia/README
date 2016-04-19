@@ -110,6 +110,19 @@ Creating html files for all words. for all other usages. etc...
 9 And a lot of improvements.
 
 
+18/04/2016
+----------------------------------------
+
+1. Telugu transliteration is improved.
+
+2. mainly kannada transliteration added.
+
+3. Rutvam patches added. Like, when i want to search for kanhaji, i type kRiShNa
+   instead of KRShNa , and if i want to search for adrushyam, i type adRushyaM
+   instead of adRshyaM. so when Ritvam occured, for some words we add 'i' after 'R'
+   or 'u' for some. So these extra words added. and previous version also kept.
+
+
 
 
 
