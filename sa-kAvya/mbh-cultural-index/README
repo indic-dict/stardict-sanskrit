@@ -1,0 +1,37 @@
+1. All  things like previous. numbered lists, varga panchamas,rutvams, extra extracted bracketted
+   search words , ansvaras all , and their permutations included for devanagari,english
+   telugu,,kannada head words.And discription cleaned ,formatted, removed all unwanted new lines,
+   preserved paragraphs, wanted newlines. so it will be rendered well on all screen sizes
+   as like in case of purana encyclopedia. 
+
+2. mainly search words are not general words, but filled with so many samasaH andd sandhis.
+   like 'arjunasya vane vaasaH' or 'gautamasya vanam' , so many are like this. which we cannot
+   think of and search. So trying to make more general words from them. like
+   for 'arjunasya vane vaasaH' , head words will be 'arjuna|arjunasya vane vaasaH|vane vaasaH'.
+   so that, we can search character name, or complete word, or latter word. as
+   there are so many aashramas, like agastyasya aashrama, etc.. if we search for
+   'aashrama', it will give list of all aashramas of bharata time. and can be searchable 
+   by agastya too. But it is too experimental, and in basic stage, as there are so many samasas
+   and sandhis. so it will be gradually improved.
+
+3. some names are endding with long vowels, which are short ovels  in daily usage . like
+   for 'draupadii' ,'saurabhii'... we use 'draupadi' 'saurabhi' .they are one quarter of all words.
+   so 'ii' or 'uu' or 'aa' like these endings are modified
+   to corresponding short vowels, for convinience, and linking from others. 
+   originals also retained.
+
+4.  As search words  are  not  casual  words, many like me, cannot guess what to search.
+   at max by searching we can find some 4 words. :) , so dict should be browsable, and
+   navigatable. So page numbers added in headwords. if you search page number 'p134' we 
+   will get that page in same order as of book. and at last there will be page numbers
+   of previous, and next pages. so we can double click. thus we can use it as of book.
+   and position of word added in description. 
+
+5. due to reasons like above, added index pages too. so if we search for devanagari first letter
+   or itrans of it , we will get index page of words starting with that letter.
+   ex. if we search for 'ई ' or 'ii' , we will goto it's index. in index all words and their 
+   corresponding pages will be listed with out description, and in alphabeticle order.
+   we can double click on word or page number to go correspondingly. for example
+   search for 'श ' or 'sha' . 
+
+6. Many other....
