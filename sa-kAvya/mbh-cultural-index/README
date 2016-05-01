@@ -2,7 +2,6 @@
    search words , ansvaras all , and their permutations included for devanagari,english
    telugu,,kannada head words.And discription cleaned ,formatted, removed all unwanted new lines,
    preserved paragraphs, wanted newlines. so it will be rendered well on all screen sizes
-   as like in case of purana encyclopedia. 
 
 2. mainly search words are not general words, but filled with so many samasaH andd sandhis.
    like 'arjunasya vane vaasaH' or 'gautamasya vanam' , so many are like this. which we cannot
@@ -35,3 +34,19 @@
    search for 'श ' or 'sha' . 
 
 6. Many other....
+
+
+Update:
+---------------------------------
+1. changed page search pattern to p146_mci , like that.but when searching result
+   will visible with out typing tag. corrected links in description for double click.
+
+
+2. display intended  headwords are  prefixed like ' ➤ 03) अङ्गिरस्  '  . so  no intereptions
+   if other dict contain number headwords.
+
+3. description formatting improved so much.. 
+
+4. IaST tansliteration aded to headwords.
+
+5. many fixes,improvemeents.
