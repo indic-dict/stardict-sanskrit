@@ -10,7 +10,11 @@ do
 	cd $dir
 	timestamp=$(stat -c %y *.dict| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
 	tarfile="${base}__${timestamp}.tar.gz"
-	tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
+	if [ -f "${base}.dict.dz" ]; then
+	  tar -czf "${tarfile}" `ls *.idx *.dz *.ifo *.syn`
+	else
+	  tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
+	fi
 	mv "$tarfile" ../tars/
 	cd ..
 	if [ -f "tars/${tarfile}" ]; then
