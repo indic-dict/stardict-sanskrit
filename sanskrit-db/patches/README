@@ -1,0 +1,4 @@
+Here, atleast weeekly one patch with new version will be added, in table format.
+And that patch will be appended to sanskrit.table file, and then it will be
+re-sorted. and dupilcates will be removed  if any. So if we want any additions,
+instead of appending it to main file, and  messing with order, we will add here.

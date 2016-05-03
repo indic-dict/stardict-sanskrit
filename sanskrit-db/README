@@ -1,0 +1,34 @@
+Namaste all
+
+This project ims to create opensource database of parallel sanskrit to english
+pin point translations, so that it can be used any where.
+
+all data sorted in a table file, sanskrit.table , 
+format is like
+
+│devanagari_word{synonym}│Itrans{itrans  of synonym}│bhashabhag_or_gender_like_details│English_translations
+
+example:
+
+│ॐ { ओंकार }│OM  { oMkAra }│phrase│Om  [ Aum, Omkara ]
+
+if any more details are necesary  then additional columns will be added if specified.
+
+
+And any additions to this file will be done in patches folder,
+in patches folder, weeekly one file will be added, and we  can add all 
+our additions to that file for that week, and then append it to original
+table file, and re-sort it. So don't edit in sanskrit.table file.
+
+directories will be created for every book that can give considerable amount of
+data, and they will be cleaned, and select only pin point translation with out description
+and then format it.. all will be done in corresponding folder, if it is saticifying,
+copy that to patches folder, and append from there.
+
+finally in sql folder, the databases created from these tables will be stored,
+
+
+Suggest any betterment in formatting or,sources, plan, so that it will be easy for all.
+
+jai sriram _/\_
+
