@@ -3,5 +3,5 @@
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/kalpadruma-sa__2016-02-20_23-22-27.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/mw-sa__2016-02-20_23-22-27.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara__2016-02-20_23-22-27.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/spokensanskrit__2016-05-06_14-44-17.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/spokensanskrit__2016-05-07_08-42-37.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vAchaspatyam-sa__2016-02-20_23-22-27.tar.gz>
