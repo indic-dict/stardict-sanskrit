@@ -4,8 +4,11 @@
 import regex
 import sys
 import collections
-  
-test = True
+reload(sys)
+sys.setdefaultencoding('utf-8')
+import codecs
+
+test = False
 
 """
 Regex series:
@@ -16,7 +19,7 @@ Unhandled cases:
 
 lines = []
 if (test):
-  test_lines = """
+  test_lines = u"""
 अ पु. संस्कृत वर्णमाला का प्रथम वर्ण [विशेषतया तीन दिन
 तक चलने वाले सोम-याग (त्रिरात्र) के प्रथम दिन आज्य
 इति”, पञ्च. ब्रा. 2०.14.3।
@@ -26,13 +29,17 @@ if (test):
 """.split("\n")
   lines = test_lines
 else:
-  lines = sys.stdin.readlines()
+  f = codecs.open('vedic-rituals-hi.txt', encoding='utf-8')
+  lines = f.readlines()
+  # lines = sys.stdin.readlines()
+  # lines = [line.decode('utf-8') for line in sys.stdin]
 
-full_text = "\n".join(lines)
-full_text = regex.sub(ur'^(\S+?)\s+(क्रि\.वि[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE)
-full_text = regex.sub(ur'^(\S+?)\s+(स्त्री[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE)
-full_text = regex.sub(ur'^(\S+) (पु[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE)
+full_text = "".join(lines)
+# print(full_text)
+full_text = regex.sub(ur'^(\S+)\s+(पु[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE|regex.MULTILINE)
 full_text = regex.sub(ur'^(\S+?)\s+(वि[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE)
-full_text = regex.sub(ur'^(\S+?)\s+(न[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE)
+full_text = regex.sub(ur'^(\S+?)\s+(न[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE|regex.MULTILINE)
+full_text = regex.sub(ur'^(\S+?)\s+(क्रि\.वि[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE|regex.MULTILINE)
+full_text = regex.sub(ur'^(\S+?)\s+(स्त्री[ .])', '####\g<1>####\g<1> \g<2>', full_text, flags=regex.UNICODE|regex.MULTILINE)
 print(full_text)
 
