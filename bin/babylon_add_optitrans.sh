@@ -7,9 +7,14 @@ println("hello")
 import sys.process._
 import java.io.File
 import sanskritnlp.transliteration._
-val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).map(_.getCanonicalPath)
+val files_to_ignore = Set("spokensanskrit.babylon")
+val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
 
 babylon_files.foreach(file => {
-  println(file)
-  sanskritnlp.dictionary.dictTools.addTransliteratedHeadwords(file, ".babylon_final", "dev", "optitrans")
+  if (files_to_ignore contains file) {
+	  println(f"skipping $file")
+  } else {
+	  println(f"Adding headwords to: $file")
+		sanskritnlp.dictionary.dictTools.addTransliteratedHeadwords(file, ".babylon_final", "dev", "optitrans")
+  }
 })
