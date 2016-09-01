@@ -1,0 +1,48 @@
+Dictionary files for vedic index.
+
+1. HEaders contains devanagari,optitransed,telugu,kannada headwords
+
+2. Entire content is organised in html tags. So every part of content and display
+   is hooked with classes, and ids . see list at bottom of this file.
+
+3. As every thing is sectioned like title section, content section, foot notes section
+   and all special instances like head words, bold text, italic texts, etc.. are hooked
+   with class, we can alter appearance of any part with  change in CSS.
+   and can thus change ui, or display quickly.
+
+4. foot notes are seperated from content, and given at bottom of every word
+   and a superlink is given to link to foot notes, and a backlink is there from
+   footnote too.
+
+5. when we click a footnote link , it takes us to footnote, along with that
+   it will thematically heighlights that footnote from remaining. same when
+   clicked backlink.
+
+6. all possible words which are in present dict, are hyperlinked. So instead 
+   of double clicks ,etc..  now can click on main hyperlinks. And it will help
+   when we are updating it in any wiki too, so that main words are hyperlinked.
+
+7. every word has page number, and word count in title bar. and each word
+   given a uniq id, which may help in future.
+
+8. previous , next word arrows added , so that can navigate to next or previous
+   word from any,, same with page links.
+
+8.  We can extract each word, and can make html page,if needed, as everything is 
+    compatable.
+
+
+-------------Used tags, classes------------------------------------
+
+<div>	: screen_vei , patra_vei , contnt_vei , footnts_vei, headtitle_vei,floatlr_vei,pnum_vei
+<p>	:intl_vei,mdl_vei,ftpg_vei
+<a>	:pada_vei,ftnt_vei,ftbk_vei,pglink_vei
+<span>	:bldtxt_vei,headwd_vei,itlctxt_vei,ftbks_vei,widetxt_vei,unrdbl_vei,wnum_vei
+<ol>	:olft_vei,oftb_vei,oftc_vei
+
+and id for foot notes are in form of " fx[0-9][0-9bc]*_ve1_WORDID ".
+that final word no. is appended as goldendict ids will clash.
+And back referances ids are in format of "#ref[0-9][0-9bc]*_ve1_WORDID ".
+
+
+ 

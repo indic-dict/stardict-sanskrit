@@ -1,0 +1,90 @@
+<style>
+
+body{
+margin: 0px;
+padding:0em;
+}
+
+div.screen_vei{
+font-family:Verdana, "Lucida Sans Unicode", sans-serif;
+margin: 0em;
+line-height:1.5em;
+}
+
+div.headtitle_vei{
+width:20em;
+height:3em;
+float:left;
+text-align:left;
+}
+
+div.patra_vei{
+background: #FDD5B1;
+border-radius:5px;
+margin:0 auto 0 auto;
+padding: 1em;
+max-width:55.8em;
+color:black;
+font-size: 1em;
+}
+
+div.blck_vei{
+display: block;
+height: 10px;
+}
+
+div.pnum_vei{
+width:10em;
+height:3em;
+float:right;
+text-align:right;
+}
+
+div.floatclr_vei{
+clear:left;
+}
+
+div.contnt_vei{
+}
+
+div.foots_vei{
+font-size: 0.9em;
+}
+
+p.intl_vei, .mdl_vei, .ftpg_vei{
+text-indent: 2em;
+}
+
+a:link,a:visited,a.pada_vei,a.pglink_vei{
+color: #664427; text-decoration: none;
+}
+
+a.ftnt_vei:link ,a.ftnt_vei:visited , a.ftbk_vei:visited,a.ftbk_vei:link{
+color: #097168;text-decoration: none;
+}
+
+span.bldtxt_vei{
+font-weight: bold;
+}
+span.itlctxt_vei{
+font-style: italic;
+}
+
+span.headwrd_vei{
+font-weight:bold;
+text-decoration:underline;
+}
+
+ol.olft_vei,ol.oftb_vei,ol.oftc_vei{
+
+}
+
+li{
+
+}
+
+:target {
+  background: #ccc;
+  border: solid 1px #aaa;
+}
+</style>
