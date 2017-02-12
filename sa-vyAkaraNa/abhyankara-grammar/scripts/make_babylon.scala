@@ -22,15 +22,17 @@ outText = outText.replaceAll("(left|right|center)[ =]+[']+.+?[']+", "")
 Range(1,10).foreach(_ => {
   outText = outText.replaceAll("(?s)\\{\\{[^}]+?\\}\\}", "")
 })
-outText = outText.trim
-outText = outText.replaceAll(" ", " ")
-outText = outText.replaceAll("\n[^'\n]", " ")
-//outText = outText.trim
+Range(1,10).foreach(_ => {
+  outText = outText.replaceAll("\n(?=[^'\n])", " ")
+  outText = outText.replaceAll("\n(?='[^'\n])", " ")
+//  outText = outText.replaceAll("\n(?=''[^'\n])", " ")
+})
+outText = outText.replaceAll(" +", " ")
 
-val entryLines = outText.split("\n")
-entryLines.foreach(destination.println)
-destination.close()
-exit
+val entryLines = outText.split("\n").map(_.trim).filter(_.nonEmpty)
+//entryLines.foreach(destination.println)
+//destination.close()
+//exit
 
 var failedLineCount = 0
 entryLines.foreach(entryLine => {
@@ -47,3 +49,4 @@ entryLines.foreach(entryLine => {
 destination.close()
 log warn "Failed on " + failedLineCount + " lines"
 log info "Done!"
+
