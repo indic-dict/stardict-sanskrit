@@ -8,7 +8,11 @@ import sys.process._
 import java.io.File
 import sanskritnlp.transliteration._
 val files_to_ignore = Set("spokensanskrit.babylon")
-val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
+var files_to_process = ".*"
+if (args.nonEmpty) {
+  files_to_process = args(0)
+}
+val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filter(_.getName.matches(files_to_process)).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
 
 babylon_files.foreach(file => {
   if (files_to_ignore contains file) {

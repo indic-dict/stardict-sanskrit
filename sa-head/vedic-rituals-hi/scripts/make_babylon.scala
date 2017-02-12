@@ -10,6 +10,7 @@ import java.io._
 import sanskritnlp.transliteration._
 
 import scala.util.matching.Regex
+
 val infileStr = "/home/vvasuki/stardict-sanskrit/sa-head/vedic-rituals-hi/vedic-rituals-hi.txt"
 val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-head/vedic-rituals-hi/vedic-rituals-hi.babylon"
 val src = Source.fromFile(infileStr, "utf8")

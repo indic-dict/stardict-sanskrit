@@ -1,16 +1,14 @@
 STARDICT_TOOLS_DIR=~/stardict/tools/src/
 STARDICT_SANSKRIT_BIN=~/stardict-sanskrit/bin
 
-ifndef dicts
-	dicts=*
-endif
+dicts=*
 
 .PHONY: all stardict tars
 
 all:final_babylon stardict tars
 
 final_babylon:
-	bash ../bin/babylon_add_optitrans.sh
+	bash ../bin/babylon_add_optitrans.sh $(dicts)
 
 stardict:
 	bash ../bin/tsv_to_stardict.sh
