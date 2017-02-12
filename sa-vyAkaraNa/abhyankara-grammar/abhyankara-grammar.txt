@@ -89,7 +89,7 @@ Sanskrit.}}
 '''अंशिसमास''' the same as एकदेशिसमास or
 अवयवसमास or अवयवषष्ठीतत्पुरुष prescribed 
 by the rule पूर्वापराधरोत्तरोमकदेशिनैका-}}
-{{Multicol-end}}<noinclude><references/></noinclude><noinclude><pagequality level="3" user="Vidyajay" /></noinclude>{{RunningHeader|left='''अंशुगण'''|center='''2'''|right='''अकथित'''}}
+{{Multicol-end}}<noinclude><references/></noinclude><noinclude><pagequality level="3" user="Vidyajay" /></noinclude>{{RunningHeader left='''अंशुगण'''|center='''2'''|right='''अकथित'''}}
 {{rule}}
 {{Multicol}}
 धिकरणे P.II.2.1 and the following P.II.2.2 and 3 c.g 
@@ -11059,3 +11059,872 @@ vāgīśa.
 
 '''कविचन्द्र''' author of a small treatise on
 grammar called Sārasatvar
+
+'''निपातद्योतकत्व''' the view that the
+. nipatas and the upasargas too,
+as contrasted with nouns,pronouns
+' and other indeclinables, only
+, indicate the sense and do not de-
+note it; this view, as grammarians
+say, was implied in the Mahabh-
+sya and was prominently given in
+, the Vakyapadya by Bhartphari
+which was followed by almost all
+later grammarians. See निपात.
+
+'''निपातन''' a word given, as it appears,
+without trying for its derivation,in
+authoritative works of ancient gra-
+mmarians especially Panini;cf.दाण्डि-
+नायनह्यास्तनयनo P. VI.4.174, as also
+, अचतुरविचतुर< V.4.77 etc. etc. The
+, phrase निर्घातनात्सिद्धम् is very frequen-
+tly used by Patafijali to show that
+' some technical difficulties in the
+formation of a word are not some-
+times to be taken into considera-
+tion, the word given by Panini
+being the correct one; cf. M.Bh.on
+.1.#, III.1.22 etc. etc.; cf also
+' the usual expression बाधकान्येव निपात-
+नानि, The derivation of the word
+' f9n पत् with नि causal, is suggest-
+ed in the Rk Pratisakhya where it
+is stated that Niptas are laid down
+or presented as such in manifold
+' senses: cf R. Pr.XII.9: cf also
+' घातुसाधनकालानां प्राप्त्यर्थं नियमस्य च |
+अनुबन्घविकाराणां रूढघर्थ व निपातनम् M.
+Bh Pradipa on P. V.1.114: cf.also
+M. Bh. on II.1.27.
+
+'''निपातनस्वर''' the.accent, with which the
+{{Multicol-break}}
+Nipatana word is expressed in the
+Stra, which is said to prevail over
+the accent which ordinarily should
+be possessed by the word , cf. स
+निपातनस्वरः प्रकृतिस्वरस्य बाधको भविष्यति
+M.Bh. on P.I.1.56 Vart. 23;"cf.
+also M.Bh. on I.3.3, VI.1.123 etc. .
+
+'''निपातानर्थकत्व''' the view prominently
+expressed by the Warttikakara that
+miptas do not possess amy sense,
+which was modified by Bharthari
+who stated that they do possess
+sense which, of course, is indicated
+and not expressed. See निपात.
+
+'''निपाताव्ययोपसगेवृत्ति'''a short treatise
+explaining and illustrating the use
+of indeclinables, written by a
+grammarian named तिलक who
+probably lived in Kasmira.
+
+'''निमद्''' a mode of utterance of words at
+the performance of a sacrifice.
+Seven such modes are given in the
+Taittiriya Pratisakhya; cf. उपांशुध्वान-
+निमदेंपव्दिमन्मन्द्रमध्यमतारााणT.Pr.XXI1I.
+5
+
+'''निमित्त''' (1) the formal cause of a gra-
+mmatical operation: cf. निमित्तांभावे
+नैमिातेकस्याप्यभावः given as a Pari-
+bhasa by many grammarians like
+Vyadi, Siradeva and others; cf.
+also प्रकृत्युपपदोपाधये निमित्तं प्रत्ययेा निामेत
+M.Bh. on III.1.1 Vart. 2; (2)
+distinguishing sign यः प्रेक्षापूर्वकारी भवति
+स: अधुवेण निमित्तेन धुवं निमित्तमुपादत्ते वेदिकां
+पुण्डरीकं बा, M.Bh. on I.1.26 Vart.5.
+
+'''निमित्तसप्तमी''' locative case, used in the
+sense of a cause as prescribed by
+निमित्तात्कर्मसंयेोगे, P. II.3 36 Vart. 6
+and illustrated by the usually
+quoted verse चर्मणि द्वीपिनं हृन्ति दन्तयोर्हन्तं
+कुञ्जरम् | कंदाषु चमरी इन्ति सीम्नि पुष्कलकं हृत:
+M.Bh.on II.3.36 Vart. 6, also cf.
+Ka8. on P. I.1.57.
+
+'''निमित्तापायपरिभाषा''' a popular name
+given by grammarians to the
+maxim निमित्तापाये नैमित्तिकस्याप्यपायः,. a
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Nirmala Vjkumar" /></noinclude>
+ {{RunningHeader|left='''नमित्तिन्'''|center='''206'''|right='''निरनुबन्धक'''}}
+{{rule}}
+{{Multicol}}          
+             
+thing, which is brought into exist-
+ence by a cause, disappears on
+the disappearance of the cause.
+The maxim is not, of course,
+universally applicable For details
+see Par. Sek. Pari. 56, Sira. Pari.
+99.
+
+'''निमित्तिन्''' an affix or an augment or a
+substitute taking place on account
+of certain formal causes or nimi*
+ttas: cf. निज्ञाताथ निामत्तमनिर्शतार्थे
+निमित्ती, इहृ च प्रत्ययेोSनिर्जतः प्रकृत्युपपदे-
+पाधयंी निज्ञप्ताः M. Bh. on III. l ¡ l
+Vart. 2.
+
+'''नयत''' (1)regulated in size or number;
+definitely fixed; the word नियत is
+used in grammar in connection with
+the nimitta or nimittin in a gram>
+matical operation prescribed by a
+rule, which, or a part of which is
+, shown to be superfluous unless
+, there is laid down a regulation cf
+इषप्रदृगं कर्तव्यम् | शेषनियमार्थम् | प्रकृत्यर्थं
+, नियतौ प्रत्यया अनियतास्ते शेषेपि प्राप्नुवन्ति
+M.Bh. on I.3.12 Wart. 6; (2) The
+. grave accent; cf उदात्तपूर्वं नियतं...
+स्वत RPr.III.9.
+
+'''नियतस्वर''' (1) an affix whose accent is
+definitely given by an indicatory
+, mute letter applied to it, cf M.Bh.
+, on I.1.3; (2) the grave accent; a
+syllable with a grave accent; grave
+vowel: cf. नियतस्वरोद्ये R.Pr.XH.25;
+(3) name of a Samdhi when a
+visarga is changed into रेफ and
+then omitted and the preceding
+vowel is lengthened; cf दुखस्याकाम-
+नियता उभाविमौ R.Pr. IV.9; cf. also
+P. VIII.3.14 and VI.3.111.
+
+'''नियम''' (1)restriction; regulation: bind-
+, ing; the term is very frequently
+used by grammarians in connec-
+tion with a restriction laid down
+with reference to the applica-
+tion of a grammatical rule gene-
+rally on the strength of that rule,
+{{Multicol-break}}
+or a part of it, liable to become
+superfiuous if the restriction has
+not been laid down; cf. M.Bh. on
+I. 1. 3, Kas, on I. 3.63, VI. 4.11;
+cf. also the freguently guoted
+dictum अनियमे नियमकारिणी परिभाषा: (2)
+limitation as contrasted with विकल्प
+or कामचार: cf. अनेकप्राप्तावेकस्य नियमी
+भवति शेषेष्वानयमः पटुमृदुद्युङ्काः प्रद्युमृदव
+इति: M. Bh. on II. 2. 34 Vart. 2;
+(3) a regulating rule: a restrictive
+rule, corresponding to the Parisarh-
+khy statement of the Mimarisakas,
+e. g. the rule अनुदात्तङित आत्मनेपदम्
+P. I.3.12; the grammarians gene-
+rally take a rule as a positive in-
+junction avoiding a restrictive sense
+as far as possible: cf the dictum
+विधिनियमसंभव विधिरव ज्यायान्. Par. Sek.
+Pari. 100; the commentators have
+given various kinds of restrictions,.
+such as प्रयोगनियम,अभिधयनियम,अर्थनियम, '
+प्रत्ययनियम, प्रकृतिनियम, संज्ञानियम etc.etc.;
+(4) grave accent or anudatta cf.
+उदात्तपूर्वं नियतम् R. Pr. III. 9; see
+नियत (2).
+
+'''नियामक''' limiting; limitative: cf. तु:
+क्रियते , स नियामक्री भविष्यति | अमेवेापञ्चम्या:
+इति M. Bh, on II. 4.83; cf also
+लोके निमित्तं द्विविधं दृढम् | कार्यस्थितौ नियामकं
+तदनियामकं च Par. Sek. Pari. 56.
+
+'''नियोग''' an obligatory order or
+command, such asthat of a pre-
+ceptor, as contrasted with स्वभाव;
+cfधातोः परः अकारोSक्र्व्दं वा नियेोगत:कतीरं
+बुवन्कृत्संज्ञश्च भवति ......... स्वभावतः कर्तारं
+बुवन्कृत्संज्ञश्च भवति etc. M. Bh. on F,
+III. 4.67 Vart. 8 where Kaiyata
+explains नियोग as अाचार्यनियोग.
+
+'''निरनुनासिक''' pure, unnasalized, as
+opposed to सानुनासेक्र nasalized. cf.
+सन्तिं हि यणः सानुनासिका निरनुनासिक्राश्च |
+M.Bh. on I. 1. Ahnika 1.
+निरनुबन्धक possessed of no mute
+indicatory letter; not possessed of
+any mute indicatory letter; cf. )
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Nirmala Vjkumar" /></noinclude>
+ {{RunningHeader|left='''निरनुबन्धकपरिभाषा'''|center='''207'''|right='''निरुद्काद्ि'''}}
+{{rule}}
+{{Multicol}}            
+             
+पुनरयं (आकारः) सानुबन्धक्र: क निरनुबन्धक:
+M.Bh. on I. 1.14. 
+
+'''निरनुबन्धकपरिभाषा''' a short term used
+for the maxim निरनुबन्धकग्रहणे न
+सानुबन्धकस्य ग्रहृणम् Par. Sek. Pari. 81.
+
+'''निरवकाशा''' possessed of no scope of, or
+occasion for, application; the word
+अनवकाङ्क्षा is also used in this sense.
+The niravakSa rules always set
+aside the general rules which 3re
+always present wherever they i. e.
+the niravakāsa rules are possible to
+be applied. Niravakasatva is looked
+upon as one of the two criteria for
+बाध or sublation, the other one
+being सामान्यविशेषभाव as illustrated
+by the usual maxim, known as
+तक्रकौण्डिन्यन्याय. See तक्रकौण्डिन्यन्याय: cf.
+also अनवकाशा हि विधयो बाधका भवन्ति
+Par. Sek. on Pari. 64.
+
+'''निरखत''' a fault of pronunciation when
+a vowel is harshly pronounced
+and hence is not properly audible;
+cf निरस्तं निष्ठुरम् Pradipa on M.Bh. I.
+I. Ahn. 1. The fault occurs when
+the place and the means of utter-
+ance are pressed and drawn in;cf.
+निरसूतं स्थानकरणापकर्षे R. Pr. XIV. 2.
+
+'''निराकृत''' (1) set aside: answered; the
+word is frequently used in connec-
+tion with faults which are stated
+to occur or present themselves if
+a particular explanation is given;
+(2) prevailed over by another; cf.
+तदा न रूपं लभते निराकृतम् R. Pr. XI.
+30, where Uvvata paraphrases
+निराकृत as विस्मृत. 
+
+'''निरुक्त''' name of a class of works which
+were composed to explain the
+collections of Vedic words by
+means of proposing derivations of
+those words from roots as would
+suit the sense. The Nirukta works
+are looked upon as supplementary
+to grammar works and there must
+have been a good many works of
+{{Multicol-break}}
+this kind in ancient times as
+shown by references to the writers
+of these wiz. Upamanyu, Sakaty-
+ana,Skapt hi,Sakaptirti and others
+but, out of them only one work
+composed by Yºska has survived;
+the word, hence has been applied
+by scholars to the Nirukta of
+Yनska which is believed to have
+been written in the seventh or the
+eighth century B. C. i. e. a century
+or two before Pahini. The Nirukta
+works were looked upon as subsidi-
+ary to the study of the Vedas
+along with works on phonetics
+( शिक्षा ), rituals ( कल्प ), grammar
+(याकरण) prosody (छन्दस्र) and astro-
+nomy(ज्योतिष)and a mention of them
+is found made in the Chandogyo-
+panisad. As many of the derivati-
+ons in the Nirukta appear to be
+forced and fanciful, it is doubtful
+whether the Nirukta works could
+be called scientific treatises. The
+work of Yaska, however, has got
+its own importance and place
+among works subsidiary to the
+Veda, being a very old work of
+that kind and quoted by later
+commentators. There were some
+glosses and commentary works
+written upon Yaska's Nirukta out
+of which the one by Durgacarya is
+a scholarly one.It is doubtful whe-
+ther Durgicarya is the same as
+Durgasirhha, ' who wrote a Vrtti
+or gloss on the Katantra Vyakar-
+aha. The word निरुक्त is found in
+the Pratisakhya works in the sense
+of explainedand not in the sense
+of derived; cf R. Pr. XV 6: V.Pr.
+IV. 19, 195.
+
+'''निरुक्तभाष्य''' a gloss on Yaskas Nirukta
+written by a modern scholar of
+grammar named Ugracarya in the
+eighteemth century A. D.
+
+'''निरुद्काद्ि''' a class of compound words
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Nirmala Vjkumar" /></noinclude>
+  {{RunningHeader|left='''नेरूढलक्षणा'''|center='''208'''|right='''निवेत्र्य'''}}
+{{rule}}
+{{Multicol}}         
+             
+headed by the word निरुदक which
+have their last vowel accented
+acute: e. g निरुदक्रम्, निरुपलम् निर्मक्षिकम्
+atc.: cf. Ks. on P. VI. 2. 18.
+
+'''निरूढलक्षणा''' potentiality of implica*
+ion which gives the meaning of a
+word which is based upon implica*
+tion: e. g. रथे गच्छत.
+
+'''निरूढपघ''' a word, the penultimate
+vowel in which is picked up and
+taken back, as for instance the
+penultimate अ of हृनृ in the word
+अहृसु cf. अहृतिश्च अहश्च अहुश्च हृतेर्निरूढोपवा-
+द्विपरीतत् Nir. IV. 25.
+
+'''निर्दिश्यमानपरिभाषा''' a short formfor the
+maxim निर्दिश्यमानस्यादेशा भवन्ति which
+means 'substitutes take the place
+of that or its part which has been
+actually stated or enunciated in
+the rule (of grammar)' Par. Fek
+Pari. 12. For details see Par. Sek.
+, Pari. 12.
+
+'''निर्दिष्ट''' exhibited, enunciated: cf
+तस्मान्नति निर्दिष्टे पूर्वस्य P.I.1.66; V,Pr.I.
+134.
+
+'''निर्दिष्टपरिभाषा''' a popular name of the
+Paribh∂ तालैमानेति निर्दिष्टे पूर्वस्य cf
+किं वेहृ नेिर्दिद्धपरिभाषाप्रवृत्तिर्वचा ， Pari.
+Bhaskara Pari. 97.
+
+'''निर्दशा''' mention, actual statement; the
+word is often used in the Mahabh-
+asya in sentences like ख तथा निर्दाः
+कर्तव्य:, निदेशं कुरुत etc.; cf also V.Pr.
+I. 36: cf. also the maxim तारुमलिति
+निर्दिष्टे पूर्वस्य P. I.1.66 and V. Pr. I.
+134; cf. also अवइयं क्रयाचिाद्वभक्त्या केन-
+चिद्वचनेन निर्देशः कर्तव्यः M.Bh. on P. I.
+2. 39 Vrt. I. Sometimes the men-
+tion or exhibition made by a word
+shows the particular type of word
+cf. Durghata Vrtti on P. I. 2. 6
+and VII. 4. 73 as also Kas. on
+P. IV. 3. 11 and V. 2. 20.
+
+'''निधोरण''' (1)selection ofone or some out
+of many; cf. जातिगुणाक्रियाभिः समुदायाद-
+कददास्य पृथक्करणं निर्धारणम् , मनुष्याणां मृनुष्येषु
+{{Multicol-break}}
+वा क्षत्रियः शूरतम: Ks. on P. II.2.10
+as also om II.3.4 l ; (2) determined
+or definite sense to the exclusion
+of another, generally on the
+strength of the indeclinable एव
+which is expressed or understood,
+The word नेिधोरण is used for अवधारण
+in this sense: cf. यत एवकारस्ततोन्यत्राव-
+धारणम् a maxim used as a Paribhs
+by some grammarians cf also
+धार्तोस्तानामेतस्यैव l धात्ववधारणं यथा स्यात्तन्नेि-
+मित्तावधारणं मा भूदिति Kas. om P. VI.
+1.81.
+
+'''निबद्ध''' separated,dissociated disconne-
+cted:'cf. न निर्वेद्वा उपसर्गा अर्थान्निराहुरिति
+इाक्रटायनः Nir. I.3.
+
+'''निभुज''' a mame for the Samhitapatha:
+Gf निभुजं संहिताध्ययनमुच्यते R. Pr.I. 3.
+
+'''निर्मलदर्पण''' name of a commentary on
+the Prakriy-Kaumudi.
+
+'''नर''' name of a grammarian who is
+believed to have written a gloss
+( वृात ) on the Stras of Panini on
+the strength of a reference to him
+in the Nyasa of Jinendrabuddhi;
+cf. वृतः पाणिनीयसूत्राणां विवरणं बुछिभद्विनि-
+रादिप्रणीतम् Nyāsa on I.1.1.
+
+'''निर्वेचन''' interpretation by means of
+etymology as found in the Nirukta
+works: the act of fully uttering the
+meaning hidden in words that are
+partially or wholly unintelligible
+in respect of their derivation by
+separating a word into its compo*
+hईht letters cf. निष्कृष्य विगृह्य निर्वचेनम्,
+Durgavrtti on Nir. II. 1.For details
+see Nirukta II.1.
+
+'''निर्वेर्तक''' (1) productive, as opposed to
+' expressive: cf. किं पुनरिदं निर्वर्तकम् l
+अन्तैरतमा अनेन निर्वेत्यैन्तं , अहोस्वित्रति-
+पादकम् | अन्यन निर्वृत्तानामनेन प्रतिपत्तिः ;
+M.BB. on P.I.1.50 Vart. 1; (2)
+productive of activity: cf सूत्रं
+नर्वर्तकं कारकसंज्ञे भवतीति वक्तव्यम् M.
+Bh. on I.4.23.
+
+'''निवेत्र्य''' one of the many kinds of kar-
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Nirmala Vjkumar" /></noinclude>
+   {{RunningHeader|left='''निवृत्ति'''|center='''209'''|right='''निष्ठित'''}}
+{{rule}}
+{{Multicol}}           
+        
+man or object governed by a
+transitive verb or root, which has
+got the nature of being produced
+or brought into existence grinto ?
+new shabe: cf. त्रिविधं कर्म निर्वेत्र्यं विकार्य
+प्राप्ये चति का निर्वत्र्यं तावत् कुम्भकार: नगरकार:
+The word निर्वेत्ये is explained as
+यदसज्जन्यते यद्वा प्रकाश्यते तन्निर्वत्र्यम् | कर्तव्यः
+क्रट: 1 उन्डचाथै: इाब्दः Sr. Praksa: cf
+also Vakyapadya III.7.78: cf also
+इहृ हि तण्डुलानोदनं पचतीति द्व्यर्थः पाचः |
+तण्डुलान्पचन्नीदनं निर्वर्तयति | M. Bh. on
+I.4.49. For details see the word
+कर्मन्: also see M.Bh. on I.4.49.
+
+'''निवेर्ति''' production of the effect; pro-
+duction of the activity by the
+agents or insfruments of activity
+called Karakas: cf. साधने हि क्रियां
+निवेर्तयति तामुपसर्ग विदिानटि M.Bh. on
+II. 2.19 Vart. 2.
+
+'''निईत''' a fault of pronunciation by
+which a letter is uttered harsh or
+rude; cf. निहंतो रूक्ष: Kaiyata on M.
+Bh.I.1. Ahnika 1 .
+
+'''निहृींस''' (1) abridgment, diminution;
+cfसर्ववचनं प्रकृतिनिर्हासार्थम् , निर्हस: अपचयः
+अल्पत्वमित्यर्थ: | Kaiyata on M.Bh.on
+IV.3.100; (2) being turned into a
+short (vowel): cf रूपकिन्तस्थाप्रत्ययौ
+निर्हसेते R.Pr.IV.39.
+
+'''निवर्तके''' lit. expeller, excluding other
+forms which are otherwise, that is,
+incorrect; cf. समाने वार्थे ज्ञााख्त्रान्वितः
+अदाखान्वितस्य निवर्तकं भवति	M.Bh. on
+I.I. Siva Sutra 2.
+
+'''निवत्यै''' that which should not proceed
+to the next rule; cf. तच्चावश्यं निवस्येम्
+M.Bh. on III.2.68, V.1.16, etc.
+See the word निवृति.
+
+'''नघात''' sometimes used for नघात or
+the grave accent.
+
+'''निवृत्ति''' (l) cessation of recurrence of
+a word or words from a rule to a
+subsequent rule or rules; non-appli-
+cation of a rule consequent tipon
+the cessation of recurrence or
+27
+{{Multicol-break}}
+anuvrtti cf: न ज्ञायते केनाभिप्रायेण प्रसजति
+क्रन निवृत्तिं करोति M. Bh. on P. 1-1-44
+Vart.8. cf. also एकये गनिर्दिष्टानां सहृ
+वा प्रवृत: सहृ बा निवृत्तिः Kt. Par. Vr.
+Pari. 9: (2) cessation or removal;
+cf. न च संज्ञाया निवृतिरुच्यते | स्वभावतः
+संज्ञा संज्ञिनः प्रत्याय्य निवर्तन्त | तन अनु-
+बन्धानामपि निवृत्तिर्भविष्यति M. Bh. on
+I. 1.1. Vart. 7: cf. also M. Bh. on
+I. . 3 etc.; cf. also the usual
+word उदात्तनिवृत्तिस्बरः. 
+
+'''निवृत्तिस्थान''' places where the sub-
+stitutes गुण and वृद्धि do not apply ;
+weak terminations; kit or fmit
+affixes in Papini's grammar: cf.
+अथाप्यस्तर्निवृत्तिस्थानष्वादिलेापी भवति , " स्तः
+सन्तीति	Nir. II. 1. The word
+संक्रम is also used in this sense by
+ancient grammarians.
+
+'''निषेध''' negation; prohibition: cf निष-
+धपञ्चसूत्रीयं स्वरार्था Bhsvgtti on P.
+II. 2.16; cf निषधाश्च बलीयांसः Par.
+. Sek. Pari. 112. The word प्रतिषेध
+is used frequently in this sense in
+old grammar works such as the
+Mahabhsya, the word निषध be-
+ing comparatively a modern one.
+
+'''निष्कादि''' a class of words headed by
+the word निष्क to which the affix
+इक्र ( ठक् ) is added, provided these
+words are not members of a
+compound; e. g. नैष्क्रिक्रम् , पादिकम् ,
+मात्रिक्रम् etc.: cf. Kas. on P. V.1.20.
+
+'''निष्क्रष्ट''' separated; taken out from a
+thing: existing only in concep-
+tion or idea: cf. इह केचिदुग्राः शब्दन
+द्रव्यान्निष्कृष्टा एव प्रत्याय्यन्ते न तु द्रव्यस्ये-
+परञ्जक्रत्वेन , यथा चन्दनस्य गन्ध: इति |
+Kaiy. on P, II. 2. 8.
+
+'''निष्ठा''' the affixes क्त and क्तवत् in
+Panini's Grammar: cf. क्तक्तवत् निष्ठा
+.P. I. 1.26.
+
+'''निष्ठित''' also निःष्ठित completed, accom-
+plished; used in connection with
+a grammatically formed word by
+applying affixes to the bases; cf.
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Nirmala Vjkumar" /></noinclude>
+    {{RunningHeader|left='''निहृत'''|center='''210'''|right='''उद्'''}}
+{{rule}}
+{{Multicol}}         
+             
+अङ्गवृत्ते पुनवृत्तावविधिर्निष्ठितस्य Siradeva
+Pari. 94, where Siradeva has
+explained the word निष्ठित as
+प्रयेोगाई-अङ्ग.
+
+'''निहृत''' struck down in tone, grave,
+possessed of a grave accent; cf.
+W. Pr. IV. 138.
+
+'''निहित''' separated with the interven-
+tion of a consonant. The word is
+used in connection with the de-
+tached first part of a compound
+word not followed immediately
+by a vowel; cf. अनहितं अब्यवहृतम्
+Uvvata on V. Pr. V. 30.
+
+'''नीक् '''augment न affixed to the re-
+duplicative syllables of the roots
+वञ्च् , खस,ध्र्वम्, भ्रस् कस्, पत्, पद्and
+स्कन्द् in the intensive: e. g- अापनी-
+फणत्, वनीवच्यत etc. cf. P. VII. 4.65
+and 84.
+
+'''नीच''' a term used for the grave
+accent or for the vowel, accented
+grave; cf. स्वरितयोर्मध्ये यत्र नीत्वं स्यात्
+T. Pr. XIX. 1. उन्नीवे म नीचमुचात्
+R. T. 54, 55 cf, also W. Pr. I. 111.
+
+'''नीचे:कर्''' constituting the grave
+accent, features of the grave
+accent; cf. अन्ववसगे मार्दवमुरुता खस्येति
+नीचैःकराणि शब्दस्य M.Bh.on I. 2.30.
+
+'''नीलकण्ठ''' author of वैयाकरणसिद्धान्तरहृस्य a
+commentary on the Siddhanta
+Kaumud of Bhattoj Diksita.
+
+'''नीलकण्ठदीक्षित''' a famous grammarian
+of the seventeenth century who
+wrote an independent work on
+the Paribhass in Vyakaraha
+named Paribhasavrtti. This Vrtd
+is referred to in the Paribhsen-
+dusekhara by Nigesabhapa and
+the views expressed in'it are
+severely criticised in the com. रादी.
+
+'''नीलकण्ठमाखन्''' nephew of Appaya
+Diksita who has written a on-
+mentary on Kaiyata's Mahabha-
+Syapradipa.
+{{Multicol-break}}
+'''नुद्''' augment न् (l) affixed to the
+words अन्तवैत् and पतिवत् before the
+feminine affix डीप् e. g. अन्तर्वत्नी,
+पतिवत्नी, cf P. IV. 1.32; (2) affixed
+to the root ली before the causa
+affix णिच् , e. g. विलीनयति, cf. P.
+WII. 3.39; (3) affixed to the rg-
+duplicative syllable of roots end-
+ing in a nasal consonant and
+having the penultimate अ as als6
+of the roots जर्, जभू , द , द्, भञ्ज्,
+प्, चर्, and फळ in the intensive,
+e. g. जङ्गम्यत, तन्तन्यते, यंयमीति, जङ्कमीति,
+जञ्जप्यत, दन्दह्यते, दन्दहीति. चञ्चूर्यत, प्रकु
+लेीित cf. P. VII 4.85, 86, 87.
+
+'''उद्''' augment न् prefixed (l) to the
+gen. pl. ending in अाम् after a'crude
+base ending in a short vowel, or in
+ई or ऊ of feminine bases termed
+nadi, or in अा of the feminine affix
+( दूष् डाप्_9r चाप्): e g. वृक्षाणाम्,
+अज्ञानाम् , क्तूणाम् , कुमारीणाम् , मालानाम्
+etc.: cf. P. VII.1.54: (2) to the
+affix अाम् after numerals term-
+ed षट् and the numeral चतुर् as also
+after the words श्री, ग्रामणी and गेो in
+, Vedic Literature, e. g. षण्णाम् ,
+पृञ्चानाम् .. चतुर्णाम्, श्रीणाम्, ग्रामणीनामु,
+गेनाम्: cf. P. VII.1.55,56, 57 (3)
+to the part of a root possessed of
+two consonants, as also of the
+root अझ of the fifth conjugation
+after the reduplicative syllable
+ending in अा, which is substituted
+for अ: e.g. अानञ्ज, व्यानशे: cf. P.VII.4.
+71,72; (4) to the affix मतुप् after a
+base ending in अन् as also to the
+affixes तरप् and तमप् after a base
+ending in न् in Vedic Literature,
+e.g. मूर्धन्वतीं, अक्षण्वन्त:, सुपथिन्तरः etc.;cf.
+P. VIII. 2.16, 17: (5) to the initial
+vowel of the second member of a
+compound having अ of नन् as the
+first member: e. g. अनघ:, cf. P.VI.
+3.74; (6) to any vowel after न्
+which is preceded by a short vowel
+
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Mamatha cs" /></noinclude>{{RunningHeader|left='''नुम'''|center='''211'''|right='''न्यङ्गकुसारिणी'''}}
+{{rule}}
+{{Multicol}}
+
+
+and which is at the end of a word
+e.g. कुर्वन्नासेत, cf. P. VIII. 3.32.
+
+'''नुम''' augment न् inserted after the last
+vowel (1) of a root given in the
+Dhatuptha as ending with mute
+इ: e.g.'न्दति, क्रन्दति, विन्तयति, जिन्वति
+etc.: cf. P VII.1.58; (2).of roots मुच्
+and others before the conjugational
+sign अ ( दा ): e. g. मुञ्चति, लुम्पति: cf.
+P, VII.1.59: (3) of the roots मस्जु,
+नश्, रध्, जभ् and लभ् under certain
+specified conditions, e.g.मड्क्त्वा, नेटा,
+, रन्धयति, जम्भयति, लम्भयति, आलम्भ्य: etc.
+cf. P.VII. 1.60-69; (4) of declin-
+able bases marked with the mute
+indicatory letter उ, ऋ or ऌ as also
+of the declinable wording अञ्च्
+from the root अञ्च् and युज्, e.g.भबान्,
+श्रेयान् , प्राङ्क, युङ्क, cf. Kas. on P. VII.1.
+70, 71: (5) of the declinable base
+in the neuter gender, ending with
+a vowel or with any consonant
+excepting a semivowel or a nasal,
+before a case-ending termed Sar-
+vanamasthana; e.g. यद्दांसि, वनानि,
+जतून etc., cf. Kas. on VII.1.72: (6)
+of the declinable base in the neuter
+gender, ending with इ, उ,ऋ or ल
+before a case-ending beginning
+with a vowel: e.g. मधुने, शुचिने etc.,
+cf Kaई, on P. VII.1.73: (7) of the
+affix शतृ ( अत् of the pres. part.)
+under certain conditions थातो यान्ती;
+पचन्तो, सीब्य्न्ती, cf. ! .VII.78-8 : (8)
+of the word अनडुहृ before the nom.
+and voc. sing. affix सु:e.g. अनड्वान् ,
+हे अनड्वन्, cf. P. VII.i. 82: (9) 6f
+the words दृक्, स्ववस् and स्वतवसु
+before the nom. and voc.sing.affix
+ठ in Vedic Literature, e. g. यादृङ्क,
+स्ववान् , स्वतवान् , cf. P.VII.1.83.
+
+'''नुमागम''' augment न् inserted after the
+' last vowel of a root or a noun-base
+in specified cases. See नुम्.
+'''नृचक्ष'''-ं name of the second Yama
+' letter, _ _
+{{Multicol-break}}
+'''नेमस्पृष्ट''' partly touched, half touched ;
+semicontacted; a term used for
+sibilants and hissing sounds-
+
+'''नेकाच्''' multisyllabic,possessed ofmany
+syllables, as contrasted with प्रौं
+
+'''नैगम'''(1) belonging to the Veda,Vedig
+as opposed toलौकिक or भाषिर्क 9
+नेघण्टुकैर्नान नैगमानीहृह्य Nir.I. 20: (2)
+name given to Kimdas 4, 5 and ?
+of the Nirukta ofYaska; cf. अनवृगत-
+संस्कारा जहृादयो यस्मिन्निगम्यन्ते तलैगमं
+Durga Vr. on Nir IV.1.
+
+'''नैघण्टुक''' mentioned as secondary lit-
+निर्धण्ट्रकाण्ड बर्तमानानि पदानि; the term is
+applied to the first three Kandas
+or sections of the Nirukta..
+
+'''नेपातिक''' accessory accidental; निपातात्
+अागतानि.
+
+'''नेमन्तिक''' effect: one that is caused cf.
+निमित्ताभावे नैमित्तिकस्याप्यभाव: a Pari-
+bhs given by Vyadi, Siradeva
+and others.
+
+'''नेरुक्त''' (1) obtained by derivation, ety-
+mological; (2) etymologist, writer
+ofa Nirukta work.
+
+'''नेदंज्ञिक''' matter of communication;
+statement made for communica-
+tion. Uddyota explains the word
+as निर्दढाः बोधः प्रयेौजनेमस्य नैर्द्कि: । cf.
+एत खञ्वपि नैर्दर्श्ािकानां वार्ततरका भवन्ति य
+सर्वनाम्ना निर्दइा: क्रियन्त M. Bh. on
+P. I.1.67.
+
+'''नेवासिक''' tad. affixes अण् and others
+added in the sense of * तस्य निवासः '
+(P. IV. 2. 69), as in words like ;ंब
+meaning the place of residence of
+the Sibis.
+
+'''न्यक्''' a technical term in the Jainen-
+dra Vyakarana for the term उपसर्जन
+defined by Panini in the rules
+प्रथमानिर्दिष्टं समास उपसर्जनम् and एक-
+विभाक्ति चा पूर्वानपाते P.I.2.43, 44.
+
+'''न्यङ्गकुसारिणी''' a kind of बृहृती metre in
+which the second foot has twelve
+syllables, while the rest have
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Mamatha cs" /></noinclude>
+ {{RunningHeader|left='''न्यङ्गकादि'''|center='''212'''|right='''न्याय'''}}
+{{rule}}
+{{Multicol}}               
+न्यङ्गकादि
+eight syllables each;
+न्यङ्कुसारिणी R.Pr.XVI.32.
+
+'''न्यङ्काद्ि''' a class of words headed by
+the word न्यङ्कु, which are formed
+by means of the substitution of a
+guttural consonant in the place of
+a consonant of any other class
+belonging to the root from which
+these words are formed; e. g. न्यङ्कुः
+मद्गुः, भृगुः etc.: cf. Kas, on P.VII.3.
+53.
+
+'''न्यच्''' going lower, subordinate, the
+word is used in the sense of upa-
+sarjana as a technical term in the
+Jainendra Vyakaraa, cf. वोक्तं न्यक्
+Jain. Vy.I.1.93.
+
+'''न्यवश्रदृ''' also नीवावग्रहृ, the vowel at the
+अर्वाग्रहृ or end of the first rnember
+of a compound word which has
+got a grave accent: e. g. the vowel
+ऊ of नृ in तनूनप्त्र: cf. उदीद्यन्ती न्यवग्रहृ-
+स्तथाभाब्य: V. Pr. I. 120. See ताथा-
+भव्य!.
+
+'''न्यस्त''' name given to अनुदात्त or the
+grave tone cf मात्रा न्यस्ततरेकेषामुभे
+ब्यfळि: समस्चरे R. Pr. III. 17 whee
+Uvvata explains न्यस्ततरा as अनुदात्ततरा.
+
+'''न्याय''' maxim, a familiar or patent
+instance quoted to explain simi-
+lar cases; cf the words अथिीकरवाणि-
+न्याय M. Bh. on P. II 2.24, अपवाद-
+न्याय M. Bh. on P. I. 8. 9, अावर्व-
+कुन्याय् M. Bh. on P. IV. 1. 88, 89,
+IV. 2.60, IV.3.131, V. 1.7, 28, VI
+2. 11 ; कुम्भीधान्यन्याय M.Bh. on P. .
+3-7, कूपखानक्रन्याय M.Bh. I. 1. Ahnka
+1, दण्डिन्याय M.Bh. on P. VIII.2.83,
+नष्टाश्वदग्धरथन्याय M. Bh. on P. I.1.50
+प्रधानाप्रधानन्यायM.Bh.on P.II.1.69,VI.
+8. 82, प्रासादवासिन्याय M. Bh. on P. .
+1.8,मांसुर्कण्टकन्यायM.Bh. on P.I.2.39,
+लट्वानुकर्षणन्याय M.Bh. on Siva Sतु
+2 Vart. 5, दालिपलालन्याय M.Bh on P.
+1.2.39,सूत्रदाटकन्याय M.Bh. on P. I.3.
+12, The word came to be used
+, in the general sense of Paribhas
+{{Multicol-break}}
+or rules of interpretation many of
+which were based upon popular
+maxims as stated in the word
+लेीकन्यायसिद्ध by Nagesa. Hemacan-
+dra has used the word न्याय for
+Paribhs्-vacana.The word is also
+used in the sense of a general rule
+which . has got some exceptions,
+cf न्यायैर्मिश्रानपवादान् प्रतीयात् R. Pr.
+which lays down the direction
+that fone should interpret the rule
+laying down an exception along
+with the general rule'.
+
+'''न्यायरत्नमञ्जूषा''' a work dealing with
+Vyakarana Paribhass or maxims
+as found in Hemacandra's system
+of grammar, written bv Hema-
+hatiasaganin, a pupil of Ratna-
+. sekhara, in 145 1. The author has
+written a commentary also on the
+work, named Nyasa.
+
+'''न्यायसंग्रह''' a work enumerating the
+Paribhss in Hemacandra's gram-
+mar, numbering 140 nyayas out
+of which 57 nyayas are said to
+have been given by Hemacandra
+himself at the,end of his comment
+वृहृद्वृति on his Sabdanussana. The
+work is written by महंसगणि who
+has added a commentary to it
+called Nyayarthamanjusa by him,
+which is also known by the name
+न्यायरत्नमञ्जूषा which see above.
+
+'''न्यायसंहित''' combined euphonically ac-
+cording to rules of grammar cf.
+तद्वति ताद्धते न्यायसंहृितं चत्explained as
+ब्याकरणशास्त्रोक्तसंधमत् V. Pr.'V. 8 com.
+
+'''न्याया3द्ध''' established by a maxim;with
+full justification : cf. न्यायासद्धमेवैतंत् M.
+Bh.on W.1.19.The word is used as
+opposed to ज्ञापकासेद्व by Nagesa: cf.
+Par. Sek. Pari. 1.
+
+'''न्यायार्थमञ्जूषा''' a name given to न्याय-
+रत्नमञ्जूषा. See न्यायरत्नमञ्जूषा.
+न्याय proper; fully justified न्यायादन-
+पेतर्cf PIV.4.92: correct: regular
+
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="1" user="Mamatha cs" /></noinclude>
+    {{RunningHeader|left='''न्यास'''|center='''213'''|right='''पक्ष'''}}
+{{rule}}
+{{Multicol}}
+   
+cf यञ्ज्भ्यामुक्तत्वादर्थस्य न्याय्योत्पत्तिर्न भवि-
+ष्यति M. Bh. on II.3.1 where Kai-
+yata however, explains the word
+differently. Kaiyata states that
+न्याय्य means a general rulex cf.उत्स
