@@ -13,14 +13,23 @@ do
 	  timestamp=$(stat -c %y *.babylon| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
 	fi
 	if [[ -z $timestamp ]]; then
-	  timestamp=$(stat -c %y *.dict| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
+	  timestamp=$(stat -c %y *.ifo| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
 	fi
 	
 	tarfile="${base}__${timestamp}.tar.gz"
 	if [ -f "${base}.dict.dz" ]; then
 	  tar -czf "${tarfile}" `ls *.idx *.dz *.ifo *.syn`
+	  
+	  # Uncompress and store?
+	  # dictunzip "${base}.dict.dz"
+	  # tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
 	else
-	  tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
+	  # tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
+	  
+	  # Compress and store?
+	  dictzip "${base}.dict"
+	  rm "${base}.dict"
+	  tar -czf "${tarfile}" `ls *.idx *.dz *.ifo *.syn`
 	fi
 	mv "$tarfile" ../tars/
 	cd ..

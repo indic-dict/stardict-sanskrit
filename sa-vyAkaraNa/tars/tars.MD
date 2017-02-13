@@ -3,9 +3,16 @@
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-anuvRtti__2017-02-11_22-01-04.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-english__2017-02-11_22-01-01.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/balamanorama__2017-02-11_22-00-02.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A1-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A2-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A3-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A4-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A5-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-B-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhAtupATha-sa__2017-02-11_22-00-05.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhAtupradIpa__2017-02-11_22-00-08.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhaval-tiNanta__2017-02-11_22-00-58.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/grammar-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/jnu-tiNanta__2017-02-11_22-01-12.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/kashika__2017-02-11_22-00-08.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/kRdanta-rUpa-mAlA__2016-06-27_08-55-56.tar.gz>

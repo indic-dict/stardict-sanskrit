@@ -1,8 +1,9 @@
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/amara-onto__2016-02-22_16-57-51.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/apte-sa__2015-11-30_11-40-05.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/kalpadruma-sa__2016-02-22_16-57-52.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/mw-sa__2016-02-22_16-57-54.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara__2016-02-22_16-57-57.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/spokensanskrit__2016-09-01_15-14-17.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vAchaspatyam-sa__2016-02-22_16-57-58.tar.gz>
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vedic-rituals-hi__2016-08-31_13-13-08.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/amara-onto__2016-06-27_18-41-50.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/apte-sa__2016-06-27_18-41-29.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/dictionnaire-heritage_du_sanskrit_san-fra__2015-03-28_06-03-50.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/kalpadruma-sa__2016-06-27_18-39-16.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/mw-sa__2016-06-27_18-40-41.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara__2016-06-27_18-38-55.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/spokensanskrit__2016-09-01_18-47-05.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vAchaspatyam-sa__2016-06-27_18-41-45.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vedic-rituals-hi__2016-06-27_18-41-47.tar.gz>
