@@ -3,8 +3,10 @@
 
 import java.io._
 
+import org.slf4j.LoggerFactory
+
 import scala.io.Source
-val infileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.txt"
+val infileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.csv"
 val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.babylon"
 val src = Source.fromFile(infileStr, "utf8")
 val outFileObj = new File(outfileStr)
@@ -16,11 +18,11 @@ val log = LoggerFactory.getLogger("dcsfr")
 var failedLineCount = 0
 src.getLines.foreach(inLine => {
   val entry = inLine.split(",")
-  if(entry.length != 6) {
-    log warn "Could not parse: " + entry
+  if(entry.length != 5) {
+    log warn "Could not parse: " + entry.mkString(",")
     failedLineCount += 1
   } else {
-
+    
   }
 })
 //outText = outText.replaceAll("\\{\\{outdent\\|", "")

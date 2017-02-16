@@ -6,6 +6,12 @@ import java.io._
 import org.slf4j.LoggerFactory
 
 import scala.io.Source
+
+val log = LoggerFactory.getLogger("abhyankarabot")
+
+log info "Doing nothing. Test run. exiting."
+exit()
+
 val infileStr = "/home/vvasuki/stardict-sanskrit/sa-vyAkaraNa/abhyankara-grammar/abhyankara-grammar.txt"
 val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-vyAkaraNa/abhyankara-grammar/abhyankara-grammar.babylon"
 val src = Source.fromFile(infileStr, "utf8")
@@ -13,7 +19,7 @@ val outFileObj = new File(outfileStr)
 new File(outFileObj.getParent).mkdirs
 val destination = new PrintWriter(outFileObj)
 
-val log = LoggerFactory.getLogger("abhyankarabot")
+
 
 var outText = src.getLines.mkString("\n")
 outText = outText.replaceAll("<noinclude>.+</noinclude>", "")
