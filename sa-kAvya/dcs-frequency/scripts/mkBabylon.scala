@@ -2,15 +2,13 @@
 // PATH_TO_SANSKRITNLPJAVA=/home/vvasuki/sanskritnlpjava/target
 // scala -classpath "$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" stardict-sanskrit/sa-kAvya/dcs-frequency/scripts/mkBabylon.scala
 
-
-
 import java.io._
-import net.liftweb.json.DefaultFormats
-import net.liftweb.json._
 
 import org.slf4j.LoggerFactory
 
 import scala.io.Source
+val log = LoggerFactory.getLogger("dcsfr")
+
 val textFileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.csv"
 
 case class Text (
@@ -37,12 +35,19 @@ case class Text (
 )
 
 def GetTexts = {
+  import net.liftweb.json.DefaultFormats
+  import net.liftweb.json._
   implicit val formats = DefaultFormats
   val src = Source.fromFile(textFileStr, "utf8")
   val jsonStr = src.getLines().mkString("\n")
-  val textListJson = parse(jsonStr)
-
+  val textListJson = parse(""" "Text": 100 """)
+//  for (textJason <- (textListJson \\ "Texts").children) {
+//    val text = textJason.extract[Text]
+//    log info text.toString
+//  }
 }
+
+GetTexts
 
 val infileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.csv"
 val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.babylon"
@@ -50,8 +55,6 @@ val src = Source.fromFile(infileStr, "utf8")
 val outFileObj = new File(outfileStr)
 new File(outFileObj.getParent).mkdirs
 val destination = new PrintWriter(outFileObj)
-
-val log = LoggerFactory.getLogger("dcsfr")
 
 var failedLineCount = 0
 src.getLines.foreach(inLine => {
