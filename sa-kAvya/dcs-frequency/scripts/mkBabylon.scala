@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory
 import scala.io.Source
 val log = LoggerFactory.getLogger("dcsfr")
 
-val textFileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/dcs-frequency.csv"
+val textFileStr = "/home/vvasuki/stardict-sanskrit/sa-kAvya/dcs-frequency/text2.json"
 
 case class Text (
   Number:Int,
@@ -40,11 +40,11 @@ def GetTexts = {
   implicit val formats = DefaultFormats
   val src = Source.fromFile(textFileStr, "utf8")
   val jsonStr = src.getLines().mkString("\n")
-  val textListJson = parse(""" "Text": 100 """)
-//  for (textJason <- (textListJson \\ "Texts").children) {
-//    val text = textJason.extract[Text]
-//    log info text.toString
-//  }
+  val textListJson = parse(jsonStr)
+  for (textJason <- (textListJson \\ "Texts").children) {
+    val text = textJason.extract[Text]
+    log info text.toString
+  }
 }
 
 GetTexts
