@@ -8,7 +8,7 @@ for dir in */
 do
 	base=$(basename "$dir")
 	cd $dir
-	timestamp=$(stat -c %y *.babylon_final| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
+	timestamp=$(stat -c %y *.babylon| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
 	if [[ -z $timestamp ]]; then
 	  timestamp=$(stat -c %y *.babylon| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
 	fi
