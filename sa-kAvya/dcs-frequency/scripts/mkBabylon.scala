@@ -124,10 +124,14 @@ src.getLines.foreach(inLine => {
     val grammar_hint = entry(1) + " " + entry(2)
     //    log debug (word)
     //    log debug entry(3).split(";").mkString(" ")
-    val textOccurances = entry(3).split(";").map(_.split(":"))
+    val textOccurances = entry(3).split(";").map(_.split(":")).map(x => Tuple2(texts(x(0)), x(1).toInt))
     val totalFrequency = entry(4)
-    var occuranceString = f"Occurances:<BR>"
-    occuranceString += textOccurances.sortBy(_(1).toInt).map(x => texts(x(0)).TextName + ": " + x(1)).mkString("<BR>")
+    var occuranceString = f"By text:<BR>"
+    occuranceString += textOccurances.sortBy(-_._2).map(x => x._1.TextName + ": " + x._2).mkString("<BR>")
+    occuranceString += f"By author:<BR>"
+    occuranceString += textOccurances.map(x => Tuple2(x._1.Authors, x._2)).groupBy(_._1).mapValues(x => (x(0)._1, x.map(_._2).sum)).values.toList.sortBy(-_._2).map(x => x._1 + ": " + x._2).mkString("<BR>")
+    occuranceString += f"By subject:<BR>"
+    occuranceString += textOccurances.map(x => Tuple2(x._1.Subject, x._2)).groupBy(_._1).mapValues(x => (x(0)._1, x.map(_._2).sum)).values.toList.sortBy(-_._2).map(x => x._1 + ": " + x._2).mkString("<BR>")
     val dict_entry = f"$word%s<BR>$grammar_hint%s<BR>$occuranceString%s<BR>Total: $totalFrequency%s<BR>"
 
     destination.println(iast.toDevanagari(word).get)
