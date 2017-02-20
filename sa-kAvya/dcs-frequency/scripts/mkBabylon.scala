@@ -140,18 +140,6 @@ src.getLines.foreach(inLine => {
   }
 })
 
-//outText = outText.replaceAll("\\{\\{outdent\\|", "")
-//outText = outText.replaceAll("(left|right|center)[ =]+[']+.+?[']+", "")
-//Range(1,10).foreach(_ => {
-//  outText = outText.replaceAll("(?s)\\{\\{[^}]+?\\}\\}", "")
-//})
-//Range(1,10).foreach(_ => {
-//  outText = outText.replaceAll("\n(?=[^'\n])", " ")
-//  outText = outText.replaceAll("\n(?='[^'\n])", " ")
-////  outText = outText.replaceAll("\n(?=''[^'\n])", " ")
-//})
-//outText = outText.replaceAll(" +", " ")
-
 //entryLines.foreach(destination.println)
 destination.close()
 log warn "Failed on " + failedLineCount + " lines"
