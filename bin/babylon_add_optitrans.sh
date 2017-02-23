@@ -14,6 +14,8 @@ if (args.nonEmpty) {
 }
 val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filter(_.getName.matches(files_to_process)).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
 
+println(s"Got ${babylon_files.length} files")
+
 babylon_files.foreach(file => {
   if (files_to_ignore contains file) {
 	  println(f"skipping $file")

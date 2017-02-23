@@ -8,7 +8,7 @@ dicts=*
 all:final_babylon stardict tars
 
 final_babylon:
-	bash ../bin/babylon_add_optitrans.sh $(dicts)
+	bash ../bin/babylon_add_optitrans.sh *
 
 stardict:
 	bash ../bin/tsv_to_stardict.sh
