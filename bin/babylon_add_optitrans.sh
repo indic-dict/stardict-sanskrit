@@ -12,7 +12,10 @@ var files_to_process = ".*"
 if (args.nonEmpty) {
   files_to_process = args(0)
 }
-val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filter(_.getName.matches(files_to_process)).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
+println(s"files_to_process ${files_to_process}")
+
+// Not doing .filter(_.getName.matches(files_to_process))
+val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
 
 println(s"Got ${babylon_files.length} files")
 
