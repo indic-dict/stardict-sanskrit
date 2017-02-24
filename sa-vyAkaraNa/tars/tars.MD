@@ -1,4 +1,4 @@
-<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/abhyankara-grammar__2017-02-11_22-13-07.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/abhyankara-grammar__2017-02-23_20-48-43.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/AkhyAtachandrikA__2016-02-20_16-15-34.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-anuvRtti__2016-02-20_17-43-14.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-english__2016-02-29_18-09-09.tar.gz>
@@ -20,5 +20,6 @@
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/laghu-kaumudi__2016-02-20_17-43-23.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/mAdhavIya-dhAtu-vRtti__2016-02-20_16-15-37.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/nyasa__2016-02-20_18-36-58.tar.gz>
+<https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/padamanjarI__2017-02-24_10-31-15.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/siddhAnta-kaumudI__2017-02-23_08-50-52.tar.gz>
 <https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/tattvabodhini__2016-02-20_17-43-39.tar.gz>
