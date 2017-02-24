@@ -9,9 +9,6 @@ import scala.io.Source
 
 val log = LoggerFactory.getLogger("abhyankarabot")
 
-log info "Doing nothing. Test run. exiting."
-exit()
-
 val infileStr = "/home/vvasuki/stardict-sanskrit/sa-vyAkaraNa/abhyankara-grammar/abhyankara-grammar.txt"
 val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-vyAkaraNa/abhyankara-grammar/abhyankara-grammar.babylon"
 val src = Source.fromFile(infileStr, "utf8")
@@ -22,18 +19,22 @@ val destination = new PrintWriter(outFileObj)
 
 
 var outText = src.getLines.mkString("\n")
+Range(1,10).foreach(_ => {
+  // If a line does not start with ''', it is not a separate entry - unless there is an error in the wiki markup.
+  // So, such a line can be merged with the previous line.
+  outText = outText.replaceAll("\n(?=[^'\n])", " ")
+  outText = outText.replaceAll("\n(?='[^'\n])", " ")
+  //  outText = outText.replaceAll("\n(?=''[^'\n])", " ")
+})
+outText = outText.replaceAll(" +", " ")
+
 outText = outText.replaceAll("<noinclude>.+</noinclude>", "")
 outText = outText.replaceAll("\\{\\{outdent\\|", "")
 outText = outText.replaceAll("(left|right|center)[ =]+[']+.+?[']+", "")
 Range(1,10).foreach(_ => {
+  // Replace stuff like {{rule}}
   outText = outText.replaceAll("(?s)\\{\\{[^}]+?\\}\\}", "")
 })
-Range(1,10).foreach(_ => {
-  outText = outText.replaceAll("\n(?=[^'\n])", " ")
-  outText = outText.replaceAll("\n(?='[^'\n])", " ")
-//  outText = outText.replaceAll("\n(?=''[^'\n])", " ")
-})
-outText = outText.replaceAll(" +", " ")
 
 val entryLines = outText.split("\n").map(_.trim).filter(_.nonEmpty)
 //entryLines.foreach(destination.println)
