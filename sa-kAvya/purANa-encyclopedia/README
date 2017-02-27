@@ -1,126 +1,21 @@
-###This file tracks update history
+file petxt2html.sh bash file,  creates babylon and wiki files from pe.txt file; it creates minimum 20 temp files too in same directory for headers , transliterations etc... it will take 15 minutes, as it have to transliterate, organise, hyperlink, pagelink, htmlify, wikify. 
 
-11/04/2016
-------------------------------------
+<Poem> tags defined to <blockquote class="pe_padyam">
+<C1>,<C2>,....  are defined into tables <t[rd] class="pe_paTTika"> 
+all other tags were created to organise.
 
-1. first update
-
-2. devanagari, opttitrans, and extra patched words for annusvaara, deerghas, 
-   and telugu , varga  pancchamas ,IAST words ,all are created and added to headwords.
-   IAST words are for linking purpose as, all names in description of words are formatted
-   to IAST for reading.., and when double clicking them these headers will be  used.
-
-3. All description is cleaned, and neatly formatted for using  screenspace effectively.
-   And all book size specific new lines  cleaned, and added clean newlines.
-   in description,all coded words are transformed to IAST. like 'Ra1van2a' to 'Rāvaṇa', like so.
-
-4. Search terms expanssion  done. like if in source there is  <HI>BHA1RATA (MAHA1BHA1RATA) .
-   is there, then changed it to 'bhaarata|mahaabhaarata' , so that words in brackets
-   also can be searchable. And for words like 'ADR2S4YA (M)', it is expanded like
-   'adRshya|adRshyaM'. i.e if option is there in brackets to append, then created
-   new appended word and  added it to headers.
-
-5. Padya layout preserved. As there are padyas in description, and they all are displayed
-   with indent, and formatting.. those indent and formatting  are preserved , with out
-   effecting others. search DHṚTARĀṢṬRA for example.
-
-6. Tables are some how preserved. but not effective desplay. will be improved next updates,
-
-7. foot notes are kept. and next update display will be much better for footnotes  too.
-
-8. Some main words like 'JA1NAKI I', etc are wrongly coded as sub words, even though they
-   are main words. These errors of original text file fixed, and all such are searched, and
-   transformed to main words, by comparing with print book.
-
-9. Roman numerals are transformed to hindu decimal numerals in headers.like if headword is
-   like 'SUDARS4NA VIII' ,then it is transformed to 'sudarshana 8' in header words.And IAST
-   also kept in headers as mentioned before for linking , when double clicked.
-
-10.All head words lists are provided. angla.list is for english headwords,deva.list for hindi
-   IAST.list for iast, and  telugu.list for telugu. 
-
-....And so many other minor things.
-
-
-TO DO
--------------------------------------
-
-1.giving original book page number, the word belongs to, at end of each word deescription.
-
-2.using bgl compiler for enabling tags for bold and italic, color values,formaatting etc displaying.
-
-3.Creating mucch more neat display for tables, when ever they occur.
-
-4.Adding foot notes at end  of word, which it is referring to.
-
-5.Mainly, adding hrasvas. as for sounds 'e' and 'o' ,are not distinguishable, as for both
-  same letters are used.. we have to manually check and prepare list.. and thus can transliterate
-  into  southern languages, with out error.
-
-6.Adding other language headwords, as all characters names are completely same in all.
-
-6.Removing errors if any.
-
-
-And so many like
-Creating html files for all words. for all other usages. etc...
-
--------------------------------------------------------------------------------------------------
+example words : krishna, bhaarata, bharata, puraana, raama, 
 
 
 
-13/04/2016
------------------------------------------
-1.Many fixes  
-
-2.Telugu transliteration is completely corrected. now it is errorless as much possible.
-
-3.Very Importaant feature,  now added page number and position of word in original book
-  at end  of each word,, neatly formatted. address is for example  like
-  '6th word in left half of page 679 in original book' . this will greatly
-  easifies referring, and oother.
-
-4. Paadya layout improved.
-
-5.Digit orders in head words like abhimanyu 1 etc,completely removed for iast head words.
-  as when double clicking name in description, it is redirecting to list of those words, instead
-  of giving description of all at one page. Now it is fixed by this,
-
-6.Like previous, Digit orders removed for normal english head words too.
-  as we searcch mostly with them, instead of giving all list it now gives
-  single entry with out digits, and contain all details.same with telugu  words too.
-
-7.Due to these changes, when we click on that unified entry, we will get all
-  those results in one page.but with same bold titles for all entries. it displays
-  first headword of that entry as bold title. that's why we kept devanagari entry
-  as first entry in heaadwords.. to display devanagari headword as bold title.
-  and IAST headword is there in description. So first devanagari entry is mainly
-  intended for display, along with search. So in devanagari headwords, digits are
-  not removed. as there is no problem for double clicking, linking with these words.
-  And an Unified digit  less devanagari word also is appended,and it will be first
-  result, when you  searched in devnagari, as normal.
-
-8.By these changes , now no problem when double clicked, 
-  no numbered lists when searched in english, but unified entry.
-  when searched in devanagari, though numbered lists desplayed
-  but unified entry only first option to click.
-  And thus display is not cubersome.titles are well defferentiated.
-  and can  differentiate words in source file too.
-
-9 And a lot of improvements.
 
 
-18/04/2016
-----------------------------------------
 
-1. Telugu transliteration is improved.
 
-2. mainly kannada transliteration added.
 
-3. Rutvam patches added. Like, when i want to search for kanhaji, i type kRiShNa
-   instead of KRShNa , and if i want to search for adrushyam, i type adRushyaM
-   instead of adRshyaM. so when Ritvam occured, for some words we add 'i' after 'R'
-   or 'u' for some. So these extra words added. and previous version also kept.
+
+
+
 
 
 
