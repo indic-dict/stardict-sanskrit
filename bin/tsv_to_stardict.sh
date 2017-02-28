@@ -14,7 +14,7 @@ do
   fi
 done
 
-for babylon_file in `ls */*.babylon`
+for babylon_file in `ls */*.babylon*`
 do
   final_file=`ls $babylon_file|sed s/\.babylon$/.babylon_final/`;
   if [[ -e $final_file ]]
