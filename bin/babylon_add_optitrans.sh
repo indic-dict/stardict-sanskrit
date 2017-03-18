@@ -1,29 +1,3 @@
 #!/bin/sh
 PATH_TO_SANSKRITNLPJAVA=/home/vvasuki/sanskritnlpjava/target
-exec scala -classpath "$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" "$0" "$@"
-!#
-println("hello")
-
-import sys.process._
-import java.io.File
-import sanskritnlp.transliteration._
-val files_to_ignore = Set("spokensanskrit.babylon")
-var files_to_process = ".*"
-if (args.nonEmpty) {
-  files_to_process = args(0)
-}
-println(s"files_to_process ${files_to_process}")
-
-// Not doing .filter(_.getName.matches(files_to_process))
-val babylon_files = new java.io.File( "." ).listFiles.filter(_.isDirectory).flatMap(_.listFiles).filter(_.getName.endsWith(".babylon")).filterNot(x => files_to_ignore.contains(x.getName)).map(_.getCanonicalPath)
-
-println(s"Got ${babylon_files.length} files")
-
-babylon_files.foreach(file => {
-  if (files_to_ignore contains file) {
-	  println(f"skipping $file")
-  } else {
-	  println(f"Adding headwords to: $file")
-		sanskritnlp.dictionary.dictTools.addTransliteratedHeadwords(file, ".babylon_final", "dev", "optitrans")
-  }
-})
+scala -classpath "$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" `dirname $0`/scripts/babylon_add_optitrans.scala $@
