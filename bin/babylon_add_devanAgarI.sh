@@ -1,3 +1,4 @@
 #!/bin/sh
 PATH_TO_SANSKRITNLPJAVA=/home/vvasuki/sanskritnlpjava/target
-scala -classpath "$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" `dirname $0`/scripts/babylon_add_devanAgarI.scala $@
+STARDICT_SANSKRIT_SCALA=/home/vvasuki/sanskritnlpjava/out/production/stardict_sanskrit_bin
+scala -classpath "$STARDICT_SANSKRIT_SCALA:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" -e "stardict_sanskrit.batchProcessor.addDevanagari(\"$1\".replace(\"DICTS=\", \"\"))"
