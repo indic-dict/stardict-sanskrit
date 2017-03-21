@@ -3,6 +3,7 @@ package stardict_sanskrit
 import java.io.File
 
 import org.slf4j.LoggerFactory
+import sys.process._
 
 class Dictionary(val name: String) {
   val log = LoggerFactory.getLogger(getClass.getName)
@@ -61,6 +62,38 @@ object batchProcessor {
       }
     })
     // sys.exit()
+  }
+
+  def makeStardict(file_pattern: String = ".*") = {
+    val directories = getMatchingDirectories(file_pattern)
+    var dictionaries = directories.map(new Dictionary(_))
+
+    def makeStardictFromBabylonFile(filename: String) = {
+      log info (f"Making stardict from: $filename")
+      s"~/stardict/tools/src/babylon $filename".!
+    }
+
+    val dictionaries_with_final_babylon = dictionaries.filter(_.babylonFinalFile.isDefined)
+    log info (s"Got ${dictionaries_with_final_babylon.length} babylon_final files")
+    log warn s"Ignoring these files, which have not been modified: " +
+      dictionaries_with_final_babylon.filter(x => x.tarFile.isDefined && (x.tarFile.get.lastModified > x.babylonFinalFile.get.lastModified)).mkString("\n")
+    dictionaries_with_final_babylon = dictionaries_with_final_babylon.filterNot(x => x.tarFile.isDefined && (x.tarFile.get.lastModified > x.babylonFinalFile.get.lastModified))
+    val babylon_files = dictionaries_with_final_babylon.map(_.babylonFinalFile)
+
+    babylon_files.map(_.get.getCanonicalPath).foreach(file => {
+      makeStardictFromBabylonFile(file)
+    })
+
+    var dictionaries_without_final_babylon = dictionaries.filter(x => x.babylonFile.isDefined && !x.babylonFinalFile.isDefined)
+    log info (s"Got ${dictionaries_without_final_babylon.length} dicts without babylon_final files but with babylon file.")
+    log warn s"Ignoring these files, which have not been modified: " +
+      dictionaries_without_final_babylon.filter(x => x.tarFile.isDefined && (x.tarFile.get.lastModified > x.babylonFile.get.lastModified)).mkString("\n")
+    dictionaries_without_final_babylon = dictionaries_without_final_babylon.filterNot(x => x.tarFile.isDefined && (x.tarFile.get.lastModified > x.babylonFile.get.lastModified))
+    dictionaries_without_final_babylon.map(_.babylonFile)
+
+    babylon_files.map(_.get.getCanonicalPath).foreach(file => {
+      makeStardictFromBabylonFile(file)
+    })
   }
 
   def addDevanagari(file_pattern: String = ".*") = {
