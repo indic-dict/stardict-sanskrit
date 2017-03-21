@@ -13,5 +13,5 @@ stardict:
 
 	
 tars:
-	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa
+	bash ../bin/make_tarballs.sh DICTS=$(DICTS)  https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa
 

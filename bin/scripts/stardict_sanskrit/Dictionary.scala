@@ -66,14 +66,14 @@ object batchProcessor {
 
   def makeStardict(file_pattern: String = ".*") = {
     val directories = getMatchingDirectories(file_pattern)
-    var dictionaries = directories.map(new Dictionary(_))
+    val dictionaries = directories.map(new Dictionary(_))
 
     def makeStardictFromBabylonFile(filename: String) = {
       log info (f"Making stardict from: $filename")
       s"~/stardict/tools/src/babylon $filename".!
     }
 
-    val dictionaries_with_final_babylon = dictionaries.filter(_.babylonFinalFile.isDefined)
+    var dictionaries_with_final_babylon = dictionaries.filter(_.babylonFinalFile.isDefined)
     log info (s"Got ${dictionaries_with_final_babylon.length} babylon_final files")
     log warn s"Ignoring these files, which have not been modified: " +
       dictionaries_with_final_babylon.filter(x => x.tarFile.isDefined && (x.tarFile.get.lastModified > x.babylonFinalFile.get.lastModified)).mkString("\n")
