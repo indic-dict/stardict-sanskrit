@@ -15,5 +15,5 @@ stardict:
 	bash ../bin/tsv_to_stardict.sh DICTS=$(DICTS)
 	
 tars:
-	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya
+	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya DICTS=$(DICTS)
 

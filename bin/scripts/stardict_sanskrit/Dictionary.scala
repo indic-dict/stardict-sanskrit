@@ -13,6 +13,8 @@ class Dictionary(val name: String) {
   var babylonFinalFile: Option[File] = None
   var ifoFile: Option[File] = None
   var tarFile: Option[File] = None
+  var dictFile: Option[File] = None
+  var dictdzFile: Option[File] = None
 
   def this(dirFileIn: java.io.File ) = {
     this(dirFileIn.getName)
@@ -23,6 +25,8 @@ class Dictionary(val name: String) {
     tarFile = dirFile.getParentFile.listFiles.filter(_.getName.matches(s".*/?tars")).headOption.get.listFiles.
       filter(_.getName.matches(s".*/?${dirName}.*.tar.gz")).headOption
     ifoFile = dirFile.listFiles.filter(_.getName.equals(s"${dirName}.ifo")).headOption
+    dictFile = dirFile.listFiles.filter(_.getName.equals(s"${dirName}.dict")).headOption
+    dictdzFile = dirFile.listFiles.filter(_.getName.equals(s"${dirName}.dict.dz")).headOption
     log debug toString
   }
 
@@ -94,6 +98,11 @@ object batchProcessor {
     babylon_files.map(_.get.getCanonicalPath).foreach(file => {
       makeStardictFromBabylonFile(file)
     })
+  }
+
+  def makeTars(urlBase: String, file_pattern: String = ".*") = {
+    // Get timestamp.
+
   }
 
   def addDevanagari(file_pattern: String = ".*") = {

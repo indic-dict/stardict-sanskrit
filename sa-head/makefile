@@ -16,5 +16,5 @@ stardict:
 
 	
 tars:
-	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head
+	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head DICTS=$(DICTS)
 

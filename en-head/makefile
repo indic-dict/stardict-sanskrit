@@ -13,7 +13,7 @@ stardict:
 	bash ../bin/tsv_to_stardict.sh DICTS=$(DICTS)
 
 tars:
-	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head
+	bash ../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/en-head DICTS=$(DICTS)
 	
 decompile:
 	# Note: cannot usefully decompile apte-bi and mw-bi
