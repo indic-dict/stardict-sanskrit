@@ -9,7 +9,7 @@ With sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon as an example:
 * Change directory to sa-vyAkaraNa.
 * Run: make DICTS='laghu-kaumudi'. This will run the commands listed in sa-vyAkaraNa/makefile sequentially. All dictionaries and tars under sa-vyAkaraNa will be rebuilt as of 20160321.
 * Watch out for errors and warnings.
-* If you are satisfied with the output, commit and push.
+* If you are satisfied with the output, add (preferably only the files you intended to change), commit and push.
 
 
 # Other notes
