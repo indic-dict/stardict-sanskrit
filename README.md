@@ -1,4 +1,8 @@
-# Updating dictionary files for distribution
+# I just want to grab latest files for stardict
+
+`git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git`
+
+# Updating dictionary files for distribution (developer instructions)
 ## Initial  setup.
 * Install the latest stardict tools package (<https://sourceforge.net/projects/stardict-4/files/3.0.1/stardict-tools-3.0.1.tar.bz2/download>) in the stardict your home directory (accessible with ~ in linux).
 * Clone <https://github.com/sanskrit-coders/sanskritnlpjava> in your home directory.
