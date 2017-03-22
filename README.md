@@ -2,7 +2,7 @@
 ## Initial  setup.
 * Install the latest stardict tools package (<https://sourceforge.net/projects/stardict-4/files/3.0.1/stardict-tools-3.0.1.tar.bz2/download>) in the stardict your home directory (accessible with ~ in linux).
 * Clone <https://github.com/sanskrit-coders/sanskritnlpjava> in your home directory.
-* Clone this repo.
+* Clone this repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git` to get just the latest files.)
 
 With sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon as an example:
 * Update the babylon file.
