@@ -80,13 +80,13 @@ object batchProcessor {
     // sys.exit()
   }
 
-  def makeStardict(file_pattern: String = ".*") = {
+  def makeStardict(file_pattern: String = ".*", babylon_binary: String) = {
     val directories = getMatchingDirectories(file_pattern)
     val dictionaries = directories.map(new Dictionary(_))
 
     def makeStardictFromBabylonFile(filename: String) = {
       log info (f"Making stardict from: $filename")
-      s"~/stardict/tools/src/babylon $filename".!
+      s"$babylon_binary $filename".!
     }
 
     var dictionaries_with_final_babylon = dictionaries.filter(_.babylonFinalFile.isDefined)
@@ -105,9 +105,7 @@ object batchProcessor {
     log warn s"Ignoring these files, whose dict files seem updated: " +
       dictionaries_without_final_babylon.filter(x => x.ifoFile.isDefined && (x.ifoFile.get.lastModified > x.babylonFile.get.lastModified)).mkString("\n")
     dictionaries_without_final_babylon = dictionaries_without_final_babylon.filterNot(x => x.ifoFile.isDefined && (x.ifoFile.get.lastModified > x.babylonFile.get.lastModified))
-    dictionaries_without_final_babylon.map(_.babylonFile)
-
-    babylon_files.map(_.get.getCanonicalPath).foreach(file => {
+    dictionaries_without_final_babylon.map(_.babylonFile).map(_.get.getCanonicalPath).foreach(file => {
       makeStardictFromBabylonFile(file)
     })
   }
