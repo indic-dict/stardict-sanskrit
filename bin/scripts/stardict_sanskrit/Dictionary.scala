@@ -1,8 +1,10 @@
 package stardict_sanskrit
 
-import java.io.File
+import java.io.{File, PrintWriter}
 
+import org.apache.commons.compress.archivers.tar.TarArchiveEntry
 import org.slf4j.LoggerFactory
+
 import sys.process._
 
 class Dictionary(val name: String) {
@@ -16,30 +18,67 @@ class Dictionary(val name: String) {
   var dictFile: Option[File] = None
   var dictdzFile: Option[File] = None
 
-  def babylonFinalFileNewerThanBabylon(): Boolean = {
-    babylonFinalFile.isDefined && (babylonFinalFile.get.lastModified > babylonFile.get.lastModified)
-  }
-
-  def ifoFileNewerThanBabylon(): Boolean = {
-    if (babylonFinalFile.isDefined) {
-      ifoFile.isDefined && (ifoFile.get.lastModified > babylonFinalFile.get.lastModified)
-    } else {
-      ifoFile.isDefined && (ifoFile.get.lastModified > babylonFile.get.lastModified)
-    }
-  }
-
   def this(dirFileIn: java.io.File ) = {
     this(dirFileIn.getName)
     dirFile = dirFileIn
     dirName = dirFile.getName.replaceAll(".*/", "")
-    babylonFile = dirFile.listFiles.filter(_.getName.matches(s".*/?${dirName}.babylon")).headOption
-    babylonFinalFile = dirFile.listFiles.filter(_.getName.matches(s".*/?${dirName}.babylon_final")).headOption
-    tarFile = dirFile.getParentFile.listFiles.filter(_.getName.matches(s".*/?tars")).headOption.get.listFiles.
-      filter(_.getName.matches(s".*/?${dirName}.*.tar.gz")).headOption
-    ifoFile = dirFile.listFiles.filter(_.getName.equals(s"${dirName}.ifo")).headOption
-    dictFile = dirFile.listFiles.filter(_.getName.equals(s"${dirName}.dict")).headOption
-    dictdzFile = dirFile.listFiles.filter(_.getName.equals(s"${dirName}.dict.dz")).headOption
+    babylonFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.babylon")).headOption
+    babylonFinalFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.babylon_final")).headOption
+
+    if (getTarDirFile.exists) {
+      tarFile = getTarDirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.*.tar.gz")).headOption
+    }
+    ifoFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.ifo")).headOption
+    dictFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.dict")).headOption
+    dictdzFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.dict.dz")).headOption
     log debug toString
+  }
+
+
+  def babylonFinalFileNewerThanBabylon(): Boolean = {
+    babylonFinalFile.isDefined && (babylonFinalFile.get.lastModified > babylonFile.get.lastModified)
+  }
+
+
+  def getBabylonFile(): File = {
+    if (babylonFinalFile.isDefined) {
+      babylonFinalFile.get
+    } else {
+      babylonFile.get
+    }
+  }
+
+  def ifoFileNewerThanBabylon(): Boolean = {
+    val babFile = getBabylonFile
+    ifoFile.isDefined && (ifoFile.get.lastModified > babFile.lastModified)
+  }
+
+  def getBabylonTimestampString(): String = {
+    // Format: dhAtupATha-sa__2016-02-20_16-15-35.tar.gz
+    val format = new java.text.SimpleDateFormat("yyyy-MM-dd_HH-mm-ss")
+    format.format(getBabylonFile.lastModified)
+  }
+
+  def makeStardictFromBabylonFile(babylon_binary: String) = {
+    val babFile = getBabylonFile
+    log info (f"Making stardict from: ${babFile.getCanonicalPath}")
+    s"$babylon_binary ${babFile.getCanonicalPath}".!
+  }
+
+  def getExpectedTarFileName: String = s"${dirName}__${getBabylonTimestampString}.tar.gz"
+  def getTarDirFile = new File(dirFile.getParentFile.getCanonicalPath, "/tars")
+
+  def tarFileMatchesBabylon(): Boolean = {
+    tarFile.isDefined && tarFile.get.getName.matches(s".*/?${getExpectedTarFileName}")
+  }
+
+  def makeTar = {
+    if (tarFile.isDefined) {
+      tarFile.get.delete()
+    }
+    val targetTarFile = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName)
+    val filesToCompress = dirFile.listFiles.map(_.getCanonicalPath).filter(x => x.matches(".*\\.ifo|.*\\.idx|.*\\.dz|.*\\.ifo|.*\\.syn"))
+    s"tar -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}".!
   }
 
   override def toString: String =
@@ -52,18 +91,22 @@ object batchProcessor {
   def getMatchingDirectories (file_pattern: String = ".*"): List[java.io.File] = {
     log info (s"file_pattern: ${file_pattern}")
 
-    val directories = new java.io.File( "." ).listFiles.filter(_.isDirectory).filter(x => x.getName.matches(file_pattern))
+    val directories = new java.io.File( "." ).listFiles.filter(_.isDirectory).filter(x => x.getName.matches(s".*/?$file_pattern")).filterNot(_.getName.matches(".*/?tars"))
     log info (s"Got ${directories.length} directories")
     return directories.toList
   }
 
+  def getMatchingDictionaries(file_pattern: String = ".*") = getMatchingDirectories(file_pattern).map(new Dictionary(_)).filter(_.babylonFile.isDefined)
+
   def addOptitrans(file_pattern: String = ".*") = {
+    log info "=======================Adding optitrans headwords, making final babylon file."
     val files_to_ignore = Set("spokensanskrit.babylon")
-    val directories = getMatchingDirectories(file_pattern)
-    var dictionaries = directories.map(new Dictionary(_)).filter(_.babylonFile.isDefined)
+    var dictionaries = getMatchingDictionaries(file_pattern)
     log info (s"Got ${dictionaries.length} babylon files")
-    log warn s"Ignoring these files, whose final babylon files seem updated: " +
-      dictionaries.filter(_.babylonFinalFileNewerThanBabylon).mkString("\n")
+    var dictsToIgnore = dictionaries.filter(_.babylonFinalFileNewerThanBabylon())
+    if (dictsToIgnore.nonEmpty) {
+      log warn s"Ignoring these files, whose final babylon files seem updated:" + dictsToIgnore.mkString("\n")
+    }
     dictionaries = dictionaries.filterNot(_.babylonFinalFileNewerThanBabylon)
     log info (s"Got ${dictionaries.length} babylon files")
 
@@ -81,43 +124,49 @@ object batchProcessor {
   }
 
   def makeStardict(file_pattern: String = ".*", babylon_binary: String) = {
-    val directories = getMatchingDirectories(file_pattern)
-    val dictionaries = directories.map(new Dictionary(_))
+    log info "=======================makeStardict"
+    var dictionaries = getMatchingDictionaries(file_pattern)
 
-    def makeStardictFromBabylonFile(filename: String) = {
-      log info (f"Making stardict from: $filename")
-      s"$babylon_binary $filename".!
+    log info (s"Got ${dictionaries.filter(_.babylonFinalFile.isDefined).length} babylon_final files")
+    log info (s"Got ${dictionaries.filter(x => x.babylonFile.isDefined && !x.babylonFinalFile.isDefined).length}  dicts without babylon_final files but with babylon file.")
+    var dictsToIgnore = dictionaries.filter(_.ifoFileNewerThanBabylon())
+    if (dictsToIgnore.nonEmpty) {
+      log warn s"Ignoring these files, whose dict files seem updated: " + dictsToIgnore.mkString("\n")
     }
-
-    var dictionaries_with_final_babylon = dictionaries.filter(_.babylonFinalFile.isDefined)
-    log info (s"Got ${dictionaries_with_final_babylon.length} babylon_final files")
-    log warn s"Ignoring these files, whose dict files seem updated: " +
-      dictionaries_with_final_babylon.filter(_.ifoFileNewerThanBabylon()).mkString("\n")
-    dictionaries_with_final_babylon = dictionaries_with_final_babylon.filterNot(_.ifoFileNewerThanBabylon())
-    val babylon_files = dictionaries_with_final_babylon.map(_.babylonFinalFile)
-
-    babylon_files.map(_.get.getCanonicalPath).foreach(file => {
-      makeStardictFromBabylonFile(file)
-    })
-
-    var dictionaries_without_final_babylon = dictionaries.filter(x => x.babylonFile.isDefined && !x.babylonFinalFile.isDefined)
-    log info (s"Got ${dictionaries_without_final_babylon.length} dicts without babylon_final files but with babylon file.")
-    log warn s"Ignoring these files, whose dict files seem updated: " +
-      dictionaries_without_final_babylon.filter(x => x.ifoFile.isDefined && (x.ifoFile.get.lastModified > x.babylonFile.get.lastModified)).mkString("\n")
-    dictionaries_without_final_babylon = dictionaries_without_final_babylon.filterNot(x => x.ifoFile.isDefined && (x.ifoFile.get.lastModified > x.babylonFile.get.lastModified))
-    dictionaries_without_final_babylon.map(_.babylonFile).map(_.get.getCanonicalPath).foreach(file => {
-      makeStardictFromBabylonFile(file)
-    })
+    dictionaries = dictionaries.filterNot(_.ifoFileNewerThanBabylon())
+    dictionaries.foreach(_.makeStardictFromBabylonFile(babylon_binary))
   }
 
   def makeTars(urlBase: String, file_pattern: String = ".*") = {
+    log info "=======================makeTars"
     // Get timestamp.
+    var dictionaries = getMatchingDictionaries(file_pattern)
+    log info(s"got ${dictionaries.length} dictionaries which need to be updated.")
+    dictionaries.foreach(_.makeTar)
 
+    def writeTarsList(tarDestination: String) = {
+      val outFileObj = new File(tarDestination + "/tars.MD")
+      val destination = new PrintWriter(outFileObj)
+      outFileObj.getParentFile.listFiles().map(_.getCanonicalFile).filter(_.getName.endsWith("tar.gz")).toList.sorted.foreach(x => {
+        destination.println(s"${urlBase}/${x.getName.replaceAll(".*/", "")}")
+      })
+      destination.close()
+    }
+    if (dictionaries.size > 0) {
+      writeTarsList(dictionaries.head.getTarDirFile.getCanonicalPath)
+    }
   }
 
   def addDevanagari(file_pattern: String = ".*") = {
     val directories = getMatchingDirectories(file_pattern)
     log error "Not implemented"
     throw new Error()
+  }
+
+  def main(args: Array[String]): Unit = {
+    val dir = "test"
+    addOptitrans(dir)
+    makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
+    makeTars("https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars", dir)
   }
 }

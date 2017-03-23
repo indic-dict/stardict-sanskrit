@@ -1,41 +1,5 @@
-urlbase=$1
-set -o verbose
-
-touch tars/tars.MD
-rm tars/*
-touch tars/tars.MD
-for dir in */
-do
-	base=$(basename "$dir")
-	cd $dir
-	timestamp=$(stat -c %y *.babylon| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
-	if [[ -z $timestamp ]]; then
-	  timestamp=$(stat -c %y *.babylon_final| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
-	fi
-	if [[ -z $timestamp ]]; then
-	  timestamp=$(stat -c %y *.ifo| tr " " "_"|tr ":" "-"|cut -d'.' -f 1)
-	fi
-	
-	tarfile="${base}__${timestamp}.tar.gz"
-	if [ -f "${base}.dict.dz" ]; then
-	  tar -czf "${tarfile}" `ls *.idx *.dz *.ifo *.syn`
-	  
-	  # Uncompress and store?
-	  # dictunzip "${base}.dict.dz"
-	  # tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
-	else
-	  # tar -czf "${tarfile}" `ls *.idx *.dict *.ifo *.syn`
-	  
-	  # Compress and store?
-	  dictzip "${base}.dict"
-	  rm "${base}.dict"
-	  tar -czf "${tarfile}" `ls *.idx *.dz *.ifo *.syn`
-	fi
-	mv "$tarfile" ../tars/
-	cd ..
-	if [ -f "tars/${tarfile}" ]; then
-	  echo "<$urlbase/tars/${tarfile}>" >> tars/tars.MD
-	else
-	  echo "did not find ${tarfile}"
-	fi
-done
+#!/bin/sh
+PATH_TO_SANSKRITNLPJAVA=~/sanskritnlpjava/target
+STARDICT_SANSKRIT_SCALA=~/sanskritnlpjava/out/production/stardict_sanskrit_bin
+BABYLON_BINARY=`echo ~/stardict/tools/src/babylon`
+scala -classpath "$STARDICT_SANSKRIT_SCALA:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/lib/*:$PATH_TO_SANSKRITNLPJAVA/sanskritnlp-1.0-SNAPSHOT/WEB-INF/classes" -e "stardict_sanskrit.batchProcessor.makeTars(\"$1\", \"$2\".replace(\"DICTS=\", \"\"))"
