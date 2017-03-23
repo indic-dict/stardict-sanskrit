@@ -19,7 +19,7 @@ With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
 * If you are satisfied with the output, add (preferably only the files you intended to change), commit and push. If not, open an issue.
 
 ### To force update dictionary files
-Sometimes the above may fail due to the script being fooled by the timestamps into thinking that no updates are required. To force updates in such cases:
+Sometimes the above may fail due to the script being fooled by the timestamps into thinking that no updates are required. To force updates in such cases (With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example):
 * Delete these files: `sa-vyAkaraNa/laghu-kaumudi/*.babylon sa-vyAkaraNa/laghu-kaumudi/*.ifo sa-vyAkaraNa/tars/laghu-kaumudi*.tar.gz`
 * Redo the process described above.
 
