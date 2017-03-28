@@ -11,7 +11,6 @@
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:0.9.29" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
     <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
-    <orderEntry type="library" name="Maven: net.liftweb:lift-json_2.11:2.6" level="project" />
     <orderEntry type="library" name="Maven: com.thoughtworks.paranamer:paranamer:2.7" level="project" />
   </component>
 </module>

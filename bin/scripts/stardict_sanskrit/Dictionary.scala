@@ -78,7 +78,9 @@ class Dictionary(val name: String) {
     }
     val targetTarFile = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName)
     val filesToCompress = dirFile.listFiles.map(_.getCanonicalPath).filter(x => x.matches(".*\\.ifo|.*\\.idx|.*\\.dz|.*\\.ifo|.*\\.syn"))
-    s"tar -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}".!
+    val command = s"tar --transform s/.*\\///g -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}"
+    log info command
+    command.!
   }
 
   override def toString: String =
@@ -148,7 +150,7 @@ object batchProcessor {
       val outFileObj = new File(tarDestination + "/tars.MD")
       val destination = new PrintWriter(outFileObj)
       outFileObj.getParentFile.listFiles().map(_.getCanonicalFile).filter(_.getName.endsWith("tar.gz")).toList.sorted.foreach(x => {
-        destination.println(s"${urlBase}/${x.getName.replaceAll(".*/", "")}")
+        destination.println(s"${urlBase}/tars/${x.getName.replaceAll(".*/", "")}")
       })
       destination.close()
     }
@@ -164,9 +166,9 @@ object batchProcessor {
   }
 
   def main(args: Array[String]): Unit = {
-    val dir = "test"
-    addOptitrans(dir)
-    makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
-    makeTars("https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars", dir)
+    val dir = "dhAtupradIpa"
+    // addOptitrans(dir)
+    // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
+    makeTars("https://github.com/sanskrit-coders/stardict-telugu/raw/master/en-head/tars", dir)
   }
 }
