@@ -39,6 +39,10 @@ class Dictionary(val name: String) {
     babylonFinalFile.isDefined && (babylonFinalFile.get.lastModified > babylonFile.get.lastModified)
   }
 
+  def tarFileNewerThanIfo(): Boolean = {
+    tarFile.isDefined && (tarFile.get.lastModified > ifoFile.get.lastModified)
+  }
+
 
   def getBabylonFile(): File = {
     if (babylonFinalFile.isDefined) {
@@ -74,6 +78,7 @@ class Dictionary(val name: String) {
 
   def makeTar = {
     if (tarFile.isDefined) {
+      log info "Deleting " + tarFile.get.getAbsolutePath
       tarFile.get.delete()
     }
     val targetTarFile = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName)
@@ -143,6 +148,15 @@ object batchProcessor {
     log info "=======================makeTars"
     // Get timestamp.
     var dictionaries = getMatchingDictionaries(file_pattern)
+    log info (s"Got ${dictionaries.filter(_.tarFile.isDefined).length} tar files")
+    log info (s"Got ${dictionaries.filter(x => x.ifoFile.isDefined && !x.tarFile.isDefined).length}  dicts without tarFile files but with ifo file.")
+    var dictsToIgnore = dictionaries.filter(_.tarFileNewerThanIfo())
+    if (dictsToIgnore.nonEmpty) {
+      log warn s"Ignoring these files, whose dict files seem updated: " + dictsToIgnore.mkString("\n")
+    }
+    dictionaries = dictionaries.filterNot(_.tarFileNewerThanIfo())
+
+
     log info(s"got ${dictionaries.length} dictionaries which need to be updated.")
     dictionaries.foreach(_.makeTar)
 
