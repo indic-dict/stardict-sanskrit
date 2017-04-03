@@ -6,4 +6,4 @@ https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vAc
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vedic-rituals-hi__2016-06-27_18-41-47.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/aufrecht-catalogus-catalogorum__2017-04-03_09-32-42.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/apte-1890__2017-04-03_08-59-30.tar.gz
-
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/benfey__2017-04-03_21-48-00.tar.gz
