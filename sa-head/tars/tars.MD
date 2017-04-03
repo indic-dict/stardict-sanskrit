@@ -1,4 +1,10 @@
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/ap-1890__2017-04-03_08-59-30.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/aufrecht-catalogus-catalogorum__2017-04-03_09-32-42.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/benfey__2017-04-03_21-48-00.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/macdonell__2017-04-01_10-43-35.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/mw-sa__2016-06-27_18-40-41.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/shabda-sAgara__2016-06-27_18-38-55.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/spokensanskrit__2016-09-01_18-47-05.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vAchaspatyam-sa__2016-06-27_18-41-45.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/vedic-rituals-hi__2016-06-27_18-41-47.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/aufrecht-catalogus-catalogorum__2017-04-03_09-32-42.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/apte-1890__2017-04-03_08-59-30.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/benfey__2017-04-03_21-48-00.tar.gz
+
