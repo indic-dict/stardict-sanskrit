@@ -10,6 +10,7 @@ REPOS=(${FREQUENT_REPOS[@]} ${INFREQUENT_REPOS[@]})
 for repo in "${REPOS[@]}"; 
 do echo processing: $repo;
 cd $repo
+echo doing: $GIT_MODE
 $GIT_MODE
 done;
 cd $CUR_DIR
