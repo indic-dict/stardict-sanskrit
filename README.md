@@ -12,7 +12,10 @@
 
 ## Update dictionary files
 With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
-* If the scripts have changed in some way, do `rm -r /tmp/scala*`. (You can do this anyway - won't hurt.)
+* If the scripts have changed in some way (You can do this anyway - won't hurt.)
+	* do `rm -r /tmp/scala*`.
+	* Update the repositories mentioned in the Initial setup section.
+		* An easy way to do this is to run: `~/stardict-sanskrit/sync_all_repos.sh "git pull"`
 * Update the babylon file.
 * Change directory to sa-vyAkaraNa.
 * Run: make DICTS='laghu-kaumudi'. This will run the commands listed in sa-vyAkaraNa/makefile sequentially. All dictionaries and tars under sa-vyAkaraNa will be rebuilt as of 20160321.

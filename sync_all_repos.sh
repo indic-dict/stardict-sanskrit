@@ -1,4 +1,8 @@
 #! /bin/bash
+shopt -s expand_aliases
+source ~/.bash_aliases.laptop
+
+
 GIT_MODE=$1 # gp or git pull
 set -o verbose
 shopt -s expand_aliases
@@ -9,8 +13,8 @@ INFREQUENT_REPOS=(~/stardict-tamil/ ~/stardict-pali/ ~/stardict-hindi/ ~/stardic
 REPOS=(${FREQUENT_REPOS[@]} ${INFREQUENT_REPOS[@]})
 for repo in "${REPOS[@]}"; 
 do echo processing: $repo;
-cd $repo
-echo doing: $GIT_MODE
-$GIT_MODE
+	cd $repo
+	echo doing: $GIT_MODE
+	$GIT_MODE
 done;
 cd $CUR_DIR
