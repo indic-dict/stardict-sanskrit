@@ -7,4 +7,7 @@ https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/ved
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/aufrecht-catalogus-catalogorum__2017-04-03_09-32-42.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/apte-1890__2017-04-03_08-59-30.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/benfey__2017-04-03_21-48-00.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/bopp__2017-04-04_10-10-27.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/burnouf__2017-04-04_10-14-15.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/tars/edgerton-buddhist-hybrid__2017-04-04_10-13-48.tar.gz
 
