@@ -1,0 +1,13 @@
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/apte-1890__2017-04-02_23-18-23.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/apte-sa__2017-04-02_20-23-08.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/aufrecht-catalogus-catalogorum__2017-04-02_21-28-09.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/benfey__2017-04-03_10-26-12.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/capeller-sanskrit-english__2017-04-05_08-58-12.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/edgerton-buddhist-hybrid__2017-04-04_08-43-21.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/goldstucker__2017-04-05_08-58-12.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/indian-epigraphical-glossary__2017-04-05_08-58-12.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/macdonell__2017-04-05_08-58-12.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/mw-1872__2017-04-05_08-58-12.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/mw-sa__2017-04-02_20-23-09.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/shabda-sAgara__2017-04-02_20-23-10.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/spokensanskrit__2017-04-02_20-23-10.tar.gz
