@@ -67,7 +67,8 @@ class Dictionary(val name: String) {
     val babFile = getBabylonFile
     log info (f"Making stardict from: ${babFile.getCanonicalPath}")
     s"$babylon_binary ${babFile.getCanonicalPath}".!
-    s"dictzip ${dirName}.dict".!
+    dictFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.dict")).headOption
+    s"dictzip ${dictFile.getCanonicalPath}".!
   }
 
   def getExpectedTarFileName: String = s"${dirName}__${getBabylonTimestampString}.tar.gz"
