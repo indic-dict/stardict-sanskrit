@@ -18,3 +18,12 @@ tars:
 decompile:
 	# Note: cannot usefully decompile apte-bi and mw-bi
 	bash ../bin/decompile_all.sh
+
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
+current_dir := $(dir $(mkfile_path))
+# Let the URL not end with /.
+URL=error
+tarlist:
+	bash ../bin/update_tars_md.sh $(current_dir)tars $(URL)
+
+
