@@ -1,3 +1,4 @@
+https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/Meulenbeld-Sanskrit-Names-of-Plants__2017-04-17_00-12-25__0.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2017-04-16_22-21-43__0.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/apte-1890__2017-04-02_23-18-23.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/apte-sa__2017-04-02_20-23-08.tar.gz
@@ -13,3 +14,4 @@ https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-1
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/shabda-sAgara__2017-04-16_23-42-35__2.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/spokensanskrit__2017-04-02_20-23-10.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/wilson__2017-04-17_00-07-31__2.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/yates__2017-04-17_00-12-54__1.tar.gz
