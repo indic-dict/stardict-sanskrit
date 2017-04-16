@@ -204,11 +204,11 @@ object batchProcessor {
       val indexShortName = index.replaceAll("https://raw.githubusercontent.com/sanskrit-coders/|master/|tars/tars.MD", "")
       val indexCount = Source.fromURL(index).mkString.replaceAll("<|>","").split("\n").length
       indexShortName -> indexCount
-    }).toMap
-    counts.foreach(x => {
+    })
+    counts.sortBy(_._1).foreach(x => {
       println(f"${x._1}%-50s : ${x._2}")
     })
-    println(f"${"Total"}%-50s : ${counts.values.sum}")
+    println(f"${"Total"}%-50s : ${counts.toMap.values.sum}")
   }
 
   def main(args: Array[String]): Unit = {
