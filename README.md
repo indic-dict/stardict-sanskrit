@@ -22,7 +22,9 @@ With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
 * Watch out for errors and warnings.
 * If you are satisfied with the output, add (preferably only the files you intended to change), commit and push. If not, open an issue.
 * [Optional but preferred] Create a new release, and use those files!
-  * Creating a new release ( [guide](https://help.github.com/articles/creating-releases/)). Just drag and drop the relevant tar.gz files as release artifacts.
+  * Creating a new release ( [guide](https://help.github.com/articles/creating-releases/)).
+    * Just drag and drop the relevant tar.gz files as release artifacts.
+    * Make sure to add ALL the tar.gz files under the directory where you run the `make tarlist` command described below.
   * Example invocation, if the release you create is `2017-04-14`:
     * `make tarlist URL="https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/"`
     * You can get the URL portion above from the download URL of any artifact in the release page.
