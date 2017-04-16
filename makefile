@@ -12,3 +12,9 @@ tars:
 	make -C sa-kAvya tars
 	make -C sa-vyAkaraNa tars
 
+tarlist:
+	make -C sa-head tarlist
+	make -C en-head tarlist
+	make -C sa-kAvya tarlist
+	make -C sa-vyAkaraNa tarlist
+

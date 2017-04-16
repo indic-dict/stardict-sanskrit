@@ -67,13 +67,15 @@ class Dictionary(val name: String) {
     val babFile = getBabylonFile
     log info (f"Making stardict from: ${babFile.getCanonicalPath}")
     s"$babylon_binary ${babFile.getCanonicalPath}".!
+    dictFile = dirFile.listFiles.map(_.getCanonicalFile).filter(_.getName.matches(s".*/?${dirName}.dict")).headOption
+    s"dictzip ${dictFile.get.getCanonicalPath}".!
   }
 
-  def getExpectedTarFileName: String = s"${dirName}__${getBabylonTimestampString}.tar.gz"
+  def getExpectedTarFileName(sizeMbString: String = ""): String = s"${dirName}__${getBabylonTimestampString}__$sizeMbString.tar.gz"
   def getTarDirFile = new File(dirFile.getParentFile.getCanonicalPath, "/tars")
 
   def tarFileMatchesBabylon(): Boolean = {
-    tarFile.isDefined && tarFile.get.getName.matches(s".*/?${getExpectedTarFileName}")
+    tarFile.isDefined && tarFile.get.getName.matches(s".*/?${getExpectedTarFileName(sizeMbString = ".*")}")
   }
 
   def makeTar = {
@@ -81,11 +83,20 @@ class Dictionary(val name: String) {
       log info "Deleting " + tarFile.get.getAbsolutePath
       tarFile.get.delete()
     }
-    val targetTarFile = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName)
+    val targetTarFile = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName())
     val filesToCompress = dirFile.listFiles.map(_.getCanonicalPath).filter(x => x.matches(".*\\.ifo|.*\\.idx|.*\\.dz|.*\\.ifo|.*\\.syn"))
     val command = s"tar --transform s/.*\\///g -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}"
     log info command
     command.!
+
+    // Add size hint.
+    val sizeMbString = (targetTarFile.length()/(1024*1024)).toLong.toString
+    val renameResult = targetTarFile.renameTo(new File(getExpectedTarFileName(sizeMbString = sizeMbString)))
+    if (!renameResult) {
+      log warn s"Renamed ${getExpectedTarFileName()} to ${getExpectedTarFileName(sizeMbString = sizeMbString)}: $renameResult"
+    } else {
+      log info s"Renamed ${getExpectedTarFileName()} to ${getExpectedTarFileName(sizeMbString = sizeMbString)}: $renameResult"
+    }
   }
 
   override def toString: String =
@@ -144,6 +155,16 @@ object batchProcessor {
     dictionaries.foreach(_.makeStardictFromBabylonFile(babylon_binary))
   }
 
+  def writeTarsList(tarDestination: String, urlBase: String) = {
+    val outFileObj = new File(tarDestination + "/tars.MD")
+    val destination = new PrintWriter(outFileObj)
+    val urlBaseFinal = urlBase.replaceAll("/$", "")
+    outFileObj.getParentFile.listFiles().map(_.getCanonicalFile).filter(_.getName.endsWith("tar.gz")).toList.sorted.foreach(x => {
+      destination.println(s"${urlBaseFinal}/${x.getName.replaceAll(".*/", "")}")
+    })
+    destination.close()
+  }
+
   def makeTars(urlBase: String, file_pattern: String = ".*") = {
     log info "=======================makeTars"
     // Get timestamp.
@@ -160,16 +181,8 @@ object batchProcessor {
     log info(s"got ${dictionaries.length} dictionaries which need to be updated.")
     dictionaries.foreach(_.makeTar)
 
-    def writeTarsList(tarDestination: String) = {
-      val outFileObj = new File(tarDestination + "/tars.MD")
-      val destination = new PrintWriter(outFileObj)
-      outFileObj.getParentFile.listFiles().map(_.getCanonicalFile).filter(_.getName.endsWith("tar.gz")).toList.sorted.foreach(x => {
-        destination.println(s"${urlBase}/tars/${x.getName.replaceAll(".*/", "")}")
-      })
-      destination.close()
-    }
     if (dictionaries.size > 0) {
-      writeTarsList(dictionaries.head.getTarDirFile.getCanonicalPath)
+      writeTarsList(dictionaries.head.getTarDirFile.getCanonicalPath, urlBase)
     }
   }
 

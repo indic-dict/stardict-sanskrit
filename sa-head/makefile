@@ -12,3 +12,9 @@ tars:
 	make -C other-indic-entries tars
 	make -C other-entries tars
 
+tarlist:
+	make -C sa-entries tarlist
+	make -C en-entries tarlist
+	make -C other-indic-entries tarlist
+	make -C other-entries tarlist
+

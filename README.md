@@ -21,11 +21,22 @@ With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
 * Run: make DICTS='laghu-kaumudi'. This will run the commands listed in sa-vyAkaraNa/makefile sequentially. All dictionaries and tars under sa-vyAkaraNa will be rebuilt as of 20160321.
 * Watch out for errors and warnings.
 * If you are satisfied with the output, add (preferably only the files you intended to change), commit and push. If not, open an issue.
+* [Optional but preferred] Create a new release, and use those files!
+  * Creating a new release ( [guide](https://help.github.com/articles/creating-releases/)). Just drag and drop the relevant tar.gz files as release artifacts.
+  * Example invocation, if the release you create is `2017-04-14`:
+    * `make tarlist URL="https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/"`
+    * You can get the URL portion above from the download URL of any artifact in the release page.
+  * Reason why this is preferred:
+    * Helps track dictionary popularity and downloads (see [this issue](https://github.com/sanskrit-coders/stardict-dictionary-updater/issues/12) ).
+    * This is likely to result in fewer download problems as downloading from release rather than "raw" might be more robust.
 
 ### To force update dictionary files
 Sometimes the above may fail due to the script being fooled by the timestamps into thinking that no updates are required. To force updates in such cases (With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example):
 * Delete these files: `sa-vyAkaraNa/laghu-kaumudi/*.babylon sa-vyAkaraNa/laghu-kaumudi/*.ifo sa-vyAkaraNa/tars/laghu-kaumudi*.tar.gz`
 * Redo the process described above.
+
+## Dictionary popularity metrics
+* For properly *release*ed dictionaries, one can get stats as [shown here](http://mmilidoni.github.io/github-downloads-count/).
 
 ## Other notes
 Recipe to convert decompiled en-head dictionaries from ajita to sa-head dictionaries: ^.+\t(.+?)\.  should be replaced by \1\t
