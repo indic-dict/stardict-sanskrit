@@ -73,7 +73,7 @@ class Dictionary(val name: String) {
     }
   }
 
-  def getExpectedTarFileName(sizeMbString: String = ""): String = s"${dirName}__${getBabylonTimestampString}__$sizeMbString.tar.gz"
+  def getExpectedTarFileName(sizeMbString: String = "unk"): String = s"${dirName}__${getBabylonTimestampString}__${sizeMbString}MB.tar.gz"
   def getTarDirFile = new File(dirFile.getParentFile.getCanonicalPath, "/tars")
 
   def tarFileMatchesBabylon(): Boolean = {
@@ -93,11 +93,12 @@ class Dictionary(val name: String) {
 
     // Add size hint.
     val sizeMbString = (targetTarFile.length()/(1024*1024)).toLong.toString
-    val renameResult = targetTarFile.renameTo(new File(getExpectedTarFileName(sizeMbString = sizeMbString)))
+    val fileWithSize = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName(sizeMbString = sizeMbString))
+    val renameResult = targetTarFile.renameTo(fileWithSize)
     if (!renameResult) {
-      log warn s"Renamed ${getExpectedTarFileName()} to ${getExpectedTarFileName(sizeMbString = sizeMbString)}: $renameResult"
+      log warn s"Renamed ${targetTarFile} to ${fileWithSize}: $renameResult"
     } else {
-      log info s"Renamed ${getExpectedTarFileName()} to ${getExpectedTarFileName(sizeMbString = sizeMbString)}: $renameResult"
+      log info s"Renamed ${targetTarFile} to ${fileWithSize}: $renameResult"
     }
   }
 
