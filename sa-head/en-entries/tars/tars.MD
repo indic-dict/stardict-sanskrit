@@ -12,3 +12,4 @@ https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-1
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/mw-sa__2017-04-02_20-23-09.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/shabda-sAgara__2017-04-16_23-42-35__2.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/spokensanskrit__2017-04-02_20-23-10.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/wilson__2017-04-17_00-07-31__2.tar.gz
