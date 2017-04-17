@@ -5,6 +5,7 @@ import java.io.{File, PrintWriter}
 import org.apache.commons.compress.archivers.tar.TarArchiveEntry
 import org.slf4j.LoggerFactory
 
+import scala.io.Source
 import sys.process._
 
 class Dictionary(val name: String) {
@@ -195,10 +196,26 @@ object batchProcessor {
     throw new Error()
   }
 
+  def getStats() = {
+    val indexIndexorum = "https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/dictionaryIndices.md"
+    val indexes = Source.fromURL(indexIndexorum).mkString.replaceAll("<|>","").split("\n")
+    val counts = indexes.map(index => {
+      // Example: https://raw.githubusercontent.com/sanskrit-coders/stardict-sanskrit/master/sa-head/en-entries/tars/tars.MD
+      val indexShortName = index.replaceAll("https://raw.githubusercontent.com/sanskrit-coders/|master/|tars/tars.MD", "")
+      val indexCount = Source.fromURL(index).mkString.replaceAll("<|>","").split("\n").length
+      indexShortName -> indexCount
+    })
+    counts.sortBy(_._1).foreach(x => {
+      println(f"${x._1}%-50s : ${x._2}")
+    })
+    println(f"${"Total"}%-50s : ${counts.toMap.values.sum}")
+  }
+
   def main(args: Array[String]): Unit = {
     val dir = "dhAtupradIpa"
     // addOptitrans(dir)
     // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
-    makeTars("https://github.com/sanskrit-coders/stardict-telugu/raw/master/en-head/tars", dir)
+//    makeTars("https://github.com/sanskrit-coders/stardict-telugu/raw/master/en-head/tars", dir)
+    getStats
   }
 }
