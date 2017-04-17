@@ -28,6 +28,7 @@ With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
   * Example invocation, if the release you create is `2017-04-14`:
     * `make tarlist URL="https://github.com/sanskrit-coders/stardict-sanskrit/releases/download/2017-04-14/"`
     * You can get the URL portion above from the download URL of any artifact in the release page.
+  * Remove tars once they're moved to release and you are satisfied that all is well. They can just be deleted by the contributor without checking them in (+ git rm for older files).
   * Reason why this is preferred:
     * Helps track dictionary popularity and downloads (see [this issue](https://github.com/sanskrit-coders/stardict-dictionary-updater/issues/12) ).
     * This is likely to result in fewer download problems as downloading from release rather than "raw" might be more robust.
