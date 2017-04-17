@@ -43,3 +43,7 @@ Sometimes the above may fail due to the script being fooled by the timestamps in
 
 ## Other notes
 Recipe to convert decompiled en-head dictionaries from ajita to sa-head dictionaries: ^.+\t(.+?)\.  should be replaced by \1\t
+
+## Cologne to babylon convertor
+https://github.com/sanskrit-lexicon/cologne-stardict - make_babylon.py is the workhorse.
+
