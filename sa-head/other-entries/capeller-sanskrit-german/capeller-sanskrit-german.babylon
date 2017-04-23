@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR> <teiHeader xml:lang="en-Latn"><BR>  <fileDesc><BR>   <titleStmt><BR>    <title type="main">Cappeller's Sanskrit-Wörterbuch</title><BR>    <title type="desc">XML edition</title><BR>    <title type="key">Cappeller German</title><BR>    <title type="short"><name>Cappeller, Carl</name>. <title rend="italic">Sanskrit-Wörterbuch</title>. <date>1887</date>.</title><BR>    <editor>Jim Funderburk</editor><BR>    <editor>Thomas Malten</editor><BR>    <principal>Thomas Malten</principal><BR>    <funder>Deutsche Forschungsgemeinschaft</funder><BR>    <principal>Peter M. Scharf</principal><BR>    <funder>United States National Endowment for the Humanities</funder><BR>   </titleStmt><BR>   <editionStmt><BR>    <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition><BR>   </editionStmt><BR>   <extent>2.1 MB</extent><BR>   <publicationStmt><BR>    <publisher>The Sanskrit Library</publisher><BR>    <pubPlace>Providence, RI</pubPlace><BR>    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher><BR>    <pubPlace>Köln</pubPlace><BR>    <date when="2014-06-30">30 June 2014</date><BR>    <availability><BR>     <p>Copyright © 2014 The Sanskrit Library and Thomas Malten</p><BR>     <p>All rights reserved other than those granted under the Creative Commons Attribution Non-Commercial Share Alike license available in full at <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode</ref>, and summarized at <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>.  Permission is granted to build upon this work non-commercially, as long as credit is explicitly acknowledged exactly as described herein, and derivative work is distributed under the same license.</p><BR>    </availability><BR>    <distributor><BR>     <ptr target="http://www.sanskrit-lexicon.uni-koeln.de/scans/CCSScan/2014/web/index.php"/><BR>    </distributor><BR>   </publicationStmt><BR>   <seriesStmt><BR>    <title level="s">Sanskrit Library Lexical Sources</title><BR>    <respStmt><BR>     <resp>edited by</resp><BR>     <name>Peter M. Scharf</name><BR>    </respStmt><BR>    <idno>xxxxx</idno><BR>   </seriesStmt><BR>   <sourceDesc><BR>    <biblStruct type="original" xml:id="CCS"><BR>     <monogr><BR>      <author>Cappeller, Carl</author><BR>      <title type="main" level="m">Sanskrit-Wörterbuch</title><BR>      <title type="subordinate" level="m">nach den Petersburger Wörterbüchern  bearbeitet</title><BR>      <edition></edition><BR>      <imprint><BR>       <pubPlace>Strassburg</pubPlace><BR>       <publisher>Karl J. Trübner</publisher><BR>       <date>1887</date><BR>      </imprint><BR>      <extent><BR>       <measure unit="pages" quantity="549">viii, 541 p.</measure><BR>      </extent><BR>     </monogr><BR>    </biblStruct><BR>   </sourceDesc><BR>  </fileDesc><BR>  <encodingDesc><BR>   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>   <projectDesc><BR>    <p>See <ptr target="http://sanskritlibrary.org/NEHDFG2009.html"/>.</p><BR>   </projectDesc><BR>   <projectDesc><BR>    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p><BR>    <p>See <ptr target="http://www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p><BR>   </projectDesc><BR>   <projectDesc><BR>    <p>This material is based upon work supported by the <ref target="http://www.neh.gov">National Endowment for the Humanities</ref> under Grant No. HG-50022-10. Any views, findings, conclusions, or recommendations expressed in this material do not necessarily represent those of the National Endowment for the Humanities.</p><BR>   </projectDesc><BR>   <editorialDecl><BR>    <p></p><BR>   </editorialDecl><BR>   <tagsDecl><BR>    <!--"http://www.sanskrit-lexicon.uni-koeln.de" documentation--><BR>   </tagsDecl><BR>   <classDecl><BR>    <taxonomy xml:id="lcsh"><BR>     <bibl>Library of Congress Subject Headings</bibl><BR>    </taxonomy><BR>   </classDecl><BR>  </encodingDesc><BR>  <profileDesc><BR>   <creation><BR>    <p>Data-entry in Kyoto-Harvard encoding by typists in <placeName>Azhivaikkal</placeName> in <placeName>Thanjavur district</placeName>, <placeName>Tamilnadu</placeName> under the direction of Thomas Malten, with character codes partially marking divisions in the text.  <persName>Funderburk</persName> transformed it to xml.  Corrections were evaluated by <persName>Malten</persName>, <persName>Scharf</persName>, and implemented by <persName>Funderburk</persName>.</p><BR>    <p>XML generated programmatically from ccs.txt</p><BR>   </creation><BR>   <langUsage><BR>    <language ident="de-Latn">German</language><BR>    <language ident="sa-Latn-x-AS">Sanskrit</language><BR>    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language><BR>   </langUsage><BR>   <textClass><BR>    <keywords scheme="#lcsh"><BR>     <list><BR>      <item>Sanskrit language -- Dictionaries -- German.</item><BR>     </list><BR>    </keywords><BR>    <!-- Library of congress call number. --><BR>    <classCode scheme="#lccn">PK935.G5 C33 1998</classCode><!-- University of Iowa --><BR>    <classCode scheme="#lccn">X 512 .14</classCode><!-- Newberry Library --><BR>    <!--Sanskrit Library Indic Subject Classification--><BR>    <!--referenced items by a catRef--><BR>    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/><BR>   </textClass><BR>  </profileDesc><BR>  <revisionDesc><BR>   <change>Revisions documented by Jim Funderburk.  See <ptr target="http://www.sanskrit-lexicon.uni-koeln.de"/></change><BR>  </revisionDesc><BR> </teiHeader><BR> <facsimile><BR>  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/CCSScan/2014/downloads/ccs_bookmark.pdf"/><BR> </facsimile><BR> <text><BR>  <front><BR>   <titlePage><BR>    <docTitle><BR>     <titlePart>Sanskrit-Wörterbuch nach den Petersburger wörterbüchern bearbeitet</titlePart><BR>    </docTitle><BR>    <docImprint><BR>     <publisher><BR>     </publisher><BR>     <pubPlace><BR>      <address><BR>       <addrLine></addrLine><BR>      </address><BR>     </pubPlace><BR>    </docImprint><BR>    <docDate>1887</docDate><BR>   </titlePage><BR>  </front><BR>  <body><BR>   <xi:include href="ccs.xml"><BR>    <xi:fallback><BR>     <p>See the file ccs.xml downloadable from <ref target="http://www.sanskrit-lexicon.uni-koeln.de">http://www.sanskrit-lexicon.uni-koeln.de</ref>.</p><BR>    </xi:fallback><BR>   </xi:include><BR>  </body><BR> </text><BR></TEI>
+
 अ
 अ1 Pron-Stamm der 3. Person.
 
@@ -22,7 +25,7 @@
 अंशुक
 अंशुक n. Gewand. अंशुकान्त m. -zipfel.
 
-अंशुमन्त्
+अंशुमत्|अंशुमन्त्
 अंशुम॑न्त् somao. strahlenreich;<BR> m. Sonne;<BR> |Mannsname.
 
 अंस
@@ -130,7 +133,7 @@
 अकालहीनम्
 अकालहीनम् ohne Zeitverlust, sofort.
 
-अकिंचन
+अकिञ्चन|अकिंचन
 अकिंचन ohne etwas, arm. Abstr. °ता f., °त्व n.
 
 अकीर्ति
@@ -142,7 +145,7 @@
 अकुतोभय
 अकुतोभय sich vor nichts fürchtend.
 
-अकुर्वन्त्
+अकुर्वत्|अकुर्वन्त्
 अकुर्वन्त् nicht thuend, unterlassend.
 
 अकुल
@@ -205,7 +208,7 @@
 अकैतव
 अकैतव ungeheuchelt. 
 
-अकोपयन्त्
+अकोपयत्|अकोपयन्त्
 अकोपयन्त् nicht aufregend.
 
 अक्त
@@ -247,7 +250,7 @@
 अक्ष
 अक्ष3 m. (adj. --° f. रि) = अक्षि
 
-अक्षण्वन्त्
+अक्षण्वत्|अक्षण्वन्त्
 अक्षण्व॑न्त् mit Augen begabt.
 
 अक्षत
@@ -343,7 +346,7 @@
 अग
 अग (*nicht gehend);<BR> m. Baum;<BR> Berg.
 
-अगणयन्त्
+अगणयत्|अगणयन्त्
 अगणयन्त् u. °यित्वा nicht achtend.
 
 अगति
@@ -388,7 +391,7 @@
 अगृहीत
 अ॑गृहीत nicht ergriffen, unerfasst.
 
-अगृह्णन्त्
+अगृह्णत्|अगृह्णन्त्
 अगृह्णन्त् nicht fassend.
 
 अगृह्य
@@ -442,7 +445,7 @@
 अग्निप्रवेश
 अग्निप्रवेश m. der freiwillige Feuertod.
 
-अग्निमन्त्
+अग्निमत्|अग्निमन्त्
 अग्निम॑न्त् das heilige Feuer unterhaltend.
 
 अग्निमित्र
@@ -511,7 +514,7 @@
 अग्रयायिन्
 अग्रयायिन् vorangehend.
 
-अग्रसंध्या
+अग्रसन्ध्या|अग्रसंध्या
 अग्रसंध्या f. Morgendämmerung.
 
 अग्रहस्त
@@ -625,7 +628,7 @@
 अङ्गराग
 अङ्गराग m. Puder, Schminke.
 
-अङ्गवन्त्
+अङ्गवत्|अङ्गवन्त्
 अङ्गवन्त् mit Gliedern begabt.
 
 अङ्गविकार
@@ -790,10 +793,10 @@
 अजर
 अज॑र nicht alternd, m. Pl. die Flammen |Agni's.
 
-अजरन्त्
+अजरत्|अजरन्त्
 अज॑रन्त् u. अजर्य॑ nicht alternd.
 
-अजल्पन्त्
+अजल्पत्|अजल्पन्त्
 अजल्पन्त् nicht sagend.
 
 अजस्र
@@ -808,7 +811,7 @@
 अजातपक्ष
 अजातपक्ष noch nicht flügge.
 
-अजानन्त्
+अजानत्|अजानन्त्
 अजानन्त् nicht kennend.
 
 अजामि
@@ -1267,7 +1270,7 @@
 अतिष्कद्
 अतिष्कद् f. Überspringung, -schreitung.
 
-अतिष्ठन्त्
+अतिष्ठत्|अतिष्ठन्त्
 अ॑तिष्ठन्त् nicht stehen bleibend,<BR> -rastend;<BR> |sich einer Sache (Loc.) entziehend.
 
 अतिसंक्रुद्ध
@@ -1330,7 +1333,7 @@
 अतूतुजि
 अतूतुजि unbehende.
 
-अतृप्णुवन्त्
+अतृप्णुवत्|अतृप्णुवन्त्
 अ॑तृप्णुवन्त् unersättlich.
 
 अतृप्त
@@ -1396,7 +1399,7 @@
 अत्रप
 अत्रप schamlos.
 
-अत्रभवन्त्
+अत्रभवत्|अत्रभवन्त्
 अत्रभवन्त् f. °वती der Herr--, die Dame |hier.
 
 अत्रान्तरे
@@ -1432,7 +1435,7 @@
 अदक्षिण
 अदक्षिण link ungeschickt, unhöflich.
 
-अदण्डयन्त्
+अदण्डयत्|अदण्डयन्त्
 अदण्डयन्त् nicht strafend.
 
 अदण्ड
@@ -1453,7 +1456,7 @@
 अदन
 अ॑दन n. das Essen.
 
-अदन्त्
+अदत्|अदन्त्
 अद॑न्त् zahnlos.
 
 अदन्त
@@ -1501,7 +1504,7 @@
 अदिति
 अ॑दिति2 schrankenlos, unendlich;<BR> f. Un|endlichkeit;<BR> N der Göttermutter.
 
-अदित्सन्त्
+अदित्सत्|अदित्सन्त्
 अ॑दित्सन्त् u. अदित्सु nicht geben wollend.
 
 अदीन
@@ -1603,7 +1606,7 @@
 अद्रिबुध्न
 अ॑द्रिबुध्न felsgegründet.
 
-अद्रिवन्त्
+अद्रिवत्|अद्रिवन्त्
 अद्रिवन्त् nur Voc. °वस् Schleuderer (eig. |mit Steinen versehener).
 
 अद्रुह्
@@ -2101,7 +2104,7 @@
 अनन्यसाधारण
 अनन्यसाधारण f. ई keinem o. keiner |anderen gemeinsam.
 
-अनन्विष्यन्त्
+अनन्विष्यत्|अनन्विष्यन्त्
 अनन्विष्यन्त् nicht forschend nach (Acc.)
 
 अनपकर्मन्
@@ -2122,7 +2125,7 @@
 अनपराध
 अनपराध u. °धिन् fehlerlos, unschuldig.
 
-अनपस्फुरन्त्
+अनपस्फुरत्|अनपस्फुरन्त्
 अ॑नपस्फुरन्त् nicht wegstoßend.
 
 अनपेक्ष
@@ -2293,7 +2296,7 @@
 अनशित
 अ॑नशित nicht gegessen.
 
-अनश्नन्त्
+अनश्नत्|अनश्नन्त्
 अ॑नश्नन्त् nicht essend.
 
 अनश्रु
@@ -2332,7 +2335,7 @@
 अनाख्येय
 अनाख्येय unsagbar.
 
-अनागच्छन्त्
+अनागछत्|अनागच्छन्त्
 अनागच्छन्त् nicht kommend.
 
 अनागत
@@ -2374,7 +2377,7 @@
 अनात्मन्
 अनात्मन् m. Nicht-Seele.
 
-अनात्मवन्त्
+अनात्मवत्|अनात्मवन्त्
 अनात्मवन्त् seiner nicht mächtig.
 
 अनाथ
@@ -2476,7 +2479,7 @@
 अनाष्ट्र
 अनाष्ट्र॑ gefahrlos, sicher.
 
-अनासादयन्त्
+अनासादयत्|अनासादयन्त्
 अनासादयन्त् nicht erlangend.
 
 अनासाद्य
@@ -2500,7 +2503,7 @@
 अनिगड
 अनिगड Adj. ohne Ketten.
 
-अनिच्छन्त्
+अनिछत्|अनिच्छन्त्
 अनिच्छन्त् nicht wollend.
 
 अनिच्छा
@@ -2596,7 +2599,7 @@
 अनिर्वृति
 अनिर्वृति f. Unlust, Kummer.*
 
-अनिर्वृत्त
+अनिर्वृत|अनिर्वृत्त
 अनिर्वृत्त unvollendet.
 
 अनिर्वेद
@@ -2782,7 +2785,7 @@
 अनुचिन्तन
 अनुचिन्तन n. °चिन्ता f. das Nachdenken.
 
-अनुच्चलन्त्
+अनुच्चलत्|अनुच्चलन्त्
 अनुच्चलन्त् nicht aufbrechend von (Abl.)
 
 अनुज
@@ -2878,7 +2881,7 @@
 अनुपक्रम्य
 अनुपक्रम्य u. °क्राम्य nicht zu curieren.
 
-अनुपघ्नन्त्
+अनुपघ्नत्|अनुपघ्नन्त्
 अनुपघ्नन्त् nicht beeinträchtigend.
 
 अनुपदम्
@@ -2896,7 +2899,7 @@
 अनुपम
 अनुपम unvergleichlich.
 
-अनुपयन्त्
+अनुपयत्|अनुपयन्त्
 अनुपयन्त् non iniens (feminam).
 
 अनुपयुक्त
@@ -2983,7 +2986,7 @@
 अनुराग
 अनुराग m. Färbung, Röte, Zuneigung.
 
-अनुरागवन्त्
+अनुरागवत्|अनुरागवन्त्
 अनुरागवन्त् rot, verliebt, in einem Liebes|verhältnis mit (सह) stehend.
 
 अनुरागिन्
@@ -3088,10 +3091,10 @@
 अनुष्वधम्
 अनुष्वध॑म् nach Wunsch, ungehindert.
 
-अनुसंधान
+अनुसन्धान|अनुसंधान
 अनुसंधान n. das Achten auf etwas.
 
-अनुसंधेय
+अनुसन्धेय|अनुसंधेय
 अनुसंधेय zu beachten.
 
 अनुसर
@@ -3307,7 +3310,7 @@
 अन्तर्यामिन्
 अन्तर्यामि॑न् m. der innere Lenker.
 
-अन्तर्वन्त्
+अन्तर्वत्|अन्तर्वन्त्
 अन्त॑र्वन्त् f. अन्त॑र्वती u. antaªrvatnI schwanger. 
 
 अन्तर्वेदि
@@ -3409,7 +3412,7 @@
 अन्नरसमय
 अन्नरसमय annarasamaya aus Speise und Trank bestehend.
 
-अन्नवन्त्
+अन्नवत्|अन्नवन्त्
 अ॑न्नवन्त् mit Speise versehen, reich an |Speise. 
 
 अन्नविकार
@@ -3952,7 +3955,7 @@
 अपश्य
 अपश्य॑ nicht sehend.
 
-अपश्यन्त्
+अपश्यत्|अपश्यन्त्
 अ॑पश्यन्त् nicht sehend,<BR> -gewahr werdend, |--prüfend.
 
 अपस्
@@ -4045,7 +4048,7 @@
 अपार
 अपार॑ unbegrenzt, unendlich.
 
-अपारयन्त्
+अपारयत्|अपारयन्त्
 अपारयन्त् nicht (überwinden) könnend, |nicht imstande zu (Loc. oder Inf.).
 
 अपार्थ
@@ -4111,7 +4114,7 @@
 अपूर्व्य
 अ॑पूर्व्य = अपूर्व।
 
-अपृणन्त्
+अपृणत्|अपृणन्त्
 अ॑पृणन्त् nicht spendend;<BR> karg.
 
 अपृष्ट
@@ -4162,7 +4165,7 @@
 अप्रकाश
 अप्रकाश nicht hell, dunkel, geheim;<BR> m. |das Dunkel.
 
-अप्रकाशन्त्
+अप्रकाशत्|अप्रकाशन्त्
 अप्रकाशन्त् unsichtbar.
 
 अप्रकेत
@@ -4288,7 +4291,7 @@
 अप्रयुक्त
 अ॑प्रयुक्त unangewandt, ungebräuchlich.
 
-अप्रयुच्छन्त्
+अप्रयुछत्|अप्रयुच्छन्त्
 अ॑प्रयुच्छन्त् nicht lässig;<BR> achtsam. 
 
 अप्रयुज्यमान
@@ -4378,7 +4381,7 @@
 अबुद्धि
 अबुद्धि unverständig;<BR> f. Unverstand.
 
-अबुद्धिमन्त्
+अबुद्धिमत्|अबुद्धिमन्त्
 अबुद्धिमन्त् unverständig, dumm.
 
 अबुध्य
@@ -4417,7 +4420,7 @@
 अब्राह्मण
 अब्राह्मण॑2 Adj. ohne Brahmanen.
 
-अब्रुवन्त्
+अब्रुवत्|अब्रुवन्त्
 अब्रुवन्त् nicht aussagend.
 
 अभक्त
@@ -4915,7 +4918,7 @@
 अमर्त
 अमर्त u. अ॑मर्त्य unsterblich.
 
-अमर्धन्त्
+अमर्धत्|अमर्धन्त्
 अ॑मर्धन्त् nicht ermüdend.
 
 अमर्ष
@@ -4930,7 +4933,7 @@
 अमल
 अमल u. °लिन fleckenlos, rein.
 
-अमवन्त्
+अमवत्|अमवन्त्
 अ॑मवन्त् ungestüm, kräftig.
 
 अमहात्मन्
@@ -4990,7 +4993,7 @@
 अमित्रता
 अमित्रता f. Feindschaft.
 
-अमिनन्त्
+अमिनत्|अमिनन्त्
 अ॑मिनन्त् nicht verletzend. 
 
 अमी
@@ -5395,7 +5398,7 @@
 अर्चि
 अर्चि॑ m. Strahl, Flamme.
 
-अर्चिष्मन्त्
+अर्चिष्मत्|अर्चिष्मन्त्
 अर्चिष्मन्त् strahlenreich, brennend;<BR> m. |Feuer.
 
 अर्चिस्
@@ -5467,7 +5470,7 @@
 अर्थवत्ता
 अर्थवत्ता f., °त्त्व n. Bedeutsamkeit.
 
-अर्थवन्त्
+अर्थवत्|अर्थवन्त्
 अर्थवन्त् einen Sinn habend, bedeutsam, |verständig, zweckmäßigig, reich.
 
 अर्थवाद
@@ -5680,10 +5683,10 @@
 अलंकर्तर्
 *अलंकर्तर् m. der Schmücker.
 
-अलंकार
+अलङ्कार|अलंकार
 अलंकार॑ m. das Schmücken, der Schmuck |(auch der Rede).
 
-अलंकृति
+अलङ्कृति|अलंकृति
 अलंकृति u. °क्रिया f. dass.
 
 अलङ्घनीय
@@ -5707,7 +5710,7 @@
 अलर्क
 अलर्क ª toller Hund, fabelhaftes Tier;<BR> |N einer Pflanze. 
 
-अललाभवन्त्
+अललाभवत्|अललाभवन्त्
 अललाभ॑वन्त् plätschernd.
 
 अलस
@@ -5959,7 +5962,7 @@
 अवनेजन
 अवने॑जन, f. ई dass;<BR> n. das Abwaschen.
 
-अवन्त्
+अवत्|अवन्त्
 अ॑वन्त् freundlich, gern;<BR> m. Mannsname.
 
 अवन्ति
@@ -6187,7 +6190,7 @@
 अवहित
 अवहित s. धा।
 
-अवाग्गमनवन्त्
+अवाग्गमनवत्|अवाग्गमनवन्त्
 अवाग्गमनवन्त् sich nach unten bewegend.
 
 अवाङ्मनसगोचर
@@ -6265,7 +6268,7 @@
 अविचारज्ञ
 अविचारज्ञ keine Überlegung kennend.
 
-अविचारयन्त्
+अविचारयत्|अविचारयन्त्
 अविचारयन्त् unüberlegt (act.) °रित dass. |(pass.).
 
 अविचार्य
@@ -6379,7 +6382,7 @@
 अविविक्त
 अविविक्त unentschieden.
 
-अविवेनन्त्
+अविवेनत्|अविवेनन्त्
 अ॑विवेनन्त् isch nicht abwendend;<BR> wohl|geneigt.
 
 अविशङ्क
@@ -6550,7 +6553,7 @@
 अशक्ति
 अशक्ति f. Unvermögen, Ohnmacht.
 
-अशक्नुवन्त्
+अशक्नुवत्|अशक्नुवन्त्
 अशक्नुवन्त् nicht könnend (Inf.).
 
 अशक्य
@@ -6574,7 +6577,7 @@
 अशनाया
 अशनाया॑ u. अशना॑या f. Hunger.
 
-अशनायावन्त्
+अशनायावत्|अशनायावन्त्
 अशनायावन्त् hungrig.
 
 अशनि
@@ -6589,7 +6592,7 @@
 अशस्
 अश॑स् verwünschend, hassend.
 
-अशासन्त्
+अशासत्|अशासन्त्
 अशासन्त् nicht strafend.
 
 अशिक्षित
@@ -6727,7 +6730,7 @@
 अश्वराज
 अश्वराज m. der König der Rosse.
 
-अश्ववन्त्
+अश्ववत्|अश्ववन्त्
 अश॑ववन्त् rossereich.
 
 अश्ववृष
@@ -6751,7 +6754,7 @@
 अश्वारूढ
 अश्वारूढ zu Pferde (gestiegen).
 
-अश्वावन्त्
+अश्वावत्|अश्वावन्त्
 अ॑श्वावन्त् = अ॑श्ववन्त्।
 
 अश्विन्
@@ -6871,10 +6874,10 @@
 असज्जन
 असज्जन m. ein schlechter Mensch.
 
-असंज्ञ
+असञ्ज्ञ|असंज्ञ
 असंज्ञ bewusstlos. Abstr. °त्व n.
 
-असंज्ञा
+असञ्ज्ञा|असंज्ञा
 अ॑संज्ञा f. Uneinigkeit, Zwiespalt.
 
 असत्कल्पना
@@ -6895,7 +6898,7 @@
 असत्य
 असत्य॑ unwahr;<BR> n. Unwahrheit, Lüge.
 
-असत्यसंध
+असत्यसन्ध|असत्यसंध
 असत्यसंध unzuverlässig.
 
 असदृश
@@ -6916,22 +6919,22 @@
 असनाम
 असनाम ungleichnamig.
 
-असन्त्
+असत्|असन्त्
 अ॑सन्त् nicht seiend, unwahr, schlecht;<BR> |अ॑सती f. unzüchtiges Weib;<BR> n. अ॑सत् |das Nichtseiende, Unwahrheit, Lüge.
 
-असंतुष्ट
+असन्तुष्ट|असंतुष्ट
 असंतुष्ट unzufrieden, missvergnügt.
 
-असंतोष
+असन्तोष|असंतोष
 असंतोष m. Unzufriedenheit.
 
-असंधेय
+असन्धेय|असंधेय
 असंधेय nicht wieder gut zu machen.
 
 असंनिधान
 असंनिधान n., °निधि m. Abwesenheit.
 
-असंनिहित
+असन्निहित|असंनिहित
 असंनिहित abwesend.*
 
 असपत्न
@@ -6979,10 +6982,10 @@
 असंप्राप्त
 असंप्राप्त nicht angelangt, nicht erreicht.
 
-असंबद्ध
+असम्बद्ध|असंबद्ध
 असंबद्ध unverbunden, fremd, unzusammen|hängend, thöricht.
 
-असंबाध
+असम्बाध|असंबाध
 असंबाध॑ unbeengt, unbehindert. 
 
 असंभव
@@ -7009,7 +7012,7 @@
 असश्चत्
 असश्च॑त् u. अ॑सश्चन्त् (f. अ॑सश्चन्ति)। nicht |stockend, nicht versiegend.
 
-अससन्त्
+अससत्|अससन्त्
 अ॑ससन्त् nicht schlummernd.
 
 असह
@@ -7018,7 +7021,7 @@
 असहन
 असहन nicht imstande zu ertragen, neidisch, |eifersüchtig.
 
-असहन्त्
+असहत्|असहन्त्
 असहन्त् f. °न्ती nicht ertragend.
 
 असहमान
@@ -7063,13 +7066,13 @@
 असाध्य
 असाध्य unausführbar, unerreichbar, un|möglich, unheilbar, unbeweisbar.
 
-असांनिध्य
+असान्निध्य|असांनिध्य
 असांनिध्य n. Abwesenheit (eig. Nicht-Nähe).
 
 असामान्य
 असामान्य nicht gemein, ungewohnlich.
 
-असांप्रत
+असाम्प्रत|असांप्रत
 असांप्रत unpassend, unrecht;<BR> n. adv.
 
 असार
@@ -7162,7 +7165,7 @@
 अस्त
 अ॑स्त2 m. Untergang, der mythische Unter|gangsberg (für Gestirne;<BR> vgl. उदय)।
 
-अस्तंयन्त्
+अस्तंयत्|अस्तंयन्त्
 अस्तंय॑न्त् untergehend.
 
 अस्तमय
@@ -7210,7 +7213,7 @@
 अस्पष्ट
 अस्पष्ट unklar, undeutlich, °ष्तोपाधि dessen |Bedingendes unklar ist;<BR> Abstr. °ता (ph.)
 
-अस्पृशन्त्
+अस्पृशत्|अस्पृशन्त्
 अस्पृशन्त् nicht berührend.
 
 अस्म
@@ -7300,7 +7303,7 @@
 अहंकार
 अहंकार m. Icho. Selbstbewusstsein.
 
-अहंकार्य
+अहङ्कार्य|अहंकार्य
 अहंकार्य das Objekt des Ichbewusstseins |bildend.
 
 अहंकृति
@@ -7408,7 +7411,7 @@
 आकार
 आकार2 m. der Laut ā (g.).
 
-आकारवन्त्
+आकारवत्|आकारवन्त्
 आकारवन्त् wohlgestaltet, schön.
 
 आकारित
@@ -7642,7 +7645,7 @@
 आचार्यता
 आचार्यता f., °त्व n. das Lehramt.
 
-आचार्यवन्त्
+आचार्यवत्|आचार्यवन्त्
 आचार्यवन्त् einen Lehrer habend.
 
 आचिख्यासु
@@ -7789,7 +7792,7 @@
 आत्मनेपद
 आत्मनेपद n. die medialen Endungen (g.).
 
-आत्मन्वन्त्
+आत्मन्वत्|आत्मन्वन्त्
 आत्मन्व॑न्त् u. आत्मन्वि॑न् beseelt, belebt.
 
 आत्मप्रभ
@@ -7813,7 +7816,7 @@
 आत्मवध
 आत्मवध m., °वध्या f. Selbstmord.
 
-आत्मवन्त्
+आत्मवत्|आत्मवन्त्
 आत्मवन्त् beseelt, belebt;<BR> seiner selbst |mächtig, verständig.
 
 आत्मविद्
@@ -8341,7 +8344,7 @@
 आयुष्काम
 आ॑युष्काम Leben wünschend.
 
-युष्मन्त्
+युष्मत्|युष्मन्त्
 ॑युष्मन्त् der ein langes Leben hat oder |haben möge (oft ehrenvolle Anrede).
 
 आयुष्य
@@ -8719,7 +8722,7 @@
 आवृत्
 आवृ॑त् f. das Sichherwenden, die Einkehr.
 
-आवृत्ति
+आवृति|आवृत्ति
 आवृत्ति f. dass.;<BR> Wiederkehr, Wiederholung.
 
 आवेग
@@ -8770,7 +8773,7 @@
 आशाबन्ध
 आशाबन्ध m. das Hoffnungfassen (eig. |-anknüpfen).
 
-आशावन्त्
+आशावत्|आशावन्त्
 आशावन्त् hoffnungsvoll, vertrauend.
 
 आशावासस्
@@ -9136,7 +9139,7 @@
 इडा
 इ॑डा, इ॑ळा u. इला f. dass., Göttin der |Andacht, die Erde.
 
-इडावन्त्
+इडावत्|इडावन्त्
 इ॑डावन्त् labend, erquickend.
 
 इतर
@@ -9280,7 +9283,7 @@
 इन्द्रवज्र
 इन्द्रवज्र n. Indra's Donnerkeil;<BR> f. आ N. |eines Metrums.
 
-इन्द्रवन्त्
+इन्द्रवत्|इन्द्रवन्त्
 इ॑न्द्रवन्त् von Indra begleitet;<BR> Indra's Ge|nosse.
 
 इन्द्रसेन
@@ -9346,7 +9349,7 @@
 इयत्ता
 इयत्ता f. Quantität, Maß.
 
-इयन्त्
+इयत्|इयन्त्
 इ॑यन्त् so groß, so viel, tantus. Instr. इयता |insoweit, darum.
 
 इयम्
@@ -9376,7 +9379,7 @@
 इरा
 इ॑रा f. Labetrunk, Erquickung.
 
-इरावन्त्
+इरावत्|इरावन्त्
 इ॑रावन्त् labend, erquaickend. f. एरावती |N. eines Flusses;<BR> Fraunname.
 
 इरिण
@@ -9445,7 +9448,7 @@
 इषुध्यु
 इषुध्यु॑ flehend.
 
-इषुमन्त्
+इषुमत्|इषुमन्त्
 इ॑षुमन्त् (इषुम॑न्त्) mit Pfeilen versehen.
 
 इषूय्
@@ -9598,7 +9601,7 @@
 ईर्ष्यालु
 ईर्ष्यालु, ईर्ष्यावन्त् u. ईर्ष्यि॑ neidisch, eifer|süchtig.
 
-ईवन्त्
+ईवत्|ईवन्त्
 ई॑वन्त् so groß.
 
 ईश्
@@ -9673,7 +9676,7 @@
 उक्तप्रत्युक्त
 उक्तप्रत्युक्त॑ n. Rede und Gegenrede.
 
-उक्तवन्त्
+उक्तवत्|उक्तवन्त्
 उक्तवन्त् s. वच्।
 
 उक्तवाक्य
@@ -9790,7 +9793,7 @@
 उच्छिष्ट
 उ॑च्छिष्ट (s. शिष्) übrig gelassen, einen |Rest (von Speise) an sich tragend, d. h. |unrein (r.);<BR> n. Ueberrest (bes von |Opfer u. Speise). Abstr. °ता f.
 
-उच्छृङ्खल
+उछृङ्खल|उच्छृङ्खल
 उच्छृङ्खल entkettet, zügellos.
 
 उच्छेत्तर्
@@ -10189,7 +10192,7 @@
 उदककार्य
 उदककार्य n. dass., Abwaschung.
 
-उदकवन्त्
+उदकवत्|उदकवन्त्
 उदक॑वन्त् mit Wasser versehen;<BR> f. उद|कवती Mädchenname.
 
 उदकाञ्जलि
@@ -10249,7 +10252,7 @@
 उदन्यु
 उदन्यु nach Wasser verlangend.
 
-उदन्वन्त्
+उदन्वत्|उदन्वन्त्
 उदन्वन्त् wogend, wasserreich;<BR> m. das |Meer.
 
 उदय
@@ -10558,7 +10561,7 @@
 उपकरण
 उपकरण n. Dienstfertigkeit, zuthat, Werk|zeug, Gerät, Mittel.
 
-उपकरणवन्त्
+उपकरणवत्|उपकरणवन्त्
 उपकरण॑वन्त् mit Mitteln versehen, ver|mögend.
 
 उपकर्तर्
@@ -11194,7 +11197,7 @@
 उशना
 उश॑ना f. (Instr.) begierig, eilig.
 
-उशन्त्
+उशत्|उशन्त्
 उश॑न्त् s. वश्।
 
 उशिज्
@@ -11347,7 +11350,7 @@
 ऊर्जस्
 ऊर्जस् n. Macht, Kraft.
 
-ऊर्जस्वन्त्
+ऊर्जस्वत्|ऊर्जस्वन्त्
 ऊ॑र्जस्वन्त् nährend, strotzend, kräftig.
 
 ऊर्जस्वल
@@ -11368,7 +11371,7 @@
 ऊर्णायु
 ऊर्णायु॑ wollig, f. Schaf.
 
-ऊर्णावन्त्
+ऊर्णावत्|ऊर्णावन्त्
 ऊ॑र्णावन्त् wollig;<BR> m. Spinne.
 
 ऊर्णु
@@ -11494,7 +11497,7 @@
 ऋक्वन्
 ऋ॑क्वन् dass.;<BR> m. N. die Jubler (Bez. einer |Schaar von Göttern
 
-ऋक्वन्त्
+ऋक्वत्|ऋक्वन्त्
 ऋ॑क्वन्त् = ऋक्ब्स॑
 
 ऋक्ष
@@ -11506,7 +11509,7 @@
 ऋक्षराज
 ऋक्षराज m. König der Bären;<BR> König der |Sterne, Mond.
 
-ऋक्षवन्त्
+ऋक्षवत्|ऋक्षवन्त्
 ऋक्षवन्त् m. N. eines Gebirges.
 
 ऋक्संहिता
@@ -11647,7 +11650,7 @@
 ऋतुपर्ण
 ऋतुपर्ण m. N. eines Königs.
 
-ऋतुमन्त्
+ऋतुमत्|ऋतुमन्त्
 ऋतुम॑न्त् der rechten Zeit entsprechend;<BR> |f. °मती die Regel habend;<BR> pubes.
 
 ऋतुशस्
@@ -11680,7 +11683,7 @@
 ऋद्धि
 ऋ॑द्धि f. das Gedeihen, der Wohlstand, das |Gelingen, Glück.
 
-ऋद्धिमन्त्
+ऋद्धिमत्|ऋद्धिमन्त्
 ऋद्धिमन्त् gedeihlich, ansehnlich, wohl|habend, reich an (--°)
 
 ऋधक्
@@ -11731,7 +11734,7 @@
 ऋष्व
 ऋष्व॑ hoch, erhaben (auch übertr.).
 
-ऋहन्त्
+ऋहत्|ऋहन्त्
 ऋह॑न्त् klein, gering. .ऋ लु ऌ ए
 
 ए
@@ -11758,7 +11761,7 @@
 एकचित्त
 एकचित्त2 Adj. einmütig;<BR> nur einen Ge|danken habend. Abstr. °ता f.
 
-एकच्छत्र
+एकछत्र|एकच्छत्र
 एकच्छत्र n. = एकातपत्र।
 
 एकज
@@ -12115,7 +12118,7 @@
 एतादृक्ष
 एतादृ॑क्ष °दृ॑श् u. दृ॑श, f. °दृ॑शी ein solcher, |derartig, so beschaffen.
 
-एतावन्त्
+एतावत्|एतावन्त्
 एता॑वन्त् so groß, so viel, so weit;<BR> n. adv.
 
 एद्
@@ -12148,7 +12151,7 @@
 एनस्
 ए॑नस् n. Sünde, Schuld, Unheil.
 
-एनस्वन्त्
+एनस्वत्|एनस्वन्त्
 ए॑नस्वन्त् u. °स्वि॑न् sündenvoll, frevelhaft.
 
 एना
@@ -12352,7 +12355,7 @@
 ओघ
 ओघ m. Flut, Strom, Menge.
 
-ओंकार
+ओङ्कार|ओंकार
 ओंकार m. die Silbe om.
 
 ओज
@@ -12412,13 +12415,13 @@
 ओमन्
 ओ॑मन्2 m. Genosse.
 
-ओमन्वन्त्
+ओमन्वत्|ओमन्वन्त्
 ओ॑मन्वन्त् freundlich, günstig.
 
 ओम्या
 ओम्या॑ f. = ओम॑न्
 
-ओम्यावन्त्
+ओम्यावत्|ओम्यावन्त्
 ओम्या॑वन्त् = ओ॑मन्वन्त्
 
 ओष
@@ -12607,7 +12610,7 @@
 ककुद
 क॑कुद n. (m.) dass.
 
-ककुद्मन्त्
+ककुद्मत्|ककुद्मन्त्
 ककुद्मन्त् mit einem Höcker versehen (auch |ककुद्निन);भ्णैआख् Berg.
 
 ककुभ्
@@ -12622,7 +12625,7 @@
 कक्ष
 क॑क्ष m. Versteck, Gebüsch;<BR> m. f. (आ) |Achselgrube, Gurt, Schurz;<BR> Wagschale |(gew. f.);<BR> f. Ringmauer, Einfriedigung;<BR> |Planetenbahn;<BR> Gleichheit, Wetteifer.
 
-कक्षीवन्त्
+कक्षीवत्|कक्षीवन्त्
 कक्षी॑वन्त् m. N. eines Rishi.
 
 कक्ष्य
@@ -12844,7 +12847,7 @@
 कथम्
 कथ॑म् Adv. wie? woher? warum? (auch |im Ausruf);<BR> oft verb. mit नु (wie viel |mehr, mit Neg.<BR> -weniger);<BR> इव, नाम, |स्विद् wie wohl, woher wohl? Mit चन, |चिद u. (später) अपि indef. irgendwie, |mit Mühe, mit knapper Not, eben nur, |kaum (wobei कथम् oft verdoppelt);<BR> |mit (bei चन auch ohne) Negation |auf keine Weise, unter keinen Um|ständen, durchaus nicht. यथा कथं चिद् |auf welche Weise auch immer.
 
-कथंभूत
+कथम्भूत|कथंभूत
 कथंभूत wie beschaffen?
 
 कथय्
@@ -13342,7 +13345,7 @@
 कर्णमूल
 कर्णमूल n. Ohrwurzel.
 
-कर्णवन्त्
+कर्णवत्|कर्णवन्त्
 क॑र्णवन्त् mit Ohren begabt.
 
 कर्णवेष्ट
@@ -13417,10 +13420,10 @@
 कर्तोस्
 क॑र्तोस् (Gen. Inf.) zu thun.
 
-कर्त्तर्
+कर्तर्|कर्त्तर्
 कर्त्तर्1 m. Vernichter.
 
-कर्त्तर्
+कर्तर्|कर्त्तर्
 कर्त्तर्2 m. Spinner.
 
 कर्त्र
@@ -13612,7 +13615,7 @@
 कलहप्रिय
 कलहप्रिय dass.
 
-कलहवन्त्
+कलहवत्|कलहवन्त्
 कलहवन्त् u. °हिन् sich streitend, zankend.
 
 कलाज्ञ
@@ -13774,7 +13777,7 @@
 कश
 क॑श m. eine Art Nagetier;<BR> Peitsche;<BR> f. |क॑शा Peitsche, Zügel.
 
-कशावन्त्
+कशावत्|कशावन्त्
 कशा॑वन्त् mit einer Peitsche verschen;<BR> |geißelschwingend.
 
 कशिपु
@@ -14023,7 +14026,7 @@
 कान्तिप्रद
 कान्तिप्रद Glanz verleihend.
 
-कान्तिमन्त्
+कान्तिमत्|कान्तिमन्त्
 कान्तिमन्त् lieblich, schön.
 
 कान्यकुब्ज
@@ -14110,7 +14113,7 @@
 कामरूप
 कामरूप n. jede beliebige Gestalt;<BR> Adj. |(auch °रूपि॑न्) jede b. G. annehmend.
 
-कामवन्त्
+कामवत्|कामवन्त्
 का॑मवन्त् verliebt.
 
 कामवासिन्
@@ -14167,7 +14170,7 @@
 कायक्लेश
 कायक्लेश m. körperliche Plage o. Be|schwrde.
 
-कायवन्त्
+कायवत्|कायवन्त्
 कायवन्त् v verkörpert.
 
 कायस्थ
@@ -14224,10 +14227,10 @@
 कार्कश्य
 का॑र्कश्य n. Rauhheit, Härte.
 
-कार्त्तिक
+कार्तिक|कार्त्तिक
 कार्त्तिक m. N. eines Herbstmonats;<BR> f. ई der |Vollmondstag in dems.
 
-कार्त्तिकेय
+कार्तिकेय|कार्त्तिकेय
 कार्त्तिकेय m. Metron. Skanda's.
 
 कार्त्स्न्य
@@ -14287,7 +14290,7 @@
 कार्यवत्ता
 कार्यवत्ता f. Abstr. zum folg.
 
-कार्यवन्त्
+कार्यवत्|कार्यवन्त्
 कार्यवन्त् beschäftigt, ein Anliegen o. eine |Absicht habend.
 
 कार्यवशात्
@@ -14560,7 +14563,7 @@
 कास
 कास m. कासा f. dass.
 
-कासवन्त्
+कासवत्|कासवन्त्
 कासवन्त् hustend.
 
 कासार
@@ -14611,13 +14614,13 @@
 किकिदीवि
 किकिदीवि॑ m. der blaue Holzhäher.
 
-किंकर
+किङ्कर|किंकर
 किंकर m. Diener, Sklave;<BR> Abstr. °त्व n. |f. ई Dienerin, Sklavin.
 
 किङ्किणी
 किङ्किणी f. Glöckchen.
 
-किंचन्य
+किञ्चन्य|किंचन्य
 किंचन्य n. Besitz.
 
 किञ्जल्क
@@ -14677,7 +14680,7 @@
 किंपर
 किंपर was für Folgen habend?*
 
-किंपुरुष
+किम्पुरुष|किंपुरुष
 किंपुरुष॑ u. °पु॑रुष Art Kobold;<BR> Zwerg.
 
 किम्प्रभु
@@ -14695,7 +14698,7 @@
 किम्मय
 किम्म॑य woraus bestehend?
 
-किंमात्र
+किम्मात्र|किंमात्र
 किंमात्र von welchem Umfange?
 
 कियच्चिरम्
@@ -14704,7 +14707,7 @@
 कियद्दूर
 कियद्दूर (°--) ein Endchen, ein Stuck|chen (eig etwas weit);<BR> Acc. dass.;<BR> |Loc. dass.;<BR> (wie weit?*)
 
-कियन्त्
+कियत्|कियन्त्
 कि॑यन्त् wie groß? wie weit? wie lang? |quantus? कि॑यात्या॑ (Loc. mit 1. आ॑ wie |lange ist es her? n. कि॑यत् wie weit? |wie viel? etwas, ein wenig (bes. °--)।
 
 कियाम्बु
@@ -14809,7 +14812,7 @@
 कीदृगाकार
 कीदृगाकार u. °ग्रूप wie aussehend?
 
-कीदृग्व्यापारवन्त्
+कीदृग्व्यापारवत्|कीदृग्व्यापारवन्त्
 कीदृग्व्यापारवन्त् welche Beschäftigung |habend?
 
 कीदृश्
@@ -14845,7 +14848,7 @@
 कीर्ति
 कीर्ति॑ f. Erwähnung, Nennung;<BR> Kunde, |Ruhm.
 
-कीर्तिमन्त्
+कीर्तिमत्|कीर्तिमन्त्
 कीर्तिमन्त् u. कीर्तियुत berühmt, rühmlich.
 
 कीर्तेन्य
@@ -14860,7 +14863,7 @@
 कीलित
 कीलित eingekeilt, befestigt.
 
-कीवन्त्
+कीवत्|कीवन्त्
 की॑वन्त् = कियन्त्
 
 कीश
@@ -15049,7 +15052,7 @@
 कुतूहल
 कुतूहल n. dass., Vergnügen, Lust. Eifer |(प्रति mit Acc.;<BR> Loc. o. --°);भ्णैआख् ein über|raschender, interessanter Gegenstad. |°लेन adv. eifrig, gierig.
 
-कुतूहलवन्त्
+कुतूहलवत्|कुतूहलवन्त्
 कुतूहलवन्त् u. °लिन् neugierig, voll Inter|esse.
 
 कुत्र
@@ -15169,7 +15172,7 @@
 कुमारव्रत
 कुमारव्रत n. Keuschheitsgelübde.*
 
-कुमारसंभव
+कुमारसम्भव|कुमारसंभव
 कुमारसंभव m. die Geburt des Kriegsgottes |(T. eines Gedichtes).
 
 कुमारिन्
@@ -15193,7 +15196,7 @@
 कुमुदिनी
 कुमुदिनी f. Nachtlotuspflanze o. gruppe.
 
-कुमुद्वन्त्
+कुमुद्वत्|कुमुद्वन्त्
 कुमुद्वन्त् reich mit Nachtlotus besetzt;<BR> f. कु|मुद्वती = vor.
 
 कुम्ब
@@ -15328,7 +15331,7 @@
 कुलव्रत
 कुलव्रत n. Familien(d. h. ererbte) Sitte.
 
-कुलसंतति
+कुलसन्तति|कुलसंतति
 कुलसंतति f. Nachkommenschaft.
 
 कुलस्तम्ब
@@ -15463,7 +15466,7 @@
 कुशलप्रश्न
 कुशलप्रश्न n. die Frage nach jemandes Ge|sundheit.
 
-कुशलवन्त्
+कुशलवत्|कुशलवन्त्
 कुशलवन्त् gesund, wohl.
 
 कुशलवाच्
@@ -15691,7 +15694,7 @@
 कूल
 कू॑ल n. Abhang, Hügel;<BR> Ufer.
 
-कूलंकष
+कूलङ्कष|कूलंकष
 कूलंकष das Ufer abbröckelnd.
 
 कूलजात
@@ -15886,7 +15889,7 @@
 कृत्य
 कृ॑त्य zu thun, angemessen, recht. कृत्यम् es |ist jemd. (Gen.) um etwas (Instr.) zu |thun.<BR> -m. Suffix des Partic. Fut. |Pass. (g.). f. कृत्या॑ That, Verrichtung;<BR> |Zauberei, Behexung. n. Geschäft, Vor|haben, Pflicht.
 
-कृत्यवन्त्
+कृत्यवत्|कृत्यवन्त्
 कृत्यवन्त् thätig, beschäftigt.
 
 कृत्याकृत्
@@ -15964,7 +15967,7 @@
 कृपालु
 कृपालु mitleidig, mit (Gen.). Abstr. °ता f.
 
-कृपावन्त्
+कृपावत्|कृपावन्त्
 कृपावन्त् mitleidig.
 
 कृपीट
@@ -15997,7 +16000,7 @@
 कृशन
 कृशन n. Perle.
 
-कृशनावन्त्
+कृशनावत्|कृशनावन्त्
 कृशना॑वन्त् u. °नि॑न् mit Perlen geschmückt.
 
 कृशाङ्ग
@@ -16117,7 +16120,7 @@
 केतु
 केतु॑ m. Helle, Licht, Ol. Strahlen;<BR> Bild, |Form, Erkennungszeichen, Banner;<BR> |Bannerträger, Anführer.
 
-केतुमन्त्
+केतुमत्|केतुमन्त्
 केतुमन्त् licht, hell (auch vom Ton).
 
 केदार
@@ -16198,7 +16201,7 @@
 केशव
 केशव॑ langhaarig;<BR> m. Bein. VishṇuKṛshṇa's. |Abstr. °त्व n.
 
-केशवन्त्
+केशवत्|केशवन्त्
 के॑शवन्त् langhaarig, mähnig.
 
 केशवपन
@@ -16231,7 +16234,7 @@
 कैकेय
 कै॑केय m. ein Fürst der Kekaya;<BR> f. कैकेयी |N. einer Gemahlin Daśarathäs.
 
-कैंकिरात
+कैङ्किरात|कैंकिरात
 कैंकिरात vom Aśoka kommend, Aśoka-.
 
 कैटभ
@@ -16279,7 +16282,7 @@
 कोटि
 कोटि u. °टी f. Spitze (bes. eines krummen |Gegenst). höchster Grad;<BR> höchste Zahl |(zehn Millionen).
 
-कोटिमन्त्
+कोटिमत्|कोटिमन्त्
 कोटिमन्त् spitz.
 
 कोण
@@ -16336,7 +16339,7 @@
 कोशल
 कोशल s. कोसल।
 
-कोशवन्त्
+कोशवत्|कोशवन्त्
 कोशवन्त् einen Behälter bildend;<BR> schätze|reich.
 
 कोशागार
@@ -16534,7 +16537,7 @@
 क्रतु
 क्र॑तु m. Kraft, Macht (bes. geistige) Tüchtig|keit, Einsicht, Verstand, Begeisterung, |Plan, Verlangen, Wunsch, Wille;<BR> Werk, |Handlung, Opfer (auch personif.), Fest |(चाक्षुष Augenweide);<BR> N. eines Stern|bildes im großen Bären.
 
-क्रतुमन्त्
+क्रतुमत्|क्रतुमन्त्
 क्र॑तुमन्त् entschlossen, verständig.
 
 क्रतूय्
@@ -16687,7 +16690,7 @@
 क्रियालोप
 क्रियालोप m. Unterlassungeiner Ceremonie.
 
-क्रियावन्त्
+क्रियावत्|क्रियावन्त्
 क्रियावन्त् handelnd, thätig;<BR> die religiösen |Gebräuche vollziehend.
 
 क्रियाविधि
@@ -17017,10 +17020,10 @@
 क्षमता
 क्षमता f., °त्व n. das Können, Imstandesein.
 
-क्षमालिङ्गात्मपीडावन्त्
+क्षमालिङ्गात्मपीडावत्|क्षमालिङ्गात्मपीडावन्त्
 क्षमालिङ्गात्मपीडावन्त् wobei der Nachweis |der Nachsicht und der eigene Schaden |angegeben ist (g.).
 
-क्षमावन्त्
+क्षमावत्|क्षमावन्त्
 क्षमावन्त्, क्षमशील u. क्षमिन् geduldig, |nachsichtig, mitleidig.
 
 क्षम्य
@@ -17191,7 +17194,7 @@
 क्षीरप
 क्षीरप Milch trinkend;<BR> m. Säugling, Kind.
 
-क्षीरवन्त्
+क्षीरवत्|क्षीरवन्त्
 क्षीर॑वन्त् voll Milch.
 
 क्षीरवृक्ष
@@ -17269,7 +17272,7 @@
 क्षुभ्
 क्षुभ्2 f. Ruck, Stoß. 
 
-क्षुमन्त्
+क्षुमत्|क्षुमन्त्
 क्षुम॑न्त् nahrungsreicht, kräftig.
 
 क्षुम्प
@@ -17986,7 +17989,7 @@
 गतिभेद
 गतिभेद m. dass.
 
-गतिमन्त्
+गतिमत्|गतिमन्त्
 गतिमन्त् sich bewegend.
 
 गत्यर्थ
@@ -18061,7 +18064,7 @@
 गन्धर्वराज
 गन्धर्वराज m. der Fürst der Gandharva.
 
-गन्धवन्त्
+गन्धवत्|गन्धवन्त्
 गन्धवन्त् mit Geruch versehen, duftend.
 
 गन्धवह
@@ -18088,7 +18091,7 @@
 गभस्ति
 ग॑भस्ति m. Arm, Hand;<BR> Strahl.
 
-गभस्तिमन्त्
+गभस्तिमत्|गभस्तिमन्त्
 गभस्तिमन्त् strahlend;<BR> m. Sonne.
 
 गभीर
@@ -18175,7 +18178,7 @@
 गरुत्
 गरुत् Flügel.
 
-गरुत्मन्त्
+गरुत्मत्|गरुत्मन्त्
 गरु॑त्मन्त् geflügelt;<BR> m. der Vogel Garuḍa;<BR> |Vogel.
 
 गर्ग
@@ -18430,13 +18433,13 @@
 गातु
 गातु॑2 m. Gesang, Sänger.
 
-गातुमन्त्
+गातुमत्|गातुमन्त्
 गातुम॑न्त् geräumig, behaglich.
 
 गात्र
 गा॑त्र n. (adj. --° f. आ u. ई) Körperglied, |Körper;<BR> Flügel.
 
-गात्रवन्त्
+गात्रवत्|गात्रवन्त्
 गात्रवन्त् einen schönen Körper habend.
 
 गात्रानुलेपनी
@@ -18754,7 +18757,7 @@
 गुणवत्ता
 गुणवत्ता f. Reichtum an Vorzügen o. |Tugenden.
 
-गुणवन्त्
+गुणवत्|गुणवन्त्
 गुणवन्त् mit einem Faden verschen;<BR> mit den |fünf Haupteigenschaften begabt (ph.);<BR> |tugendhaft, trefflich, löblich.
 
 गुणसंयुक्त
@@ -19291,7 +19294,7 @@
 गोपालक
 गोपालक m. Kuhhirt (f. °लिका);भ्णैआख् Bein. |Kṛshṇa's.
 
-गोपावन्त्
+गोपावत्|गोपावन्त्
 गोपा॑वन्त् Schutz gewährend.
 
 गोपिष्ठ
@@ -19327,7 +19330,7 @@
 गोभुज्
 गोभुज् u. गोभृत् m. Fürst, Konig.
 
-गोमन्त्
+गोमत्|गोमन्त्
 गो॑मन्त् rinderreich, Rind-;<BR> milchreich |(Trank);<BR> f. गो॑मती ein rinderreicher |Ort;<BR> गोमती Flussname;<BR> n. गो॑मत् |Rinderbesitz.
 
 गोमय
@@ -19480,7 +19483,7 @@
 ग्ना
 ग्ना॑ f. Götterweib.
 
-ग्नावन्त्
+ग्नावत्|ग्नावन्त्
 ग्नावन्त् mit Götterweibern verbunden.
 
 ग्नास्पति
@@ -19516,7 +19519,7 @@
 ग्रन्थिभेद
 ग्रन्थिभेद m. dass.
 
-ग्रन्थिमन्त्
+ग्रन्थिमत्|ग्रन्थिमन्त्
 ग्रन्थिमन्त् geknüpft, gebunden.
 
 ग्रन्थिल
@@ -19747,7 +19750,7 @@
 घण्टारव
 घण्टारव u. °राव ª Glockenlaut.
 
-घण्टावन्त्
+घण्टावत्|घण्टावन्त्
 घण्टावन्त् mit einer Glocke versehen.
 
 घण्टिक
@@ -19813,7 +19816,7 @@
 घर्मदीधिति
 घर्मदीधिति घर्मद्युति, °भानु u. °रशिम |m. Sonne (eig. Heißstrahler). 
 
-घर्मवन्त्
+घर्मवत्|घर्मवन्त्
 घर्म॑वन्त् glühend, heiß.
 
 घर्मवारि
@@ -19924,7 +19927,7 @@
 घृणिन्
 घृणिन् feurig, wild;<BR> warmherzig, mit|leidig;<BR> mürrisch, verdreißlich.
 
-घृणीवन्त्
+घृणीवत्|घृणीवन्त्
 घृणीवन्त् glühend.
 
 घृत
@@ -19942,7 +19945,7 @@
 घृतप्रुष्
 घृतप्रुष् Fett träufelnd.
 
-घृतवन्त्
+घृतवत्|घृतवन्त्
 घृ॑तवन्त् fettreich.
 
 घृतवर्तनि
@@ -20014,7 +20017,7 @@
 घोषण
 घोषण tönend;<BR> f. आ u. n. Verkündigung.
 
-घोषवन्त्
+घोषवत्|घोषवन्त्
 घोषवन्त् tönend, lärmend.
 
 घोषि
@@ -20026,7 +20029,7 @@
 घ्न
 घ्न (--°) schlagend, tötend, vernichtend, |beseitigend.
 
-घ्नन्त्
+घ्नत्|घ्नन्त्
 घ्नन्त् s. हन्।
 
 घ्रंस्
@@ -20134,7 +20137,7 @@
 चक्षुष्प्रीति
 चक्षुष्प्रीति f. Augenweide (eig freude).
 
-चक्षुष्मन्त्
+चक्षुष्मत्|चक्षुष्मन्त्
 च॑क्षुष्मन्त् mit Augen begabt, sehend. 
 
 चक्षुष्य
@@ -20527,7 +20530,7 @@
 चन्द्रवश
 चन्द्रवश m. das Mondgeschlecht.
 
-चन्द्रवन्त्
+चन्द्रवत्|चन्द्रवन्त्
 चन्द्रवन्त् mondhell;<BR> f. चन्द्रवती Frauen|name.
 
 चन्द्रवपुस्
@@ -21067,7 +21070,7 @@
 चित्तभ्रम
 चित्तभ्रम m., चित्तभ्रान्ति f. Geistesver|wirrung.
 
-चित्तवन्त्
+चित्तवत्|चित्तवन्त्
 चित्तवन्त् verständig, klug, gefühlvoll.
 
 चित्तविकार
@@ -21148,7 +21151,7 @@
 चित्रलेखा
 चित्रलेखा f. Bild;<BR> weibl. Name.
 
-चित्रवन्त्
+चित्रवत्|चित्रवन्त्
 चित्रवन्त् gemalt o. mit Bildern geschmückt.
 
 चित्रवर्ति
@@ -21640,7 +21643,7 @@
 छत्त्रधार
 छत्त्रधार m. Sonnenschirmträger. °त्व n. |Amt des S.
 
-छत्त्रवन्त्
+छत्रवत्|छत्त्रवन्त्
 छत्त्रवन्त् mit einem Sonnenschirm versehen.
 
 छत्त्रवृक्ष
@@ -21694,7 +21697,7 @@
 छन्दस्य
 छन्दस्य᳠ Adj. liedartig, metrisch.
 
-छन्दस्वन्त्
+छन्दस्वत्|छन्दस्वन्त्
 छ॑न्दस्वन्त् verlangend.
 
 छन्दःसूत्र
@@ -21805,7 +21808,7 @@
 छायामय
 छायाम॑य schattenartig.
 
-छायावन्त्
+छायावत्|छायावन्त्
 छायावन्त् schattig.
 
 छायासंज्ञा
@@ -22234,7 +22237,7 @@
 जनिमन्
 ज॑निमन् n. Geburt, Ursprung, Geschlecht, |Wesen, Art.
 
-जनिमन्त्
+जनिमत्|जनिमन्त्
 जनिमन्त् u. ज॑निवन्त् beweibt.
 
 जनिष्ठ
@@ -22513,7 +22516,7 @@
 जरायुज
 जरायुज॑ aus Mutterleibe, d. i. lebendig |geboren.
 
-जरावन्त्
+जरावत्|जरावन्त्
 जरावन्त् alt, bejahrt.
 
 जरासंध
@@ -22627,7 +22630,7 @@
 जलरुह्
 जलरुह् u. °रुह n. Taglotusblüte.
 
-जलवन्त्
+जलवत्|जलवन्त्
 जलवन्त् wasserreich.
 
 जलवास
@@ -22867,13 +22870,13 @@
 जाति
 जाति (जाती) f. Geburt, Wiedergeburt, |Stellung, Rang, Kaste, Familie, Ge|schlecht, Gattung, Art, Anlage. °-- |u. जातितस् von Geburt.
 
-जातिमन्त्
+जातिमत्|जातिमन्त्
 जातिमन्त् von edler Geburt.
 
 जातिमात्र
 जातिमात्र n. die bloße<BR> --, nur die Geburt. 
 
-जातिसंपन्न
+जातिसम्पन्न|जातिसंपन्न
 जातिसंपन्न von edler Geburt.
 
 जातिस्मर
@@ -23047,7 +23050,7 @@
 जाल्म
 जाल्म॑ f. ई verächtlich, gemein;<BR> m. Schurke.
 
-जावन्त्
+जावत्|जावन्त्
 जा॑वन्त् Nachkommen habend.
 
 जासि
@@ -23473,7 +23476,7 @@
 जूति
 जूति॑ f. Drang, Eile, Antrieb.
 
-जूतिमन्त्
+जूतिमत्|जूतिमन्त्
 जूतिम॑न्त् drängend, eilig. 
 
 जूर्ण
@@ -23632,7 +23635,7 @@
 ज्ञातिभेद
 ज्ञातिभेद m. Verwandtenzerwürfnis.
 
-ज्ञातिमन्त्
+ज्ञातिमत्|ज्ञातिमन्त्
 ज्ञातिमन्त् Blutsverwandte habend.
 
 ज्ञात्र
@@ -23656,10 +23659,10 @@
 ज्ञानयुत
 ज्ञानयुत mit Kenntnissen ausgestattet.
 
-ज्ञानवन्त्
+ज्ञानवत्|ज्ञानवन्त्
 ज्ञानवन्त् wissend reich an Erkenntnis |(bes. höherer), weise. 
 
-ज्ञानशक्तिमन्त्
+ज्ञानशक्तिमत्|ज्ञानशक्तिमन्त्
 ज्ञानशक्तिमन्त् die Kraft der Erkenntnis |besitzend (ph.).
 
 ज्ञानार्थिन्
@@ -23668,7 +23671,7 @@
 ज्ञानिन्
 ज्ञानिन् = ज्ञानवन्त् m. Wahrsager, Astrolog. |Abstr. °नित्व n.
 
-ज्ञानेच्छाक्रियाशक्तिमन्त्
+ज्ञानेछाक्रियाशक्तिमत्|ज्ञानेच्छाक्रियाशक्तिमन्त्
 ज्ञानेच्छाक्रियाशक्तिमन्त् die Kraft der Er|kenntnis, des Wollens und des Handelns |besitzend (ph.).
 
 ज्ञानेन्द्रिय
@@ -23710,7 +23713,7 @@
 ज्मा
 ज्मा॑ f. Erde (nur Instr. ज्मा॑ u. G. Abl. |ज्म॑स्)।
 
-ज्मायन्त्
+ज्मायत्|ज्मायन्त्
 ज्माय॑न्त् zur Erde strebend.
 
 ज्या
@@ -23740,7 +23743,7 @@
 ज्यायंस्
 ज्या॑यंस् (Compar.) mächtiger, größer;<BR> über|legen;<BR> der mächtigste, größte. Abstr. |ज्यायस्त्व n.
 
-ज्यायस्वन्त्
+ज्यायस्वत्|ज्यायस्वन्त्
 ज्या॑यस्वन्त् einen Mächtigeren habend.
 
 ज्यायिष्ठ
@@ -23803,7 +23806,7 @@
 ज्योतिष्कृत्
 ज्योतिष्कृ॑त् Licht schaffend.
 
-ज्योतिष्मन्त्
+ज्योतिष्मत्|ज्योतिष्मन्त्
 ज्यो॑तिष्मन्त् lichtvoll, leuchtend, himmlisch;<BR> |m. die Sonne, Mannsname.
 
 ज्योतिःष्टोम
@@ -23857,7 +23860,7 @@
 ज्वलनसप्रभ
 ज्वलनसप्रभ feuerartig, glänzend.
 
-ज्वलन्त्
+ज्वलत्|ज्वलन्त्
 ज्वलन्त् brennend, leuchtend;<BR> m. Feuer.
 
 ज्वलित
@@ -23872,13 +23875,13 @@
 ज्वालिन्
 ज्वालिन् flammend. झ
 
-झंकार
+झङ्कार|झंकार
 झंकार m. Geklirr, Gesumm, Getöse.
 
 झंकारित
 झंकारित n. dass.;<BR> (adj.--° durchtönt, |durchsummt von*).
 
-झंकारिन्
+झङ्कारिन्|झंकारिन्
 झंकारिन् klirrend, summend, tönend.
 
 झंकृति
@@ -23953,10 +23956,10 @@
 टङ्कय्
 टङ्कय् °यति zudecken. p.p. उट्टङ्कित u. |विटङ्कित gestempelt, gekennzeichnet.
 
-टंकार
+टङ्कार|टंकार
 टंकार m. Geschrei, Getön, Klang.
 
-टंकारित
+टङ्कारित|टंकारित
 टंकारित u. टंकृत n. dass.
 
 टल्
@@ -24199,7 +24202,7 @@
 तडित्
 तडित् f. Blitz.
 
-तडित्वन्त्
+तडित्वत्|तडित्वन्त्
 तडित्वन्त् Blitze enthaltend;<BR> m. Wolke.
 
 तडिन्मय
@@ -24334,7 +24337,7 @@
 तत्रत्य
 तत्रत्य dortig.
 
-तत्रभवन्त्
+तत्रभवत्|तत्रभवन्त्
 तत्रभवन्त् f. °वती der Herr--, die Dame |dort (meist von Abwesenden gebraucht). 
 
 तत्रस्थ
@@ -24595,7 +24598,7 @@
 तन्तुभूत
 तन्तुभूत Stammhalter seiend.
 
-तन्तुमन्त्
+तन्तुमत्|तन्तुमन्त्
 तन्तुमन्त् fadenziehend, fadenförmig;<BR> un|unterbrochen (Bein. Agni's).
 
 तन्तुवान
@@ -24706,7 +24709,7 @@
 तपस्य
 तपस्य᳠ aus Hitze entstanden;<BR> m. N. eines |Monats, Mannsn.;<BR> f. आ n. Askese, Buße.
 
-तपस्वन्त्
+तपस्वत्|तपस्वन्त्
 त॑पस्वन्त् glühend;<BR> asketisch, fromm.
 
 तपस्विकन्या
@@ -24760,7 +24763,7 @@
 तपोवन
 तपोवन n. Bußo. Büßerwald.
 
-तपोवन्त्
+तपोवत्|तपोवन्त्
 तपोवन्त् asketisch, fromm.
 
 तपोवृद्ध
@@ -24799,7 +24802,7 @@
 तमस
 तमस॑ dunkelfarbig;<BR> n. Finsternis.
 
-तमस्वन्त्
+तमस्वत्|तमस्वन्त्
 तमस्वन्त् (f. °स्वती u. त॑मस्वरी) finster.
 
 तमाम्
@@ -24826,7 +24829,7 @@
 तमोरूप
 तमोरूप u. °रूपिन् dass.
 
-तमोवन्त्
+तमोवत्|तमोवन्त्
 तमोवन्त् finster, dunkel.
 
 तमोवृध्
@@ -24862,7 +24865,7 @@
 तरंगवात
 तरंगवात Wellenwind o. luft.
 
-तरंगिन्
+तरङ्गिन्|तरंगिन्
 तरंगिन् wogend, wallend;<BR> f. °णी Fluss, |auch als Büchertitel (--°.)
 
 तरण
@@ -24904,7 +24907,7 @@
 तरस
 तरस m. n. Fleisch. °मय fleischern.
 
-तरस्वन्त्
+तरस्वत्|तरस्वन्त्
 त॑रस्वन्त् u. तस्वि॑न् rasch, energisch, |mutig.
 
 तराम्
@@ -25051,7 +25054,7 @@
 तर्षित
 तर्षित durstig, gierig, verlangend nach (--°).
 
-तर्ष्यावन्त्
+तर्ष्यावत्|तर्ष्यावन्त्
 तर्ष्या॑वन्त् durstig.
 
 तर्ह
@@ -25111,7 +25114,7 @@
 तवस्य
 तवस्य᳠ n. Kraft, Mut.
 
-तवस्वन्त्
+तवस्वत्|तवस्वन्त्
 त॑वस्वन्त् = तवस् Adj.
 
 तवागा
@@ -25120,7 +25123,7 @@
 तविष
 तविष॑ dass.;<BR> f. त॑विषी = तव॑स् m.
 
-तविषीमन्त्
+तविषीमत्|तविषीमन्त्
 त॑विषीमन्त् kräftig, mutig. 
 
 तविषीय्
@@ -25573,7 +25576,7 @@
 तावत्फल
 तावत्फल (nur) so viel Lohn bringend.
 
-तावन्त्
+तावत्|तावन्त्
 ता॑वन्त् so groß, so lang (Raum u. Zeit), |soviel. n. ता॑वत् adv. soweit, solange, |in der Zeit, inzwischen (auch Instr. u. |Loc.), zuvor, zunächst, gleich (bes. beim |Imperat. u. der 1. Pers. Praes. o. Fut.), |wohl, gut, allerdings, eben (mit o. = एव)। |noch nicht. मातावत् ja nicht! |तावत्--यावत् (न) so weit, so lange-|bis. तावत्--च kaum<BR> --so. या॑वद्यावत्-|ता॑वक्तावत् in welchem Maße--in dem |Maße.
 
 तावन्मात्र
@@ -25678,13 +25681,13 @@
 तिमि
 तिमि m. (großer) Fisch.
 
-तिमिंगिल
+तिमिङ्गिल|तिमिंगिल
 तिमिंगिल m. Fischverschlinger, Raubfisch.
 
 तिमिंगिलगिल
 तिमिंगिलगिल m. Raubfischverschlinger, |großes Seeungeheuer.
 
-तिमितिमिंगिल
+तिमितिमिङ्गिल|तिमितिमिंगिल
 तिमितिमिंगिल dass.
 
 तिमिर
@@ -25900,7 +25903,7 @@
 तीर्थयात्रा
 तीर्थयात्रा f. Besuch heiliger Badeplätze, |Wallfahrt.
 
-तीर्थवन्त्
+तीर्थवत्|तीर्थवन्त्
 तीर्थवन्त् reich an heiligen Badeplätzen.
 
 तीर्थोदक
@@ -26065,7 +26068,7 @@
 तुरंग
 तुरंग m. = तुरग।
 
-तुरंगम
+तुरङ्गम|तुरंगम
 तुरंगम m. dass., f. ई Stute.
 
 तुरण
@@ -26140,7 +26143,7 @@
 तुलायोग
 तुलायोग m. Pl. die verschiedenen Wä|gungen.
 
-तुलावन्त्
+तुलावत्|तुलावन्त्
 तुलावन्त् mit einer Wage versehen.
 
 तुलिम
@@ -26173,7 +26176,7 @@
 तुविष्टम
 तुवि॑ष्टम (Superl.) der stärkste, mächtigste.
 
-तुविष्मन्त्
+तुविष्मत्|तुविष्मन्त्
 तुविष्मन्त् kraftvoll, mächtig.
 
 तुवीमघ
@@ -26227,7 +26230,7 @@
 तुष्टि
 तुष्टि f. Zufriedenheit.
 
-तुष्टिमन्त्
+तुष्टिमत्|तुष्टिमन्त्
 तुष्टिमन्त् zufrieden.
 
 तुहिन
@@ -26377,7 +26380,7 @@
 तृणलव
 तृणलव m. Grashalm (eig. Bischen Gras).
 
-तृणवन्त्
+तृणवत्|तृणवन्त्
 तृणवन्त् grasreich.
 
 तृणस्कन्द
@@ -26452,7 +26455,7 @@
 तृप्तिकर
 तृप्तिकर u. °कारक sättigend, befriedigend, |labend.
 
-तृप्तिमन्त्
+तृप्तिमत्|तृप्तिमन्त्
 तृप्तिमन्त् befriedigt.
 
 तृप्र
@@ -26491,7 +26494,7 @@
 तृष्णा
 तृ॑ष्णा f. Durst, Gier (auch personif.), Ver|langen nach (--°). 
 
-तृष्यावन्त्
+तृष्यावत्|तृष्यावन्त्
 तृष्या॑वन्त् durstig.
 
 तृह्
@@ -26512,7 +26515,7 @@
 तेजस्य
 तेजस्य᳠ ansehnlich, herrlich.
 
-तेजस्वन्त्
+तेजस्वत्|तेजस्वन्त्
 ते॑जस्वन्त् brennend, glänzend, schön.
 
 तेजस्विन्
@@ -26533,7 +26536,7 @@
 तेजोरूप
 तेजोरूप aus Glanz bestehend.
 
-तेजोवन्त्
+तेजोवत्|तेजोवन्त्
 तेजोवन्त् glänzend.
 
 तेजोवृत्त
@@ -26620,7 +26623,7 @@
 तोक
 तोक॑ n. Nachkommenschaft, Stamm Ge|schlecht. Oft zus. mit तनय।
 
-तोकवन्त्
+तोकवत्|तोकवन्त्
 तोक॑वन्त् Nachkommen habend.
 
 तोकसाति
@@ -26698,7 +26701,7 @@
 तोयराशि
 तोयराशि m. See, Teich, Meer.
 
-तोयवन्त्
+तोयवत्|तोयवन्त्
 तोयवन्त् Wasser enthaltend.
 
 तोयवाह
@@ -26836,7 +26839,7 @@
 त्रयस्त्रिंशत्
 त्र॑यस्त्रिंशत् f. dreiunddreißig.
 
-त्रयीधामवन्त्
+त्रयीधामवत्|त्रयीधामवन्त्
 त्रयीधामवन्त् dessen Licht die drei Veden |sind (Sonne). 
 
 त्रयीमय
@@ -27253,7 +27256,7 @@
 त्रिवृत्करण
 त्रिवृत्करण n. Dreifachmachung (ph.).
 
-त्रिवृत्ता
+त्रिवृता|त्रिवृत्ता
 त्रिवृ॑त्ता f. Dreifachheit.
 
 त्रिवेद
@@ -27550,7 +27553,7 @@
 त्वग्दोष
 त्वग्दोष m. Hautkrankheit;<BR> °दोषिन् haut|krank.
 
-त्वंकार
+त्वङ्कार|त्वंकार
 त्वंकार m. das Dumachen, Dutzen.
 
 त्वङ्ग्
@@ -27631,7 +27634,7 @@
 त्वादृश्
 त्वादृश् u. °श, f. ई dir ähnlich.
 
-त्वायन्त्
+त्वायत्|त्वायन्त्
 त्वायन्त् dich verlangend o. suchend.
 
 त्वाया
@@ -27640,7 +27643,7 @@
 त्वायु
 त्वायु॑ dich begehrend o. liebend.
 
-त्वावन्त्
+त्वावत्|त्वावन्त्
 त्वा॑वन्त् dir ähnlich.
 
 त्वाष्ट्र
@@ -27655,7 +27658,7 @@
 त्विषि
 त्वि॑षि f. Ungestüm, Kraft, Glanz, Pracht.
 
-त्विषिमन्त्
+त्विषिमत्|त्विषिमन्त्
 त्वि॑षिमन्त् u. त्वि॑षीमन्त् ungestüm, glänzend, |prächtig.
 
 त्वी
@@ -27691,7 +27694,7 @@
 त्सरु
 त्स॑रु m. schleichendes Tier;<BR> Stiel, Griff.
 
-त्सरुमन्त्
+त्सरुमत्|त्सरुमन्त्
 त्सरुमन्त् mit einem Stiel versehen.
 
 त्सारिन्
@@ -27739,7 +27742,7 @@
 दंसन
 दंस॑न n., दंस॑ना f. Wunderthat o. kraft.
 
-दंसनावन्त्
+दंसनावत्|दंसनावन्त्
 दंस॑नावन्त् wunderkräftig.
 
 दंसस्
@@ -27820,7 +27823,7 @@
 दक्षिणारण्य
 दक्षिणारण्य n. N. eines Waldes.
 
-दक्षिणावन्त्
+दक्षिणावत्|दक्षिणावन्त्
 द॑क्षिणावन्त् tüchtig, fromm, reich an Opfer|gaben o. Geschenken.
 
 दक्षिणावर्त
@@ -27940,7 +27943,7 @@
 दण्डवध
 दण्डवध॑ m. Todesstrafe (eig. Straftod).
 
-दण्डवन्त्
+दण्डवत्|दण्डवन्त्
 दण्डवन्त् mit einem Stock o. Stiel versehen.
 
 दण्डवाचिक
@@ -27979,7 +27982,7 @@
 दत्तदृष्टि
 दत्तदृष्टि den Blick auf (Loc.) gerichtet, |hinschauend.
 
-दत्तवन्त्
+दत्तवत्|दत्तवन्त्
 दत्तवन्त् s. 1. दा।
 
 दत्तशुल्का
@@ -28000,10 +28003,10 @@
 दत्र
 द॑त्र n. Habe.
 
-दत्रवन्त्
+दत्रवत्|दत्रवन्त्
 द॑त्रवन्त् reich an Habe, vermögend.
 
-दत्वन्त्
+दत्वत्|दत्वन्त्
 दत्व॑न्त् mit Zähnen begabt.
 
 ददाति
@@ -28048,7 +28051,7 @@
 दधिमण्ड
 दधिमण्ड m. saurer Rahm.
 
-दधिवन्त्
+दधिवत्|दधिवन्त्
 द॑धिवन्त् saure Milch enthaltend.
 
 दधिष्व
@@ -28072,7 +28075,7 @@
 दनुज
 दनुज m. ein Dānava.
 
-दन्त्
+दत्|दन्त्
 द॑न्त् (adj.--°, f. दती) = folg.
 
 दन्त
@@ -28201,7 +28204,7 @@
 दमूनस्
 द॑मूनस् häuslich, Haus-;<BR> m. Hausfreund.
 
-दंपति
+दम्पति|दंपति
 दं॑पति m. Hausherr;<BR> Du. Mann und Frau.
 
 दम्भ्
@@ -28243,7 +28246,7 @@
 दयालुता
 दयालुता f., °त्व n. Mitleid.
 
-दयावन्त्
+दयावत्|दयावन्त्
 दयावन्त् mitleidig (Loc. o. Gen.).
 
 दयित
@@ -28288,7 +28291,7 @@
 दरीमन्
 द॑रीमन् Zerstörung.
 
-दरीवन्त्
+दरीवत्|दरीवन्त्
 दरीवन्त् höhlenreich.
 
 दर्तर्
@@ -28618,7 +28621,7 @@
 दाक्षिण्य
 दाक्षिण्य = दाक्षिण;भ्णैआख् n. Freundlichkeit, Höf|lichkeit, Galanterie;<BR> der Süden.
 
-दाक्षिण्यवन्त्
+दाक्षिण्यवत्|दाक्षिण्यवन्त्
 दाक्षिण्यवन्त् freundlich, liebenswürdig.
 
 दाक्ष्य
@@ -28696,7 +28699,7 @@
 दानव
 दानव॑ m., ई f. ein Dānava (böser Dämon, |Sohn der Danu);<BR> adj. den D. gehörig.
 
-दानवन्त्
+दानवत्|दानवन्त्
 दा॑नवन्त् gabenreich, freigebig.
 
 दानवीर
@@ -28720,7 +28723,7 @@
 दानु
 दानु2 f. Tropfen, Thau.
 
-दानुमन्त्
+दानुमत्|दानुमन्त्
 दा॑नुमन्त् träufelnd.
 
 दानौकस्
@@ -28756,7 +28759,7 @@
 दामन्
 दा॑मन्4 n. Band, Binde, Fessel, Guir|lande.
 
-दामन्वन्त्
+दामन्वत्|दामन्वन्त्
 दामन्वन्त् mit Gaben o. mit Stricken ver|sehen.
 
 दामोदर
@@ -28765,7 +28768,7 @@
 दामोदरगुप्त
 दामोदरगुप्त u. °रमिश्र N. von Dichtern.
 
-दांपत्य
+दाम्पत्य|दांपत्य
 दांपत्य n. Ehestand.
 
 दाम्भिक
@@ -28825,7 +28828,7 @@
 दारव
 दारव f. ई u. दारवीय hölzern.
 
-दारसंग्रह
+दारसङ्ग्रह|दारसंग्रह
 दारसंग्रह = दारकर्मन्। 
 
 दारि
@@ -28909,7 +28912,7 @@
 दावने
 दाव॑ने (Dat. Inf.) zum Spenden.
 
-दावन्त्
+दावत्|दावन्त्
 दावन्त् (--°) = दावन्।
 
 दावाग्नि
@@ -28987,7 +28990,7 @@
 दास्य
 दास्य᳠ n. Sklaverei, Dienst.
 
-दास्वन्त्
+दास्वत्|दास्वन्त्
 दा॑स्वन्त् gabenreich, spendend.
 
 दाह
@@ -29290,7 +29293,7 @@
 दिवित्
 दिवि॑त् zum Himmel gehend.
 
-दिवित्मन्त्
+दिवित्मत्|दिवित्मन्त्
 दिवि॑त्मन्त् dass., himmlisch.
 
 दिविषद्
@@ -29335,7 +29338,7 @@
 दिव्यरूप
 दिव्यरूप von himmlischer Gestalt. 
 
-दिव्यविज्ञानवन्त्
+दिव्यविज्ञानवत्|दिव्यविज्ञानवन्त्
 दिव्यविज्ञानवन्त् = दिव्यज्ञान।
 
 दिव्यसंकाश
@@ -29467,7 +29470,7 @@
 दीप्ति
 दी॑प्ति f. Flamme, Glanz, Anmut.
 
-दीप्तिमन्त्
+दीप्तिमत्|दीप्तिमन्त्
 दीप्तिमन्त् leuchtend, strahlend.
 
 दीप्तौजस्
@@ -29701,7 +29704,7 @@
 दुरात्मन्
 दुरात्मन् einen schlechten Geist o. Sinn |habend, böse, frevelhaft.
 
-दुरात्मवन्त्
+दुरात्मवत्|दुरात्मवन्त्
 दुरात्मवन्त् dass.
 
 दुराधर
@@ -30505,7 +30508,7 @@
 दूरगत
 दूरगत weit fortgegangen.
 
-दूरंगम
+दूरङ्गम|दूरंगम
 दूरंगम॑ in die Ferne gehend.
 
 दूरतस्
@@ -30697,7 +30700,7 @@
 दृशि
 दृशि f. das Sehenm, Schauen (दृश॑ये Dat. |Inf.) Schauvermögen (ph.);<BR> Auge.
 
-दृशिमन्त्
+दृशिमत्|दृशिमन्त्
 दृशिमन्त् sehend.
 
 दृशीक
@@ -30772,7 +30775,7 @@
 दृष्टिप्रसाद
 दृष्टिप्रसाद m. die Gunst des Anblicks;<BR> |°दं कर्<BR> --gewähren.
 
-दृष्टिमन्त्
+दृष्टिमत्|दृष्टिमन्त्
 दृष्टिमन्त् Augen habend (auch übertr.)
 
 दृष्टिराग
@@ -31057,7 +31060,7 @@
 देववधू
 देववधू f. Götterweib.
 
-देववन्त्
+देववत्|देववन्त्
 देव॑वन्त् Götter bei sich habend.
 
 देववन्द
@@ -31165,7 +31168,7 @@
 देवार्चन
 देवार्चन n. Götterverehrung
 
-देवावन्त्
+देवावत्|देवावन्त्
 देवा॑वन्त् = देव॑वन्त्।
 
 देवावी
@@ -31300,7 +31303,7 @@
 देहली
 देहली f. Schwelle.
 
-देहवन्त्
+देहवत्|देहवन्त्
 देहवन्त् körperbegabt;<BR> m. Lebewesen, |Mensch.
 
 देहवृत्ति
@@ -31459,7 +31462,7 @@
 दोषल
 दोषल fehlerhaft, verdorben.
 
-दोषवन्त्
+दोषवत्|दोषवन्त्
 दोषवन्त् dass., schädlich, schuldig, sündhaft.
 
 दोषस्
@@ -31483,7 +31486,7 @@
 दोषिन्
 दोषिन् sündhaft, schuldig.
 
-दोष्मन्त्
+दोष्मत्|दोष्मन्त्
 दोष्मन्त् starken Arm habend, tapfer.
 
 दोस्
@@ -31615,7 +31618,7 @@
 द्युति
 द्युति f. Glanz, Pracht, Würde.
 
-द्युतिमन्त्
+द्युतिमत्|द्युतिमन्त्
 द्युतिमन्त् glänzend, prächtig, würdevoll.
 
 द्युनिश्
@@ -31633,13 +31636,13 @@
 द्युमणि
 द्युमणि m. die Sonne (Himmelsjuwel.)
 
-द्युमन्त्
+द्युमत्|द्युमन्त्
 द्युम॑न्त् glänzend, herrlich, kraftvoll.
 
 द्युम्न
 द्युम्न॑ n. Glanz, Herrlichkeit, Kraft, Tüchtig|keit.
 
-द्युम्नवन्त्
+द्युम्नवत्|द्युम्नवन्त्
 द्युम्न॑वन्त् u. द्युम्न॑न् herrlich, kraftvoll.
 
 द्युवधू
@@ -31720,7 +31723,7 @@
 द्रप्स
 द्रप्स॑ m. Tropfen, Funke, Mond;<BR> Banner,
 
-द्रप्सवन्त्
+द्रप्सवत्|द्रप्सवन्त्
 द्रप्स॑वन्त् betropft.
 
 द्रप्सिन्
@@ -31762,7 +31765,7 @@
 द्रविण
 द्र॑विण n. bewegliches Gut, Reichtum, |Geld;<BR> Vermögen, Kraft.
 
-द्रविणवन्त्
+द्रविणवत्|द्रविणवन्त्
 द्रविणवन्त् Reichtum o. Segen verleihend;<BR> |kraftvoll, stark.
 
 द्रविणस्
@@ -31798,7 +31801,7 @@
 द्रव्यजात
 द्रव्यजात n. Art Stoff o. Ding.
 
-द्रव्यवन्त्
+द्रव्यवत्|द्रव्यवन्त्
 द्रव्यवन्त् begütert, reich;<BR> der Substanz |inhärierend (ph.)
 
 द्रव्यवृद्धि
@@ -31978,16 +31981,16 @@
 द्वक
 द्वक॑ DU. je zwei zusammen.
 
-द्वंद्व
+द्वन्द्व|द्वंद्व
 द्वंद्व॑ n. Paar, Dualismus, Gegensatz, Zwei|kampf, Streit, Wettstreit;<BR> Acc. u. Instr. |adv. paarweise. m. n. ein copulatives |Compsitum (g.).
 
 द्वंद्वभाव
 द्वंद्वभाव m. Zwietracht, Streit.
 
-द्वंद्वशस्
+द्वन्द्वशस्|द्वंद्वशस्
 द्वंद्वशस् Adv. paarweise.
 
-द्वंद्विन्
+द्वन्द्विन्|द्वंद्विन्
 द्वंद्वि॑न् ein Paar o. einen Gegensatz bildend.
 
 द्वय
@@ -32554,7 +32557,7 @@
 धनलोभ
 धनलोभ m. Geldgier.
 
-धनवन्त्
+धनवत्|धनवन्त्
 धनवन्त् reich;<BR> m. ein Reicher, das Meer.
 
 धनवर्जित
@@ -32647,7 +32650,7 @@
 धनुष्पाणि
 धनुष्पाणि einen Bogen in der Hand haltend.
 
-धनुष्मन्त्
+धनुष्मत्|धनुष्मन्त्
 धनुष्मन्त् bogenbewaffnet;<BR> m. Bogenschütze.
 
 धनुस्
@@ -32878,7 +32881,7 @@
 धर्मलोप
 धर्मलोप m. Pflichtversäumnis.
 
-धर्मवन्त्
+धर्मवत्|धर्मवन्त्
 ध॑र्मवन्त् vom Gesetze begleitel, tugendhaft.
 
 धर्मविद्
@@ -33082,7 +33085,7 @@
 धातुमत्ता
 धातुमत्ता f. Abstr. zum folg.
 
-धातुमन्त्
+धातुमत्|धातुमन्त्
 धातुमन्त् reich an Mineralien o. Metallen.
 
 धातुमय
@@ -33118,7 +33121,7 @@
 धाना
 धाना॑ f. Pl. Getreidekörner.
 
-धानावन्त्
+धानावत्|धानावन्त्
 धाना॑वन्त् von Getreidekörnern begleitet.
 
 धानुष्क
@@ -33148,7 +33151,7 @@
 धान्यमिश्र
 धान्यमिश्र Korn mischend o. fälschend.
 
-धान्यवन्त्
+धान्यवत्|धान्यवन्त्
 धान्यवन्त् reich an Korn.
 
 धान्यांश
@@ -33172,7 +33175,7 @@
 धामन्
 धा॑मन् n. Sitz, Wohnung, Aufenthalt, Ort, |Heimat, Reich, Herrschaft, Gefolge, |Truppe, Schar;<BR> Macht, Kraft, Majestät, |Glanz, Licht;<BR> Satzung, Gesetz, Ord|nung, Art und Weise, Brauch.
 
-धामवन्त्
+धामवत्|धामवन्त्
 धामवन्त् kräftig, mächtig.
 
 धाय
@@ -33346,7 +33349,7 @@
 धिप्सु
 धिप्सु betrügen wollend.
 
-धियंजिन्व
+धियञ्जिन्व|धियंजिन्व
 धियंजिन्व॑ die Andacht fördernd.
 
 धियंधा
@@ -33385,7 +33388,7 @@
 धीदा
 *धीदा f. Tochter.*
 
-धीमन्त्
+धीमत्|धीमन्त्
 धीमन्त् einsichtig klug, weise.
 
 धीमहि
@@ -33427,7 +33430,7 @@
 धीवन्
 धी॑वन् geschickt.
 
-धीवन्त्
+धीवत्|धीवन्त्
 धी॑वन्त् einsichtig;<BR> andächtig, fromm.
 
 धीवर
@@ -33541,7 +33544,7 @@
 धूमय्
 धूमय् Pass. धूम्यते umnebelt werden;<BR> |p.p. धूमित।
 
-धूमवन्त्
+धूमवत्|धूमवन्त्
 धूमवन्त् rauchend, dampfend.
 
 धूमवर्त्मन्
@@ -33673,7 +33676,7 @@
 धृतराष्ट्र
 धृतराष्ट्र N. des älteren Bruders Pāṇḍu's u. eines Schlangendämons.
 
-धृतवन्त्
+धृतवत्|धृतवन्त्
 धृतवन्त् s. 1. धर्।
 
 धृतव्रत
@@ -33694,7 +33697,7 @@
 धृतिपुष्प
 धृतिपुष्प n. Glückso. Freudenblume;<BR> |°ष्पं बन्ध् eine Glücksblume schießen |o. treiben.
 
-धृतिमन्त्
+धृतिमत्|धृतिमन्त्
 धृतिमन्त् entschlossen, standhaft, zufrieden.
 
 धृतिमुष्
@@ -33706,7 +33709,7 @@
 धृषद्विन्
 धृषद्वि॑न् mutig, Kühn.
 
-धृषन्त्
+धृषत्|धृषन्त्
 धृषन्त् u. धृष्ट s. धर्ष्।
 
 धृष्टकेतु
@@ -33748,7 +33751,7 @@
 धेनुका
 धे॑नुका f. Milchkuh, Muttertier.
 
-धेनुमन्त्
+धेनुमत्|धेनुमन्त्
 धेनुम॑न्त् milchreich, nahrungsreich.
 
 धेन्वनडुह
@@ -33769,7 +33772,7 @@
 धैर्यता
 धैर्यता . Standhaftigkeit, Ausdauer.
 
-धैर्यवन्त्
+धैर्यवत्|धैर्यवन्त्
 धैर्यवन्त् Festigkeit o. Mut besitzend.
 
 धैवर
@@ -33835,7 +33838,7 @@
 ध्यानतत्पर
 ध्यानतत्पर u. ध्यानपर in Nachdenken |versunken (N. als Höchstes habend).
 
-ध्यानवन्त्
+ध्यानवत्|ध्यानवन्त्
 ध्यानवन्त् andachtsvoll, beschaulich.
 
 ध्यानस्थित
@@ -33859,7 +33862,7 @@
 ध्रजस्
 ध्र॑जस् n. das Streichen, der Zug.
 
-ध्रजीमन्त्
+ध्रजीमत्|ध्रजीमन्त्
 ध्र॑जीमन्त् streichend, gleitend.
 
 ध्राज्
@@ -33931,7 +33934,7 @@
 ध्वजयष्टि
 ध्वजयष्टि f. Fahnenstock.
 
-ध्वजवन्त्
+ध्वजवत्|ध्वजवन्त्
 ध्वजवन्त् befalggt, ein best. Abzeichen |tragend;<BR> m. Fahnenträger.
 
 ध्वजिन्
@@ -33985,7 +33988,7 @@
 ध्वस्मन्
 ध्वस्म॑न् m. Verdunkelung.
 
-ध्वस्मन्वन्त्
+ध्वस्मन्वत्|ध्वस्मन्वन्त्
 ध्वस्मन्व॑न्त् verdunkelt, geschändet, ver|unehrt.
 
 ध्वस्र
@@ -34024,7 +34027,7 @@
 नकार
 नकार m. der Laut n;<BR> das Wort न (2.).
 
-नकिंचन
+नकिञ्चन|नकिंचन
 नकिंचन nichts habend, arm.
 
 नकिंचिद्
@@ -34045,10 +34048,10 @@
 नक्तक
 *नक्तक m. Lappen, Handtuch.
 
-नक्तंचर
+नक्तञ्चर|नक्तंचर
 नक्तंचर in der Nacht umhergehend. m. |Nachttier;<BR> Nachtdämon (f. ई)।
 
-नक्तंचारिन्
+नक्तञ्चारिन्|नक्तंचारिन्
 नक्तंचारिन् = vor. Adj. 
 
 नक्तन्
@@ -34180,7 +34183,7 @@
 नगरौकस्
 नगरौकस् m. Stadtbewohner.
 
-नगवन्त्
+नगवत्|नगवन्त्
 नगवन्त् baumreich.
 
 नगाग्र
@@ -34282,7 +34285,7 @@
 नदनु
 नदनु॑ m. Getöse.
 
-नदनुमन्त्
+नदनुमत्|नदनुमन्त्
 नदनुम॑न्त् tosend.
 
 नदभर्तर्
@@ -34444,7 +34447,7 @@
 नभस्य
 नभस्य᳠ dass.;<BR> m. ein best. Regenmonat.
 
-नभस्वन्त्
+नभस्वत्|नभस्वन्त्
 न॑भस्वन्त् dunstig, wolkig;<BR> m. Wind.
 
 नभःसद्
@@ -34537,7 +34540,7 @@
 नमस्यु
 नमस्यु॑ verehrend, huldigend.
 
-नमस्वन्त्
+नमस्वत्|नमस्वन्त्
 न॑मस्वन्त् dass.;<BR> ehrwürdig.
 
 नमस्विन्
@@ -34612,7 +34615,7 @@
 नयनोदबिन्दु
 नयनोदबिन्दु m. Thräne.
 
-नयवन्त्
+नयवत्|नयवन्त्
 न॑यवन्त् lebenso. staatsklug.
 
 नयविद्
@@ -35020,7 +35023,7 @@
 नस्योत
 नस्योत॑ an der Nase (d. h. mit einem Nasen|ring) gefesselt.
 
-नस्वन्त्
+नस्वत्|नस्वन्त्
 नस्व॑न्त् benast.
 
 नह्
@@ -35137,7 +35140,7 @@
 नागवधू
 नागवधू u. नागवशा f. Elefantenkuh.
 
-नागवन्त्
+नागवत्|नागवन्त्
 नागवन्त् elefantenreich.
 
 नागसाह्वय
@@ -35254,7 +35257,7 @@
 नाथवत्ता
 नाथवत्ता f. Abstr. z. folg.
 
-नाथवन्त्
+नाथवत्|नाथवन्त्
 नाथवन्त् f. °वती einen Schützer o. Gatten |habend. 
 
 नाथित
@@ -35446,7 +35449,7 @@
 नामरूप
 नामरूप m. Du. Name und Gestalt.
 
-नामवन्त्
+नामवत्|नामवन्त्
 नामवन्त् einen Namen habend.
 
 नामशेष
@@ -36319,7 +36322,7 @@
 नियुत
 नियुत n. Million.
 
-नियुत्वन्त्
+नियुत्वत्|नियुत्वन्त्
 नियुत्वन्त् mit einem Vielgespann versehen.
 
 नियुद्ध
@@ -36844,7 +36847,7 @@
 निर्द्रव्य
 निर्द्रव्य besitzlos, arm.
 
-निर्द्वंद्व
+निर्द्वन्द्व|निर्द्वंद्व
 निर्द्वंद्व gleichgültig (eig. gegensatzlos), un|abhängig.
 
 निर्धन
@@ -37216,7 +37219,7 @@
 निर्वृति
 निर्वृति f. Zufriedenheit, Behagen, Ent|zücken, Erlösung, Ruhe.
 
-निर्वृत्ति
+निर्वृति|निर्वृत्ति
 निर्वृत्ति f. das Zustandekommen, Voll= |endung;<BR> Unart, schlechtes Betragen.
 
 निर्वेद
@@ -37393,10 +37396,10 @@
 निवीत
 नि॑वीत (s. व्या) n. = उपवीत;भ्णैआख् *Überwurf, |Mantel.
 
-निवृत्त
+निवृत|निवृत्त
 निवृत्त s. वर्त्।
 
-निवृत्ति
+निवृति|निवृत्ति
 निवृत्ति f. Rückkehr;<BR> das Aufhören, |Schwinden;<BR> Nichtweitergeltung, opp. |अनुवृत्ति (g.);<BR> das Abstehen, Sichent|halten, Entrinnen (Abl. o.<BR> --°);<BR> Un|thätigkeit, Verderben.
 
 निवेदन
@@ -37756,7 +37759,7 @@
 निष्ठा
 निष्ठा॑ (o. निःष्ठा॑) hervorragend.
 
-निष्ठावन्त्
+निष्ठावत्|निष्ठावन्त्
 निष्ठावन्त् vollendet, vollkommen.
 
 निष्ठीवन
@@ -37930,7 +37933,7 @@
 निःसत्य
 निःसत्य unwahr, lügnerisch. Abstr. °ता f.
 
-निःसंदिग्ध
+निःसन्दिग्ध|निःसंदिग्ध
 निःसंदिग्ध zweifellos, gewiss (Sachen);<BR> |n. adv.
 
 निःसपत्न
@@ -38029,7 +38032,7 @@
 नीतिकुशल
 नीतिकुशल in der Staatskunst erfahren.
 
-नीतिमन्त्
+नीतिमत्|नीतिमन्त्
 नीतिमन्त् lebenso. staatsklug.
 
 नीतिविद्या
@@ -38125,7 +38128,7 @@
 नीललोहित
 नीललोहित॑ schwarzrot, Bein. Śiva's.
 
-नीलवन्त्
+नीलवत्|नीलवन्त्
 नी॑लवन्त् schwärzlich, dunkel.
 
 नीलवर्ण
@@ -38218,7 +38221,7 @@
 नूपुर
 नूपुर m. n. Fußring, Fußschmuck (bes. |bei Frauen).
 
-नूपुरवन्त्
+नूपुरवत्|नूपुरवन्त्
 नूपुरवन्त् u. °रिन् mit einem Fußring |geschmückt.
 
 नृ
@@ -38257,7 +38260,7 @@
 नृतु
 नृतु॑ lebhaft, beweglich;<BR> f. नृतू॑ Tänzerin.
 
-नृत्त
+नृत|नृत्त
 नृत्त॑ (s. नर्त्) n. Tanz.
 
 नृत्य
@@ -38341,7 +38344,7 @@
 नृवत्
 नृव॑त् Adv. nach Mannesart, tüchtig.
 
-नृवन्त्
+नृवत्|नृवन्त्
 नृव॑न्त् männerreich, männlich, mannhaft.
 
 नृवराह
@@ -38785,7 +38788,7 @@
 न्याय
 न्याय॑ m. Regel, Grundsatz, Methode, |(rechte) Art und Weise;<BR> Rechtshandel, |Urteilsspruch;<BR> logischer Beweis, Schluss, |Logik, das Nyāyasystem (ph.). न्यायेन |u. °यात् (--°) nach der Weise von;<BR> |न्याय (--°), न्यायेन u. न्यायतस् nach |der rechten Art, nach Gebühr.
 
-न्यायवन्त्
+न्यायवत्|न्यायवन्त्
 न्यायवन्त् u. °वर्तिन् sich nach Gebühr |betragend.
 
 न्यायवादिन्
@@ -38899,7 +38902,7 @@
 पक्षपुच्छ
 पक्षपुच्छ॑ n. Pl. Flügel und Schwanz.
 
-पक्षवन्त्
+पक्षवत्|पक्षवन्त्
 पक्ष॑वन्त् beflügelt;<BR> eine Partei habend.
 
 पक्षस्
@@ -38941,7 +38944,7 @@
 पङ्कज
 पङ्कज n. die Blüte der Wasserrose;<BR> m. |Bein. Brahman's (auch पङ्कजन्मन् m.).
 
-पङ्कवन्त्
+पङ्कवत्|पङ्कवन्त्
 पङ्कवन्त् u. पङ्किन् schlammig, schmutzig.
 
 पङ्किल
@@ -39364,7 +39367,7 @@
 पण्डितमानिक
 पण्डितमानिक u. °मानिन् sich für weise |haltend.
 
-पण्डितंमन्य
+पण्डितम्मन्य|पण्डितंमन्य
 पण्डितंमन्य dass.
 
 पण्ड्र
@@ -39382,7 +39385,7 @@
 पण्ययोषित्
 पण्ययोषित् f. = पणस्त्री
 
-पण्यवन्त्
+पण्यवत्|पण्यवन्त्
 पण्यवन्त् warenreich.
 
 पण्यस्त्री
@@ -39400,10 +39403,10 @@
 पतगेश्वर
 पतगेश्वर m. dass.
 
-पतंग
+पतङ्ग|पतंग
 पतंग॑ fliegend. m. Vogel;<BR> Insekt, Schmetter|ling, Motte (auch पत॑ग u. पतंगम m.).
 
-पतंगर
+पतङ्गर|पतंगर
 पतंगर॑ vogelartig.
 
 पतंगराज
@@ -39433,7 +39436,7 @@
 पतनीय
 पतनीय zum Fall (Verlust der Kaste) |führend;<BR> n. ein solches Verbrechen.
 
-पतन्त्
+पतत्|पतन्त्
 पतन्त् fliegend;<BR> m. Vogel.
 
 पतय्
@@ -39577,7 +39580,7 @@
 पत्नीय्
 पत्नीय् , °यति für die Gattin halten o. als |Gattin behandeln.
 
-पत्नीवन्त्
+पत्नीवत्|पत्नीवन्त्
 प॑त्नीवन्त् beweibt, von Weibern begleitet.
 
 पत्मन्
@@ -39754,7 +39757,7 @@
 पद्मराग
 पद्मराग m. Rubin (der Lotusfarbige).
 
-पद्मवन्त्
+पद्मवत्|पद्मवन्त्
 पद्मवन्त् lotusreich;<BR> f. °वती Frauenund |Stadtname.
 
 पद्मवर्चस्
@@ -39766,7 +39769,7 @@
 पद्मषण्ड
 पद्मषण्ड n. Lotusgruppe.
 
-पद्मसंभव
+पद्मसम्भव|पद्मसंभव
 पद्मसंभव m. = पद्नगर्भ।
 
 पद्मसरस्
@@ -39814,7 +39817,7 @@
 पद्र
 पद्र m. Dorf.
 
-पद्वन्त्
+पद्वत्|पद्वन्त्
 पद्व॑न्त् mit Füßen begabt;<BR> n. laufendes |Getier.
 
 पन्
@@ -39910,7 +39913,7 @@
 पयस्य
 पयस्य Adj. milchen.
 
-पयस्वन्त्
+पयस्वत्|पयस्वन्त्
 प॑यस्वन्त् milch-, saft-, samenreich, feucht, |strotzend, kraftvoll.
 
 पयस्विन्
@@ -40078,7 +40081,7 @@
 परमेष्ठिन्
 परमेष्ठि॑न् an der Spitze stehend;<BR> m. Ober|haupt (Bein. für Götter, Heroen u. |Weise).
 
-परंपर
+परम्पर|परंपर
 परंपर aufeinander folgend, successiv. n. |adv. einer nach dem andern. f. आ un|unterbrochene Reihe, dichte Masse.
 
 परलोक
@@ -40087,7 +40090,7 @@
 परवत्ता
 परवत्ता f. Abhängigkeit von (Gen.), Dienst|barkeit.
 
-परवन्त्
+परवत्|परवन्त्
 परवन्त् abhängig von (Instr. o. Gen.), un|selbständig. 
 
 परवश
@@ -40102,7 +40105,7 @@
 परशु
 परशु॑ m. Beil, Axt.
 
-परशुमन्त्
+परशुमत्|परशुमन्त्
 परशुम॑न्त् mit einer Axt versehen.
 
 परशुराम
@@ -40138,7 +40141,7 @@
 परस्व
 परस्व n. fremdes Eigentum.
 
-परस्वन्त्
+परस्वत्|परस्वन्त्
 परस्वन्त् m. der wilde Esel.
 
 परःसहस्र
@@ -40402,7 +40405,7 @@
 परिचय
 परिचय2 m. Bekanntschaft, Vertrautheit, |Umgang, Besuch.
 
-परिचयवन्त्
+परिचयवत्|परिचयवन्त्
 परिचयवन्त् gehäuft, übervoll;<BR> bekannt, |vertraut.
 
 परिचर
@@ -40507,7 +40510,7 @@
 परितोषण
 परितोषण dass.;<BR> n. das Zufriedenstellen.
 
-परितोषवन्त्
+परितोषवत्|परितोषवन्त्
 परितोषवन्त् zufrieden, froh.
 
 परितोषिन्
@@ -40888,7 +40891,7 @@
 परिवृक्त
 परिवृक्त (s. वर्त्) n. das Rollen, Sichwälzen.
 
-परिवृत्ति
+परिवृति|परिवृत्ति
 परिवृत्ति f. das Rollen, Wandern;<BR> Wieder|kehr, Tausch, Wechsel.
 
 परिवृद्धि
@@ -41023,7 +41026,7 @@
 परिसंवत्सर
 परिसंवत्सर m. ein ganzes Jahr;<BR> Adj.<BR> --alt.
 
-परिसंख्या
+परिसङ्ख्या|परिसंख्या
 परिसंख्या f., °न n. Aufzählung, volle Zahl, |Summe, Gesamtheit.
 
 परिसमाप्ति
@@ -41302,7 +41305,7 @@
 पर्णमय
 पर्णम॑य f. ई aus dem Holz des Palāca|baumes gemacht.
 
-पर्णवन्त्
+पर्णवत्|पर्णवन्त्
 पर्णवन्त् blätterreich.
 
 पर्णशय्या
@@ -41686,7 +41689,7 @@
 पशुबन्ध
 पशुबन्ध॑ m. Tieropfer (eig. fesselung).
 
-पशुमन्त्
+पशुमत्|पशुमन्त्
 पशुम॑न्त् vieh-, herdenreich. m. Herden|besitzer;<BR> n. Viehstand.
 
 पशुमार
@@ -41788,7 +41791,7 @@
 पस्त्यसद्
 पस्त्यस॑द् m. Hausgenosse, Insasse.
 
-पस्त्यावन्त्
+पस्त्यावत्|पस्त्यावन्त्
 पस्त्या᳠वन्त् im Hause o. Stalle wohnend, |angesessen;<BR> m. ein Hof besitzer, reicher |Mann.
 
 पह्लव
@@ -41911,7 +41914,7 @@
 पाजस्य
 पाजस्य᳠ n. Bauchgegend, Weichen (beim |Tier).
 
-पाजस्वन्त्
+पाजस्वत्|पाजस्वन्त्
 पा॑जस्वन्त् glänzend, kräftig.
 
 पाञ्चजन्य
@@ -41980,7 +41983,7 @@
 पाठन
 पाठन n. das Interrichten (eig. Hersagen|lassen).
 
-पाठवन्त्
+पाठवत्|पाठवन्त्
 पाठवन्त् belesen, gelehrt.
 
 पाठिन्
@@ -42025,7 +42028,7 @@
 पाणिबन्ध
 पाणिबन्ध m. der Händed. i. Ehebund.
 
-पाणिमन्त्
+पाणिमत्|पाणिमन्त्
 पाणिमन्त् Hände habend.
 
 पाणिमित
@@ -42244,7 +42247,7 @@
 पादलग्न
 पादलग्न im Fuße steckend o. am Fuße |hängend.
 
-पादवन्त्
+पादवत्|पादवन्त्
 पा॑दवन्त् mit Füßen begabt.
 
 पादवन्दन
@@ -42928,7 +42931,7 @@
 पितुभृत्
 पितुभृ॑त् Nahrung bringend.
 
-पितुमन्त्
+पितुमत्|पितुमन्त्
 पितुम॑न्त् nahrungsreich, nahrhaft.
 
 पितुषणि
@@ -42988,7 +42991,7 @@
 पितृबन्धु
 पितृबन्धु॑ m. Blutsverwandter o. Blutsver|wandtschaft von Vatersseite.
 
-पितृमन्त्
+पितृमत्|पितृमन्त्
 पितृम॑न्त् u. पितृ॑मन्त् einen Vater habend;<BR> |zu den Manen gehörig.
 
 पितृमात्रर्थ
@@ -43102,7 +43105,7 @@
 पिपासु
 पिपासु durstig;<BR> trinken wollen (Acc. o.<BR> --°).
 
-पिपिष्वन्त्
+पिपिष्वत्|पिपिष्वन्त्
 पिपिष्वन्त् schwellend, strotzend, übervoll.
 
 पिपील
@@ -43285,7 +43288,7 @@
 पीतन
 पीतन m. N. eines Baumes;<BR> *n. Safran.
 
-पीतवन्त्
+पीतवत्|पीतवन्त्
 पीतवन्त् getrunken habend. 
 
 पीतवासस्
@@ -43357,7 +43360,7 @@
 पीवस
 पीवस॑ fett, schwellend, reichlich.
 
-पीवस्वन्त्
+पीवस्वत्|पीवस्वन्त्
 पी॑वस्वन्त् von Fett strotzend.
 
 पीविष्ठ
@@ -43381,7 +43384,7 @@
 पुंसवन
 पुंसवन ein männliches Kind gebärend;<BR> n. |eine best. Ceremonie beim Anfang der |Schwangerschft (r.).
 
-पुंसवन्त्
+पुंसवत्|पुंसवन्त्
 पुंसवन्त् einen Sohn habend.
 
 पुंसुवन
@@ -43408,7 +43411,7 @@
 पुङ्खितशर
 पुङ्खितशर befiederte Pfeile habend.
 
-पुंगव
+पुङ्गव|पुंगव
 पुंगव m. Stier;<BR> Held, Vorzüglichster unter |(--°).
 
 पुच्छ
@@ -43417,7 +43420,7 @@
 पुच्छधि
 पुच्छधि॑ m. Schwanzwurzel.
 
-पुच्छवन्त्
+पुछवत्|पुच्छवन्त्
 पुच्छवन्त् geschwänzt.
 
 पुच्छाग्र
@@ -43459,7 +43462,7 @@
 पुण्डरीकमुखी
 पुण्डरीकमुखी f. eine Art Blutegel.
 
-पुण्डरीकवन्त्
+पुण्डरीकवत्|पुण्डरीकवन्त्
 पुण्ड॑रीकवन्त् mit Lotusblüten versehen.
 
 पुण्डरीकाक्ष
@@ -43492,7 +43495,7 @@
 पुण्यतीर्थ
 पुण्यतीर्थ n. heiliger Badeplatz;<BR> Adj. mit |h. Badeplätzen versehen. 
 
-पुण्यवन्त्
+पुण्यवत्|पुण्यवन्त्
 पुण्यवन्त् tugendhaft, glücklich.
 
 पुण्यशील
@@ -43564,7 +43567,7 @@
 पुत्रवत्
 पुत्रवत् Adv. wie ein Sohn, wie Söhne.
 
-पुत्रवन्त्
+पुत्रवत्|पुत्रवन्त्
 पुत्र॑वन्त् einen Sohn, Kinder habend. m. |Vater;<BR> f. °वती Mutter.
 
 पुत्रस्नेह
@@ -43708,7 +43711,7 @@
 पुंनपुंसक
 पुंनपुंसक n. Masculinum und Neutrum (g.).
 
-पुंनाग
+पुन्नाग|पुंनाग
 पुंनाग m. N. eines Baumes.
 
 पुंनामधेय
@@ -43723,7 +43726,7 @@
 पुमंस्
 पु॑मंस् (पु॑स्) m. Mann, Masculinum (g.), |Mensch, Diener;<BR> Seele (ph.).
 
-पुंभाव
+पुम्भाव|पुंभाव
 पुंभाव m. Männlichkeit.
 
 पुर्
@@ -43747,7 +43750,7 @@
 पुरजित्
 पुरजित् m. der Burgenbesieger (Bein. |Śiva's).
 
-परंजय
+परञ्जय|परंजय
 परंजय m. dass. (Bein. mehrerer Heroen).
 
 पुरतस्
@@ -43762,7 +43765,7 @@
 पुरंधि
 पु॑रंधि Fülle o. Segen spendend. m. N. |eines Gottes;<BR> f. Fülle, Reichtum, Segen.
 
-पुरंधिवन्त्
+पुरन्धिवत्|पुरंधिवन्त्
 पु॑रंधिवन्त् segensreich.
 
 पुरंध्रि
@@ -44116,7 +44119,7 @@
 पुष्टि
 पुष्टि॑ u. पु॑ष्टि f. Gedeihen, Blüte, Wohl|stand, Fülle (oft personif.);<BR> Nahrung, |Zucht, Pflege.
 
-पुष्टिमन्त्
+पुष्टिमत्|पुष्टिमन्त्
 पुष्टिम॑न्त् gedeihlich, reichlich.
 
 पुष्प
@@ -44158,7 +44161,7 @@
 पुष्पमित्र
 पुष्पमित्र m. Fürstenname.
 
-पुष्पवन्त्
+पुष्पवत्|पुष्पवन्त्
 पु॑ष्पवन्त् blüteno. blumenreich.
 
 पुष्पवर्ष
@@ -44191,7 +44194,7 @@
 पुष्पाराम
 पुष्पाराम m. Blumengarten.
 
-पुष्पावन्त्
+पुष्पावत्|पुष्पावन्त्
 पुष्पावन्त् = पुष्पवन्त् ;<BR> f. °वती N. einer Stadt.
 
 पुष्पित
@@ -44530,7 +44533,7 @@
 पूर्ववत्
 पूर्वव॑त् Adv. wie zuvor, wie gesagt.
 
-पूर्ववन्त्
+पूर्ववत्|पूर्ववन्त्
 पूर्ववन्त् etwas Vorangehendes habend;<BR> f. |°वती früher verheiratet gewesen.
 
 पूर्ववह्
@@ -44545,7 +44548,7 @@
 पूर्वविधि
 पूर्वविधि m. eine frühere Regel (g).
 
-पूर्ववृत्त
+पूर्ववृत|पूर्ववृत्त
 पूर्ववृत्त früher geschehen;<BR> n. ein früheres |Ereignis.
 
 पूर्वसद्
@@ -44620,7 +44623,7 @@
 पूल्य
 पू॑ल्य n. ein taubes Fruchtkorn.
 
-पूषण्वन्त्
+पूषण्वत्|पूषण्वन्त्
 पूषण्व॑न्त् von Pūshan begleitet (s. folg.).
 
 पूषन्
@@ -44818,10 +44821,10 @@
 पृषदश्व
 पृ॑षदश्व bunte Rosse habend.
 
-पृषद्वन्त्
+पृषद्वत्|पृषद्वन्त्
 पृ॑षद्वन्त् gesprenkelt.
 
-पृषन्त्
+पृषत्|पृषन्त्
 पृ॑षन्त् f. पृ॑षती gesprenkelt, seheckig, bunt. |m. die bunte Gazelle, f. deren Weib|chen;<BR> eine bunte Kuh. o. Stute. n. Wasser|tropfen.
 
 पृषित
@@ -44914,7 +44917,7 @@
 पेशस्
 पे॑शस् n. Gestalt, Schönheit, Schmuck, |Zierrat, Kunstgewebe o. gewand.
 
-पेशस्वन्त्
+पेशस्वत्|पेशस्वन्त्
 पे॑शस्वन्त् geschmückt, geziert.
 
 पेशितर्
@@ -45088,7 +45091,7 @@
 पोष्य
 पो॑ष्य zu ernähren;<BR> gedeihlich, reichlich.
 
-पोष्यावन्त्
+पोष्यावत्|पोष्यावन्त्
 पोष्या॑वन्त् Gedeihen schaffend.
 
 पौंश्चलीय
@@ -45307,7 +45310,7 @@
 प्रकाशय्
 प्रकाशय्, °यति s. काश्।
 
-प्रकाशवन्त्
+प्रकाशवत्|प्रकाशवन्त्
 प्रकाशवन्त् hell, glänzend.
 
 प्रकाशिता
@@ -45349,7 +45352,7 @@
 प्रकृति
 प्रकृति f. Natur, Ursprünglichkeit, das |Primitive, Grundlage, Norm, Faktor, bes. die Faktoren des Statts: Minister, |Unterthanen u. s. w.
 
-प्रकृतिमन्त्
+प्रकृतिमत्|प्रकृतिमन्त्
 प्रकृतिमन्त् ursprünglich, natürlich, natürlich, normal.
 
 प्रकृतिष्ठ
@@ -45472,7 +45475,7 @@
 प्रग्रहण
 प्रग्रहण m. Lenker, Führer;<BR> n. das Er|greifen, Fangen, Packen, Darreichen.
 
-प्रग्रहवन्त्
+प्रग्रहवत्|प्रग्रहवन्त्
 प्रग्रहवन्त् haltend (--°);<BR> freundlich, zuvor|kommend.
 
 प्रघस
@@ -45583,7 +45586,7 @@
 प्रजनन
 प्रज॑नन zeugend;<BR> n. Zeugung, Geburt, |Fortpflanzung, Zeugungskraft o. -glied, |Samen.
 
-प्रजननवन्त्
+प्रजननवत्|प्रजननवन्त्
 प्रज॑ननवन्त् zeugungskräftig.
 
 प्रजनयितर्
@@ -45631,7 +45634,7 @@
 प्रजाधर्म
 प्रजाधर्म m. Regel für die Kindererzeugung.
 
-प्रजानन्त्
+प्रजानत्|प्रजानन्त्
 प्रजानन्त् s. 1. ज्ञा।
 
 प्रजापति
@@ -45646,7 +45649,7 @@
 प्रजायिनी
 प्रजायिनी f. gebärend.
 
-प्रजावन्त्
+प्रजावत्|प्रजावन्त्
 प्रजा॑वन्त् nachkommenreich, fruchtbar. |f. °वती schwanger;<BR> Mutter von (--°);<BR> |des (älteren) Bruders Frau.
 
 प्रजाहित
@@ -45706,7 +45709,7 @@
 प्रणयन
 प्रणयन n. das Herbeischaffen, Vorbringen;<BR> Handhabung, Festsetzung, Durch|führung.
 
-प्रणयवन्त्
+प्रणयवत्|प्रणयवन्त्
 प्रणयवन्त् vertrauensvoll, verliebt, sehn|suchtsvoll nach (Loc. o.<BR> --°).
 
 प्रणयिजन
@@ -45802,7 +45805,7 @@
 प्रतापरुद्रीय
 प्रतापरुद्रीय n. T. eines Werkes.
 
-प्रतापवन्त्
+प्रतापवत्|प्रतापवन्त्
 प्रतापवन्त् hoheitsvoll, majestätisch.
 
 प्रतापिन्
@@ -46057,7 +46060,7 @@
 प्रतिबन्धक
 प्रतिबन्धक f. °न्धिका (--°) hemmend.
 
-प्रतिबन्धवन्त्
+प्रतिबन्धवत्|प्रतिबन्धवन्त्
 प्रतिबन्धवन्त् mit Hindernissen versehen, |verwickelt, schwierig.
 
 प्रतिबन्धिन्
@@ -46096,7 +46099,7 @@
 प्रतिबोधनीय
 प्रतिबोधनीय zu wecken.
 
-प्रतिबोधवन्त्
+प्रतिबोधवत्|प्रतिबोधवन्त्
 प्रतिबोधवन्त् mit Erkenntnis begabt, ver|nünftig.
 
 प्रतिबोधिन्
@@ -46117,7 +46120,7 @@
 प्रतिभान
 प्रतिभान n. das Einleuchten, Einsicht.
 
-प्रतिभानवन्त्
+प्रतिभानवत्|प्रतिभानवन्त्
 प्रतिभानवन्त् u. °भावन्त् einsichtig.
 
 प्रतिभास
@@ -46342,7 +46345,7 @@
 प्रतिसंधान
 प्रतिसंधान n. das Wiederzusammenbringen, |das sich (Dat.) wieder zum Bewusstsein |Bringen.
 
-प्रतिसंधि
+प्रतिसन्धि|प्रतिसंधि
 प्रतिसंधि m. Wiedervereinigung.
 
 प्रतिसीरा
@@ -46921,7 +46924,7 @@
 प्रबलता
 प्रबलता f., °त्व n. Abstr. zum vor.
 
-प्रबलवन्त्
+प्रबलवत्|प्रबलवन्त्
 प्रबलवन्त् = प्रबल।
 
 प्रबुद्ध
@@ -46990,10 +46993,10 @@
 प्रभाव
 प्रभाव m. Macht, Kraft, Pracht. Instr., |Abl. u. °तस् mittels, durch.
 
-प्रभावन्त्
+प्रभावत्|प्रभावन्त्
 प्रभावन्त् leuchtend, glänzend;<BR> f. °वती |N. eines Metrums.
 
-प्रभाववन्त्
+प्रभाववत्|प्रभाववन्त्
 प्रभाववन्त् u. प्रभाविन् mächtig, herrlich.
 
 प्रभासन
@@ -47236,7 +47239,7 @@
 प्रयत्न
 प्रयत्न m. Streben, Mühe um (Loc. o.<BR> --°), |Thätigkeit. °-- mit Mühe, kaum. |Instr., Abl. u. °तस् angelegentlich, |eifrig, absichtlich.
 
-प्रयत्नवन्त्
+प्रयत्नवत्|प्रयत्नवन्त्
 प्रयत्नवन्त् sich bemühend, eifrig.
 
 प्रयन्तर्
@@ -47251,7 +47254,7 @@
 प्रयस्त
 प्रयस्त s. यस्।
 
-प्रयस्वन्त्
+प्रयस्वत्|प्रयस्वन्त्
 प्र॑यस्वन्त् reich an Genuss, wohlhabend.
 
 प्रया
@@ -47374,7 +47377,7 @@
 प्रलाप
 प्रलाप॑ m. Geschwätz, Gerede, Irrereden;<BR> |Wehklage (auch n.).
 
-प्रलापवन्त्
+प्रलापवत्|प्रलापवन्त्
 प्रलापवन्त् schwatzend, faselnd.
 
 प्रलापिन्
@@ -47413,13 +47416,13 @@
 प्रवत्
 प्रव॑त् f. Bergabhang, Höhe;<BR> Instr. Sgl. u. |Pl. abwärts.
 
-प्रवत्वन्त्
+प्रवत्वत्|प्रवत्वन्त्
 प्रव॑त्वन्त् höhenreich.
 
 प्रवदन
 प्रवदन n. das Ankündigen.
 
-प्रवन्त्
+प्रवत्|प्रवन्त्
 प्र॑वन्त् nach vorne gerichtet.
 
 प्रवपण
@@ -47569,7 +47572,7 @@
 प्रवीर
 प्र॑वीर m. großer Held.
 
-प्रवृत्त
+प्रवृत|प्रवृत्त
 प्रवृत्त s. वर्त्।
 
 प्रवृत्तपारण
@@ -47725,7 +47728,7 @@
 प्रश्रय
 प्रश्रय m., °ण n. Rücksichtnahme, Be|scheidenheit.
 
-प्रश्रयवन्त्
+प्रश्रयवत्|प्रश्रयवन्त्
 प्रश्रयवन्त् u. °यिन् rücksichts-, ehrfurchts|voll.
 
 प्रश्लिष्ट
@@ -47755,7 +47758,7 @@
 प्रसङ्ग
 प्रसङ्ग m. dass. (Loc., Gen. o.<BR> --°);<BR> Zu|sammenhang mit (--°);<BR> Eintritt eines |Falles, Möglichkeit, Gelegenheit. Loc., |Instr., Abl. u. °तस gelegentlich, bei |G. des (--°).
 
-प्रसङ्गवन्त्
+प्रसङ्गवत्|प्रसङ्गवन्त्
 प्रसङ्गवन्त् gelegentlich, zufällig.
 
 प्रसङ्गिन्
@@ -47917,7 +47920,7 @@
 प्रसून
 प्रसून (s. 4. सु) n. Blütenähre, Blume.
 
-प्रसूमन्त्
+प्रसूमत्|प्रसूमन्त्
 प्रसूमन्त् u. प्रसू॑वन् (f. प्रसू॑वरी) mit Blüten|ähren versehen.
 
 प्रसृत
@@ -48100,7 +48103,7 @@
 प्रागुदञ्च्
 प्रागुदञ्च् = vor. Adj.;<BR> f. °दीची = vor. f.
 
-प्राग्गमनवन्त्
+प्राग्गमनवत्|प्राग्गमनवन्त्
 प्राग्गमनवन्त् sich nach vorn bewegend.
 
 प्राग्जन्मन्
@@ -48226,7 +48229,7 @@
 प्राणभृत्
 प्राणभृ॑त् lebendig;<BR> m. Lebewesen (eig. |Lebensträger).
 
-प्राणमन्त्
+प्राणमत्|प्राणमन्त्
 प्राण॑मन्त् kräftig, stark.
 
 प्राणमय
@@ -48238,7 +48241,7 @@
 प्राणयुत
 प्राणयुत lebendig (eig. mit Leben ver|bunden).
 
-प्राणवन्त्
+प्राणवत्|प्राणवन्त्
 प्राणवन्त् lebendig;<BR> auch = प्राण॑मन्त्।
 
 प्राणवृत्ति
@@ -48322,7 +48325,7 @@
 प्रातस्त्य
 प्रातस्त्य morgendlich.
 
-प्रातःसंध्या
+प्रातःसन्ध्या|प्रातःसंध्या
 प्रातःसंध्या f. Morgendämmerung.
 
 प्रातःसव
@@ -48724,7 +48727,7 @@
 प्रीतिदान
 प्रीतिदान n., °दाय m. Liebesgabe.
 
-प्रीतिमन्त्
+प्रीतिमत्|प्रीतिमन्त्
 प्रीतिमन्त् erfreut, froh, liebevoll;<BR> be|freundet mit, verliebt in (Loc. Gen. o. |Acc.).
 
 प्रीतिवचस्
@@ -48760,7 +48763,7 @@
 प्रेक्षागृह
 प्रेक्षागृह n. Schaugebäude.
 
-प्रेक्षावन्त्
+प्रेक्षावत्|प्रेक्षावन्त्
 प्रेक्षावन्त् umsichtig, verständig.
 
 प्रेक्षासमाज
@@ -49093,7 +49096,7 @@
 फणधर
 फणधर u. फणभृत् m. Haubenschlange.
 
-फणवन्त्
+फणवत्|फणवन्त्
 फणवन्त् mit einer Haube versehen;<BR> m. = vor.
 
 फणाभृत्
@@ -49159,7 +49162,7 @@
 फलयोग
 फलयोग m. Belohnung, Lohn.
 
-फलवन्त्
+फलवत्|फलवन्त्
 फ॑लवन्त् fruchttragend, Erfolg o. Gewinn |bringend.
 
 फलसाधन
@@ -49267,7 +49270,7 @@
 फेनप
 फेनप Schaum trinkend.
 
-फेनवन्त्
+फेनवत्|फेनवन्त्
 फेनवन्त् schaumig.
 
 फेनिल
@@ -49429,7 +49432,7 @@
 बन्धुदायाद
 बन्धुदायाद m. verwandt und Erbe.
 
-बन्धुमन्त्
+बन्धुमत्|बन्धुमन्त्
 ब॑न्धुमन्त् Verwandte habend.
 
 बन्धुर
@@ -49510,7 +49513,7 @@
 बर्हणा
 बर्हणा (Instr. adv.) dicht, fest, tüchtig.
 
-बर्हणावन्त्
+बर्हणावत्|बर्हणावन्त्
 बर्ह॑णावन्त् nachdrücklich, ernstlich;<BR> n. |°वत् adv.
 
 बर्हभार
@@ -49531,7 +49534,7 @@
 बर्हिष्ठ
 ब॑र्हिष्ठ (Superl.) der kräftigste, stärkste;<BR> |n. adv.
 
-बर्हिष्मन्त्
+बर्हिष्मत्|बर्हिष्मन्त्
 बर्हिष्मन्त् mit der Opferstreu versehen, |die O. bereitend;<BR> m. ein Opferer, ein |Frommer. 
 
 बर्हिष्य
@@ -49600,7 +49603,7 @@
 बलवत्ता
 बलवत्ता f., °त्व n. Abstr. zum folg.
 
-बलवन्त्
+बलवत्|बलवन्त्
 ब॑लवन्त् stark, mächtig. n. °वत् stark, |heftig, sehr. Compar. बलवत्तर, Superl. |ब॑लवत्तम।
 
 बलवृत्रघ्न
@@ -49657,7 +49660,7 @@
 बलिभुज्
 बलिभुज् u. °भोजन m. dass. (eig. Gaben |essend).
 
-बलिमन्त्
+बलिमत्|बलिमन्त्
 बलिम॑न्त् Abgaben empfangend.
 
 बलिवर्द
@@ -49930,7 +49933,7 @@
 बाणपात
 बाणपात m. Pfeilschuß o. flug.
 
-बाणवन्त्
+बाणवत्|बाणवन्त्
 बा॑णवन्त् m. Pfeil, Köcher.
 
 बाणासन
@@ -50146,7 +50149,7 @@
 बाहुबलिन्
 बाहुबलिन् armstark.
 
-बाहुमन्त्
+बाहुमत्|बाहुमन्त्
 बाहुम॑न्त् dass.
 
 बाहुमात्र
@@ -50239,7 +50242,7 @@
 बिन्दुकित
 बिन्दुकित betropft.
 
-बिन्दुमन्त्
+बिन्दुमत्|बिन्दुमन्त्
 बिन्दुमन्त् tropfig.
 
 बिन्दुसार
@@ -50335,7 +50338,7 @@
 बीजकाण्डरुह
 बीजकाण्डरुह = बीजकाण्डप्ररीहिन्।
 
-बीजवन्त्
+बीजवत्|बीजवन्त्
 बीजवन्त् mit Samen versehen.
 
 बीजवाप
@@ -50407,7 +50410,7 @@
 बुद्धिपूर्व
 बुद्धिपूर्व u. °क bewusst, absichtlich;<BR> n. |adv.
 
-बुद्धिमन्त्
+बुद्धिमत्|बुद्धिमन्त्
 बुद्धिमन्त् verständig, klug. Compar. °मत्तर।
 
 बुद्धिमोह
@@ -50623,7 +50626,7 @@
 बृहद्व्रत
 बृहद्व्रत n. das große Gelübde (der Keusch|heit);<BR> Adj. dass. beobachtend.
 
-बृहन्त्
+बृहत्|बृहन्त्
 बृह॑न्त्, f. बृहती॑ (s. 2. बर्ह्) hoch, gewaltig, |groß, bedeutend, reichlich, viel;<BR> n. बृह॑त् |hoch, weit, stark;<BR> hell, laut (auch Instr.) |बृहता॑)। f. ई N. eines Metrums. n. Höhe.
 
 बृहन्त
@@ -50764,7 +50767,7 @@
 ब्रह्मचर्य
 ब्रह्मच॑र्य n. heiliges Studium (die Lebens|stufe des Brahmanenschülers), Enthalt |samkeit, Keuschheit.
 
-ब्रह्मचर्यवन्त्
+ब्रह्मचर्यवत्|ब्रह्मचर्यवन्त्
 ब्रह्मचर्यवन्त् das heilige Studium betreibend |(s. vor.), Keuschheit übend.
 
 ब्रह्मचर्याश्रम
@@ -50818,7 +50821,7 @@
 ब्रह्मण्वत्
 ब्रह्मण्व॑त् Adv. wie ein Brahmane.
 
-ब्रह्मण्वन्त्
+ब्रह्मण्वत्|ब्रह्मण्वन्त्
 ब्रह्मण्व॑न्त् u. ब्र॑ह्मण्वन्त् andachtsvoll.
 
 ब्रह्मता
@@ -50938,7 +50941,7 @@
 ब्रह्मवनि
 ब्रह्मव॑नि brahmanenfreundlich.
 
-ब्रह्मवन्त्
+ब्रह्मवत्|ब्रह्मवन्त्
 ब्रह्मवन्त् heiliges Wissen besitzend.
 
 ब्रह्मवर्चस
@@ -51172,7 +51175,7 @@
 भक्तिभाज्
 भक्तिभाज् hingebungsvoll.
 
-भक्तिमन्त्
+भक्तिमत्|भक्तिमन्त्
 भक्तिमन्त् ergeben, zugetan, treu (Loc. o. |--°).
 
 भक्तियोग
@@ -51244,7 +51247,7 @@
 भगवद्गीत
 भगवद्गीत von Bhagavant d. i. Kṛshṇa ver|kündet;<BR> f. आ Pl. (mit u. ohne उपनिषद्) |N. eines philosophischen Gedichis.
 
-भगवन्त्
+भगवत्|भगवन्त्
 भ॑गवन्त् glückselig, herrlich, erhaben, heilig |(oft in der Anrede gebraucht, Voc. Sgl. |n.) भगवन्, °वस् o. भगोस्;भ्णैआख् f. भगवति;भ्णैआख् |Pl. m. भगवन्तस्)। m. Bein. Vishṇu|Kṛshṇa's u. Śiva's;<BR> f. भगवती Bein. der |Lakshmī u. der Durgā.
 
 भगिन्
@@ -51295,7 +51298,7 @@
 भङ्गिन्
 भङ्गिन् zuszmmenbrechend (--°);<BR> ver |lierend (j.).
 
-भङ्गिमन्त्
+भङ्गिमत्|भङ्गिमन्त्
 भङ्गिमन्त् kraus.
 
 भङ्गु
@@ -51307,7 +51310,7 @@
 भङ्गुरय्
 भङ्गुरय्, °यति zerbreeben, krümmen.
 
-भङ्गुरावन्त्
+भङ्गुरावत्|भङ्गुरावन्त्
 भङ्गुरा॑वन्त् ränkevoll, falsch.
 
 भज्
@@ -51424,7 +51427,7 @@
 भद्रमुस्त
 भद्रमुस्त m., आ f. Art Gras.
 
-भद्रवन्त्
+भद्रवत्|भद्रवन्त्
 भद्रवन्त् Glück o. Heil bringend;<BR> f. °वती॑ |Freudenmädchen.
 
 भद्रश्री
@@ -51559,7 +51562,7 @@
 भर्गस्
 भ॑र्गस् n. Glanz, Majestät, Hoheit.
 
-भर्गस्वन्त्
+भर्गस्वत्|भर्गस्वन्त्
 भर्गस्वन्त् majestätisch.
 
 भर्जन
@@ -51655,10 +51658,10 @@
 भवनीय
 भवनीय zu sein, zu geschehen.
 
-भवन्त्
+भवत्|भवन्त्
 भवन्त्1 (Nom. भवन्) seiend, gegenwär|tig;<BR> f. भवन्ती Gegenwart (g.).
 
-भवन्त्
+भवत्|भवन्त्
 भवन्त्2 (Nom. m.) भ॑वान्, f. भवती) der |Herr, die Herrin (in höflicher Anrede;<BR> |vgl.) अत्र° u. तत्रभवन्त्)।
 
 भवभावन
@@ -51724,7 +51727,7 @@
 भविष्यद्वाचिन्
 भविष्यद्वाचिन् die zukünftige Zeit aus|drückend (g.).
 
-भविष्यन्त्
+भविष्यत्|भविष्यन्त्
 भविष्य॑न्त् zukünftig;<BR> n. das Zukünftige, |Zukunft, Futurum.
 
 भविष्यत्पुराण
@@ -51874,7 +51877,7 @@
 भाग्यवत्ता
 भाग्यवत्ता f. Abstr. zum folg.
 
-भाग्यवन्त्
+भाग्यवत्|भाग्यवन्त्
 भाग्यवन्त् ein gutes Los habend, glück|lich.
 
 भाग्यवश
@@ -51949,7 +51952,7 @@
 भानु
 भानु॑ m. Glanz, Licht, Sonne;<BR> männl. N.
 
-भानुमन्त्
+भानुमत्|भानुमन्त्
 भानुम॑न्त् glänzend, strahlend. m. Sonne, |Mannsn.;<BR> f. भानुमती Frauenname.
 
 भाम
@@ -51988,7 +51991,7 @@
 भारभारिन्
 भारभारिन् u. °भृ॑त् Lasten tragend.
 
-भारवन्त्
+भारवत्|भारवन्त्
 भारवन्त् wuchtig, schwer. Abstr. °वत्त्व n.
 
 भारवाह
@@ -52033,7 +52036,7 @@
 भार्याद्रोहिन्
 भार्याद्रोहिन् feindluch gegen die Gattin.
 
-भार्यावन्त्
+भार्यावत्|भार्यावन्त्
 भार्यावन्त् eine Gattin habend, beweibt.
 
 भाल
@@ -52075,7 +52078,7 @@
 भाववचन
 भाववचन den Verbalbegriff ausdrückend |(g.).
 
-भाववन्त्
+भाववत्|भाववन्त्
 भाववन्त् in einem zustande Befindlich (g.).
 
 भावशून्य
@@ -52180,7 +52183,7 @@
 भास्य
 भास्य zur Erscheinung zu bringen. Abstr. |°त्व n. (ph.).
 
-भास्वन्त्
+भास्वत्|भास्वन्त्
 भा॑स्वन्त् scheinend, glänzend. m. Sonne.
 
 भास्वर
@@ -52210,7 +52213,7 @@
 भिक्षार्थिन्
 भिक्षार्थिन् Almosen verlangend;<BR> m. Bettler.
 
-भिक्षावन्त्
+भिक्षावत्|भिक्षावन्त्
 भिक्षावन्त् bettelnd.
 
 भिक्षावृत्ति
@@ -52339,7 +52342,7 @@
 भीति
 भीति f. Furcht vor (Abl. o.<BR> --°), Gefahr. |भीतितस् (--°) aus Furcht vor.
 
-भीतिमन्त्
+भीतिमत्|भीतिमन्त्
 भीतिमन्त् furchtsam, ängstlich.
 
 भीम
@@ -52351,7 +52354,7 @@
 भीमनाद
 भीमनाद m. ein furchtbarer Ton;<BR> Adj. |einen f. T. von sich gebend.
 
-भीमन्त्
+भीमत्|भीमन्त्
 भीमन्त् erschrocken.
 
 भीमपराक्रम
@@ -52408,7 +52411,7 @@
 भुक्तमात्र
 भुक्तमात्र Loc. unmittelbar nach dem Essen. 
 
-भुक्तवन्त्
+भुक्तवत्|भुक्तवन्त्
 भुक्तवन्त् gegessen habend.
 
 भुक्तशेष
@@ -52441,13 +52444,13 @@
 भुजगेन्द्र
 भुजगेन्द्र u. °गेश्वर m. dass.
 
-भुजंग
+भुजङ्ग|भुजंग
 भुजंग m. Schlange, Schlangendämon;<BR> Lieb|haber einer Buhlerin. f. ई Schlangen|weibchen.
 
 भुजंगप्रयात
 भुजंगप्रयात n. Schlangengang;<BR> N. eines |Metrums.
 
-भुजंगम
+भुजङ्गम|भुजंगम
 भुजंगम m. Schlange, Schlangendämon.
 
 भुजंगेन्द्र
@@ -52603,7 +52606,7 @@
 भूतिकृत्
 भूतिकृत् u. °द Heil verleihend (Śiva).
 
-भूतिमन्त्
+भूतिमत्|भूतिमन्त्
 भूतिमन्त् der Wohlfahrt teihaft, glücklich.
 
 भूदेव
@@ -52822,10 +52825,10 @@
 भृङ्गालि
 भृङ्गालि f. = भृङ्गसार्थ।
 
-भृज्ज्
+भृज्|भृज्ज्
 भृज्ज् s. भ्रज्ज्।
 
-भृज्जन
+भृजन|भृज्जन
 भृज्जन n. Bratpfanne.
 
 भृत्
@@ -52873,7 +52876,7 @@
 भृष्टि
 भृष्टि॑ f. Zacke, Spitze, Ecke.
 
-भृष्टिमन्त्
+भृष्टिमत्|भृष्टिमन्त्
 भृष्टिम॑न्त् gezackt.
 
 भेक
@@ -52984,10 +52987,10 @@
 भोगपति
 भोगपति m. Gouverneur, Statthalter.
 
-भोगवन्त्
+भोगवत्|भोगवन्त्
 भोगव॑न्त्1 gekrümmt, geringelt. m. |Schlange. f. °वती Schlangenweibchen.
 
-भोगवन्त्
+भोगवत्|भोगवन्त्
 भोगवन्त्2 Genüsse habend, genussreich. |f. °वती Bein. der Stadt Ujjayinī.
 
 भोगाय्
@@ -53050,7 +53053,7 @@
 भोस्
 भोस्, भोः, भो (= भवस्, Voc. von 2. भवन्त्) |Interj. der Anrede;<BR> auch der Empfindung |= ach, ei! Oft verb. mit anderen Interj.
 
-भौजंग
+भौजङ्ग|भौजंग
 भौजंग, f. ई Schlangen, schlangenartig.
 
 भौजिष्य
@@ -53140,7 +53143,7 @@
 भ्राजस्
 भ्रा॑जस् n. = 2. भ्राज्।
 
-भ्राजस्वन्त्
+भ्राजस्वत्|भ्राजस्वन्त्
 भ्रा॑जस्वन्त् schimmernd, funkelnd.
 
 भ्राजस्विन्
@@ -53158,7 +53161,7 @@
 भ्राजिष्णु
 भ्राजिष्णु glänzend, funkelnd. Abstr. °ता f.
 
-भ्राजिष्मन्त्
+भ्राजिष्मत्|भ्राजिष्मन्त्
 भ्राजिष्मन्त् = vor. Adj.
 
 भ्रातर्
@@ -53179,13 +53182,13 @@
 भ्रातृभार्या
 भ्रातृभार्या f. = भ्रातृजाया।
 
-भ्रातृमन्त्
+भ्रातृमत्|भ्रातृमन्त्
 भ्रातृमन्त् einen Bruder o. Brüder habend.
 
 भ्रातृव्य
 भ्रा॑तृव्य n. Vatersbruderssohn, (feindlicher) |Vetter, Nebenbuhler, Gegner.
 
-भ्रातृव्यवन्त्
+भ्रातृव्यवत्|भ्रातृव्यवन्त्
 भ्रा॑तृव्यवन्त् Nebenbuhler habend.
 
 भ्रात्र
@@ -53197,7 +53200,7 @@
 भ्रान्ति
 भ्रान्ति f. das Umherstreichen, Umkreisen |(--°), Schwanken, Taumeln, Zucken;<BR> |Drehung, Verwirrung, Ungewissheit, |Zweifel, Irrtum, Wahn, falsche An|nahme von (--°).
 
-भ्रान्तिमन्त्
+भ्रान्तिमत्|भ्रान्तिमन्त्
 भ्रान्तिमन्त् umherschweifend, sich drehend, |wahnbefangen.
 
 भ्राम
@@ -53527,7 +53530,7 @@
 मणिभद्र
 मणिभद्र m. N. eines Yakshafürsten.
 
-मणिमन्त्
+मणिमत्|मणिमन्त्
 मणिमन्त् mit Juwelen verziert;<BR> m. Mannsn.
 
 मणिमय
@@ -53608,7 +53611,7 @@
 मतङ्ग
 मतङ्ग u. °ज m. Elefant.
 
-मतवन्त्
+मतवत्|मतवन्त्
 मत॑वन्त् ein Ziel verfolgend.
 
 मतस्न
@@ -53632,7 +53635,7 @@
 मतिभ्रम
 मतिभ्रम m. Geistesverwirrung, Irrtum.
 
-मतिमन्त्
+मतिमत्|मतिमन्त्
 मतिमन्त् einsichtsvoll, klug.
 
 मतिहीन
@@ -53668,7 +53671,7 @@
 मत्सर
 मत्सर॑ berauschend, ergötzend, lustig;<BR> |selbstsüchtig, neidisch. m. Neid, Eifer|sucht auf (Loc. o.<BR> --°), Unwille.
 
-मत्सरवन्त्
+मत्सरवत्|मत्सरवन्त्
 मत्सर॑वन्त् berauschend.
 
 मत्सरिन्
@@ -53779,7 +53782,7 @@
 मदालस
 मदालस vom Rausch träge.
 
-मदावन्त्
+मदावत्|मदावन्त्
 मदा॑वन्त् berauschend.
 
 मदावस्था
@@ -53860,7 +53863,7 @@
 मद्वन्
 म॑द्वन् berauschend o. dem Rausche er|geben.
 
-मद्वन्त्
+मद्वत्|मद्वन्त्
 मद्वन्त् erfreuend, berauschend.
 
 मद्विध
@@ -53920,7 +53923,7 @@
 मधुमद
 मधुमद m. Weinrausch.
 
-मधुमन्त्
+मधुमत्|मधुमन्त्
 म॑धुमन्त् Süßigkeit o. Honig enthaltend;<BR> |süß, erfreulich, lieblich, angenehm. |Superl. म॑धुमत्तम।
 
 मधुमय
@@ -54136,7 +54139,7 @@
 मनस्यु
 मनस्यु॑ wünschend, eifrig.
 
-मनस्वन्त्
+मनस्वत्|मनस्वन्त्
 म॑नस्वन्त् sinnig, verständig, klug, weise.
 
 मनस्विन्
@@ -54307,7 +54310,7 @@
 मन्तु
 म॑न्तु m. Rat, Plan;<BR> Berater, Walter, Lenker |(auch f.).
 
-मन्तुमन्त्
+मन्तुमत्|मन्तुमन्त्
 मन्तुमन्त् (nur Voc. °मस्) ratreich, weise.
 
 मन्त्र
@@ -54346,7 +54349,7 @@
 मन्त्रय्
 मन्त्रय्, मन्त्र॑यते, °ति reden, sich beraten, |etwas besprechen, beraten, beschließen;<BR> |jemd. etw. (Acc.) raten;<BR> jemd. (Acc.) |einen Rat erteilen, (zum Sprechen ver|anlasen*). p. p. मन्त्रित beraten, be|sprochen (n. impers.) Rat empfangen |habend (s. auch bes.) अनु nachrufen, |einsegnen (r.). अभि anreden, be|sprechen, weihen. आ ansprechen, be|grüßen, bes. Lebewohl sagen (Acc.) |उप herbeirufen, zureden, auffordern. |नि, उपनि u. सिंनि einladen. सम् rat|schlagen, begrüßen.
 
-मन्त्रवन्त्
+मन्त्रवत्|मन्त्रवन्त्
 मन्त्रवन्त् von heiligen Sprüchen begleitet, |feierlich;<BR> n. adv.
 
 मन्त्रवाद
@@ -54562,7 +54565,7 @@
 मन्यु
 मन्यु॑ m. Stimmung, Sinn, Temperament, |Eifer, Zorn, Wut über (Loc.), Unmut, |Kummer, Schmerz.
 
-मन्युमन्त्
+मन्युमत्|मन्युमन्त्
 मन्युम॑न्त् eifrig, zornig. Superl. °म॑त्तम।
 
 मन्युमी
@@ -54616,7 +54619,7 @@
 मयूख
 मयूख m. Pflock;<BR> Strahl (auch n.).
 
-मयूखवन्त्
+मयूखवत्|मयूखवन्त्
 मयूखवन्त् u. °खिन् strahlenreich.
 
 मयूर
@@ -54679,7 +54682,7 @@
 मरीचिन्
 मरीचिन् m. Sonne.
 
-मरीचिमन्त्
+मरीचिमत्|मरीचिमन्त्
 मरीचिमन्त् Strahlen habend;<BR> m. = vor.
 
 मरीचिमालिन्
@@ -54703,7 +54706,7 @@
 मरुत्पति
 मरुत्पति m. der Gebieter der Marut (Indra.)
 
-मरुत्वन्त्
+मरुत्वत्|मरुत्वन्त्
 मरुत्वन्त् von den Marut begleitet (Indra).
 
 मरुत्सहाय
@@ -54880,7 +54883,7 @@
 मलयानिल
 मलयानिल m. Wind vom Malaya-Gebirge.
 
-मलवन्त्
+मलवत्|मलवन्त्
 मलवन्त् schmutzig.
 
 मलिन
@@ -55009,7 +55012,7 @@
 महनीय
 महनीय preisenswert.
 
-महन्त्
+महत्|महन्त्
 मह॑न्त् (st. °हा॑न्त् ;<BR> f. महती) groß, weit, |lang, hoch, tief;<BR> zahlreich, viel, reich |an (Instr. o.<BR> --°);<BR> bedeutend, mächtig, |wichtig, stark, laut (Ton);<BR> vornehm, |edel. Compar. महत्तर s. bes.;<BR> Superl. |महत्तम sehr hochstehend. m. ein |Großer. n. etwas Großes, Größe, |Macht.
 
 महये
@@ -55042,7 +55045,7 @@
 महस्
 महस्2 Adv. gern, willig, munter.
 
-महस्वन्त्
+महस्वत्|महस्वन्त्
 म॑हस्वन्त् groß, mächtig, glanzvoll, er|freulich.
 
 महस्विन्
@@ -55564,7 +55567,7 @@
 महिमन्
 महिम॑न् m. Größe, Herrlichkeit, Macht, |Würde. Instr. महिम्ना॑ u. °ना॑ (s. vor.) |auch adv. mächtig, gewaltsam.
 
-महिमन्त्
+महिमत्|महिमन्त्
 महिमन्त् groß, reichlich.
 
 महिला
@@ -55714,7 +55717,7 @@
 मांसखण्ड
 मांसखण्ड n. ein Stück Fleisch.
 
-मांसन्वन्त्
+मांसन्वत्|मांसन्वन्त्
 मांसन्व॑न्त् fleischig.
 
 मांसपेशी
@@ -55732,7 +55735,7 @@
 मांसल
 मांसल fleischig, kräftig, stark.
 
-मांसवन्त्
+मांसवत्|मांसवन्त्
 मांस॑वन्त् mit Fleisch versehen.
 
 मांसविक्रय
@@ -55867,7 +55870,7 @@
 मातृतस्
 मातृतस् Adv. mütterlicherseits.
 
-मातृमन्त्
+मातृमत्|मातृमन्त्
 मातृम॑न्त् eine Mutter habend.
 
 मातृवत्
@@ -55897,7 +55900,7 @@
 मात्राछन्दस्
 मात्राछन्दस् n. Morenstrophe.
 
-मात्रावन्त्
+मात्रावत्|मात्रावन्त्
 मात्रावन्त् das (richtige) Maß habend.
 
 मात्रावृत्त
@@ -56041,7 +56044,7 @@
 मानवधर्मशास्त्र
 मानवधर्मशास्त्र n. Manu's Gesetzbuch.
 
-मानवन्त्
+मानवत्|मानवन्त्
 मानवन्त् Ehre genießend.
 
 मानवपति
@@ -56161,7 +56164,7 @@
 मायायोग
 मायायोग m. Anwendung von Trug o. |Zaubermitteln.
 
-मायावन्त्
+मायावत्|मायावन्त्
 माया॑वन्त् zauberkräftig, trügerisch, schlau.
 
 मायावाद
@@ -56293,7 +56296,7 @@
 मार्तण्ड
 मार्तण्ड॑ m. Vogel;<BR> auch = vor.
 
-मार्त्तिक
+मार्तिक|मार्त्तिक
 मार्त्तिक f. ई thönern;<BR> n. Thongeschirr.
 
 मार्त्स्न
@@ -56341,7 +56344,7 @@
 मालाकार
 मालाकार m. ई f. Kranzwinder, -in.
 
-मालावन्त्
+मालावत्|मालावन्त्
 मालावन्त् bekränzt.
 
 मालिक
@@ -56359,13 +56362,13 @@
 माल्य
 माल्य n. Kranz.
 
-माल्यवन्त्
+माल्यवत्|माल्यवन्त्
 माल्यवन्त् bekränzt. m. N. eines Rākshasa.
 
 माल्व्य
 मा॑ल्व्य n. Unbesonnenheit, Albernheit.
 
-मावन्त्
+मावत्|मावन्त्
 मा॑वन्त् einer wie ich.
 
 माविलम्बम्
@@ -56539,7 +56542,7 @@
 मित्रवत्सल
 मित्रवत्सल zärtlich gegen Freunde.
 
-मित्रवन्त्
+मित्रवत्|मित्रवन्त्
 मित्रवन्त् Freunde habend.
 
 मित्रसंप्राप्ति
@@ -56734,7 +56737,7 @@
 मीनध्वज
 मीनध्वज m. dass.
 
-मीनवन्त्
+मीनवत्|मीनवन्त्
 मीनवन्त् fischreich.
 
 मीमांसक
@@ -57166,7 +57169,7 @@
 मूकता
 मूकता f., °त्व n. Abstr. zum vor.
 
-मूजवन्त्
+मूजवत्|मूजवन्त्
 मूजवन्त् m. N. eines Berges, Pl. eines Volkes. 
 
 मूढ
@@ -57235,7 +57238,7 @@
 मूर्ति
 मूर्ति f. Körper, Gestalt, Person, Bild;<BR> adj. |--° gebildet aus.
 
-मूर्तिमन्त्
+मूर्तिमत्|मूर्तिमन्त्
 मूर्तिमन्त् körperlich, leibhaftig.
 
 मूर्ध
@@ -57463,7 +57466,7 @@
 मृज
 मृज abwischend, tilgend (--°);<BR> f. आ Rei|nigung, Reinlichkeit.
 
-मृजावन्त्
+मृजावत्|मृजावन्त्
 मृजावन्त् sauber, rein.
 
 मृज्य
@@ -57499,7 +57502,7 @@
 मृणालक
 मृणालक, f. °लिका (adj.<BR> --°) dass.
 
-मृणालवन्त्
+मृणालवत्|मृणालवन्त्
 मृणालवन्त् sammt der Lotuswurzel.
 
 मृणालवलय
@@ -57580,7 +57583,7 @@
 मृत्युभय
 मृत्युभय n. Todesgefahr.
 
-मृत्युमन्त्
+मृत्युमत्|मृत्युमन्त्
 मृत्युमन्त् dem Tode unterworfen.
 
 मृत्स्न
@@ -57703,7 +57706,7 @@
 मेखल
 (मेखल) u. मे॑खला f. Gurt, Gürtel;<BR> Um|gürtung (r.).
 
-मेखलावन्त्
+मेखलावत्|मेखलावन्त्
 मेखलावन्त् mit einem Gürtel versehen.
 
 मेखलिन्
@@ -57778,7 +57781,7 @@
 मेदस्
 मे॑दस् n. (m.) Fett.
 
-मेदस्वन्त्
+मेदस्वत्|मेदस्वन्त्
 मे॑दस्वन्त् fett.
 
 मेदस्विन्
@@ -57877,7 +57880,7 @@
 मेहना
 मेह॑ना (Instr. adv.) stromweise, reichlich.
 
-मेहनावन्त्
+मेहनावत्|मेहनावन्त्
 मेह॑नावन्त् reichlich spendend.
 
 मेहिन्
@@ -58063,7 +58066,7 @@
 मोहयितर्
 मोहयितर् m. Verwirrer.
 
-मोहवन्त्
+मोहवत्|मोहवन्त्
 मोहवन्त् im Irrtum befangen.
 
 मोहिन्
@@ -58330,7 +58333,7 @@
 यजुष्टस्
 यजुष्ट॑स् von Seiten o. im Gebiete des |Yajus.
 
-यजुष्मन्त्
+यजुष्मत्|यजुष्मन्त्
 य॑जुष्मन्त् von einem Opferspruch begleitet.
 
 यजुष्य
@@ -58396,7 +58399,7 @@
 यज्ञवनस्
 यज्ञ॑वनस् Opfer liebend.
 
-यज्ञवन्त्
+यज्ञवत्|यज्ञवन्त्
 यज्ञ॑वन्त् verehrend, andächtig.
 
 यज्ञवाट
@@ -58528,7 +58531,7 @@
 यत्न
 यत्न m. Mühe, Sorge, Streben, Anstrengung;<BR> |°--, (Instr., Abl. u.) यत्नतस् mit Mühe, |sorgfältig, eifrig. यत्नं कर् sich Mühe |geben.
 
-यत्नवन्त्
+यत्नवत्|यत्नवन्त्
 यत्नवन्त् sich Mühe gebend mit (Loc.).
 
 यत्र
@@ -58855,7 +58858,7 @@
 यद्वृत्त
 यद्वृत्त n. Begebenheit, Abenteuer.
 
-यन्त्
+यत्|यन्त्
 यन्त् s. 2. इ।
 
 यन्तर्
@@ -58927,7 +58930,7 @@
 यमलोक
 यमलोक m. Yama's Welt.
 
-यमवन्त्
+यमवत्|यमवन्त्
 यमवन्त् der sich beherrscht.
 
 यमविषय
@@ -58978,7 +58981,7 @@
 यव
 य॑व3. abwehrend.
 
-यवगोधूमवन्त्
+यवगोधूमवत्|यवगोधूमवन्त्
 यवगोधूमवन्त् mit Gerste u. Weizen besät.
 
 यवन्
@@ -58996,7 +58999,7 @@
 यवपिष्ट
 यवपिष्ट n. Gerstenmehl.
 
-यवमन्त्
+यवमत्|यवमन्त्
 य॑वमन्त् mit Getreide versehen;<BR> m. Ge|treidebauer, n. -reichthum.
 
 यवमय
@@ -59059,7 +59062,7 @@
 यशस्यु
 यशस्यु॑ Gunst suchend.
 
-यशस्वन्त्
+यशस्वत्|यशस्वन्त्
 य॑शस्वन्त् ruhmvoll, herrlich, glänzend.
 
 यशस्विन्
@@ -59191,7 +59194,7 @@
 याज्य
 याज्य für den o. was geopfert wird;<BR> m. |Opferherr. Abstr. °ता f., °त्व n.<BR> -|f. याज्या॑ Begleispruch (r.).
 
-याज्यवन्त्
+याज्यवत्|याज्यवन्त्
 याज्यवन्त् von einem Spruch begleitet (s. |vor.).
 
 यात्
@@ -59236,7 +59239,7 @@
 यातुधान
 यातुधा॑न, f. ई Art Dämonen (= vor.).
 
-यातुमन्त्
+यातुमत्|यातुमन्त्
 यातुम॑न्त् o. °मा॑वन्त् spukend, hexend.
 
 यातुविद्
@@ -59413,7 +59416,7 @@
 यावन
 यावन 2. n. das Fernhalten.
 
-यावन्त्
+यावत्|यावन्त्
 या॑वन्त् wie groß, wie lang (Raum u. |Zeit),  wieviel;<BR> Pl. wieviele. n. wie |weit, wieviel, wie oft, wie sehr (correl.) |तावत्);भ्णैआख् bis, sobald als (auch mit Neg.) |यावन्न, w. auch = wenn o. ob nicht);<BR> |mittlerweile, inzwischen, zunächst, |gleich (constr. wie) यावत्;<BR> Präp. (nach |o. vor Acc.) während;<BR> bis (auch vor |Abl.). यावता u. या॑वति wie weit, wie |lange. इति यावत् soviel als (--°)।
 
 यावन्मात्र
@@ -59473,7 +59476,7 @@
 युक्ति
 युक्ति f. Verbindung, Anwendung, Ge|brauch, Mittel, Kunstgriff, List, Anstalt |zu (Loc. o. --°, युक्तिं कर् A. treffen);<BR> |Grund, Argument, Richtigkeit, An|gemessene, feine, schlaue Weise, |durch List;<BR> mittels, vermögen (--°)।
 
-युक्तिमन्त्
+युक्तिमत्|युक्तिमन्त्
 युक्तिमन्त् verbunden mit (--°), geschickt |zu (Inf.);<BR> begründet, angemessen.
 
 युग
@@ -59590,7 +59593,7 @@
 युवन्
 यु॑वन् (यून्) m. jung, Jüngling;<BR> best. |jüngere Nachkommen (g.).
 
-युवन्त्
+युवत्|युवन्त्
 यु॑वन्त् = vor. Adj., n. यु॑वत्।
 
 युवन्यु
@@ -59632,7 +59635,7 @@
 युष्मानीत
 युष्मा॑नीत von euch geführt.
 
-युष्मावन्त्
+युष्मावत्|युष्मावन्त्
 युष्मा॑वन्त् euch gehörig.
 
 यूक
@@ -59701,7 +59704,7 @@
 योगमाया
 योगमाया f. der Weg zum Yoga;<BR> T. eines |Werkes.
 
-योगवन्त्
+योगवत्|योगवन्त्
 योगवन्त् verbunden;<BR> dem Yoga obgliegend.
 
 योगविद्
@@ -59791,7 +59794,7 @@
 योस्
 यो॑स् (nur verb. mit श॑म्) Heil, Wohl.
 
-यौगंधरायण
+यौगन्धरायण|यौगंधरायण
 यौगंधरायण m. patr. Mannsname.
 
 यौगपद
@@ -59815,7 +59818,7 @@
 यौवन
 यौवन n. Jugend.
 
-यौवनवन्त्
+यौवनवत्|यौवनवन्त्
 यौवनवन्त् u. यौवनीय jugendlich.
 
 यौवनस्थ
@@ -59902,7 +59905,7 @@
 रक्तिमन्
 रक्तिमन् m. Röte.
 
-रक्तिमन्त्
+रक्तिमत्|रक्तिमन्त्
 रक्तिमन्त् reizend, lieblich.
 
 रक्ष्
@@ -59947,7 +59950,7 @@
 रक्षामणि
 रक्षामणि m. Schutzjuwel.
 
-रक्षावन्त्
+रक्षावत्|रक्षावन्त्
 रक्षावन्त् bewacht, beschützt.
 
 रक्षि
@@ -59989,7 +59992,7 @@
 रघुनाथ
 रघुनाथ, °नायक u. °पति m. Bein. Rāma's.
 
-रघुयन्त्
+रघुयत्|रघुयन्त्
 रघुय॑न्त् rasch hineilend.
 
 रघुया
@@ -60196,7 +60199,7 @@
 रतिबन्धु
 रतिबन्धु m. Gelieber, Gatte.
 
-रतिमन्त्
+रतिमत्|रतिमन्त्
 रतिमन्त् fröhlich, verliebt, von Rati be|gleitet.
 
 रतिरस
@@ -60259,7 +60262,7 @@
 रत्नराशि
 रत्नराशि m. Perlenhaufen o. -menge.
 
-रत्नवन्त्
+रत्नवत्|रत्नवन्त्
 र॑त्नवन्त् gabeno. juwelenreich.
 
 रत्नवर्धन
@@ -60358,7 +60361,7 @@
 रथर्य्
 रथर्य्, रथर्य॑ति zu Wagen fahren.
 
-रथवन्त्
+रथवत्|रथवन्त्
 र॑थवन्त् reich an Wagen;<BR> n. Wagenbesitz.
 
 रथवर्त्मन्
@@ -60502,7 +60505,7 @@
 रभस
 रभस॑ geftig, ungestüm, wild. m. = vor. n., (--°) heftiges Verlangen nach. °--, |Instr. u. Abl. heftig, ungestüm, schnell.
 
-रभस्वन्त्
+रभस्वत्|रभस्वन्त्
 र॑भस्वन्त् ungestüm, eifrig.
 
 रभि
@@ -60577,7 +60580,7 @@
 रयिपति
 रयिप॑ति m. Herr der Reichthümer.
 
-रयिमन्त्
+रयिमत्|रयिमन्त्
 रयिम॑न्त् u. °व॑न्त् wohlhabend, reich.
 
 ररते
@@ -60637,7 +60640,7 @@
 रश्मिमय
 रश्मिमय aus Strahlen bestehend.
 
-रश्मिवन्त्
+रश्मिवत्|रश्मिवन्त्
 रश्मिव॑न्त् = रशिममन्त्।
 
 रस्
@@ -60676,7 +60679,7 @@
 रसवत्ता
 रसवत्ता f. Abstr. zum folg.
 
-रसवन्त्
+रसवत्|रसवन्त्
 र॑सवन्त् saftig, schmackhaft, kräftig, ge|schmackvoll, reizend;<BR> f. रसवती Küche, |Mahlzeit.
 
 रसविद्
@@ -60796,7 +60799,7 @@
 रागलेखा
 रागलेखा f. Farbenstrich.
 
-रागवन्त्
+रागवत्|रागवन्त्
 रागवन्त् = रागमय।
 
 रागिता
@@ -60907,7 +60910,7 @@
 राजन्यबन्धु
 राजन्यबन्धु m. Fürstengenosse.
 
-राजन्वन्त्
+राजन्वत्|राजन्वन्त्
 राजन्वन्त् einen (guten) König habend.
 
 राजपति
@@ -61006,7 +61009,7 @@
 राजवत्
 राजवत् Adv. wie ein(en) König.
 
-राजवन्त्
+राजवत्|राजवन्त्
 राजवन्त् (einen) Fürsten habend.
 
 राजवल्लभ
@@ -61090,7 +61093,7 @@
 राजिन्
 राजिन् glänzend.
 
-राजिमन्त्
+राजिमत्|राजिमन्त्
 राजिमन्त् gestreift.
 
 राजिल
@@ -61219,7 +61222,7 @@
 राधस्
 रा॑धस् n. Segen, Gelingen, Wohlthat, |Gabe, geschenk;<BR> Freigebigkeit.
 
-राधावन्त्
+राधावत्|राधावन्त्
 राधावन्त् reich.
 
 राधि
@@ -61462,7 +61465,7 @@
 रुक्म
 रुक्म m. (n.) Goldschmuck, Geschmeide.
 
-रुक्मन्त्
+रुक्मत्|रुक्मन्त्
 रु॑क्मन्त् glänzend.
 
 रुक्ममय
@@ -61534,7 +61537,7 @@
 रुजाय्
 रुजाय्, p. p. रुजायमान schmerzend, weh|thuend.*
 
-रुजावन्त्
+रुजावत्|रुजावन्त्
 रुजावन्त् schmerzhaft.*
 
 रुण्ड
@@ -61555,7 +61558,7 @@
 रुद्र
 रुद्र॑ m. N. des Sturmgotts (sp. = Śiva);<BR> |Pl. dessen Söhne (meist mit den Marut |identif.).
 
-रुद्रवन्त्
+रुद्रवत्|रुद्रवन्त्
 रुद्र॑वन्त् (die) Rudra mit sich habend.
 
 रुद्रवर्तनि
@@ -61591,7 +61594,7 @@
 रुम
 रु॑म m. Mannsname.
 
-रुमण्वन्त्
+रुमण्वत्|रुमण्वन्त्
 रुमण्वन्त् m. desgl.
 
 रुरु
@@ -61630,7 +61633,7 @@
 रुशद्वत्स
 रु॑शद्वत्स ein weißes Kalb habend.
 
-रुशन्त्
+रुशत्|रुशन्त्
 रु॑शन्त्, f. रु॑शती licht, hell, weiß.
 
 रुष्
@@ -61702,7 +61705,7 @@
 रूपय्
 रूपय्, °यति gestalten, verkörpern, dar|stellen (d.). p. p. रूपित dargestellt. नि veranschaulichen, darstellen (d.), |erblick, beobachten, untersuchen, er| wägen, festsetzen, erwählen zu (2 Acc.), |bestimmen zu (Loc., Dat. o. Inf.)
 
-रूपवन्त्
+रूपवत्|रूपवन्त्
 रूपवन्त् (schöne) Gestalt habend, ver|körpert, leibhaftig, schön;<BR> --° die |Gestalt von--habend, als--erscheinend.
 
 रूपशस्
@@ -61714,7 +61717,7 @@
 रूपसंपद्
 रूपसंपद् f. Schönheit.
 
-रूपसंपन्न
+रूपसम्पन्न|रूपसंपन्न
 रूपसंपन्न mit Schönheit begabt.
 
 रूपजीव
@@ -61747,7 +61750,7 @@
 रेक्णस्
 रे॑क्णस् n. Erbe, Gut, Reichthum.
 
-रेक्णस्वन्त्
+रेक्णस्वत्|रेक्णस्वन्त्
 रे॑क्णस्वन्त् reich.
 
 रेखा
@@ -61780,7 +61783,7 @@
 रेतस्य
 रेतस्य Samen führend.
 
-रेतस्वन्त्
+रेतस्वत्|रेतस्वन्त्
 रे॑तस्वन्त् u. °स्विन् samenreich.
 
 रेतःसिच्य
@@ -61825,7 +61828,7 @@
 रेवती
 रेवती f. s. folg.
 
-रेवन्त्
+रेवत्|रेवन्त्
 रेव॑न्त् reich, reichlich, prangend, prächtig |(n. रेव॑त् adv.);<BR> Mannsn. Pl. f. रेव॑ती |die Reichen (Kühe o. Gewässer);<BR> Sgl. |Frauenn., bes., der Gattin Balarāma's.
 
 रेशी
@@ -61900,7 +61903,7 @@
 रोचन
 रोचन॑, f. ई u. आ hell, glänzend, lieblich. |f. आ॑ Lichthimmel, Gallenstein des |Rindes. n. Glanz, Licht, Lichtraum |(3 angen., vgl.) रजस्);भ्णैआख् Pl. auch Gestirne.
 
-रोचनावन्त्
+रोचनावत्|रोचनावन्त्
 रोचना॑वन्त् licht, hell.
 
 रोचस्
@@ -61909,7 +61912,7 @@
 रोचिष्णु
 रोचिष्णु॑ leuchtend, glänzend.
 
-रोचिष्मन्त्
+रोचिष्मत्|रोचिष्मन्त्
 रोचिष्मन्त् dass.
 
 रोचिस्
@@ -61993,7 +61996,7 @@
 रोमक
 रोमक m. Pl. die Römer.
 
-रोमण्वन्त्
+रोमण्वत्|रोमण्वन्त्
 रो॑मण्वन्त् behaart.
 
 रोमन्
@@ -62005,7 +62008,7 @@
 रोमराजि
 रोमराजि u. °राजी f. Härchenreihe (ober|halb des Nabels beim Weibe).
 
-रोमवन्त्
+रोमवत्|रोमवन्त्
 रोमवन्त् behaart.
 
 रोमश
@@ -62143,7 +62146,7 @@
 लक्षण
 लक्षण = vor. Adj. f. आ Andeutung. d. i. |indirecte bezeichnung (rh.). n. Merk|mal, Zeichen, Attribut, Glückso. Vor|zugsmerkmal, Geschlechtsmerkmal d. i. |-teile);<BR> Bezeichnung, Definition, Be| nennung, Art, Spezies, Ziel, Richthung, |Vernlassung, Gelegenheit. --° adj. |kenntlich an, versehen mit, bezüglich auf.
 
-लक्षणवन्त्
+लक्षणवत्|लक्षणवन्त्
 लक्षणवन्त् mit (guten) Zeichen versehen, |gekennzeichnet durch (Instr.).
 
 लक्षणसंनिपात
@@ -62191,7 +62194,7 @@
 लक्ष्मीक
 लक्ष्मीक (adj. --°) = vor.
 
-लक्ष्मीवन्त्
+लक्ष्मीवत्|लक्ष्मीवन्त्
 लक्ष्मीवन्त् glücklich o. schön.
 
 लक्ष्य
@@ -62320,7 +62323,7 @@
 लज्जालु
 *लज्जालु u. °क verschämt, verlegen.*
 
-लज्जावन्त्
+लज्जावत्|लज्जावन्त्
 लज्जावन्त् dass.
 
 लज्जित
@@ -62668,7 +62671,7 @@
 लावण्यमय
 लावण्यमय, f. ई reizend, schön.
 
-लावण्यवन्त्
+लावण्यवत्|लावण्यवन्त्
 लावण्यवन्त् dass.;<BR> f. °वती Frauenname.
 
 लास
@@ -62719,7 +62722,7 @@
 लिङ्गपुराण
 लिङ्गपुराण n. T. eines Purāṇa.
 
-लिङ्गवन्त्
+लिङ्गवत्|लिङ्गवन्त्
 लिङ्गवन्त् Merkmale besitzend.
 
 लिङ्गशरीर
@@ -62815,7 +62818,7 @@
 लीलाय्
 लीलाय्, °यति u. °ते spielen, sich ver|gnügen p. p. लीलायित sich belustigend;<BR> |n. Spiel, Belustigung.
 
-लीलावन्त्
+लीलावत्|लीलावन्त्
 लीलावन्त् tändelnd, anmutig, reizend;<BR> |f. °वती eine Schöne, Frauenname, T. |mehrerer Werke.
 
 लीलावापी
@@ -63043,7 +63046,7 @@
 लोकमय
 लोकम॑य, f. ई die Welt enthaltend o. ge|rämig.
 
-लोकंपृण
+लोकम्पृण|लोकंपृण
 लोकंपृण die Welt erfüllend;<BR> f. आ best. |Backsteine zum Feueraltar.
 
 लोकयात्रा
@@ -63187,7 +63190,7 @@
 लोमपाद
 लोमपाद m. N. eines Königs.
 
-लोमवन्त्
+लोमवत्|लोमवन्त्
 लो॑मवन्त् behaart.
 
 लोमश
@@ -63229,7 +63232,7 @@
 लोहमय
 लोहम॑य, f. ई dass.
 
-लोहवन्त्
+लोहवत्|लोहवन्त्
 लोहवन्त् rötlich.
 
 लोहायस
@@ -63247,7 +63250,7 @@
 लोहितग्रीव
 लोहितग्रीव rothalsig (आग्नि)। 
 
-लोहितवन्त्
+लोहितवत्|लोहितवन्त्
 लोहितवन्त् Blut enthaltend.
 
 लोहिताक्ष
@@ -63472,7 +63475,7 @@
 वचनावक्षेप
 वचनावक्षेप höhnende Worte (eig.  Rede|hohn).*
 
-वचनावन्त्
+वचनावत्|वचनावन्त्
 वचना॑वन्त् redefertig.
 
 वचनीय
@@ -63556,7 +63559,7 @@
 वञ्चनवचन
 वञ्चनवचन = वञ्चकवचन*।
 
-वञ्चनवन्त्
+वञ्चनवत्|वञ्चनवन्त्
 वञ्चनवन्त् trügerisch.
 
 वञ्चनीय
@@ -63661,7 +63664,7 @@
 वत्सलय्
 वत्सलय्, °यति zärtlich machen.
 
-वत्सवन्त्
+वत्सवत्|वत्सवन्त्
 वत्सवन्त् ein Kalb habend.
 
 वत्सिन्
@@ -64024,7 +64027,7 @@
 वपुष्टर
 व॑पुष्टर u. वपु॑ष्टर (Compar.) wunderbarer;<BR> |auch = vor.
 
-वपुष्मन्त्
+वपुष्मत्|वपुष्मन्त्
 वपुष्मन्त् schöngestaltet;<BR> körperlich, leib|haftig.
 
 वपुष्य्
@@ -64099,7 +64102,7 @@
 वयस्यक
 वयस्यक = vor. m. 
 
-वयस्वन्त्
+वयस्वत्|वयस्वन्त्
 व॑यस्वन्त् kraftbegabt.
 
 वयःस्थ
@@ -64336,7 +64339,7 @@
 वर्चस्य
 वर्चस्य Kraft verleihend.
 
-वर्चस्वन्त्
+वर्चस्वत्|वर्चस्वन्त्
 व॑र्च॑स्वन्त् u. वर्चस्वि॑न् kräftig, frisch.
 
 वर्चिन्
@@ -64546,7 +64549,7 @@
 वर्म
 वर्म (adj. --°)= वर्मन्।
 
-वर्मण्वन्त्
+वर्मण्वत्|वर्मण्वन्त्
 व॑र्मण्वन्त् gepanzert.
 
 वर्मन्
@@ -64582,7 +64585,7 @@
 वर्षधर
 वर्षधर m. Eunuch (eig Regend. i. |Samenverhalter).
 
-वर्षन्त्
+वर्षत्|वर्षन्त्
 व॑र्षन्त् regnend;<BR> m. Regen.
 
 वर्षपात
@@ -64714,7 +64717,7 @@
 वलिन
 वलिन, वलिभ u. वलिमन्त् faltig, runzelig.
 
-वलीमन्त्
+वलीमत्|वलीमन्त्
 वलीमन्त् gekräuselt.
 
 वलीमुख
@@ -64726,7 +64729,7 @@
 वल्कल
 वल्कल m. n. dass.;<BR> Bastgewand.
 
-वल्कलवन्त्
+वल्कलवत्|वल्कलवन्त्
 वल्कलवन्त् ein Bastewand tragend.
 
 वल्कलाजिनवासस्
@@ -64912,7 +64915,7 @@
 वसन
 वसन2. n. das Verweilen, Aufenthalt.
 
-वसनवन्त्
+वसनवत्|वसनवन्त्
 वसनवन्त् bekleidet.
 
 वसन्त
@@ -65005,7 +65008,7 @@
 वसुधिति
 व॑सुधिति Güter besitzend;<BR> f. Güterspende.
 
-वसुंधर
+वसुन्धर|वसुंधर
 वसुंधर Schätze enthaltend;<BR> f. आ Erde, |Land, Reich.
 
 वसुपति
@@ -65017,7 +65020,7 @@
 वसुमत्ता
 वसुमत्ता f. Reichtum.
 
-वसुमन्त्
+वसुमत्|वसुमन्त्
 व॑सुमन्त् Schätze enthaltend, reich;<BR> von |den Vasu begleitet. m. Mannsn. f. वसु|मती Erde, Land, Reich;<BR> Frauenname.
 
 वसुमय
@@ -65035,7 +65038,7 @@
 वसुलक्ष्मी
 वसुलक्ष्मी f. Frauenname.*
 
-वसुवन्त्
+वसुवत्|वसुवन्त्
 व॑सुवन्त् mit den Vasu verbunden.
 
 वसुविद्
@@ -65176,7 +65179,7 @@
 वह्नितम
 व॑ह्नितम (Superl.) am besten fahrend o. |darbingend. 
 
-वह्निमन्त्
+वह्निमत्|वह्निमन्त्
 वह्निमन्त् Feuer enthaltend.
 
 वह्निमय
@@ -65293,7 +65296,7 @@
 वाग्यत
 वाग्यत die Rede hemmend, schweigend.
 
-वाग्वन्त्
+वाग्वत्|वाग्वन्त्
 वाग्वन्त् mit der Rede verbunden.
 
 वाग्विद्
@@ -65401,7 +65404,7 @@
 वाजपेय
 वाजपे॑य m. n. kampfo. Krafttrunk (r.) 
 
-वाजंभर
+वाजम्भर|वाजंभर
 वाजंभर den Preis davontragend.
 
 वाजय्
@@ -65410,7 +65413,7 @@
 वाजयु
 वाजयु॑ wettlaufend, eifrig, kampflustig, |kräftig, güterreich.
 
-वाजवन्त्
+वाजवत्|वाजवन्त्
 वा॑जवन्त् gütero. rossereich, kräftig;<BR> von |den Vājas (d. i. Ṛbhus) begleitet.
 
 वाजसनि
@@ -65440,7 +65443,7 @@
 वाजिन
 वा॑जिन n. Wettkapmf, Heldenkraft.
 
-वाजिनीवन्त्
+वाजिनीवत्|वाजिनीवन्त्
 वाजि॑नीवन्त् reich an Gaben o. an Rossen.
 
 वाजिनीवसु
@@ -65509,7 +65512,7 @@
 वाणीची
 वा॑णीची f. ein best. Musikinstrument.
 
-वाणीवन्त्
+वाणीवत्|वाणीवन्त्
 वाणीवन्त् wortreich.
 
 वात
@@ -65551,7 +65554,7 @@
 वाताली
 वाताली f. Wirbelwind.
 
-वातावन्त्
+वातावत्|वातावन्त्
 वाता॑वन्त् windig, luftig.
 
 वातावली
@@ -65779,7 +65782,7 @@
 वायुभक्षक
 वायुभक्षक u. °भक्ष्य dass. 
 
-वायुमन्त्
+वायुमत्|वायुमन्त्
 वायुम॑न्त् mit Wind verbunden.
 
 वायुमय
@@ -65854,7 +65857,7 @@
 वारवधू
 वारवधू u. °वनिता f. dass.
 
-वारवन्त्
+वारवत्|वारवन्त्
 वा॑रवन्त् langschweifig (Pferd).
 
 वारविलासिनी
@@ -65905,7 +65908,7 @@
 वारिबिन्दु
 वारिबिन्दु m. Wassertropfen.
 
-वारिमन्त्
+वारिमत्|वारिमन्त्
 वारिमन्त् wasserreich.
 
 वारिमय
@@ -65956,13 +65959,13 @@
 वार्क्ष
 वार्क्ष, f. ई aus Bäumen bestehend, Baum-, |hölzern.
 
-वार्त्त
+वार्त|वार्त्त
 वार्त्त richtig, in Ordnung, gesund;<BR> gewöhn|lich, mittelmäßigig, m. Mannsn. f. आ |Unterhalt, Erwerb (adj. --°) lebend |von);<BR> Kunde, Nachricht, Sage, Ge|schichte.
 
 वार्त्ताहर
 वार्त्ताहर m. Bote (Kundebringer). .वार्त्त् बाहर्तर् u. °हार m. dass.
 
-वार्त्तिक
+वार्तिक|वार्त्तिक
 वार्त्तिक m. Gewerbtreibender;<BR> Kund|schafter, Bote. n. Ergänzung zu einem. |Sūtra (g.).
 
 वार्त्रघ्न
@@ -66094,7 +66097,7 @@
 वाशी
 वा॑शी f. Schnitzmesser, Axt.
 
-वाशीमन्त्
+वाशीमत्|वाशीमन्त्
 वा॑शीमन्त् ein Messer tragend.
 
 वाश्र
@@ -66367,7 +66370,7 @@
 विकर्तर्
 विकर्त॑र् m. Umwandler.
 
-विकर्त्तर्
+विकर्तर्|विकर्त्तर्
 विकर्त्तर् m. Zerschneider, Zerleger.
 
 विकर्मक्रिया
@@ -66397,7 +66400,7 @@
 विकल्पन
 विकल्पन m. Verfertiger, Bildner (auch | °ल्पक)। n. u. f. A das Anheimstellen;<BR> |Unterscheidung, Annahme.
 
-विकल्पवन्त्
+विकल्पवत्|विकल्पवन्त्
 विकल्पवन्त् zweifelhaft, unschlüssig.
 
 विकल्पिन्
@@ -66457,7 +66460,7 @@
 विकृति
 वि॑कृति f. dass., Gespenstererscheinung;<BR> |Alteration;<BR> Aufregung u. s. w. = विकार;भ्णैआख् |Beaz. versch. Metra.
 
-विकृतिमन्त्
+विकृतिमत्|विकृतिमन्त्
 विकृतिमन्त् wandelbar, veränderlich.
 
 विकृष्ट
@@ -66631,7 +66634,7 @@
 विग्रहण
 विग्र॑हण n. das Aubreiten, Ergreifen, |Packen.
 
-विग्रहवन्त्
+विग्रहवत्|विग्रहवन्त्
 विग्रहवन्त् verkörpert, leibhaftig.
 
 विग्रहिन्
@@ -66679,7 +66682,7 @@
 विघ्नराज्
 विघ्नराज् u. °राज = m. विघ्नपति।
 
-विघ्नवन्त्
+विघ्नवत्|विघ्नवन्त्
 विघ्नवन्त् mit Hindernissen verbunden.
 
 विघ्नेश
@@ -66730,7 +66733,7 @@
 विचारणीय
 विचारणीय der Überlegung bedürfend.
 
-विचारवन्त्
+विचारवत्|विचारवन्त्
 विचारवन्त् besonnen, bedächtig.
 
 विचारिन्
@@ -66844,7 +66847,7 @@
 विजयप्रत्यर्थिन्
 विजयप्रत्यर्थिन्, f. °णी Sieh wünschend.*
 
-विजयवन्त्
+विजयवत्|विजयवन्त्
 विजयवन्त् siegreich.
 
 विजयवर्मन्
@@ -66940,7 +66943,7 @@
 विज्ञानमय
 विज्ञानम॑य aus Erkennetnis bestehend.
 
-विज्ञानवन्त्
+विज्ञानवत्|विज्ञानवन्त्
 विज्ञानवन्त् reich an Erkenntnis.
 
 विज्ञानिन्
@@ -67057,7 +67060,7 @@
 वितान
 वितान niederschlagen. m. n. Ausbreitung, |Umfang, Menge, Fülle;<BR> Ausführung, |Opferhandlung;<BR> Traghimmel, Baldachin, |Decke;<BR> m. die Anordnung der drei |heiligen Feuer und diese selbst (r.).
 
-वितानवन्त्
+वितानवत्|वितानवन्त्
 वितानवन्त् mit einem Traghimmel ver|sehen.
 
 वितामस
@@ -67111,7 +67114,7 @@
 वित्तमय
 वित्तमय, f. ई in Reichtümern bestehend.
 
-वित्तवन्त्
+वित्तवत्|वित्तवन्त्
 वित्तवन्त् bemittelt, reich.
 
 वित्तहीन
@@ -67276,7 +67279,7 @@
 विद्यार्थ
 विद्यार्थ u. °र्थिन् sVerlangen nach Wissen |habend, lernbegierig.
 
-विद्यावन्त्
+विद्यावत्|विद्यावन्त्
 विद्यावन्त् gelehrt.
 
 विद्याविद्
@@ -67291,13 +67294,13 @@
 विद्युत्य
 विद्युत्य᳠ Adj. Blitz-.
 
-विद्युत्वन्त्
+विद्युत्वत्|विद्युत्वन्त्
 विद्युत्वन्त् blitzreich;<BR> m. Gewitterwolke.
 
 विद्युद्दामन्
 विद्युद्दामन् n. Blitzstrahl (eig. -band).
 
-विद्युन्मन्त्
+विद्युन्मत्|विद्युन्मन्त्
 विद्यु॑न्मन्त् blinkend, blitzend.
 
 विद्युन्माला
@@ -67471,7 +67474,7 @@
 विधुति
 विधुति f. das Schütteln, Rühren.
 
-विधुंतुद
+विधुन्तुद|विधुंतुद
 विधुंतुद m. der Mondquäler (Bein. Rāhu's).
 
 विधुर
@@ -67972,7 +67975,7 @@
 विभव
 विभव vermögend, reich. m. Reichtum, |Würde, Macht, Stellung, Herrschaft, |Allgegenwart. °तस् Adv. nach dem |Range.
 
-विभवन्त्
+विभवत्|विभवन्त्
 विभवन्त् u. °विन् vermögend, wohlhabend.
 
 विभा
@@ -68041,7 +68044,7 @@
 विभूति
 वि॑भूति durchdringend, reichlich, herrlich, |f. Entfaltung, Offenbarung, Macht, |Herrlichkeit, Glück, Reichtum.
 
-विभूतिमन्त्
+विभूतिमत्|विभूतिमन्त्
 विभूतिमन्त् kräftig, stark.
 
 विभूमन्
@@ -68053,7 +68056,7 @@
 विभूषण
 विभूषण schmückend;<BR> n. Schmuck, Schön|heit.
 
-विभूषणवन्त्
+विभूषणवत्|विभूषणवन्त्
 विभूषणवन्त् geschmückt.
 
 विभूषा
@@ -68155,7 +68158,7 @@
 विमलिमन्
 विमलिमन् m. Reinheit, Klarheit.
 
-विमहन्त्
+विमहत्|विमहन्त्
 विमहन्त् übergroß.
 
 विमहस्
@@ -68263,7 +68266,7 @@
 विमोहिन्
 विमोहिन् = vor. Adj.
 
-वियन्त्
+वियत्|वियन्त्
 वियन्त् auseinander gehend, zerrinnend;<BR> |n. विय॑त् der Luftraum (eig. das Klaf|fende, die Kluft).
 
 वियुक्त
@@ -68290,7 +68293,7 @@
 विरक्ति
 विरक्ति f. Leidenschaftslosigkeit, Gleich|gültigkeit gegen (Loc. o. --°). 
 
-विरक्तिमन्त्
+विरक्तिमत्|विरक्तिमन्त्
 विरक्तिमन्त् gleichgültig gegen (Loc.).
 
 विरचना
@@ -68338,7 +68341,7 @@
 विराग
 विराग gefärbt, bunt;<BR> leidenschaftslos, |gleichgültig.
 
-विरागवन्त्
+विरागवत्|विरागवन्त्
 विरागवन्त् u. °गिन् gleichgültig.
 
 विराज्
@@ -68362,7 +68365,7 @@
 विराविन्
 विराविन् dass., entönend von (Instr.).
 
-विरुक्मन्त्
+विरुक्मत्|विरुक्मन्त्
 विरु॑क्मन्त् glänzend. m. glänzende Waffe |o. Schmuck.
 
 विरुज
@@ -68617,7 +68620,7 @@
 विवस्वन्
 विव॑स्वन् Instr. Pl. dass es leuchtet.
 
-विवस्वन्त्
+विवस्वत्|विवस्वन्त्
 वि॑वस्वन्त् u. विव॑स्वन्त् erstrahlend, mor|gendlich. m. der Gott der Morgen|sonne;<BR> sp. überh. Sonne o. Sonnengott.
 
 विवाक
@@ -68689,16 +68692,16 @@
 विवृति
 विवृति f. Eröffnung, Erklärung.
 
-विवृत्त
+विवृत|विवृत्त
 विवृत्त s. वर्त्।
 
-विवृत्ताक्ष
+विवृताक्ष|विवृत्ताक्ष
 विवृत्ताक्ष die Augen verdrehend.
 
 विवृत्ताङ्ग
 विवृत्ताङ्ग die Glieder krümmend, sich |windend (im Todeskampf).
 
-विवृत्ति
+विवृति|विवृत्ति
 विवृत्ति f. Entfaltung;<BR> Hiatus (g.).
 
 विवृद्धि
@@ -68713,7 +68716,7 @@
 विवेकज्ञ
 विवेकज्ञ Einsicht habend (eig. kennend).
 
-विवेकवन्त्
+विवेकवत्|विवेकवन्त्
 विवेकवन्त् einsichtig, verständig.
 
 विवेकविश्रान्त
@@ -68863,7 +68866,7 @@
 विशेषमण्डन
 विशेषमण्डन n. ein besonderer Schmuck.
 
-विशेषवन्त्
+विशेषवत्|विशेषवन्त्
 विशेषवन्त् etwas Besonderes habend;<BR> |vorzüglicher, besser.
 
 विशेषविद्
@@ -69052,7 +69055,7 @@
 विश्वमूर्ति
 विश्वमूर्ति allgestaltig.
 
-विश्वंभर
+विश्वम्भर|विश्वंभर
 विश्वंभर॑ alltragend o. -erhaltend. m. Feuer |f. विश्वंभरा Erde.
 
 विश्वंभरकुलाय
@@ -69226,7 +69229,7 @@
 विषयपराङ्मुख
 विषयपराङ्मुख dem Weltgetriebe abge|kehrt.* 
 
-विषयवन्त्
+विषयवत्|विषयवन्त्
 विषयवन्त् auf einen Gegenstand gerichtet, |objecktiv.
 
 विषयवासिन्
@@ -69265,7 +69268,7 @@
 विषाण
 विषा॑ण (alt auch आ f.) Horn (adj. --° |f. आ u. ई), Hauzahn (des Elefanten), |Schere (des Krebses), Brustwarze, |Spitze, Schlachtmesser.
 
-विषाणवन्त्
+विषाणवत्|विषाणवन्त्
 विषाणवन्त् gehörnt, mit Hauern versehen;<BR> |m. Eber.
 
 विषाणिन्
@@ -69280,7 +69283,7 @@
 विषादन
 विषादन bestürzt machend;<BR> n. das Bestürzt|machen.
 
-विषादवन्त्
+विषादवत्|विषादवन्त्
 विषादवन्त् bestürzt, niedergeschlagen.
 
 विषादिन्
@@ -69313,7 +69316,7 @@
 विषुरूप
 विषु॑रूप verschiedenfarbig o. -gestaltig.
 
-विषुवन्त्
+विषुवत्|विषुवन्त्
 विषुव॑न्त् u. विषूव॑न्त् in der Mitte befind|lich (eig. zu beiden Seiten gehörig).
 
 विषूची
@@ -69394,7 +69397,7 @@
 विष्णुरूप
 विष्णुरूप Vishṇu's Gestalt tragend.
 
-विष्णुवन्त्
+विष्णुवत्|विष्णुवन्त्
 वि॑ष्णुवन्त् von Vishṇu begleitet.
 
 विष्णुशर्मन्
@@ -69406,7 +69409,7 @@
 विष्वक्सेन
 विष्वक्सेन m. Bein. Vishṇu-Kṛshṇa's.
 
-विष्वग्गमनवन्त्
+विष्वग्गमनवत्|विष्वग्गमनवन्त्
 विष्वग्गमनवन्त् überallhin gehend.
 
 विष्वञ्च्
@@ -69556,7 +69559,7 @@
 विहंग
 विहंग m. = विहग।
 
-विहंगम
+विहङ्गम|विहंगम
 विहंगम die Luft durchziehend;<BR> m. Vogel |o. Sonne.
 
 विहति
@@ -69592,7 +69595,7 @@
 विहार
 विहार m. (n.) Versetzung, Umstellung, |Außtellung (bes. der heil. Feuer);<BR> das |Umherwandeln, Spaziergang, Erholung, |Vergnügen, Erholungso. Lustort;<BR> |Kloster, Heiligtum.
 
-विहारवन्त्
+विहारवत्|विहारवन्त्
 विहारवन्त् sich vergnügend an (--°)।
 
 विहारिन्
@@ -69775,7 +69778,7 @@
 वीरय्
 वीरय्, वीर॑यते sich männlich erweisen.
 
-वीरवन्त्
+वीरवत्|वीरवन्त्
 वीर॑वन्त् männero. söhnereich (Superl. °वत्तम);भ्णैआख् männlich, heldenhaft. n. Reich|tum an Söhnen o. Männern.
 
 वीरवर
@@ -69820,7 +69823,7 @@
 वीर्यवत्ता
 वीर्यवत्ता f., °त्त्व n. Abstr. zum folg. 
 
-वीर्यवन्त्
+वीर्यवत्|वीर्यवन्त्
 वीर्यवन्त् kräftig, mächtig;<BR> Compar. वी|र्यृवत्तर, Superl. °वत्तम।
 
 वीर्यशुल्क
@@ -69850,7 +69853,7 @@
 वृकोदर
 वृकोदर m. Wolfsbauch (Bein. Bhīmasena's).
 
-वृक्क
+वृक|वृक्क
 वृक्क॑ m. Du. die Nieren.
 
 वृक्ण
@@ -69943,28 +69946,28 @@
 वृति
 वृति2. f. Wahl.
 
-वृत्त
+वृत|वृत्त
 वृत्त॑ (s. वर्त्) n. das Vorkommen, Erschei|nung, Ereignis, Angelegenheit, Wandel, |(gutes) Betragen;<BR> Metrum.
 
 वृत्तकाय
 वृत्तकाय rundleibig.
 
-वृत्तवन्त्
+वृतवत्|वृत्तवन्त्
 वृत्तवन्त् rund o. = folg.
 
-वृत्तसंपन्न
+वृतसम्पन्न|वृत्तसंपन्न
 वृत्तसंपन्न einen guten Wandel führend, |tugendhaft.
 
 वृत्तान्त
 वृत्तान्त m. Vorgang, Begebenheit, Aben|teuer, Geschichte.
 
-वृत्ति
+वृति|वृत्ति
 वृत्ति f. das Rollen (von Thränen), Ge|schehen, Vorkommen;<BR> Hingegebensein |an, Eifer in (Loc. 0. adj. --° eiferig, |hingegeben), Erwerb, Lebensunterhalt |वृत्तिं वर्तय् das Leben fristen, ° कर् o. |कल्पय् mit Instr. leben von);<BR> Thätig|keit, Funktion, Stimmung;<BR> Handlungs| weise, Lebenswandel, (rechtes) Be|nehmen gegen (Gen., Loc. o. --°);भ्णैआख् |Brauch, Regel, Wesen, Natur, Zustand;<BR> |Bedeutung (g.);<BR> Stil, Charakter (d.);<BR> |Commentar zu einem Sūtra. Abstr. |°ता f., °त्व n.
 
 वृत्तिन्
 वृत्तिन् (adj. --°) eifrig in, lebend von.
 
-वृत्तिमन्त्
+वृतिमत्|वृत्तिमन्त्
 वृत्तिमन्त् dass., auch verfahrend wie.
 
 वृत्तौजस्
@@ -70045,7 +70048,7 @@
 वृद्धिद
 वृद्धिद Gedeihen bringend.
 
-वृद्धिमन्त्
+वृद्धिमत्|वृद्धिमन्त्
 वृद्धिमन्त् zunehmend, stark.
 
 वृद्धोक्ष
@@ -70105,7 +70108,7 @@
 वृषण्य्
 वृषण्य्, °ण्य॑ति brünstig sein.
 
-वृषण्वन्त्
+वृषण्वत्|वृषण्वन्त्
 वृ॑षण्वन्त् mit Hengsten bespannt.
 
 वृषण्वसु
@@ -70117,7 +70120,7 @@
 वृषदंश
 वृषदंश॑ m. Katze (eig. = folg.).
 
-वृषदन्त्
+वृषदत्|वृषदन्त्
 वृ॑षदन्त्, f. °दती starkzahnig.
 
 वृषध्वज
@@ -70186,7 +70189,7 @@
 वृष्टिपात
 वृष्टिपात m. Regensturz. 
 
-वृष्टिमन्त्
+वृष्टिमत्|वृष्टिमन्त्
 वृष्टिम॑न्त् u. वृ॑ष्टिमन्त् regnerisch, regnend.
 
 वृष्टिवनि
@@ -70198,7 +70201,7 @@
 वृष्ण्य
 वृ॑ष्ण्य = vor. Adj.;<BR> n. Manneskraft, Mut.
 
-वृष्ण्यावन्त्
+वृष्ण्यावत्|वृष्ण्यावन्त्
 वृ॑ष्ण्यावन्त् manneskräftig.
 
 वृष्य
@@ -70213,7 +70216,7 @@
 वेग
 वेग m. Ruck, Anprall, Schwall, Drang, |Ungestüm, Hast, Kraft, Wirkung.
 
-वेगवन्त्
+वेगवत्|वेगवन्त्
 वेगवन्त् wogend, hastig, schnell.
 
 वेगित
@@ -70249,7 +70252,7 @@
 वेणुक
 वेणुक॑ m. Rohrpfeife, Flöte;<BR> Pl. Volksn.
 
-वेणुमन्त्
+वेणुमत्|वेणुमन्त्
 वेणुमन्त् mit einem Bambusrohr versehen.
 
 वेणुमय
@@ -70300,7 +70303,7 @@
 वेत्रधारा
 वेत्रधारा f. Thürsteherin (eig. Stabträgerin).
 
-वेत्रवन्त्
+वेत्रवत्|वेत्रवन्त्
 वेत्रवन्त् Vetrator enthaltend;<BR> f. °वती |= vor.
 
 वेत्रासन
@@ -70354,7 +70357,7 @@
 वेदरहस्य
 वेदरहस्य n. Vedagehemnis (= Upanishad).
 
-वेदवन्त्
+वेदवत्|वेदवन्त्
 वेदवन्त् den Veda besitzend o. kennend.
 
 वेदविद्
@@ -70918,7 +70921,7 @@
 वैशन्ता
 वैशन्ता॑, f. teichartig. Teich-.
 
-वैशंपायन
+वैशम्पायन|वैशंपायन
 वैशंपायन n. N. eines alten Dichters.
 
 वैशस
@@ -71065,7 +71068,7 @@
 व्यचस्
 व्य॑चस् n. Umfang Ausdehnung, Raum.
 
-व्यचस्वन्त्
+व्यचस्वत्|व्यचस्वन्त्
 व्य॑चस्वन्त् geräumig, weit.
 
 व्यचिष्ठ
@@ -71176,7 +71179,7 @@
 व्यभिचार
 व्यभिचार m. das Auseinandero. Fehl|gehen;<BR> Fehltritt (bes. des Weibes), Ver|gehen, Übertretung.
 
-व्यभिचारवन्त्
+व्यभिचारवत्|व्यभिचारवन्त्
 व्यभिचारवन्त् sich herumtreibend.
 
 व्यभिचारिन्
@@ -71218,7 +71221,7 @@
 व्यवसाय
 व्यवसाय m. Anstrengung, Entschlossenheit, |Beschluss, Vorsatz.
 
-व्यवसायवन्त्
+व्यवसायवत्|व्यवसायवन्त्
 व्यवसायवन्त् u. °सायिन् entschlossen, |energisch, unternehmend.
 
 व्यवसित
@@ -71248,7 +71251,7 @@
 व्यवहारपद
 व्यवहारपद n. Rechtsfall.
 
-व्यवहारवन्त्
+व्यवहारवत्|व्यवहारवन्त्
 व्यवहारवन्त् sich beschäftigend mit (--°);भ्णैआख् |m. Geschäftsmann.
 
 व्यवहारस्थिति
@@ -71398,7 +71401,7 @@
 व्याप्ति
 व्या᳠प्ति f. Erreichung, Erlangung, Durch|dringung, Erfüllung, Durchgängigkeit, |Allgmeinheit.
 
-व्याप्तिमन्त्
+व्याप्तिमत्|व्याप्तिमन्त्
 व्याप्तिमन्त् sich erstreckend, allgemein.
 
 व्याप्य
@@ -71452,7 +71455,7 @@
 व्यावृत्
 व्यावृ॑त् f. Unterscheidung, Auszeichnung.
 
-व्यावृत्ति
+व्यावृति|व्यावृत्ति
 व्या॑वृत्ति f. Abwendung, Sonderung, Aus|schluss, Aufgehobenheit, Beseitigung.
 
 व्यास
@@ -71578,7 +71581,7 @@
 व्रणय्
 व्रणय्, °यति verwunden;<BR> p. p. व्रणित।
 
-व्रणवन्त्
+व्रणवत्|व्रणवन्त्
 व्रणवन्त् wund, verletzt.
 
 व्रणविरोपण
@@ -71620,7 +71623,7 @@
 व्रतलोप
 व्रतलोप m., °न n. Gelübdesverletzung.
 
-व्रतवन्त्
+व्रतवत्|व्रतवन्त्
 व्रत॑वन्त् ein Gelübde erfüllend. 
 
 व्रतसंपादन
@@ -71689,7 +71692,7 @@
 व्रीड
 व्रीड m., आ f. Verlegenheit, Scham.
 
-व्रीडावन्त्
+व्रीडावत्|व्रीडावन्त्
 व्रीडावन्त् verlegen, beschämt.
 
 व्रीहि
@@ -71698,7 +71701,7 @@
 व्रीहिन्
 व्रीहिन् Reis enthaltend (Feld).
 
-व्रीहिमन्त्
+व्रीहिमत्|व्रीहिमन्त्
 व्रीहिमन्त् mit Reis gemischt.
 
 व्रीहिमय
@@ -71728,7 +71731,7 @@
 शंयोस्
 शंयोस् = शं॑ यो॑स् (vgl. 5. श॑म्)।
 
-शंवन्त्
+शंवत्|शंवन्त्
 शं॑वन्त् heilvoll.
 
 शंस्
@@ -71857,19 +71860,19 @@
 शक्तितस्
 शक्तितस् Adv. nach Kräften o. Vermögen.
 
-शक्तिद्वयवन्त्
+शक्तिद्वयवत्|शक्तिद्वयवन्त्
 शक्तिद्वयवन्त् mit zwei Kräften ausge|stattet (ph.).
 
 शक्तिधर
 शक्तिधर einen Speer tragend;<BR> m. Bein. |Skanda's, Mannsname.
 
-शक्तिमन्त्
+शक्तिमत्|शक्तिमन्त्
 शक्तिमन्त्1. mächtig, vermögend zu (Loc. |0. Inf.). 
 
-शक्तिमन्त्
+शक्तिमत्|शक्तिमन्त्
 शक्तिमन्त्2. einen Speer habend.
 
-शक्तीवन्त्
+शक्तीवत्|शक्तीवन्त्
 श॑क्तीवन्त् kräftig, o. hilfreich.
 
 शक्मन्
@@ -71914,13 +71917,13 @@
 शङ्कनीय
 शङ्कनीय verdächtig, zu befürchten, an|zunhmen;<BR> n. impers.
 
-शंकर
+शङ्कर|शंकर
 शंकर॑ f. ई heilbringend. m. Bein. Rudra|Śiva's;<BR> Mannsn., bes. versch. Gelehrten.
 
 शंकरविजय
 शंकरविजय m. T. eines Werkes.
 
-शंकराचार्य
+शङ्कराचार्य|शंकराचार्य
 शंकराचार्य m. N. eines Gelehrten.
 
 शङ्का
@@ -71983,7 +71986,7 @@
 शचीपति
 श॑चीप॑ति m. Herr der Hilfe o. Gatte der |Śacī (Indra).
 
-शचीवन्त्
+शचीवत्|शचीवन्त्
 श॑चीवन्त् u. शचीवसु hilfreich.
 
 शठ
@@ -72061,7 +72064,7 @@
 शतद
 शतद u. शत॑दा hundert schenkend.
 
-शतदन्त्
+शतदत्|शतदन्त्
 शत॑दन्त् hundertzähnig (Kramm).
 
 शतदल
@@ -72139,7 +72142,7 @@
 शतरात्र
 शतरात्र m. n. hunderttägige Feier.
 
-शतवन्त्
+शतवत्|शतवन्त्
 शतवन्त् hundert enthaltend, hundertfach.
 
 शतवर्ष
@@ -72283,7 +72286,7 @@
 शत्रुंतप
 शत्रुंतप Feinde quälend.
 
-शत्रुंदम
+शत्रुन्दम|शत्रुंदम
 शत्रुंदम Feinde bändigend.
 
 शत्रुमर्दन
@@ -72367,7 +72370,7 @@
 शफर
 शफर m., ई f. ein kleine Karpfenart.
 
-शफवन्त्
+शफवत्|शफवन्त्
 शफ॑वन्त् behuft. bekrallt.
 
 शबर
@@ -72403,7 +72406,7 @@
 शब्दय्
 शब्दय्, °यति Geräusch machen, rufen, |schwatzen, heißen, gerufen werden. p. p. |शब्दित gerufen, mitgeteilt, genannt.
 
-शब्दवन्त्
+शब्दवत्|शब्दवन्त्
 शब्दवन्त् tönend;<BR> n. °वत् adv. laut.
 
 शब्दविद्या
@@ -72469,7 +72472,7 @@
 शमल
 श॑मल n. Fleck, Mal, Fehler.
 
-शमवन्त्
+शमवत्|शमवन्त्
 शमवन्त् ruhig, friedlich.
 
 शमाय्
@@ -72532,7 +72535,7 @@
 शम्भल
 शम्भल m. ortsname;<BR> f. ई Kupplerin.
 
-शंभविष्ठ
+शम्भविष्ठ|शंभविष्ठ
 शं॑भविष्ठ Superl. z. folg. Adj.
 
 शंभु
@@ -72625,7 +72628,7 @@
 शरद्वधू
 शरद्वधू f. die Herbstfrau (poet. Personif.).
 
-शरद्वन्त्
+शरद्वत्|शरद्वन्त्
 शर॑द्वन्त् bejahrt.
 
 शरधि
@@ -72703,7 +72706,7 @@
 शरीरयात्रा
 शरीरयात्रा f. Unterhalt des Leibes.
 
-शरीरवन्त्
+शरीरवत्|शरीरवन्त्
 शरीरवन्त् einen Leib habend, körperlich. |m. lebendes Wesen, Mensch.
 
 शरीरवृत्ति
@@ -72724,7 +72727,7 @@
 शरु
 श॑रु f. (m.) Geschoss.
 
-शरुमन्त्
+शरुमत्|शरुमन्त्
 श॑रुमन्त् mit Geschossen bewaffinet.
 
 शर्कर
@@ -72790,7 +72793,7 @@
 शर्य
 श॑र्य m. Pfeil. f. आ dass.;<BR> Pl. Rohrgeflecht |(auch n. Sgl.)
 
-शर्यणावन्त्
+शर्यणावत्|शर्यणावन्त्
 शर्यणा॑वन्त् m. Teich (eig. mit Röhricht be|wachsen, s. vor.), übertr. Fass, Soma|kufe.
 
 शर्यात
@@ -72841,7 +72844,7 @@
 शल्यक
 श॑ल्यक m. Stachelschwein.
 
-शल्यवन्त्
+शल्यवत्|शल्यवन्त्
 शल्यवन्त् in dem eine Pfeilspitze steckt o. |dem sie gehört;<BR> m. Jäger.
 
 शल्लक
@@ -72874,7 +72877,7 @@
 शवसान
 शवसान॑ übermächtig, kraftthätig.
 
-शवसावन्त्
+शवसावत्|शवसावन्त्
 शवसावन्त् u. शवसि॑न् machtvoll.
 
 शवसी
@@ -72973,7 +72976,7 @@
 शश्वधा
 शश्वधा॑ Adv. immer wieder.
 
-शश्वन्त्
+शश्वत्|शश्वन्त्
 श॑श्वन्त्, f. श॑श्वती (शश्वती॑) stets wieder|kehrend, sich wiederholend, fort|laufend, beständig, zahlreich, allieder. n. zaªzvat adv. immer wieder, fort und |fort, stets (Superl. शश्वत्तम॑म्);भ्णैआख् alsbald, |darauf.
 
 शष्कुलि
@@ -72982,7 +72985,7 @@
 शष्प
 श॑ष्प n. junges Gras.
 
-शष्पवन्त्
+शष्पवत्|शष्पवन्त्
 शष्पवन्त् junges Gras enthaltend.
 
 शष्प्य
@@ -73036,7 +73039,7 @@
 शस्त्रभृत्
 शस्त्रभृत् ein Schwert tragend;<BR> m. Krieger.
 
-शस्त्रवन्त्
+शस्त्रवत्|शस्त्रवन्त्
 शस्त्रवन्त् mit einem Schwerte bewaffnet.
 
 शस्त्रिका
@@ -73171,7 +73174,7 @@
 शाठ्य
 शाठ्य n. Falschheit, Hinterlist.
 
-शाठ्यवन्त्
+शाठ्यवत्|शाठ्यवन्त्
 शाठ्यवन्त् falsch, hinterlistig.
 
 शाण
@@ -73234,7 +73237,7 @@
 शाद्वल
 शाद्वल begrast, belaubt;<BR> n. Grasplatz, |Rasen.
 
-शाद्वलवन्त्
+शाद्वलवत्|शाद्वलवन्त्
 शाद्वलवन्त् u. °लिन् = vor. Adj.
 
 शानच्
@@ -73252,7 +73255,7 @@
 शान्तता
 शान्तता f., °त्व n. Gemütsruhe.
 
-शांतनव
+शान्तनव|शांतनव
 शांतनव m. patron. N. Bhīshma's.
 
 शांतनु
@@ -73339,7 +73342,7 @@
 शाम्बरिक
 शाम्बरिक m. Zauberer.
 
-शांभव
+शाम्भव|शांभव
 शांभव, f. ई Śiva eigen o. geweiht. 
 
 शाम्य
@@ -73639,7 +73642,7 @@
 शिक्षानर
 शिक्षानर॑ Männern hold.
 
-शिक्षावन्त्
+शिक्षावत्|शिक्षावन्त्
 शिक्षावन्त् gelert, o. belehrend.
 
 शिक्षित
@@ -73681,7 +73684,7 @@
 शिखालम्बिन्
 शिखालम्बिन् vom Scheitel herabhängend. 
 
-शिखावन्त्
+शिखावत्|शिखावन्त्
 शिखावन्त् flammend.
 
 शिखावल
@@ -73777,13 +73780,13 @@
 शिपिविष्ट
 शिपिविष्ट॑ m. Bein. Vishṇu's 0. Śiva's.
 
-शिप्रवन्त्
+शिप्रवत्|शिप्रवन्त्
 शि॑प्रवन्त् vollwangig, pausbäckig.
 
 शिप्रा
 शि॑प्रा f. Du. die Backen;<BR> Pl. die Backen|stücke am Helm.
 
-शिप्रिणीवन्त्
+शिप्रिणीवत्|शिप्रिणीवन्त्
 शिप्रि॑णीवन्त् u. शिप्रि॑न् = शिप्रवन्त्।
 
 शिफा
@@ -73810,7 +73813,7 @@
 शिमी
 शि॑मी f. Fleiß, Mühe (vgl. श॑मी)।
 
-शिमीवन्त्
+शिमीवत्|शिमीवन्त्
 शि॑मीवन्त् regsam, kräftig.
 
 शिम्ब
@@ -73960,7 +73963,7 @@
 शिल्पकारिका
 शिल्पकारिका u. °कारी f. = vor. f.
 
-शिल्पवन्त्
+शिल्पवत्|शिल्पवन्त्
 शिल्पवन्त् kunstverständig;<BR> m. Künstler.
 
 शिल्पिदारिका
@@ -74053,7 +74056,7 @@
 शिशुपाल
 शिशुपाल m. N. eines alten Königs. °वध |m. der Tod des Ś. (T. eines Gedichts).
 
-शिशुमन्त्
+शिशुमत्|शिशुमन्त्
 शि॑शुमन्त् Kinder o. Junge habend.
 
 शिशुमार
@@ -74263,7 +74266,7 @@
 शीर्षण्य
 शीर्षण्य᳠ am Kopf o. an der Spitze befind|lich;<BR> n. = vor.
 
-शीर्षण्वन्त्
+शीर्षण्वत्|शीर्षण्वन्त्
 शीर्षण्व॑न्त् ein Haupt habend.
 
 शीर्षतस्
@@ -74293,7 +74296,7 @@
 शीलय्
 शीलय्, °यति üben, pflegen, besorgen;<BR> |p. p. शीलित।
 
-शीलवन्त्
+शीलवत्|शीलवन्त्
 शीलवन्त् charaktervoll, ehrenhaft.
 
 शीलादित्य
@@ -74326,7 +74329,7 @@
 शुक्र
 शुक्र॑ klar, hell, rein. m. Feuer o. der Gott |des Feuers, ein best. Sommermonat, |der Planet Venus, Mannsn.;<BR> n. Helle, |Licht,Wasser, Saft, der männliche |Same.
 
-शुक्रवन्त्
+शुक्रवत्|शुक्रवन्त्
 शुक्र॑वन्त् klaren Saft enthaltend.
 
 शुक्रवर्ण
@@ -74341,7 +74344,7 @@
 शुक्ल
 शुक्ल॑ licht, hell, weiß, lauter. m. = शुक्लपक्ष;भ्णैआख् |n. Helle, Licht, weiß Farbe (auch |शुक्लता f.).
 
-शुक्लदन्त्
+शुक्लदत्|शुक्लदन्त्
 शुक्लदन्त् weißzahnig.
 
 शुक्लपक्ष
@@ -74389,7 +74392,7 @@
 शुचिता
 शुचिता f., °त्व॑ n. Klarheit, Lauterkeit;<BR> |Reinheit (r.).
 
-शुचिदन्त्
+शुचिदत्|शुचिदन्त्
 शुच॑इदन्त् hellzahnig.
 
 शुचिपा
@@ -74404,7 +74407,7 @@
 शुचिव्रत
 शु॑चिव्रत strahlende Herrschaft übend, |reinen Wandels.
 
-शुचिष्मन्त्
+शुचिष्मत्|शुचिष्मन्त्
 शुचिष्मन्त् strahlend.
 
 शुचिस्मित
@@ -74488,7 +74491,7 @@
 शुद्धि
 शुद्धि f. Reinigung, Läuterung (auchübertr.), |Befreiung von, Rechtfertigung durch |(--°);भ्णैआख् Echtheit, Richtigkeit;<BR> Bezahlung |(einer Schuld), Klarheit,sichere Kunde |über (Gen. o. --°)।
 
-शुद्धिमन्त्
+शुद्धिमत्|शुद्धिमन्त्
 शुद्धिमन्त् rein, unschuldig.
 
 शुद्धोदन
@@ -74614,7 +74617,7 @@
 शुभ्रदन्त
 शुभ्रदन्त, f. ई weißzahnig.
 
-शुभ्रावन्त्
+शुभ्रावत्|शुभ्रावन्त्
 शुभ्रा॑वन्त् u. शुभ्रि॑ schmuck, schön.
 
 शुभ्वन्
@@ -74692,7 +74695,7 @@
 शुष्कता
 शुष्कता f., °त्व n. Trockenheit.
 
-शुष्कवन्त्
+शुष्कवत्|शुष्कवन्त्
 शुष्कवन्त् trocken, dürr.
 
 शुष्ण
@@ -74710,7 +74713,7 @@
 शुष्मय
 शुष्मय॑ stärkend, ermutigend.
 
-शुष्मवन्त्
+शुष्मवत्|शुष्मवन्त्
 शु॑ष्मवन्त् brünstig.
 
 शुष्मिन्
@@ -74857,7 +74860,7 @@
 शृङ्गक
 शृङ्गक (adj. --°), f. शृङ्गिक) n. Horn, Spritze.
 
-शृङ्गवन्त्
+शृङ्गवत्|शृङ्गवन्त्
 शृङ्गवन्त् gehörnt o. gegipfelt.
 
 शृङ्गवेर
@@ -74971,7 +74974,7 @@
 शेषभोजिन्
 शेषभोजिन् = शेषभुज्।
 
-शेषवन्त्
+शेषवत्|शेषवन्त्
 शेषवन्त् übrig geblieben.
 
 शेषस्
@@ -75067,7 +75070,7 @@
 शैवल
 शैवल eine best. Wasserpflanze.
 
-शैवलवन्त्
+शैवलवत्|शैवलवन्त्
 शैवलवन्त्, °लिन् u. °ल्य mit Śaivala's |(s. vor.) besetz.
 
 शैवाल
@@ -75124,7 +75127,7 @@
 शोचिष्ठ
 शो॑चिष्ठ (Superl.) stark flammend.
 
-शोचिष्मन्त्
+शोचिष्मत्|शोचिष्मन्त्
 शोचि॑ष्मन्त् flammend, glühend.
 
 शोचिस्
@@ -75205,7 +75208,7 @@
 शौच
 शौच॑ n. Reinheit, Läuterung durch (--°);भ्णैआख् |Lauterkeit, Ehrlichkeit.
 
-शौचवन्त्
+शौचवत्|शौचवन्त्
 शौचवन्त् rein (auch übertr.).
 
 शौटीर
@@ -75241,7 +75244,7 @@
 शौर्यकर्मन्
 शौर्यकर्मन् n. Heldenthat.
 
-शौर्यवन्त्
+शौर्यवत्|शौर्यवन्त्
 शौर्यवन्त् heldenmütig, tapfer.
 
 शौल
@@ -75358,7 +75361,7 @@
 श्याव
 श्या॑व2. m. Mannsname (auch °क m.).
 
-श्यावदन्त्
+श्यावदत्|श्यावदन्त्
 श्याव॑दन्त् brauno. schwarzzahnig.
 
 श्यावदन्त
@@ -75655,7 +75658,7 @@
 श्रीमनस्
 श्रीमनस् gut gestimmt.
 
-श्रीमन्त्
+श्रीमत्|श्रीमन्त्
 श्रीमन्त् prächtig, schön, vornehm, glück|hringend. m. ein großer Herr.
 
 श्रील
@@ -75691,7 +75694,7 @@
 श्रुतबोध
 श्रुतबोध m. T. eines Werkes.
 
-श्रुतवन्त्
+श्रुतवत्|श्रुतवन्त्
 श्रुतवन्त् gehört habend;<BR> gelehrt.
 
 श्रुतशील
@@ -75718,10 +75721,10 @@
 श्रुतिपथ
 श्रुतिपथ m. Weg o. Bereich des Gehörs.
 
-श्रुतिमन्त्
+श्रुतिमत्|श्रुतिमन्त्
 श्रुतिमन्त् Ohren habend.
 
-श्रुतिमहन्त्
+श्रुतिमहत्|श्रुतिमहन्त्
 श्रुतिमहन्त् groß in der Wissenschaft, hoch|gelehrt.
 
 श्रुतिमार्ग
@@ -75739,7 +75742,7 @@
 श्रुष्टि
 श्रुष्टि॑ u. श्रु॑ष्टि f. Gehorsam, Willfährigkeit;<BR> |Adj. gehorsam, willig.
 
-श्रुष्टिमन्त्
+श्रुष्टिमत्|श्रुष्टिमन्त्
 श्रुष्टिम॑न्त् u. श्रुष्टीव॑न् (f. °व॑री) = vor. Adj.
 
 श्रूयमाणत्व
@@ -75748,7 +75751,7 @@
 श्रेणि
 श्रे॑णि u. श्रेणी f. Reihe, Schar, Menge;<BR> |Genossenschaft, Zunft, Gilde.
 
-श्रेणिमन्त्
+श्रेणिमत्|श्रेणिमन्त्
 श्रेणिमन्त् von einer Schar begleitet.
 
 श्रेणिशस्
@@ -75805,7 +75808,7 @@
 श्रोत्रतस्
 श्रोत्रत॑स् Adv. am Ohre.
 
-श्रोत्रपरंपरा
+श्रोत्रपरम्परा|श्रोत्रपरंपरा
 श्रोत्रपरंपरा f. Hörensagen.
 
 श्रोत्रपेय
@@ -75814,7 +75817,7 @@
 श्रोत्रमार्ग
 श्रोत्रमार्ग m. Bereich des Gehörs.
 
-श्रोत्रवन्त्
+श्रोत्रवत्|श्रोत्रवन्त्
 श्रोत्रवन्त् mit Gehör begabt.
 
 श्रोत्रिय
@@ -75964,7 +75967,7 @@
 श्वयातु
 श्व॑यातु m. Art Gespenster.
 
-श्ववन्त्
+श्ववत्|श्ववन्त्
 श्ववन्त् Hunde habend.
 
 श्ववर्त
@@ -76180,7 +76183,7 @@
 षट्कर्मन्
 षट्कर्मन् n. die sechs (erlaubten) Beschäfti|gungen (eines Brahmanen);<BR> Adj. dens. |nachgehend;<BR> m. ein Brahmane.
 
-षट्कर्मवन्त्
+षट्कर्मवत्|षट्कर्मवन्त्
 षट्कर्मवन्त् m. = vor. m.
 
 षट्कृत्वस्
@@ -77179,10 +77182,10 @@
 सघन
 सघन dicht o. bewölkt.
 
-संकट
+सङ्कट|संकट
 संकट eng, schmal, winzig, klein;<BR> schwierig, |gefährlich;<BR> gefährdet durch, voller |(--°)। n. Enge, Klemme, Schwierigkeit, |Gefahr.
 
-संकथन
+सङ्कथन|संकथन
 संकथन n., °कथा f. Unterredung, Gespräch |mit (Instr. mit u. ohne सह o. --°)।
 
 संकर
@@ -77194,25 +77197,25 @@
 संकर्ष
 संकर्ष m. Nähe (eig. Zusammenrückung).
 
-संकर्षण
+सङ्कर्षण|संकर्षण
 संकर्षण m. der Pflüger (Bein Halāyuddha's).
 
-संकल्प
+सङ्कल्प|संकल्प
 संकल्प॑ m. Entschluss, Entscheidung (opp. विकल्प), Vorsatz, Absicht, Wunsch, |Wille, Verlangen.
 
 संकल्पज
 संकल्पज aus dem Willen hervorgegangen;<BR> |m. = folg. 
 
-संकल्पजन्मन्
+सङ्कल्पजन्मन्|संकल्पजन्मन्
 संकल्पजन्मन् u. °योनि m. der Liebesgott |(Wunschgeborene).
 
-संकल्पवन्त्
+सङ्कल्पवत्|संकल्पवन्त्
 संकल्पवन्त् entschieden, entschlossen (Pers.).
 
-संकसुक
+सङ्कसुक|संकसुक
 सं॑कसुक1. zerspaltend, zerbröckelnd.
 
-संकसुक
+सङ्कसुक|संकसुक
 संक॑सुक2. abbröckelnd.
 
 सङ्का
@@ -77221,13 +77224,13 @@
 सकाश
 स॑काश m. Schein, Aussehen;<BR> adj. --° |gleich, ähnlich.
 
-संकीर्ण
+सङ्कीर्ण|संकीर्ण
 संकीर्ण (s. 3. कर्) n. Verwirrung.
 
 संकीर्णचारिन्
 संकीर्णचारिन् Verschiedenartiges thuend |o. durcheinander laufend.
 
-संकीर्तन
+सङ्कीर्तन|संकीर्तन
 संकीर्तन n. Erwähnung, Lobpreisung.
 
 संकुल
@@ -77251,10 +77254,10 @@
 संकेतस्थान
 संकेतस्थान n. Ort zum Stelldichein.
 
-संकोच
+सङ्कोच|संकोच
 संकोच m. Zusammenziehung (auch °न n.);<BR> |Abnahme, Verminderung.
 
-संकोचन
+सङ्कोचन|संकोचन
 संकोचन, f. ई zusammenziehend;<BR> n. s. vor.
 
 संक्रन्द
@@ -77275,7 +77278,7 @@
 संक्रोश
 संक्रोश॑ m. Geschrei.
 
-संक्लेद
+सङ्क्लेद|संक्लेद
 संक्लेद m. Nässe, Feuchtigkeit.
 
 संक्लेश
@@ -77290,22 +77293,22 @@
 संक्षालन
 संक्षालन n. Spülwasser;<BR> f. आ Abspülung.
 
-संक्षेप
+सङ्क्षेप|संक्षेप
 संक्षेप m. Zusammenwerfung, Vernichtung;<BR> |Zusammenfassung, gedrängte Darstel| lung, Summe. °--, Instr. u. Abl. in |Kürze, kurz. 
 
 संक्षेपक
 संक्षेपक u. °प्तर् m. Zusammenwerfer, Ver|nichter.
 
-संक्षोभ
+सङ्क्षोभ|संक्षोभ
 संक्षोभ m. Stoß, Erschütterung (auch |übertr.).
 
-संख्या
+सङ्ख्या|संख्या
 संख्या॑ f. Zahl;<BR> Zahlwort (g.);<BR> adj. --° |zu--gerechnet,<BR> --an Zahl betragend |(auch संख्यक u. संख्याक)।
 
 संख्यान
 संख्यान n. Zusammenzählung.
 
-संख्येय
+सङ्ख्येय|संख्येय
 संख्येय zählbar.
 
 सङ्ग
@@ -77326,19 +77329,19 @@
 संगथ
 संगथ॑ m. Zusammenhang, Vereinigung.
 
-संगम
+सङ्गम|संगम
 संगम॑ m. das Zuaammentreffen (auch feindl.), |Vereinigung, Umgang (auch geschlechtl.), |Verkehr mit (Instr. mit u. ohne) सह, |Gen. o. --°), Verbindung, Berührung |mit (Instr. o. --°)।
 
 संगमन
 संग॑मन, f. ई versammelnd, Versammler, |-in;<BR> n. das Zusammentreffen, Vereini|gung mit (--°)।
 
-संगमनीय
+सङ्गमनीय|संगमनीय
 संगमनीय zur Vereinigung dienend, mit |मणि m. Vereinigungsstein.
 
 संगममणि
 संगममणि m. = vor. m.
 
-संगर
+सङ्गर|संगर
 संगर॑ m. Übereinkunft,Vertrag;<BR> Zusam|mentreffen, Kampf, Schlacht.
 
 संगव
@@ -77380,10 +77383,10 @@
 संगृहीतर्
 संगृहीतर् dass. (vgl. संग्रहीतर्)।
 
-संगोपन
+सङ्गोपन|संगोपन
 संगोपन verbregend;<BR> n. das Verbergen.
 
-संग्रह
+सङ्ग्रह|संग्रह
 संग्रह m. das Ergreiffen, Erhalten, Genießen, |Einnehmen (von Arznei);<BR> Sammeln, |Vorrat, Sammlung (concr.);<BR> Zusammen| fassung, Compendium oft-- --° in Bücher|titeln das Zusammenhalten, Hüten, |Bewahren, concr. Ordner, Lenker;<BR> das |für sich Einnehmen, Gewinnen, freund|liches Wesen.
 
 संग्रहण
@@ -77395,37 +77398,37 @@
 संग्रहीतर्
 संग्रहीत॑र् m. Lenker, bes. Wagenlenker;<BR> |Regierer.
 
-संग्राम
+सङ्ग्राम|संग्राम
 संग्राम॑ m. Volksversammlung, Schar, |Heer;<BR> Zusammentreffen, Kampf, |Schlacht.
 
-संग्रामजित्
+सङ्ग्रामजित्|संग्रामजित्
 संग्रामजित् im Kampfe siegreich.
 
 संग्रामवर्धन
 संग्रामवर्धन m. Mannsname.
 
-संग्राहक
+सङ्ग्राहक|संग्राहक
 संग्राहक, f. ई zusammenfassend.
 
-संग्राहिन्
+सङ्ग्राहिन्|संग्राहिन्
 संग्राहिन् sammelnd.
 
-संग्राह्य
+सङ्ग्राह्य|संग्राह्य
 संग्रा॑ह्य zu umfassen;<BR> anzuziehen o. zu ge|winnen.
 
-संघ
+सङ्घ|संघ
 संघ m. Schar, Menge (oft --°)।
 
 संघटन
 संघटन n., आ f. Vereinigung.
 
-संघट्ट
+सङ्घट्ट|संघट्ट
 संघट्ट m., °न n. Zusammenstoß, auch = vor.
 
-संघर्ष
+सङ्घर्ष|संघर्ष
 संघर्ष m. Reibung (auch °ण n.);<BR> Aufregung |Eifersucht, Wettstreit.
 
-संघर्षिन्
+सङ्घर्षिन्|संघर्षिन्
 संघर्षिन् eifersüchtig auf, wetteifernd um |(--°)।
 
 संघात
@@ -77566,13 +77569,13 @@
 सञ्चक
 सञ्चक Stempelo. Gießform.
 
-संचय
+सञ्चय|संचय
 संचय m. Anhäufung, Menge, Vorrat, |Reichtum.
 
 संचयन
 संचयन n. das Sammeln.
 
-संचर
+सञ्चर|संचर
 संचर॑ wandelnd, einhergehend mit (--°);भ्णैआख् |zusammengehörig. m. Durchgang, |Passage.
 
 संचरण
@@ -77584,10 +77587,10 @@
 संचार
 संचार m. das Herumstreichen, Bewegung, |Fahrt, Weg. Durchgang (auch concr.), |Übergang in (--°)।
 
-संचारिन्
+सञ्चारिन्|संचारिन्
 संचारिन् wandelnd, bewegleich, übergehend |d. i. ansteckend (Krankheit);<BR> eindrin|gend in, sich befindend in o. bei, um| gehend mit (--°)।
 
-संचिति
+सञ्चिति|संचिति
 संचिति f. Schichtung.
 
 संचिन्त्य
@@ -77602,7 +77605,7 @@
 सञ्जन
 सञ्जन n. das Anheften, Zusammenfügen.
 
-संजनन
+सञ्जनन|संजनन
 संजनन, f. ई erzeugend, bewirkend (--°);भ्णैआख् |n. das Erzeugen, Enstehen.
 
 संजय
@@ -77614,10 +77617,10 @@
 संजात
 संजात s. जन्;भ्णैआख् °लज्ज verlegen geworden.
 
-संजित्
+सञ्जित्|संजित्
 संजि॑त् m. Gewinner.
 
-संजिति
+सञ्जिति|संजिति
 संजिति f. Gewinn, Sieg.
 
 संजीव
@@ -77626,7 +77629,7 @@
 संजीवक
 संजीवक, f. °विका = Adj.
 
-संजीवन
+सञ्जीवन|संजीवन
 संजीवन, f. ई dass.;<BR> n. das Aufleben, |Leben.
 
 संजीविन्
@@ -77638,7 +77641,7 @@
 संज्ञता
 संज्ञता f. Bewunsstsein.
 
-संज्ञपन
+सञ्ज्ञपन|संज्ञपन
 संज्ञ॑पन n., संज्ञप्ति f. das Töten des Opfer|tiers durch Ersticken.
 
 संज्ञा
@@ -77647,7 +77650,7 @@
 संज्ञान
 संज्ञा॑न einigend;<BR> n. Einverständnis, Ein|tracht.
 
-संज्ञित
+सञ्ज्ञित|संज्ञित
 संज्ञित mitgeteilt;<BR> genannt, heißend (meist |--°)।
 
 संज्ञिन्
@@ -77704,13 +77707,13 @@
 सतृष्णम्
 सतृष्णम् Adv. mit Verlaugen.
 
-सतोबृहन्त्
+सतोबृहत्|सतोबृहन्त्
 सतो॑बृहन्त् gleich groß;<BR> f. °हती N. eines |Metrums.
 
 सतोमघवन्
 सतो॑मघवन् gleich freigebig.
 
-सतोमहन्त्
+सतोमहत्|सतोमहन्त्
 सतो॑महन्त् gleich groß.
 
 सत्करण
@@ -77767,7 +77770,7 @@
 सत्त्वलक्षणा
 सत्त्वलक्षणा f. schwanger, eig. das Merk|mal eines (empfangenen) Lebewesens |tragend (vgl. आपन्नसक्क्त्वा)।
 
-सत्त्ववन्त्
+सत्त्ववत्|सत्त्ववन्त्
 सत्त्ववन्त् u. सत्त्वशालिन् von festem Cha|rakter, entschlossen, mutig-
 
 सत्त्वशब्द
@@ -77803,7 +77806,7 @@
 सत्यगिर्
 सत्यगिर् dessen Wort wahr ist.
 
-सत्यंकार
+सत्यङ्कार|सत्यंकार
 सत्यंकार m. Versprechen;<BR> Handgeld (j.).
 
 सत्यजित्
@@ -77869,7 +77872,7 @@
 सत्यवदन
 सत्यवदन n. = vor. n.;<BR> °शील = vor. Adj.
 
-सत्यवन्त्
+सत्यवत्|सत्यवन्त्
 सत्यवन्त् wahr, wahrhaftigt;<BR> m. u. f. °वती |Mannsu. Frauenname.
 
 सत्यवाक्य
@@ -77902,7 +77905,7 @@
 सत्यसंकल्प
 सत्य॑संकल्प dessen Wille gilt.
 
-सत्यसंगर
+सत्यसङ्गर|सत्यसंगर
 सत्यसंगर zuverlässig (eig. dessen Ver|sprechen wahr ist).
 
 सत्यसंध
@@ -77983,7 +77986,7 @@
 सदसदात्मक
 सदसदात्मक, f. °त्मिका die Natur des |Seienden und Nichtseinenden habend.
 
-सदसन्त्
+सदसत्|सदसन्त्
 सदसन्त् seiend und nicht seiend o. gut |und böse.
 
 सदसस्पति
@@ -78304,19 +78307,19 @@
 सनेमि
 स॑नेमि2. Adv. von jeher, stets.
 
-सन्त्
+सत्|सन्त्
 स॑न्त्, f. सती॑ daseiend, vorhanden, statt|findend, sich befindend, seiend (als Cop., |oft nicht zu übers.);<BR> wirklich, echt,gut, |brav (oft --° in Subst. u. Adj.);<BR> Superl. स॑त्तम der beste, erste von (Gen. o. --°)। |m. Pl. die Lebenden o. die Guten. f. |सती ein tragen Weib, auch = भवती। |n. स॑त् das Seiende o. das Sein;<BR> die |(reale) Welt, Ding;<BR> Gut, Vorteil;<BR> adv. |mit कर् in Ordnung bringen, zurecht|machen, ehren, bewirten, jemd. (Acc.) |die letzte Ehre erweisen (vgl. सत्करण)।
 
-संतत
+सन्तत|संतत
 सं॑तत2. (s. 1. तन्) zusammenhängend, stetig, |ununterbrochen;<BR> °-- u. n. adv. 
 
-संतति
+सन्तति|संतति
 सं॑तति f. Ausbreitung, Geschlecht, Nach|kommenschaft, Fortsetzung, Stetigkeit, |Dauer.
 
-संतनि
+सन्तनि|संतनि
 संतनि॑ das Zusammentönen, Musik.
 
-संतरण
+सन्तरण|संतरण
 संतरण hinüberführend;<BR> n. das Hinüber|setzen o. -gelangen über (--°)।
 
 संतर्पण
@@ -78325,13 +78328,13 @@
 संतान
 संतान॑ m. Fortsetzung, Dauer, Reihe, Ge|schlecht, Nachkommenschaft.
 
-संताप
+सन्ताप|संताप
 संताप॑ m. Hitze, Glut;<BR> Kummer, Schmerz |über (Loc.).
 
 संतापन
 संतापन schmerzend, quälend.
 
-संतापहर
+सन्तापहर|संतापहर
 संतापहर (u. °हारक*) gluto. schmerz|tilgend.
 
 संतार
@@ -78343,10 +78346,10 @@
 संतृप्ति
 संतृप्ति f. Sättigung.
 
-संतोष
+सन्तोष|संतोष
 संतोष m. = संतुष्टि;भ्णैआख् Acc. mit कर् sich be|gnügen.
 
-संतोषण
+सन्तोषण|संतोषण
 संतोषण n. das Befriedigen, Erfreuen.
 
 सन्त्य
@@ -78355,10 +78358,10 @@
 संत्याग
 संत्याग m. das Aufgeben, Fahrenlassen.
 
-संत्रास
+सन्त्रास|संत्रास
 संत्रास m. Angst, Schrecken.
 
-संदंश
+सन्दंश|संदंश
 संदंश॑ m. das Zusammenkneifen (eig. -beißen), |Verbindung, Klammer, Zange.
 
 संददि
@@ -78373,10 +78376,10 @@
 संदर्श
 संदर्श m. Anblick;<BR> adj. --° Aussehen.
 
-संदर्शन
+सन्दर्शन|संदर्शन
 संदर्शन n. das Erblicken, Blick, Anblick, |Erscheinung, Aussehen;<BR> das Sehen|lassen, Zeigen.
 
-संदान
+सन्दान|संदान
 संदान n. Band, Fessel;<BR> die Kniegegend |(beim Elefanten).
 
 संदानित
@@ -78388,22 +78391,22 @@
 संदिग्धबुद्धि
 संदिग्धबुद्धि von schwankender Meinung, |zweifelhaft.
 
-संदिह्
+सन्दिह्|संदिह्
 संदि॑ह् f. Außchüttung. Wall.
 
-संदीपन
+सन्दीपन|संदीपन
 संदीपन anzündend, entfachend.
 
-संदूषण
+सन्दूषण|संदूषण
 संदूषण, f. ई schändend;<BR> n. Schändung.
 
-संदृश्
+सन्दृश्|संदृश्
 संदृ॑श् f. Anblick, Aussehen;<BR> Dat. Inf. zu |schauen. 
 
 संदृष्टि
 सं॑दृष्टि f. Anblick.
 
-संदेघ
+सन्देघ|संदेघ
 संदेघ॑ m. Zusammenkittung, Gemächte |(menschl. Leib).
 
 संदेश
@@ -78412,22 +78415,22 @@
 संदेशहर
 संदेशहर u. °हारिन् m. Bote, Diener (eig. Bringer eines Auftragens o. einer Bot|schaft).
 
-संदेह
+सन्देह|संदेह
 संदेह॑ m. = सदेघ;भ्णैआख् auch Zweifel, Unsicher|heit, Gefahr, Ungewissheit über (Gen., |Loc. o. --°)।
 
 संदेहपद
 संदेहपद dem Zweifel unterliegend, un|gewiss.
 
-संदोह
+सन्दोह|संदोह
 संदोह m. das Melken;<BR> Fülle, Menge.
 
-संध
+सन्ध|संध
 संध॑ n. Vereinigung.
 
 संधय्
 संधय्, °यति zusammenfügen, auf legen |(Pfeil), verbinden;<BR> p. p. संधित। अति |p. p. betrogen. अभि p. p. zusammen|gefügt, versehen mit (Instr.), ent|schlossen zu (--°)।
 
-संधा
+सन्धा|संधा
 संधा॑ f. Überinkunft, Versprechen.
 
 संधान
@@ -78445,7 +78448,7 @@
 संधिन्
 संधिन् m. ein Minister für Bündnisse;<BR> f. |°नी eine milchende Kuh (unter bes. |umständen).
 
-संधिबन्ध
+सन्धिबन्ध|संधिबन्ध
 संधिबन्ध m. Kitt o. Kalk;<BR> (*Gelenkband, |Sehne*).
 
 संधिबन्धन
@@ -78460,10 +78463,10 @@
 संधेय
 संधेय zusammenzufügen;<BR> zu versöhnen o. |als Freund zu gewinnen. 
 
-संध्य
+सन्ध्य|संध्य
 सं॑ध्य Adj. Übergangs-, Sandhi-;<BR> f. संध्या॑ |Übergangszeit, Morgeno. |Abenddämmerung (auch  -andacht), |Anfang o. Ende einer Weltperiode, |Flussname.
 
-संध्यक्षर
+सन्ध्यक्षर|संध्यक्षर
 संध्यक्षर n. Sandhi-Vokal d. i. Diphthong.
 
 संध्याकार्य
@@ -78475,7 +78478,7 @@
 संध्यापयोद
 संध्यापयोद m. Dämmerungswolke.
 
-संध्याबलि
+सन्ध्याबलि|संध्याबलि
 संध्याबलि m. Dämmerungsspende.
 
 संध्याभ्र
@@ -78487,7 +78490,7 @@
 संध्यावन्दन
 संध्यावन्दन n. Anbetung der Dämmerung. |Morgeno. Abendandacht.
 
-संध्यासमय
+सन्ध्यासमय|संध्यासमय
 संध्यासमय m. = संध्याकाल।
 
 सन्न
@@ -78499,10 +78502,10 @@
 संनद्ध
 सं॑नद्ध s. नह्।
 
-संनय
+सन्नय|संनय
 संनय॑ zusammenführend;<BR> m. Versammlung.
 
-संनहन
+सन्नहन|संनहन
 संन॑हन n. das Zusammenbinden;<BR> Band, |Schnur, Rüstung (auch abstr.).
 
 संनाद
@@ -78511,10 +78514,10 @@
 संनादन
 संनादन durchtönend.
 
-संनाह
+सन्नाह|संनाह
 संनाह m. = संनहन;भ्णैआख् auch Kriegstüchtigkeit, |waffenfähiges Alter.
 
-संनिकर्ष
+सन्निकर्ष|संनिकर्ष
 संनिकर्ष m. Zusammenrückung, Nähe, Be|ziehung zu (--°)।
 
 संनिकाश
@@ -78526,13 +78529,13 @@
 संनिधातर्
 संनिधातर् m. Berger, Hehler (eig. Nieder|leger).
 
-संनिधान
+सन्निधान|संनिधान
 संनिधान n. Behälter, Nähe, Anwesenheit, |das Vorhangdensein.
 
 संनिधि
 संनिधि m. Nebenenaderstellung, Nähe |u. s. w. (= vor.). Loc. in der Nähe von, |coram (Gen. o. --°)।
 
-संनिपात
+सन्निपात|संनिपात
 संनिपात m. Zusammentrffen, Verbindung |(auch = coitus), Fall, Tod.
 
 संनिपात्य
@@ -78550,19 +78553,19 @@
 संनियोग
 संनियोग m. Geheiß, Auftrag. 
 
-संनिरोध
+सन्निरोध|संनिरोध
 संनिरोध m. Hemmung, Einsperrung.
 
 संनिवेश
 संनिवेश m. Niederlassung, Festsetzung, |Gründung, Einrichtung, Stellung, Lage;<BR> |Gestalt, Aussehen (oft adj. --°);भ्णैआख् Aufent| haltsort, Wohnung (auch °न n.).
 
-संनिहित
+सन्निहित|संनिहित
 संनिहित s. 1. धा।
 
-संन्यास
+सन्न्यास|संन्यास
 संन्यास m. das Niederlegen, Aufgeben, |Entsagung, bes. der Welt;<BR> das Nieder|gelegte, Depositum, anvertrautes Gut, |Einsatz beim Spiel.
 
-संन्यासिन्
+सन्न्यासिन्|संन्यासिन्
 संन्यासिन् entsagend, aufgobend (--°);भ्णैआख् m. |der Welt entsagt habend, Mönch.
 
 सन्मङ्गल
@@ -78742,7 +78745,7 @@
 सप्तद्वीप
 सप्तद्वीप2. aus sieben Inseln bestehend;<BR> |f. आ die Erde.
 
-सप्तद्वीपवन्त्
+सप्तद्वीपवत्|सप्तद्वीपवन्त्
 सप्तद्वीपवन्त् = vor. Adj.;<BR> f. °वती = vor. f.
 
 सप्तधा
@@ -78823,7 +78826,7 @@
 सप्तिन्
 सप्तिन् sieben enthaltend.
 
-सप्तीवन्त्
+सप्तीवत्|सप्तीवन्त्
 स॑प्तीवन्त् Rennpferde habend.
 
 सप्त्य
@@ -79258,7 +79261,7 @@
 समाधि
 समाधि m. Zusammensetzung, Verbindung, |Vollbringung, Beilegung, Gutmachung, |Rechtfertigung;<BR> Aufmerksamkeit, Ver|tiefung, Andacht.
 
-समाधिमन्त्
+समाधिमत्|समाधिमन्त्
 समाधिमन्त् aufmerksam, andächtig.
 
 समान
@@ -79411,7 +79414,7 @@
 समावच्छस्
 समावच्छ॑स् Adv. gleichmäßigig.
 
-समावन्त्
+समावत्|समावन्त्
 समा॑वन्त् gleich groß, gleich viel;<BR> n. °वत् |adv.
 
 समावर्त
@@ -79474,7 +79477,7 @@
 समिति
 स॑मिति f. Zusammenkunft, Versammlung, |Beratung, auch = समित्।
 
-समितिंजय
+समितिञ्जय|समितिंजय
 समितिंजय siegreich im Kampfe.
 
 समितिशोभन
@@ -79492,7 +79495,7 @@
 समिद्धि
 स॑मिद्धि f. das Brennen.
 
-समिद्वन्त्
+समिद्वत्|समिद्वन्त्
 समि॑द्वन्त् reich an Brennholz o. das Wort |समिध् enthaltend.
 
 समिध्
@@ -79765,10 +79768,10 @@
 संपत्ति
 संपत्ति f. das Überinkommen, Zutreffen;<BR> |das Gelingen, Zuteilwerden, das Werden zu, Dasein;<BR> Überfluss, Fülle, Wohl|stand, Glück.
 
-संपद्
+सम्पद्|संपद्
 संप॑द् f. dass., auch Trefflichkeit, Vorzug, |Schönheit, Pracht, Größe, oft --° adj. |ein herrlicher, schöner, reichlicher u. s. w. |zu übers.
 
-संपन्न
+सम्पन्न|संपन्न
 संपन्न s. 1. पद्।
 
 सम्पन्नक्षीरा
@@ -79777,10 +79780,10 @@
 संपराय
 संपराय॑ m. Tod;<BR> Kampf, Schlacht.
 
-संपर्क
+सम्पर्क|संपर्क
 संपर्क m. Verbindung, Berührung.
 
-संपा
+सम्पा|संपा
 संपा॑ f. das Zusammentrinken.
 
 संपात
@@ -79789,25 +79792,25 @@
 संपाति
 संपाति m. N. eines fabelhaften Vogels.
 
-संपातिन्
+सम्पातिन्|संपातिन्
 संपाति॑न् zusammenfliegend, herabfallend.
 
 संपादक
 संपादक verschaffend, bewirkend.
 
-संपादन
+सम्पादन|संपादन
 संपादन, f. ई dass., n. das Verschaffen, |Ausführen, Hervorbringen, Besorgen.
 
 संपादयितर्
 संपादयितर्, f. °त्री Verschaffer, -in.
 
-संपादितत्व
+सम्पादितत्व|संपादितत्व
 संपादितत्व n. die Ausführung von Seiten |des (--°)।
 
 संपारण
 संपा॑रण bis ans Ende reichend o. zum |Ziele führend. n. das Vollenden.
 
-संपारिन्
+सम्पारिन्|संपारिन्
 संपारिन् hinüberführend.
 
 संपीड
@@ -79819,7 +79822,7 @@
 संपुटिका
 संपुटिका f. dass.
 
-संपुष्टि
+सम्पुष्टि|संपुष्टि
 संपुष्टि f. Gedeihen.
 
 संपूजन
@@ -79837,16 +79840,16 @@
 संप्रतापन
 संप्रतापन n. das Erhitzen, eine best. Hölle.
 
-संप्रति
+सम्प्रति|संप्रति
 संप्रति॑ Adv. gerade gegenüber (Acc.), |richtig, genau, eben jetzt.
 
 संप्रतिपत्ति
 संप्रतिपत्ति f. Erlangung, Erfassung;<BR> Ein|verständnis mit (--°)।
 
-संप्रतीक्ष्य
+सम्प्रतीक्ष्य|संप्रतीक्ष्य
 संप्रतीक्ष्य zu erwarten.
 
-संप्रत्यय
+सम्प्रत्यय|संप्रत्यय
 संप्रत्यय m. Übereinkunft, Vertrauen auf |(--°), Verstädnis.
 
 संप्रदातर्
@@ -79855,10 +79858,10 @@
 संप्रदान
 संप्रदान n. das Geben, Ausgeben (de |Tochter);<BR> Gabe, Geschenk;<BR> die be|teiligte Person (g.). 
 
-संप्रदाय
+सम्प्रदाय|संप्रदाय
 संप्रदाय m. Verleiher;<BR> (mündliche) Über|lieferung.
 
-संप्रधारण
+सम्प्रधारण|संप्रधारण
 संप्रधारण n., °णा f. Erwägung, Betrachtung.
 
 संप्रयोग
@@ -79867,49 +79870,49 @@
 संप्रवेश
 संप्रवेश m. Frage, Erkundigung nach (--°)।
 
-संप्रसाद
+सम्प्रसाद|संप्रसाद
 संप्रसा॑द m. Ruhe, Heiterkeit;<BR> Gunst, |Gnade.
 
-संप्रसारण
+सम्प्रसारण|संप्रसारण
 संप्रसारण n. das Auseinanderziehen;<BR> Auf|lösung eines Halbvocals in einen Vocal |und dieser selbst (g.).
 
 संप्रहार
 संप्रहार m. Kampf;<BR> Schlag, Stoß.
 
-संप्रहास
+सम्प्रहास|संप्रहास
 संप्रहास m. Gelächter, Scherz, Spott.
 
-संप्राप्ति
+सम्प्राप्ति|संप्राप्ति
 संप्राप्ति f. Ankunft, Eintritt;<BR> Erlangung, |Teilhaftwerdung.
 
-संप्रिय
+सम्प्रिय|संप्रिय
 सं॑प्रिय einander liebend o. lieb.
 
 संप्रीति
 संप्रीति f. Freude, Lust;<BR> Freundschaft, |Liebe.
 
-संप्रेप्सु
+सम्प्रेप्सु|संप्रेप्सु
 संप्रेप्सु anstrebend, nachstellend (Acc.).
 
 संप्रेरण
 संप्रेरण n. Aufforderung, Geheiß.
 
-संप्रेषण
+सम्प्रेषण|संप्रेषण
 संप्रेषण n. Abschickung, Sendung.
 
 संप्रैष
 संप्रैष॑ m. Aufforderung, Anweisung (r.).
 
-संप्रेक्षण
+सम्प्रेक्षण|संप्रेक्षण
 संप्रेक्षण n. Besprengung;<BR> f. ई Weihwasser.
 
 संप्लव
 संप्लव m. Zusammenfluss, Flut, Menge, |Getümmel;<BR> Untergang, bes. im Wasser, |Ende.
 
-संफुल्ल
+सम्फुल्ल|संफुल्ल
 संफुल्ल aufgeblühnt.
 
-संफेट
+सम्फेट|संफेट
 संफेट m. Wortgefecht (rh.).
 
 सम्बन्ध
@@ -79930,16 +79933,16 @@
 संबाध
 संबाध॑ m. Gedränge, Enge, Not.
 
-संबुद्धि
+सम्बुद्धि|संबुद्धि
 संबुद्धि f. Zuruf;<BR> der Vocativ Sgl. und seine |Endungen (g.).
 
 संबोध
 संबोध m. Erkenntnis, Verständnis.
 
-संबोधन
+सम्बोधन|संबोधन
 संबोधन erweckend;<BR> n. = vor. u. = संबुद्धि।
 
-संबोध्य
+सम्बोध्य|संबोध्य
 संबोध्य aufzuklären, zu belehren.
 
 सम्भर
@@ -79948,37 +79951,37 @@
 संभरण
 संभ॑रण n. Zusammenbringung, Sammlung.
 
-संभल
+सम्भल|संभल
 संभल॑ m. Freiwerber.
 
-संभव
+सम्भव|संभव
 संभव॑ (सं॑भव) m. Vereinigung, Beiwohnung;<BR> |das Enthaltensein in (Loc.);<BR> Ent|stehung, Ursprung;<BR> Grund, Ursache;<BR> |Erscheinung, Eintritt, Dasein, Möglich|keit. Oft adj. --° enthalten in, ent|standen, geworden, bereitet aus, be|wirkt durch.
 
-संभवन
+सम्भवन|संभवन
 संभवन n. das Enstehen, Werden.
 
-संभविन्
+सम्भविन्|संभविन्
 संभविन् möglich.
 
-संभार
+सम्भार|संभार
 संभार॑ m. Herbeischaffung, Zurüstung, |Zubehör;<BR> Fülle, Antreffen, Finden;<BR> Be|rührung, Ehrenweisung, Hochachtung, |Annahme, Voraussetzung.
 
 संभावनागुण
 संभावनागुण m. ein ganz besondere |Ehrenerweisung.
 
-संभावनीय
+सम्भावनीय|संभावनीय
 संभावनीय zu beehren, mitzumachen;<BR> zu |erschließen, vorauszusetzen, wahr|scheinlich.
 
-संभावयितव्य
+सम्भावयितव्य|संभावयितव्य
 संभावयितव्य dass.
 
-संभावित
+सम्भावित|संभावित
 संभावित (s. भू) n. Vermutung.
 
-संभाव्य
+सम्भाव्य|संभाव्य
 संभाव्य zu ehren;<BR> anzunehmen, vorauszu|setzen, wahrscheinlich;<BR> angemessen, |passend.
 
-संभाष
+सम्भाष|संभाष
 संभाष m., °ण n. Unterredung, Unter|haltung mit (Instr. mit u. ohne) सह, Gen. |o. --°)।
 
 संभाषिन्
@@ -80005,16 +80008,16 @@
 संभोग
 संभोग m. Genuss;<BR> das Pflegen der Liebe |mit (--°)।
 
-संभोगवन्त्
+सम्भोगवत्|संभोगवन्त्
 संभोगवन्त् Genüsse habend.
 
-संभोगिन्
+सम्भोगिन्|संभोगिन्
 संभोगिन् sich gegenseitig genießend. 
 
-संभोग्य
+सम्भोग्य|संभोग्य
 संभोग्य zu genießen.
 
-संभोज
+सम्भोज|संभोज
 संभोज n., ई f. ein gemeinsames Mahl.
 
 संभोज्य
@@ -80032,19 +80035,19 @@
 संमद
 संमद m. Freude.
 
-संमदिन्
+सम्मदिन्|संमदिन्
 संमदिन् erfreuend.
 
-संमनस्
+सम्मनस्|संमनस्
 सं॑मनस् einig.
 
-संमर्द
+सम्मर्द|संमर्द
 संमर्द m. Druckt, Gestampf, Anprall, Zu|sammenstoß, Kampf.
 
 संमर्शन
 संम॑र्शन n. das Bestreichen.
 
-संमा
+सम्मा|संमा
 संमा f. Gleichmaß, Gleichzahl.
 
 संमातर्
@@ -80053,34 +80056,34 @@
 संमान
 संमान m. das Ehren.
 
-संमानन
+सम्मानन|संमानन
 संमानन n., °ना f. dass.
 
-संमाननीय
+सम्माननीय|संमाननीय
 संमाननीय u. °मान्य zu ehren, ehrenwert,
 
 संमार्ग
 संमार्ग m. das Wischen, Reinigung;<BR> Wisch. |Grasbüschel.
 
-संमार्जन
+सम्मार्जन|संमार्जन
 संमा॑र्जन n. dass., f. ई Besen.
 
-संमित
+सम्मित|संमित
 संमित s. 3. मा।
 
 संमिश्र
 संमिश्र gemischt, behaftet, versehen mit |(Instr. o. --°)।
 
-संमिश्ल
+सम्मिश्ल|संमिश्ल
 सं॑मिश्ल dass. (Instr. 0. Loc.).
 
 संमीलित
 संमीलित n. das Schließen (der Augen).
 
-संमुख
+सम्मुख|संमुख
 संमुख॑, f. ई (आ) das Gesicht zuwendend;<BR> |zugekehrt, zugeneigt (Gen. o. --°)। n. |सम्मुखम् adv. entgegen, gegenüber, ins |Gesicht, coram (Gen.);<BR> संमुख (°--) u. |Loc. dass.
 
-संमुखी
+सम्मुखी|संमुखी
 संमुखी कर् gegenüber stellen;<BR> °भू g. treten.
 
 संमुखीन
@@ -80095,10 +80098,10 @@
 संमेलन
 संमेलन n. Zusammenkunft, Vereinigung.
 
-संमोह
+सम्मोह|संमोह
 संमोह॑ m. Besinnugslosigkeit, Unklarheit, |Verblendung, Bethörung.
 
-संमोहन
+सम्मोहन|संमोहन
 संमोहन, f. ई verwirrend, bethörend;<BR> n. |das Irreführen, Bethören.
 
 सम्यक्
@@ -80245,7 +80248,7 @@
 सरस्वतीकण्ठाभरण
 सरस्वतीकण्ठाभरण n. der Halsschmuck |der Sarasvatī (s.folg.), T. eines Werkes.
 
-सरस्वन्त्
+सरस्वत्|सरस्वन्त्
 स॑रस्वन्त् reich an Gewässern. m. N. des |Beherrschers der himmlischen Gewässer, |auch eines neben der Sarasvatī (s. u.) ge|dachten Genius. f. °ती wasserreiche |Gegend;<BR> N. mehrerer Flüsse, auch der |Genie der Stimme und Rede;<BR> Rede, Be|redsamkeit.
 
 सराग
@@ -80686,7 +80689,7 @@
 सर्वार्थसिद्ध
 सर्वार्थसिद्ध = सर्वसिद्धार्थ।
 
-सर्वावन्त्
+सर्वावत्|सर्वावन्त्
 सर्वा॑वन्त् alles enthaltend.
 
 सर्वावास
@@ -81349,7 +81352,7 @@
 सहस्ररेतस्
 सहस्ररेतस् tauschendsamig.
 
-सहस्रवन्त्
+सहस्रवत्|सहस्रवन्त्
 सह॑स्रवन्त् tausendkräftig.
 
 सहस्रशस्
@@ -81388,7 +81391,7 @@
 सहस्रोति
 सह॑स्रोति tausendfach helfend.
 
-सहस्वन्त्
+सहस्वत्|सहस्वन्त्
 स॑हस्वन्त् gewaltig,mächtig;<BR> n. °स्वत् adv.
 
 सहाध्ययन
@@ -81403,7 +81406,7 @@
 सहायता
 सहायता f., °त्व n. Genossenschaft, Bei|stand.
 
-सहायवन्त्
+सहायवत्|सहायवन्त्
 सहायवन्त् einen Gefährten habend, be|gleitet o. begünstigt von (--°)।
 
 सहायिन्
@@ -81412,7 +81415,7 @@
 सहावन्
 सहा॑वन् gewaltig, stark.
 
-सहावन्त्
+सहावत्|सहावन्त्
 स॑हावन्त् u. सहा॑वन्त् dass.
 
 सहास
@@ -81550,7 +81553,7 @@
 साक्षिन्
 साक्षिन् Zuschauer, Zeuge bei o. von (Gen., |Loc. o. --°)।
 
-साक्षिमन्त्
+साक्षिमत्|साक्षिमन्त्
 साक्षिमन्त् Zeugen habend (j.).
 
 साक्षी
@@ -81610,10 +81613,10 @@
 साग्र
 सा॑ग्र mit der Spitze;<BR> auch = समग्र।
 
-सांकाश्य
+साङ्काश्य|सांकाश्य
 सांकाश्य m. N. eines Mannes;<BR> n. einer Stadt.
 
-सांख्य
+साङ्ख्य|सांख्य
 सांख्य den Numers betreffend (g.). m. |Anhänger des Sāṃkhya-Systems (ph.);<BR> |m. das S.-System (eig. die Zählmethode).
 
 साङ्ग
@@ -81625,7 +81628,7 @@
 साङ्गुष्ठ
 साङ्गुष्ठ samt Daumen.
 
-सांग्रामिक
+साङ्ग्रामिक|सांग्रामिक
 सांग्रामिक, f. ई auf den Kampf bezüglich, |Kampfes-;<BR> n. Kriegsbeute.
 
 साचि
@@ -81790,10 +81793,10 @@
 साध्य
 साध्य॑ zu bewältigen, zu gewinnen, gut zu |machen, wiederherzustellen, zu heilen;<BR> |zu erreichen, auszuführen;<BR> ausgeführt |werdend d. i. stattfindend, geschehend;<BR> |zu erschließen, zu beweisen. m. Pl. |eine best. Götterklasse.
 
-साध्यप्रमाणसंख्यावन्त्
+साध्यप्रमाणसङ्ख्यावत्|साध्यप्रमाणसंख्यावन्त्
 साध्यप्रमाणसंख्यावन्त् die Anzahl der zu |erweissenden Sachen und der Beweise |enthaltend (j.).
 
-साध्यवन्त्
+साध्यवत्|साध्यवन्त्
 साध्यवन्त् das zu Beweisende enthalten.
 
 साध्या
@@ -81847,7 +81850,7 @@
 सानुबन्ध
 सानुबन्ध Folgen habend;<BR> fortwährend, un|unterbrochen.
 
-सानुमन्त्
+सानुमत्|सानुमन्त्
 सानुमन्त् mit einem (Berg-) Rücken ver|sehen. m. Berg;<BR> f. °मती N. einer Apsaras.
 
 सानुराग
@@ -81883,13 +81886,13 @@
 सान्द्रस्पर्श
 सान्द्रस्पर्श weich anzufühlen.
 
-सांध्य
+सान्ध्य|सांध्य
 सांध्य Dämmerungs-, abendlich.
 
 सांनाय्य
 सांनाय्य॑ n. eine aus süßer und saurer |Milch gemischte Spende (r.).
 
-सांनाहिक
+सान्नाहिक|सांनाहिक
 सांनाहिक o. °हुक waffenfähig.
 
 सांनिध्य
@@ -81994,7 +81997,7 @@
 सामर्थ्य
 सामर्थ्य n. Angemessenheit, Berechtigung, |Fähigkeit, Vermögen, Macht, Kraft zu |(Inf., Dat., Loc. o. --°)।
 
-सामर्थ्यवन्त्
+सामर्थ्यवत्|सामर्थ्यवन्त्
 सामर्थ्यवन्त् mächtig.
 
 सामर्थ्यहीन
@@ -82054,13 +82057,13 @@
 साम्ब
 साम्ब m. N. eines Sohnes des Kṛshṇa.
 
-सांबन्धिक
+साम्बन्धिक|सांबन्धिक
 सांबन्धिक n. Verschwägerung, Gevatter|schaft.
 
 सांमनस्य
 सांमनस्य॑ n. Einmütigkeit.
 
-सांमुख्य
+साम्मुख्य|सांमुख्य
 सांमुख्य n. das Hingewandtsein an, Bedacht|sein auf (--°)
 
 सांमेघ्य
@@ -82183,7 +82186,7 @@
 सारवत्ता
 सारवत्ता f. Festigkeit, Härte.
 
-सारवन्त्
+सारवत्|सारवन्त्
 सारवन्त् fest, stark, kostbar.
 
 सारस
@@ -82390,7 +82393,7 @@
 साहस्रक
 साहस्रक, f. °स्रिका dass.
 
-साहस्रवन्त्
+साहस्रवत्|साहस्रवन्त्
 साहस्र॑वन्त् tausend enthaltend.
 
 साहस्रशस्
@@ -82612,7 +82615,7 @@
 सिद्धिदर्शिन्
 सिद्धिदर्शिन् die Vollendung schauend, |prophetisch.
 
-सिद्धिमन्त्
+सिद्धिमत्|सिद्धिमन्त्
 सिद्धिमन्त् vollkommen, glücklich, zauber|mächtig.
 
 सिद्धिमन्त्र
@@ -82750,7 +82753,7 @@
 सीमन्तय्
 सीमन्तय्, °यति scheiteln, durchschneiden.
 
-सीमन्तवन्त्
+सीमन्तवत्|सीमन्तवन्त्
 सीमन्तवन्त् gescheitelt, durchschnitten.
 
 सीमन्तिन्
@@ -83254,7 +83257,7 @@
 सुतार
 सुतार sehr hell o. laut.
 
-सुतावन्त्
+सुतावत्|सुतावन्त्
 सुता॑वन्त् = सुतसोम (vom Opferer).
 
 सुतीक्ष्ण
@@ -83311,10 +83314,10 @@
 सुदत्र
 सुद॑त्र schöne Gaben verleihend.
 
-सदन्त्
+सदत्|सदन्त्
 सदन्त्1. m. ein schöner Zahn.
 
-सुदन्त्
+सुदत्|सुदन्त्
 सुदन्त्2. f. सुदती schönzahnig.
 
 सुदन्त
@@ -83590,7 +83593,7 @@
 सुन्दर
 सुन्दर, f. ई schön, m. Mannsn., f. ई eine |Schöne, ein Weib.
 
-सुन्वन्त्
+सुन्वत्|सुन्वन्त्
 सुन्वन्त् s. 1. सु।
 
 सुप्
@@ -83899,7 +83902,7 @@
 सुमन्मन्
 सुम॑न्मन्2. wohlgesinnt.
 
-सुमहन्त्
+सुमहत्|सुमहन्त्
 सु॑महन्त् sehr groß, herrlich.
 
 सुमहस्
@@ -84163,7 +84166,7 @@
 सुरालय
 सुरालय m. Götterwohnung, Himmel o. |Tempel.
 
-सुरावन्त्
+सुरावत्|सुरावन्त्
 सु॑रावन्त् mit Branntwein versehen.
 
 सुराष्ट्र
@@ -84427,7 +84430,7 @@
 सुशील
 सुशील n. ein guter Charakter;<BR> Adj. von |gutem Ch.
 
-सुशीलवन्त्
+सुशीलवत्|सुशीलवन्त्
 सुशीलवन्त् u. °लिन् = vor. Adj.
 
 सुशेव
@@ -84589,10 +84592,10 @@
 सुसमृद्ध
 सु॑समृद्ध vollkommen, reichlich;<BR> reich, wohl|habend.
 
-सुसंपिष्ट
+सुसम्पिष्ट|सुसंपिष्ट
 सु॑संपिष्ट ganz zerschmettert.
 
-सुसंभ्रान्त
+सुसम्भ्रान्त|सुसंभ्रान्त
 सुसंभ्रान्त ganz verwirrt.
 
 सुसर्तु
@@ -84823,7 +84826,7 @@
 सूनु
 सूनु॑ m. Sohn (f. --° auch Tochter).
 
-सूनुमन्त्
+सूनुमत्|सूनुमन्त्
 सूनुम॑न्त् Söhne habend.
 
 सूनृत
@@ -84832,7 +84835,7 @@
 सूनृतावन्
 (सूनृतावन्), f. °वरी = folg.
 
-सूनृतावन्त्
+सूनृतावत्|सूनृतावन्त्
 सूनृ॑तावन्त् froh, wonnig.
 
 सूप
@@ -84910,7 +84913,7 @@
 सूर्यवंश
 सूर्यवंश m. das Sonnegeschlecht, °वंश्य dazu |gehörig.
 
-सूर्यवन्त्
+सूर्यवत्|सूर्यवन्त्
 सू॑र्यवन्त् sonnig.
 
 सूर्यवर्चस्
@@ -85117,7 +85120,7 @@
 सैरन्ध्र
 सैरन्ध्र m., ई f. Kammerdiener, -zofe.
 
-सैरावन्त्
+सैरावत्|सैरावन्त्
 सैरावन्त् proviantreich.
 
 सैर्य
@@ -85318,7 +85321,7 @@
 सोमारुद्र
 सोमारुद्र॑ m. Du. Soma und Rudra.
 
-सोमावन्त्
+सोमावत्|सोमावन्त्
 सोमाव॑न्त्, f. °वती॑ = सोमवन्त्।
 
 सोमाहुति
@@ -85555,7 +85558,7 @@
 स्कन्धदेश
 स्कन्धदेश m. Schultergegend.
 
-स्कन्धवन्त्
+स्कन्धवत्|स्कन्धवन्त्
 स्कन्धवन्त् einen Stamm o. Stämme habend.
 
 स्कन्धस्
@@ -85789,7 +85792,7 @@
 स्त्रीसंग्रहण
 स्त्रीसंग्रहण n. Vergewaltigung eines |Weibes.
 
-स्त्रीसंभोग
+स्त्रीसम्भोग|स्त्रीसंभोग
 स्त्रीसंभोग m. Genuss eines Weibes.
 
 स्त्रीहत्या
@@ -85957,7 +85960,7 @@
 स्थित
 स्थि॑त (स्थिति॑) f. das Stehen Verweilen, |Aufenthalt, Sichbefinden in (Loc. o. --°);भ्णैआख् |Stellung, Rang;<BR> das Fortbestehen, Be|harrlichkeit, Dauer, Beständigkeit, |Tugend;<BR> das Bedachtsein o. Bestehen |auf (Loc.);<BR> Zustand, Lange, Verfahren, |Benehmen, Art und Weise, Ordnung, |Einrichtung, Satzung, Regel.
 
-स्थितिमन्त्
+स्थितिमत्|स्थितिमन्त्
 स्थितिमन्त् feststehend, in seinen Schranken |bleibend, beständig, tugendhaft.
 
 स्थिर
@@ -86146,7 +86149,7 @@
 स्नेहल
 स्नेहल voller Zuneigung.
 
-स्नेहवन्त्
+स्नेहवत्|स्नेहवन्त्
 स्नेहवन्त् öllig, fettig;<BR> liebvoll, freundlich.
 
 स्नेहिन्
@@ -86203,7 +86206,7 @@
 स्पर्शनीय
 स्पर्शनीय u. स्पर्शयितव्य zu berühren, fühl|bar.
 
-स्पर्शवन्त्
+स्पर्शवत्|स्पर्शवन्त्
 स्पर्शवन्त् fühlbar, tastbar.
 
 स्पर्शानुकूल
@@ -86269,7 +86272,7 @@
 स्पृहा
 स्पृहा f. Begehren nach, Wohlgefallen an |(Dat., Gen. o. --°), Eifer, Lust.
 
-स्पृहावन्त्
+स्पृहावत्|स्पृहावन्त्
 स्पृहावन्त् begierig nach (Loc.).
 
 स्फटिक
@@ -86416,7 +86419,7 @@
 स्मृति
 स्मृति f. Erinnerung, Gedächtnis, Tradition, |Traditionswerk, bes. Gesetzbuch.
 
-स्मृतिमन्त्
+स्मृतिमत्|स्मृतिमन्त्
 स्मृतिमन्त् sich erinnernd;<BR> Bewusstsein o. |ein gutes Gedächtnis habend.
 
 स्मेर
@@ -86716,10 +86719,10 @@
 स्वधावन्
 स्वधा॑वन्, f. °वरी = folg.
 
-स्वधावन्त्
+स्वधावत्|स्वधावन्त्
 स्वधा॑वन्त्1. an der Eigenart festhaltend, |selbstherrlich o. beständig, treu.
 
-स्वधावन्त्
+स्वधावत्|स्वधावन्त्
 स्वधा॑वन्त्2. Labung enthaltend.
 
 स्वधाविन्
@@ -86740,7 +86743,7 @@
 स्वन
 स्वन॑ m. Schall, Ton, Geräusch, Gebrause, |Gebrumme, Geheul, Gesang.
 
-स्वनवन्त्
+स्वनवत्|स्वनवन्त्
 स्वनवन्त् schallend, laut;<BR> n. adv.
 
 स्वनीक
@@ -86848,7 +86851,7 @@
 स्वयंवृत
 स्वयंवृत selbstgewählt (Gatte). 
 
-स्वयंकृत
+स्वयङ्कृत|स्वयंकृत
 स्वयंकृत॑ selbstgethan.
 
 स्वयंग्राह
@@ -86875,10 +86878,10 @@
 स्वयमाहृत
 स्वयमाहृत selbst geholt.
 
-स्वयंप्रकाशमान
+स्वयम्प्रकाशमान|स्वयंप्रकाशमान
 स्वयंप्रकाशमान von selbst leuchtend. Abstr. °त्व n.
 
-स्वयंप्रभ
+स्वयम्प्रभ|स्वयंप्रभ
 स्वयंप्रभ = vor. Adj.
 
 स्वयंभग्न
@@ -86932,7 +86935,7 @@
 स्वरयोग
 स्वरयोग m. Lautverbindung d. i. Stimme.
 
-स्वरवन्त्
+स्वरवत्|स्वरवन्त्
 स्व॑रवन्त् klingend, laut;<BR> betont. 
 
 स्वरसंयोग
@@ -86983,7 +86986,7 @@
 स्वर्गत
 स्वर्गत im Himmel befindlich, gestorben.
 
-स्वर्गतरंगिणी
+स्वर्गतरङ्गिणी|स्वर्गतरंगिणी
 स्वर्गतरंगिणी f. der Himmelsstrom, die |Gaṅgā.
 
 स्वर्गति
@@ -87073,7 +87076,7 @@
 स्वर्वधू
 स्वर्वधू f. Himmelsweib, Apsaras.
 
-स्वर्वन्त्
+स्वर्वत्|स्वर्वन्त्
 स्व᳠र्वन्त् licht, himmlisch.
 
 स्वर्विद्
@@ -87112,7 +87115,7 @@
 स्वविषय
 स्वविषय m. das eigene Land, Heimat.
 
-स्ववृत्ति
+स्ववृति|स्ववृत्ति
 स्ववृत्ति f. der eigene Lebensunterhalt, |Selbständigkeit, Unabhängigkeit.
 
 स्वश्व
@@ -87151,7 +87154,7 @@
 स्वस्तिद
 स्वस्तिद u. °दा॑ Wohlsein verleihend.
 
-स्वस्तिमन्त्
+स्वस्तिमत्|स्वस्तिमन्त्
 स्वस्तिम॑न्त् wohlbehalten, glücklich.
 
 स्वस्तिवाच्
@@ -87256,7 +87259,7 @@
 स्वाध्याय
 स्वाध्याय॑ m. das Lesen für sich, Veda|studium.
 
-स्वाध्यायवन्त्
+स्वाध्यायवत्|स्वाध्यायवन्त्
 स्वाध्यायवन्त् o. °यिन् dem Vedastudium |obliegend.
 
 स्वान
@@ -87307,7 +87310,7 @@
 स्वायत्त
 स्वायत्त vom eigenen Selbst abhängig, wo|rüber man selbst verfügen kann.
 
-स्वायंभुव
+स्वायम्भुव|स्वायंभुव
 स्वायंभुव zu Svayaṃbhū d. i. Brahman ge|hörig;<BR> m. Patron. eines Manu. 
 
 स्वायुध
@@ -87466,7 +87469,7 @@
 हंसराज
 हंसराज m. elder Schwan (eig. Schwanen|könig). 
 
-हंसवन्त्
+हंसवत्|हंसवन्त्
 हंसवन्त् das Wort हंस enthaltend;<BR> f. °वता |Frauenn.
 
 हंसावली
@@ -87529,10 +87532,10 @@
 हनु
 ह॑नु f. Kinnbacken.
 
-हनुमन्त्
+हनुमत्|हनुमन्त्
 हनुमन्त् starke Kinnbacken habend;<BR> m. |N. eines heilig gehaltenen Affen, Sohnes |des Windgottes und Bundesgenossen |Rāma's.
 
-हनूमन्त्
+हनूमत्|हनूमन्त्
 हनूमन्त् m. = vor. m.
 
 हन्त
@@ -87613,7 +87616,7 @@
 हरस्
 ह॑रस् n.Griff, Schlag, Zug,Schluck;<BR> das |Packen, Gewalt, Kraft,Glut. 
 
-हरस्वन्त्
+हरस्वत्|हरस्वन्त्
 ह॑रस्वन्त् u. हरस्वि॑न् packend, zugreifend, |schneidig,
 
 हरि
@@ -87664,7 +87667,7 @@
 हरिमन्
 हरिम॑न् m. gelbe Farbe, Gelbsucht.
 
-हरिमन्त्
+हरिमत्|हरिमन्त्
 हरिमन्त् = हरिवन्त्।
 
 हरियोजन
@@ -87673,7 +87676,7 @@
 हरिवंश
 हरिवंश m. Hari's d. i. Vishṇu-Kṛshṇa's |Geschlecht;<BR> T. eines Gedichts.
 
-हरिवन्त्
+हरिवत्|हरिवन्त्
 ह॑रिवन्त् (Voc. हरिवस्) falbrossig (Indra).
 
 हरिवाहन
@@ -87757,7 +87760,7 @@
 हर्षमय
 हर्षम॑य in Freude bestehend.
 
-हर्षवन्त्
+हर्षवत्|हर्षवन्त्
 हर्षवन्त् voller Freude;<BR> f. °वती Frauen|u. Stadtname.
 
 हर्षवर्धन
@@ -87769,7 +87772,7 @@
 हर्षिन्
 हर्षिन् erfreut o. erfreuend.
 
-हर्षुमन्त्
+हर्षुमत्|हर्षुमन्त्
 हर्षुम॑न्त् aufgeregt.
 
 हर्षुल
@@ -87874,7 +87877,7 @@
 हविष्पा
 हविष्पा॑ das Opfer trinkend.
 
-हविष्मन्त्
+हविष्मत्|हविष्मन्त्
 हवि॑ष्मन्त् Opfer (bereit) habend, entw. |Opfernd o. von Opfergaben begleitet, |Opfer-.
 
 हविष्य
@@ -87991,7 +87994,7 @@
 हस्तभ्रंशिन्
 हस्तभ्रंशिन् aus der Hand gefallen*
 
-हस्तवन्त्
+हस्तवत्|हस्तवन्त्
 ह॑स्तवन्त् handbegabt;<BR> m. Bogenschütze, |Dieb.
 
 हस्तस्थ
@@ -88249,7 +88252,7 @@
 हितवचन
 हितवचन n. guter Rat.
 
-हितवन्त्
+हितवत्|हितवन्त्
 हितवन्त् Gutes o. Nutzen bringend.
 
 हिता
@@ -88315,7 +88318,7 @@
 हिममयूख
 हिममयूख, °रश्मि u. °रुचि m. = हिमकर।
 
-हिमवन्त्
+हिमवत्|हिमवन्त्
 हिम॑वन्त् kalt, eisig, schneereich, m. Schnee|berg, bes. der Himālaya.
 
 हिमवालुका
@@ -88420,7 +88423,7 @@
 हिरण्यरेतस्
 हिरण्यरेतस् m. Feuer (eig. dessen Same |Gold ist).
 
-हिरण्यवन्त्
+हिरण्यवत्|हिरण्यवन्त्
 हि॑रण्यवन्त् goldreich o. golden. f. °वती |Bein. der Stadt Ujjayinī;<BR> n. Goldbesitz.
 
 हिरण्यवर्ण
@@ -88432,7 +88435,7 @@
 हिरण्यवाशी
 हि॑रण्यवाशी eine goldene Axt tragend.
 
-हिरण्यवाशीमन्त्
+हिरण्यवाशीमत्|हिरण्यवाशीमन्त्
 हिरण्यवाशीमन्त् dass.;<BR> Superl. °मत्तम।
 
 हिरण्यविमित
@@ -88459,7 +88462,7 @@
 हिरिश्मश्रु
 हि॑रिश्मश्रु goldbärtig.
 
-हिरीमन्त्
+हिरीमत्|हिरीमन्त्
 हि॑रीमन्त् fallbrossig (vgl. हरिवन्त्)।
 
 हिरुक्
@@ -88543,7 +88546,7 @@
 हुताश
 हुताश u. हुताशन m. = हुतभुज्।
 
-हुताशनवन्त्
+हुताशनवत्|हुताशनवन्त्
 हुताशनवन्त् mit Feuer versehen.
 
 हुताशिन्
@@ -88702,7 +88705,7 @@
 हृषीकेश
 हृषीकेश u. °श्वर m. Herr der Sinne, Bein. |Vishṇu's u. Kṛshṇa's.
 
-हृषीवन्त्
+हृषीवत्|हृषीवन्त्
 हृ॑षीवन्त् aufgeregt, lustig.
 
 हृष्ट
@@ -88726,7 +88729,7 @@
 हेति
 हेति॑ f. (m.) Geschoss, Waffe, Schuss;<BR> |Schlag, Anprall.
 
-हेतिमन्त्
+हेतिमत्|हेतिमन्त्
 हेतिम॑न्त् mit einem Geschoss werfen.
 
 हेतु
@@ -88741,7 +88744,7 @@
 हेतुत्व
 हेतुत्व n. dass., auch Abstr.zu हेतु (g.).
 
-हेतुमन्त्
+हेतुमत्|हेतुमन्त्
 हेतुमन्त् einen Veranlasser o. eine Ver|anlassung habend;<BR> causativ (g.).
 
 हेतुरूपक
@@ -88801,10 +88804,10 @@
 हेमरत्नमय
 हेमरत्नमय, f. ई aus Gold und Juwelen |bestehend.
 
-हेमरत्नवन्त्
+हेमरत्नवत्|हेमरत्नवन्त्
 हेमरत्नवन्त् dass.
 
-हेमवन्त्
+हेमवत्|हेमवन्त्
 हेमवन्त् goldgeschmückt.
 
 हेमवर्ण
@@ -88837,7 +88840,7 @@
 हेला
 हेला f. Ausgelassenheit, Leichtsinn;<BR> °-- |u. Instr. tändelnd, leicht, ohne Um|stände.
 
-हेलावन्त्
+हेलावत्|हेलावन्त्
 हेलावन्त् leichtsinnig, sorglos.
 
 हेष्
@@ -88846,7 +88849,7 @@
 हेषस्
 हे॑षस् n. Wunde.
 
-हेषस्वन्त्
+हेषस्वत्|हेषस्वन्त्
 हे॑षस्वन्त् verwundet.
 
 हेषा
@@ -88906,1054 +88909,10 @@
 होतृत्व
 होतृत्व॑ n. das Amt des Hotar.
 
-होतृमन्त्
+होतृमत्|होतृमन्त्
 हो॑तृमन्त् mit Opferern versehen.
 
 होतृवूर्य
 होतृवू॑र्य n. Hotar-Wahl.
 
-होतृषदन
-होतृष॑दन n. Hotar-Sitz.
-
-होत्र
-होत्र॑ n. Opfer, das Amt des Hotar.
-
-होत्रक
-होत्रक m. Gehilfe des Hotar;<BR> auch Haupt|priester überh.
-
-होत्रवह्
-होत्रव॑ह् Opfer führend.
-
-होत्रा
-हो॑त्रा1. f. (Haupt-) Priesteramt, Opfer.
-
-होत्रा
-हो॑त्रा2. f. Anrufung.
-
-होत्राविद्
-होत्रावि॑द् der Anrufung kundig.
-
-होत्रिय
-होत्रि॑य Adj. Priester(auch होत्री॑य);भ्णैआख् n. |Priesteramt.
-
-होम
-हो॑म m. Opferguss, Spende.
-
-होमकर्मन्
-होमकर्मन् n. Opferhandlung.
-
-होमकाल
-होमकाल m. Opferzeit.
-
-होमतुरंग
-होमतुरंग m. Opferross.
-
-होमधेनु
-होमधेनु f. Opferkuh.
-
-होमन्
-हो॑मन्1. n. Opfer, Spende.
-
-होमन्
-हो॑मन्2. n. das Rufen.
-
-होमभाण्ड
-होमभाण्ड n. Opfergerät.
-
-होमय्
-होमय्, °यति zum Opfer gebrauchen.
-
-होमवन्त्
-होमवन्त् u. होमिन् Opfer darbringend.
-
-होमीय
-होमीय u. होम्य zum Opfer gehörig.
-
-होरा
-होरा f. Stunde;<BR> Horoskop.
-
-होराशास्त्र
-होराशास्त्र n. Horoskopie.
-
-हौत्र
-हौत्र zum Hotar gehörig;<BR> n. dessen Amt.
-
-हौम्य
-हौम्य = होमीय।
-
-ह्नु
-ह्नु ह्नुते, हूवते, °ति) beseitigen, ver|treiben;<BR> *sich verstecken vor (Dat.). |अप ablehnen, leugnen, verheimlichen, |sich bei jemd. (Dat.) entschuldigen. |नि dass., auch jemd. Buße leisten für |etw., jemd. etw. abbitten (Dat. der Pers. u. Acc. der S.). Mit आत्मानम् sich |verstecken.*. <BR>-p. p. निह्नुत verschwiegen, |verheimlicht, verstellt, fälschlich dar|gestellt. विनि leugnen, verhehlen, ver|stecken.
-
-ह्नुङ्
-ह्नुङ् = ह्नु (g.).
-
-ह्यस्
-ह्य॑स् Adv. gestern.
-
-ह्यस्तन
-ह्यस्तन, f. ई gestrig.
-
-ह्रद
-ह्रद॑ m. Teicht, See, Weiher.
-
-ह्रदिन्
-ह्रदिन् wasserreich;<BR> f. °नी Fluss.
-
-ह्रद्य
-ह्र॑द्य im Teiche befindlich.
-
-ह्रस्
-ह्रस्, ह्रसति, °ते abnehmen;<BR> kleiner, weniger, |kürzer werden. Caus. ह्रासयति ver |mindern. निस् kurz werden.
-
-ह्रसिष्ठ
-ह्र॑सिष्ठ u. ह्र॑सीयंस् Superl. u. Compar. z. |folg.
-
-ह्रस्व
-ह्रस्व॑ kurz, klein, gering, schwach.
-
-ह्रस्वक
-ह्रस्वक sehr klein.
-
-ह्रस्वता
-ह्रस्वता f., °त्व n. Kleinheit, Kürze.
-
-ह्रस्वबाहु
-ह्रस्वबाहु kurzarmig;<BR> m. (fingierter) Mannsn.
-
-ह्राद्
-ह्राद्, ह्रादते tönen. Caus. ह्रादयति mit |निस् tönen lassen;<BR> mit सम् zusammen|schlagen.
-
-ह्राद
-ह्राद m. Getön, Geräusch.
-
-ह्रादिन्
-ह्रादिन् lärmend, tosend;<BR> f. °नी Blitz.
-
-ह्रादुनि
-ह्रादु॑नि u. °नी f. Hagelwetter.
-
-ह्रास
-ह्रास m., °न n. Verkürzung, Abnahme.
-
-ह्री
-ह्री,1. जिह्रेति sich schämen. p. p. ह्रीत (u. |ह्रीण) beschämt, verlegen. Caus. ह्रेपय|ति beschämen, verlegen machen.
-
-ह्री
-ह्री॑2. f. Scham.
-
-ह्रीक
-ह्रीक (adj. --°) u. ह्रीति f. dass.
-
-ह्रीमन्त्
-ह्रीमन्त् verschämt, verlegen, bescheiden.
-
-ह्रु
-ह्रु, ह्रुणाति mit वि abbiegen, schief o. feh|gehen machen. p. p. वि॑ह्रुत gebogen, ge|knickt.
-
-ह्रुत्
-ह्रु॑त् f. schiefe Stellung, missliche Lage, |Unfall.
-
-ह्रेपण
-ह्रेपण n. Scham, Verlegenheit.
-
-ह्रेपय्
-ह्रेपय् s. 1. ह्री।
-
-ह्रेष्
-ह्रेष्, ह्रेषति, °ते wiehern;<BR> p. p. ह्रेषित n. |Gewieher.
-
-ह्रेषिन्
-ह्रेषिन् wiehernd.
-
-ह्रेषुक
-ह्रेषुक m. Art Schaufel. 
-
-ह्लाद्
-ह्लाद्, ह्लादते sich efrischen o. erquicken. |Caus. ह्लादयति erfrischen, erquicken, |erfreuen. आ u. प्र Caus. dass.
-
-ह्लाद
-ह्लाद m. Erfrischung, Erheiterung.
-
-ह्लादक
-ह्लादक kühlend, erquickend, erfreuend.
-
-ह्लादन
-ह्लादन dass.;<BR> n. Erfrischung, Erheiterung.
-
-ह्लादिन्
-ह्लादिन् = vor. Adj.
-
-ह्लादुक
-ह्लादुक kühl, frisch.
-
-ह्लीक
-ह्ली॑क verschämt.
-
-ह्वर्
-ह्वर्, ह्व॑रति, °ते krumm gehen, abbiegen, |wanken, umfallen. Caus. ह्वारयति |krumm gehen machen;<BR> in die Irre führen. |वि straucheln, fallen;<BR> Caus. umstürzen.
-
-ह्वरस्
-ह्व॑रस् n. Krümmung, Trug, Ränke;<BR> Pl. |concr. die Bügel an der Somaseihe.
-
-ह्वल्
-ह्वल्, ह्व॑लति schief gehen, straucheln, |fallen, verunglücken. Caus. ह्वल॑यति |erschüttern. वि taumeln, schwanken;<BR> |p. p. विह्वलित।
-
-ह्वला
-ह्वला॑ f. das Irren, Fehlgehen o. -schlagen.
-
-ह्वा
-ह्वा o. हू, हू॑यति, °ते, ह॑वते, हुव॑ते, °ति |(हूते, होति, जुहोति) rufen, an-, herbei|rufen (अवसे) o. ऊतये um Hilfe);<BR> ein |laden, herausfordern. Pass. हूय॑ते, p. p. |हूत॑, auch die med. Formen oft mit pass. |Bed.-Caus. हाययति (nur --°)। Intens. |जो॑हवीति, Partic. जो॑हुवान rufen, an|fleben. अच्छ anrufen. अनु nacho. |zurückrufen. आ rufen, herbeirufen, |anrufen, einladen, vorladen (j.). heraus|fordern. Caus. herbeirufen lassen. |Intens. herbeirufen. उपा herbeirufen, |herausfordern. समा zusammenrufen, |versammeln, auch = vor. उप (Med.) |herbeirufen, einladen, anrufen, zustim|men, beloben. p. p. उ॑पहूत herbeigerufen |u. s. w., auch wozu geladen ist. समुप |zusammenrufen, einladen, herausfordern. |नि (Med.) herabo. herbeirufen. प्र (Med.) |rufen (mit अच्छ herbeirufen). वि Med. |gesondert o. um die Wette anrufen, |sich streitig machen;<BR> abrufen. सम् |(Med.) zusammenrufen.
-
-ह्वार
-ह्वार॑ m. Schlange.
-
-ह्वार्य
-ह्वार्य Adj. Schlangen-, schlangengleich.
-
-ह्वाल
-ह्वाल m. das Fehlen,Versagen. Berichtigungen und Ergänzungen.
-
-अक्षत
-अ॑क्षत auch unenthülst.
-
-अग्रु
-अ॑ग्रु st. अग्रु॑।--अङ्क॑ u. अङ्कुर m.
-
-अङ्क्य
-अङ्क्य zu brandmarken.
-
-अतियश
-अतियश u °यशस् hochrühmlich.
-
-अतिशयित
-अतिशयित u. अधर्मभीरु tilge den Stern.
-
-अधि
-अ॑धि auch über--hinweg (Instr.).
-
-अननूक्त
-अ॑ननूक्त tilge: (act.).
-
-अनारुह्य
-अनारुह्य auch ohne sich in (Acc.) zu be|geben.
-
-अनुमाद्य
-अनुमा॑द्य mit Jauchzen zu begrüßen.
-
-अनुमान
-अनुमान nur bis Folgerung.
-
-अनुव्याख्यान
-अनुव्याख्या॑न n. eine Art von Texten.
-
-अन्तरीय
-अन्तरीय ohne Stern.
-
-अन्यतःप्लक्षा
-अन्य॑तःप्लक्षा f. N. eines Lotusteiches.
-
-अपभ्रंश
-अपभ्रंश॑ m.<BR> -अभाविन् non futurus.
-
-अभिमर
-*अभिमर m. Totschlag.<BR> -अ॑भूति (accent.).
-
-अभ्यधिक
-अभ्यधिक l. Abl., Instr. o. --° (st. °--।
-
-अभ्यर्थन
-अभ्यर्थन n., आ f. auch das Betteln.
-
-अमरपक्षपातिन्
-अमरपक्षपातिन् u. अमा॑त्य m.
-
-अयातयाम
-अ॑यातयाम st. wobei--ist l. ungeschwächt, |frisch, wirksam, u. vgl. यातयाम।
-
-अर्थ
-अ॑र्थ n. (älter als)m.
-
-अर्थिन्
-अर्थि॑न् auch arm;<BR> m. Bettler.
-
-अर्ध्
-अर्ध् mit सम् auch sich erfüllen.
-
-अर्बुदोदासर्पिणी
-अर्बुदोदासर्पिणी f. N. eines Opferpfades(r.). |2. अ॑र्य l. bes. der dritten Kaste.
-
-अलक्ष्य
-अलक्ष्य auch nicht (so) aussehend.
-
-अलङ्घ्य
-अलङ्घ्य = अलङ्घनीय।
-
-अविक्षत
-अ॑विक्षत u. अ॑विक्षुब्ध (mit Accent).
-
-अविपाल
-अविपाल॑ m. Schafthirt |2. अश् mit अति vor jemd. (Acc.) essen. 
-
-अश्रि
-अश्रि॑ st. अ॑श्रि।
-
-असंनिवृत्ति
-असंनिवृत्ति f. Nimmerwiederkehr.
-
-असंभाष्य
-असंभाष्य mit dem man nicht reden darf.
-
-असौनामन्
-असौना॑मन् u. s. w. zu tilgen.
-
-अस्तमय
-अस्तमय॑ m.<BR> --अस्पृष्ट unberührt.
-
-अस्वदित
-अ॑स्वदित nicht annehmbar gemacht.
-
-अस्वामिन्
-अस्वामिन् m. Nichtherr, Nichtbesitzer.
-
-अस्वामिविक्रय
-अस्वामिविक्रय m. Verkauf ohne Eigentums|recht (j.).
-
-अह
-अ॑ह2. l. (--°) st. (°--)।अहह Interj.
-
-अह्रुत
-अ॑ह्रुत auch unentwegt.
-
-आकाशसंचारिन्
-आकाशसंचारिन् m. st. n.
-
-आकुलि
-आकुलि m. N. eines Asurapriesters.
-
-आचार्य
-आचार्य auch Erzieher.
-
-आजीवितान्तम्
-आजीवितान्तम् Adv. lebenslang.
-
-आत्तगन्ध
-आत्तगन्ध vergewaltigt (eig. dem der Ge|ruch o. die Luft genommen ist). .आत्मच्छन्द (°--) u. आत्मच्छन्देन aus eigenem |Antrieb, nach Belieben;<BR> °न्दचारिन् n. |B.handelnd.
-
-आत्मश्रेयस्
-आत्मश्रेयस् n. Seelenheil.
-
-आधिपत्य
-आ॑धिपत्य n. Oberherrschaft.
-
-आप्
-आप्, समव erwerben. समनुप्र erreichen, |erlangen.
-
-आभिमुख्यकरण
-आभिमुख्यकरण n. auch das Herbeirufen.
-
-आम
-आम॑ ungekocht st. eingekocht.
-
-आरा
-आ॑रा (mit Accent).
-
-आर्धधातुक
-आर्धधातुक l. unerweiterte st. schwache.
-
-आवार
-आवार m. Hut, Schutz.
-
-आवेशन
-आवेशन n. Werkstatt.<BR> -आशि॑र् f.
-
-आहवनीयागार
-आहवनीयागार॑ m. das A.feuerhaus (r.).
-
-आह्वान
-आह्वान n. auch Götteranrufung. 
-
-इ
-इ,2. zum Simpl. f. hinzu: Mit dem Acc. |eines Abstr. wie गम्। Intens. Partic. |ईयान॑ (st. ईशान॑)। Mit प्रति auch zu |teil werden,s zufallen (Dat.).
-
-इतरेतर
-इतरेतर (°--) u. °रम् adv. gegenseitig.
-
-इत्थंभूत
-इत्थंभूत st. इत्थंभू।
-
-इन्दु
-इ॑न्दु m.;<BR> °बिम्ब n.<BR> -इय॑म् auch die Erde.
-
-इष्ट
-इष्ट॑1. m. der Geliebte.
-
-ईक्षणिक
-ईक्षणिक m. Wahrsager.
-
-ईश्
-ईश्2. Herr nach. ईश्, ईष्टे zu stellen (dies |wird 1. ईश्)।
-
-उत्कोचक
-उत्कोचक der Bestechung zugänglich.
-
-उत्थायिन्
-उत्थायिन् außtehend, energisch, thätig.
-
-उत्पात
-उत्पात Aufflug st. Ausflug.
-
-उत्पादन
-उत्पादन n. das Erzeugen st. m. der E.
-
-उदकार्थ
-उदकार्थ m. Wasserhandlung, Abwaschung;<BR> |°र्थम् wegen einer A.
-
-उदर
-उद॑र st. उदर॑।
-
-उद्धरण
-उद्धरण n. auchs Vertilgung.
-
-उपतापक
-उपतापक u. °पि॑न् l. (--°) st. (°--।)
-
-उपनिषद्
-उपनिष॑द् (accent.).<BR> -उपयन्तार् m. Gatte.
-
-उपल
-उपल m. Stein;<BR> f. उ॑पला (accent.) u. s. w.
-
-उपस्पर्शन
-उपस्पर्शन n. Berührung;<BR> Abwaschung, |Mundausspülung.
-
-उपस्वेद
-उपस्वेद m. Feuchtigkeit.
-
-उप्ति
-उप्ति f. das mit अभि verhüllen st. erfüllen.
-
-ऊर्म्य
-ऊ॑र्म्य, st. dass. l. = ऊर्मिन्।
-
-ऊषर
-ऊषर॑ tilge n.
-
-ऊह्
-ऊह्1. l. व्यूढ st. व्युढ।
-
-ऋचसे
-ऋच॑से (Dat. Inf.) zum Preise.
-
-ऋति
-ऋति॑ u. ऋ॑ति f. Angriff, Streit.
-
-ऋतूत्सव
-ऋतूत्सव m. Frühlingsfest.*
-
-ऋते
-ऋते॑ l. ausgenommen st. angenommen.
-
-एकखुर
-एकखुर m. Einhufer.
-
-एतवे
-ए॑तवे u. ए॑तवै॑ (Dat. Inf.) zu gehen.
-
-ऐषमस्
-ऐष॑मस् Adv. heuer.<BR> -ओप्य s. 2. वप्।
-
-औदरिक
-औदरिक st. औदारक।
-
-ककुद्मन्त्
-ककु॑द्मन्त्, कङ्कपत्त्र u. °त्त्रिन् als Subst. m.
-
-कण्डन
-कण्डन n. das Enthülsen,Hülse.
-
-कम्प्
-कम्प्, प्र, वि auch niedrig, gemein. विकृत |auch mannigfach, vielartig.
-
-कररुह
-कररुह m. Fingernagel.
-
-कल्प्
-कल्प्, परि Caus. auch einteilen in (Adv. |auf) धा)। 
-
-कार्पास
-कार्पास als Subst. m.
-
-कालक्षम
-कालक्षम dauerhaft (die Zeit ertragend).
-
-किलात
-किलात m. N. eines Asurapriesters.
-
-कीनाश
-कीना॑श m. Ackernecht (st. -bauer).
-
-कुतप
-कुतप st. कुलप।
-
-कुन्दिन
-कुन्दिन n. N. einer Stadt.
-
-कुप्
-कुप्, सम् in Zorn geraten, aufbrausen. |Caus. dass., auch erzürnen.
-
-कुशर
-कु॑शर, कुशलप्रश्न u. कुशीलव m. st. n.
-
-कूबरी
-कूबरी॑ (unter कू॑बर)।
-
-कूश्म
-कूश्म॑ u. कूष्म॑ m., कृ॑पीट n.
-
-केतन
-केतन u. केन्द्र n.;<BR> °खण्ड (unter केदार)।
-
-केशान्त
-केशान्त u. कैवर्त m.
-
-कौषीतकिन्
-कौषीतकिन् m. Pl. N. einer Schule;<BR> °कि|ब्राह्मण n.
-
-क्रथ्
-क्रथ्, Caus. auch *verletzen (Gen.).
-
-क्रप्
-क्रप् mit अनु sich sehnen nach, trauern |um (Acc.).
-
-क्रम्
-क्रम्, अभि u. समभि herantreten.
-
-क्रम
-क्र॑म, क्रमेण auch nach Maßgabe des (--°)।
-
-क्षिपा
-क्षि॑पा st. क्षिपा॑।<BR> -क्षीरक्षय m.
-
-क्षुद्
-क्षुद् Caus. = Simpl.<BR> -2. क्षु॑भ् (accent.).
-
-क्षेत्रज
-क्षेत्रज m. nicht vom Ehemann selbst er|zeugt, Muttero. Haussohn (j.).
-
-क्षेत्रिय
-क्षेत्रिय॑ m. Ehemann.<BR> -क्ष्णो॑त्र (accent.).
-
-खट्वातल
-खट्वातल n. der Platz unter dem Bett.
-
-खण्डमोदक
-*खण्डमोदक m. Mannazucker.*
-
-हन्तु
-ह॑न्तु st. गन्त।
-
-गम्
-गम्, न्या herabkommen zu (Acc.) उपोद् |Desid. उपोज्जिगांसति sich zu entziehen |suchen (Abl.).
-
-गार्हपत्यागार
-गार्हपत्यागार॑ m. das G. -feuerhaus.
-
-गुणोत्कर्ष
-गुणोत्कर्ष m.<BR> -गुप्ति st. गप्ति।
-
-गुरुतल्प
-गुरुतल्प m. auch Entweihung o. Entweiher |des Lehrerbettes.
-
-गुह्
-गु॑ह्2. f. (accent.).<BR> -गृहमेध॑ m.
-
-गोष्पद
-गोष्पद n. st. m.<BR> -गोहन्तर् m. (st. गोरन्तर्)।
-
-घटक
-घटक m. ordner.<BR> -घुणाक्षर n. st. m.
-
-घृतवन्त्
-घृत॑वन्त् auch das Wort घृत enthaltend.
-
-चरणव्यूह
-चरणव्यूह m. st. n.<BR> -चषाल m. n.
-
-चूडाकरण
-चूडाकरण u. °कर्मन् n. = चू॑ड m. (r.).
-
-छिद्
-छिद्, p. p. छिन्न auch gekerbt.
-
-छुबुक
-छु॑बुक (accent.).
-
-छेदन
-छेदन n. auch Bruchstelle.
-
-जगद्योनि
-जगद्योनि f.;<BR> जन्मिन् m.;<BR> जलोदर n.
-
-जयन्त
-जयन्त, f. ई siegreich. 
-
-जरायु
-जरा॑यु auch Mutterkuchen, Nachgeburt.
-
-जल्प्
-ज॑ल्प् st. जल्पि॑। जाति auch Art Jasmin.
-
-जि
-जि, ज॑यति auch heilen.
-
-ज्ञा
-ज्ञा1. (Z. 9) lies: nichts v.e. wissen wollen.
-
-ज्येष्ठ
-ज्ये॑ष्ठ u. ज्येष्ठ॑ = ज्यायिष्ठ (st. dass.).
-
-तक्षन्
-त॑क्षन् m. St. n.<BR> -तदून l. darum geringer.
-
-तर्
-तर्, त॑रति auch schweben.
-
-तल्पज
-तल्पज st. ehelich l. aber nicht vom Ehe|mann erzeugt, u. vgl. क्षेत्रज।
-
-तीर्थ
-तीर्थ Badeplatz st. Ladeplatz.
-
-त्रिषधस्थ
-त्रिषधस्थ॑ n. dreifacher Sitz o. Ort;<BR> Adj. |an drei Stellen befindlich.
-
-त्वद्
-त्वद् (°--) st. (--°)।
-
-दधिभक्त
-दधिभक्त n. Speise aus saurer Milch.*
-
-दन्त
-द॑न्त m. n.<BR> --2. दा॑नु f. n.
-
-दामन्वन्त्
-दा॑मन्वन्त् (acc.).<BR> -दिक्चक्रवाल n.
-
-दिनार्ध
-दिनार्ध, tilge m.
-
-दिश्
-दिश्, विनिस् anzeigen, bestimmen.
-
-दीर्घसत्त्र
-दीर्घसत्त्र॑ n.<BR> -दुन्दुभि॑ m. f.
-
-दुरुद्वह
-दुरुद्वह schwer zu ertragen.
-
-दुर्मद
-दुर्मद2. u. दुर्मन्त्र m.
-
-दुष्टशोणित
-दुष्टशोणित (st. °नित) n.
-
-देवजात
-देवजात॑ n. Göttergeschlecht.
-
-देवविश्
-देववि॑श् u. °विशा॑।
-
-द्रढीयंस्
-*द्रढीयंस् (unter द्रधिष्ठ)।
-
-द्रविणस्यु
-द्रविणस्यु॑ (nicht द्रु॑°)।
-
-द्वादशवार्षिक
-द्वादशवार्षिक st. °वर्ष्क।
-
-द्वित्व
-द्वित्व u. द्विर्वचन n.<BR> --2. द्वि॑ष् f.
-
-धनवृद्धि
-धनवृद्धि m. N. eines Mannes.
-
-धनागम
-धनागम m. Gelderwerb.
-
-धनोष्मन्
-धनोष्मन् m. Gier (eig. Brand) nach Geld.
-
-धर्मकञ्चुक
-धर्मकञ्चुक der Panzer der Gerechtigkeit.
-
-धा
-धा,1. व्या Pass. getrennt werden u. s. w.
-
-धान्यांश
-*धान्यांश (mit Stern).<BR> -धाराधिरुढ।
-
-धूति
-धू॑ति u. धूर्षद् m.<BR> --धूप्य st. धूम्य।
-
-धूर्षह्
-धूर्षह् (st. °षह)। --धृ॑ति f., धृष॑ज् m.
-
-नागान्तर
-नागान्तर n. der andere Teil des Himmels.
-
-नग्नक
-न॑ग्नक (st. °का)।
-
-नवेदस्
-न॑वेदस् (st. °वदस्), m. zu t.
-
-नाट्यवेद
-नाट्यवेद m. st. n.
-
-नातिश्लिष्ट
-नातिश्लिष्ट nicht ganz fest geschlossen.
-
-नानारूप
-नानारूप,1. नामरूप u. नाशन n.
-
-नार
-नार॑ m. Pl. Wasser.<BR> --नितोदिन् st. नितेदिन्।
-
-निदेशकारिन्
-निदेशकारिन् m. Diener.
-
-निरन्तरोत्कण्ठा
-निरन्तरोत्कण्ठा st. °रोकण्ठा।
-
-निरभिलाष
-निरभिलाष st. निभि°। 
-
-निर्णेक
-निर्णेक m. st. n.
-
-निर्माण
-निर्माण auch Bestimmung.
-
-निवेश
-निवेश॑ m.<BR> -निह्नव auch Sühne.
-
-नी
-नी (S. 244a, Z. 9) l. unterrichtet.
-
-नीड
-नीड॑ auch innerer Wagenraum.
-
-न्यङ्ग
-न्यङ्ग॑ (accent.).<BR> -प॑ञ्चदशन् स्त्। °शत्।
-
-पतनीय
-पतनीय st. पतनीत।
-
-पतितसावित्रीक
-पतितसावित्रीक st. °सवित्रीक।
-
-पत्त्रोर्ण
-पत्त्रोर्ण st. पत्तोर्ण।
-
-पद्
-पद्,1. उप auch antworten;<BR> p. p. उपपन्न |auch richtig, संपन्न (°--) habend, be|sitzend.
-
-पद्म
-पद्म Wasserrose m. u. n.
-
-परशुराम
-परशुराम m. Bein. eines Rāma.
-
-परिगृहीति
-प॑रिगृहीति <BR> -परिपा॑ण m. u. n.
-
-परुत्
-*परुत् Adv. im Vergangenen Jahre.
-
-पर्यग्नि
-प॑र्यग्नि l. o. st. n.<BR> --1. प॑र्शु Hippe.
-
-पवस्त
-पव॑स्त m.<BR> -प॑सस् st. पयस् penis.
-
-पाद्य
-पाद्य n. Fußwasser.<BR> -पिङ्गलाक्ष, f. ई।
-
-पुत्रिका
-पुत्रिका f. Söhnin (j.).
-
-पुर्
-पु॑र्2. f., पुरीत॑त् m. u. n. पु॑रुषविध (acc.).
-
-पूर्वसाहस
-पूर्वसाहस m. erste (niedrigste) Geldstrafe.
-
-पौनर्भव
-पौनर्भव m. auch zweiter Gatte.
-
-प्रच्यवन
-प्रच्यवन n., प्रजनु॑ m. f.
-
-प्रजाभागिन्
-प्रजाभागिन् die Nachkommenschaft be|sitzend.
-
-प्रतिमा
-प्रतिमा॑ f. auch Götterbild.
-
-प्रत्यक्ष
-प्रत्यक्ष n. auch Außicht über (Gen.).
-
-प्रत्यवेक्षण
-प्रत्यवेक्षण n. auch (Besuch*).
-
-प्रत्युत्थान
-प्रत्युत्थान st. प्रत्युत्थान।
-
-प्रथमसाहस
-प्रथमसाहस m. = पूर्वसाहस।
-
-प्रभास
-प्रभास n. N. eines Walfahrtortes.
-
-प्रमीतपतिका
-प्रमीतपतिका f. deren Mann tot ist.
-
-प्रयोजन
-प्रयोजन n. auch genug an (Instr.).*
-
-प्रशस्ति
-प्र॑शस्ति f. auch Wohlgefallen.
-
-प्रशिथिल
-प्रशिथिल sehr lose o. schlaff.
-
-प्रसन्नरस
-प्रसन्नरस klarsaftig.
-
-प्रसादसुमुख
-प्रसादसुमुख, f. ई zur Gnade geneigt, hold |gesinnt.
-
-प्रसित
-प्रसित s. 2. सा।<BR> -प्रस्तर॑ m. auch Stein.
-
-प्रीतिपूर्वकम्
-प्रीतिपूर्वकम् Adv. aus Liebe o. Freund|lichkeit.
-
-प्लु
-प्लु, समा sich baden, überschwemmen;<BR> |p. p. समाप्लुत überströmend von (Instr.).
-
-बद्धपरिकर
-बद्धपरिकर hochgeschürzt.
-
-बद्धलक्ष
-बद्धलक्ष den Blick richtend auf (--°)। 
-
-बन्धनकोश
-बन्धनकोश m. Stengelhöhlung.
-
-बहिष्पवमान
-बहिष्पवमान॑ m. n. ein Gesang beim Früb|opfer (r.).
-
-बालरामायण
-बालरामायण u. 1. बिल्वमात्र n.
-
-बिस
-बि॑स Wurzelschoß (nicht-) schooß).
-
-बोधि
-बोधि1. st. बेधि।
-
-ब्रह्मदण्ड
-ब्रह्मदण्ड u. ब्रह्मौदन॑ m.
-
-भाण्डागार
-भाण्डागार n. nomen actionis (g.).
-
-भिषज्
-भिष॑ज् m. Arzt.
-
-भू
-भू, mit वि sich entfalten.
-
-भूरिविलम्बिन्
-भूरिविलम्बिन् tief herabhängend.
-
-भ्रातृव्य
-भ्रा॑तृव्य m. st. n.
-
-मध्यमसाहस
-मध्यमसाहस m. die Mittelstrafe (j.).
-
-मव
-मव॑ unbesonnen, thöricht.
-
-महाश्मशान
-महाश्मशान n., महीभर्तर् u. °भुज् m.
-
-महोदर
-महोदर n.
-
-माधुपर्किक
-माधुपर्किक, f. ई zur Madhuparkaceremonie |gehörig (r.).
-
-मानव
-मानव॑;भ्णैआख् f. ई॑ auch Manu's Weib.
-
-मानुष
-मा॑नुष Menschheit u. मा॑सर n.
-
-मि
-मि1. mit वि befestigen, haben;<BR> p. p. s. bes.
-
-मित्रधेय
-मित्रधे॑य (accent.).
-
-मिथःप्रस्थान
-मिथःप्रस्थान n. gemeinsamer Aufbruch.
-
-मुर्मुर
-मु॑र्मुर (accent.), मू॑ल n.
-
-मूलस्वामिन्
-मूलस्वामिन् m. Du. Inhaber und Besitzer (j.).
-
-मृगयाशील
-मृगयाशील auf die Jagd versessen.
-
-मृगवधू
-मृगवधू f. Gazellenweibchen.
-
-मृणाल
-मृणाल n., मैथुन्य st. मैथन्य।
-
-यज्ञमुख
-यज्ञमुख॑ n. Mund o. Eingang des Opfers.
-
-यत्संख्याक
-यत्संख्याक in welcher (rel.) Anzahl.
-
-यमधानी
-यमधानी f. Yama's Wohnung.
-
-यातर्
-या॑तर्1. auch vergehend.
-
-युप्
-युप् auch verletzen.
-
-यौवराज्य
-यौवराज्य n. Thronfolgero. Mitregent|schaft. 
-
-रक्ष्ण
-रक्ष्ण m. st. n.
-
-राजन्यबन्धु
-राजन्यबन्धु auch = क्षत्रिय।
-
-रिक्थाद
-रिक्थाद st. रिक्ताद।
-
-रुध्
-रुध्2. mit अप verstoßen.
-
-रुह्
-रुह्1. auch zuwachsen, vernarben.
-
-रूपक
-रूपक n. auch Metapher, Tropus (rh.).
-
-लप्
-लप् mit आ Caus. zum Reden bringen.*
-
-लावण्य
-लावण्य n.
-
-लिपिकर
-लिपिकर (f ई*) auch Maler, -in.
-
-लोक
-लोक2. = ल +उक (g.).
-
-वज्र
-व॑ज्र auch Waffe überh.
-
-वत्स
-वत्स॑, auch Waffe überh.
-
-वत्स
-वत्स॑ auch f. आ Voc. als freundl. Anrede.
-
-वपन
-व॑पन2. (accent.)
-
-वर्त्
-वर्त्, समा heimkehren.
-
-वर्षाहू
-वर्षाहू॑ f. st. m.
-
-वस्
-वस्, सम् cohabitare auch mit Acc.
-
-वह
-व॑ह als Subst. auch n.
-
-वा
-वा3. mit उद् auswehen, erlöschen (intr.).
-
-वाग्व्यवहार
-वाग्व्यवहार m. das Wortemachen.
-
-वार्ष्ण
-वा॑र्ष्ण o. वार्ष्ण॑ m. Patron.
-
-विच्
-विच् worfeln st. würfeln.
-
-विजिगीषा
-विजिगीषा st. विविगीषा।
-
-विधूनन
-विधूनन u. विनिर्माण n.
-
-विमित
-वि॑मित (s. 1. मि) n. Hütte, Halle, Gebäude.
-
-विषाण
-विषा॑ण n.
-
-विस्तारयितर्
-विस्तारयितर् (तृक) m. Ausbreiter.*
-
-वृषभषोडशा
-वृषभषोडशा f. Pl. (mit u. ohne गावस्) |fünfzehn Kühe und ein Bull.
-
-वैगुण्य
-वैगुण्य n.<BR> --व्राण॑ s. 1. वर्।
-
-शमीधान्य
-शमीधान्य॑ n. auch Hülsenfrucht überh.
-
-शंभव
-शंभव॑ = संभु॑ Adj.
-
-शर्
-शर् mit सम् zerbrechen, zermalmen.
-
-शाला
-शा॑ला f., dafür --° auch शाल n.
-
-संहरण
-संहरण n.
-
-सकलरूपक
-सकलरूपक n. vollständige Metapher (rh.).
-
-सच्
-सच् auch jemd. (Dat.) etw. (Acc.) bringen.
-
-सर्
-सर् (S. 482a, Z. 6. v. u.) l. अभि st. अधि।
-
-
+होतृष

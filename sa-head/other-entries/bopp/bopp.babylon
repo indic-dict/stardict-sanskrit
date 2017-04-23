@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!-- Nov 27, 2013 --><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR>  <teiHeader xml:lang="en-Latn"><BR>    <fileDesc><BR>      <titleStmt><BR>        <title>Glossarium Sanscritum </title><BR>        <editor>Jim Funderburk</editor><BR>        <editor>Thomas Malten</editor><BR>        <principal>Thomas Malten</principal><BR>        <funder>DFG - Deutsche Forschungsgemeinschaft</funder><BR>        <!--<funder>Glasenapp Stiftung</funder>--><BR>        <!--<funder>ECCP, European Union</funder>--><BR>      </titleStmt><BR>      <editionStmt><BR>         <edition>digital edition, bop.txt <date>2014</date></edition><BR>        <respStmt><BR>          <resp>markup</resp><BR>          <name>Thomas Malten</name><BR>        </respStmt><BR>      </editionStmt><BR>      <extent>1.8 MB</extent><BR>      <publicationStmt><BR>        <publisher>University of Cologne</publisher><BR>        <pubPlace>Cologne, Germany</pubPlace><BR>        <date when="2014">2014</date><BR>        <availability><BR>          <p>All rights reserved other than those granted under the Creative Commons Attribution<BR>            Non-Commercial Share Alike license available in full at <ptr<BR>              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized<BR>            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is<BR>            granted to build upon this work non-commercially, as long as credit is explicitly<BR>            acknowledged exactly as described herein and derivative work is distributed under the<BR>            same license.</p><BR>        </availability><BR>      </publicationStmt><BR>      <seriesStmt><BR>        <title level="s"></title><BR>        <respStmt><BR>          <resp></resp><BR>          <name></name><BR>        </respStmt><BR>        <idno></idno><BR>      </seriesStmt><BR>      <notesStmt><BR>        <note></note><BR>      </notesStmt><BR>      <sourceDesc><BR>        <biblStruct xml:id="BOP"><BR>          <monogr><BR>            <author>Francisco Bopp</author><BR>            <author> </author><BR>            <title type="main" level="m">Glossarium Sanscritum</title><BR>            <title type="subordinate" level="m"></title><BR>            <edition></edition><BR>            <imprint><BR>              <pubPlace>Berlin</pubPlace><BR>              <publisher>Dümmler</publisher><BR>              <date>1847</date><BR>            </imprint><BR>            <extent>420 pages</extent><BR>          </monogr><BR>        </biblStruct><BR>      </sourceDesc><BR>    </fileDesc><BR>    <encodingDesc><BR>      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>      <projectDesc><BR>        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and<BR>            merge all published Sanskrit dictionaries. Its aim is<BR>            to provide a basic lexical corpus to provide an easy access to all available meanings of<BR>            Sanskrit words and to allow the creation of a number of computer programs that will help<BR>            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review<BR>                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p><BR>      </projectDesc><BR>      <editorialDecl><BR>        <p><BR>          <date>2014</date></p><BR>      </editorialDecl><BR>      <tagsDecl> </tagsDecl><BR>    </encodingDesc><BR>    <profileDesc><BR>      <creation> </creation><BR>      <langUsage><BR>        <language ident="de-Latn">Latin</language><BR>        <language ident="sa-Latn-x-AS">Sanskrit</language><BR>      </langUsage><BR>      <textClass><BR>        <keywords scheme="#lcsh"><BR>          <list><BR>            <item>Sanskrit language -- Dictionaries -- Latin language</item><BR>          </list><BR>        </keywords><BR>        <classCode scheme="#lc"></classCode><BR>      </textClass><BR>    </profileDesc><BR>    <revisionDesc><BR>      <change>0</change><BR>    </revisionDesc><BR>  </teiHeader><BR>  <facsimile><BR>    See downloads bop_bookmark.pdf,  <BR>   from http://www.sanskrit-lexicon.uni-koeln.de<BR>  </facsimile><BR><BR>  <text><BR>    <body><BR>      <xi:include href="bop.txt"><BR>        <xi:fallback><BR>         See download bop.txt from http://www.sanskrit-lexicon.uni-koeln.de<BR>        </xi:fallback><BR>      </xi:include><BR>    </body><BR>  </text><BR></TEI>
+
 अ
 stirps demonstrativa; v. gr. 270.
 
@@ -775,7 +778,7 @@ m. (KARM. ex अन् priv. et आदर observantia) contemtio. HIT. 70. 4.
 अनार्तव
 Adj. (KARM. ex अन् priv. et आर्तव q. v.) anni tempori non consentaneus, germ. unjahrszeitlich. H. 1. 18.
 
-अनावृत्त
+अनावृत|अनावृत्त
 (KARM. ex अन् et आवृत्त a r. वृत् s. त) non electus. IN. 5. 42.
 
 अनाहिताग्नि
@@ -3109,7 +3112,7 @@ v. आविस्.
 आविस्
 Adv. insep. palam, manifesto. Componitur cum radicibus भू {|esse|} et कृ facere ad exprimendum apparere, in conspectum venire, oriri; manifestare. HIT. 63. 12. UR. 6. 12. आविर्भूते शशिनि. Huc retulerim lat. or in orior ejecta10 syllaba10 vi, fere sicut malo pro mavolo. Probabiliter आविस् ex origine est praepositio inseparabilis, quae significaverit ex, ita ut आविष्कृ proprie sit herausmachen «facere ut aliquis egrediatur ex occulto», et आविर्भू heraussein, herauswerden, «foras esse, foras fieri». Res si ita se habet, explicaverim ex hac praepositione lat. et gr. ex,  ejecto i10 et v mutato in gutturalem, sicut e. c. in vixi e vivsi, in facio = भावयामि, v. gr. comp. 19. Pottius tamen formas ex,  deducit ab idem valente scr. वहिस्, quae explicatio egregie cadit in linguam graecam, quippe quae in initio vocum semivocalem v ubique expulerit. Latina autem lingua eam constanter servavit, quam ob rem etiam Pottius formas  ex non directe ad वहिस् sed ad suppositum अवहिस् retulit. E goth. lingua ad आविस् traxerim praep. plerumque praefixam us, germ. vet. ar, ur, ir, e7r, nostrum er, Grimm III. 253. quas formas ab आविस् ita derivatas esse censeo, ut media syllaba vi sit ejecta, a10 initiale autem in vocalem leviorem sit conversum; lith. ifz ex; hib. as ex.).
 
-आवृत्ति
+आवृति|आवृत्ति
 f. (r. वृत् s. ति) reditus, recessus. A. 5. 6.
 
 आवेग
@@ -3709,7 +3712,7 @@ Adv. (instr. pl. ab उच्च q. v. gr. 683.) clare, clara10 voce. N. 11. 2.
 उच्छिष्ट
 v. शिष् praef. उत्.
 
-उच्छृङ्खल
+उछृङ्खल|उच्छृङ्खल
 (BAH. ex उत् et शृङ्खल vel शृङ्खला catena, vinculum) effrenatus, indomitus. HIT. 97. 11.
 
 उच्छेद
@@ -6235,7 +6238,7 @@ n. (a करुण miserabilis, s. य) miseratio, misericordia. H. 1. 23. BR. 1
 कार्तस्वर
 n. aurum. AM.
 
-कार्त्तिकेय
+कार्तिकेय|कार्त्तिकेय
 m. (a कृत्तिका s. एय) Ka10rtike10yus, deus belli Sivo natus.
 
 कार्त्स्न्य
@@ -7099,7 +7102,7 @@ f. (r. कृ s. ति) 1) actio, opus, opera. HIT. 97. 7. 2) carmen. RAGH. 15.
 कृतिन्
 (a कृत factam s. इन्) 1) factam rem, factum negotium habens. RAGH. 3. 51. 2) habilis, dexter. RAGH. 11. 29.
 
-कृत्ति
+कृति|कृत्ति
 f. (r. कृत् s. ति) 1) actio findendi. 2) pellis. 3) cortex arboris भूर्जपत्र dictae. (Cf. hib. cart cortex, lat. cortex, quod ortum esse videtur e corti = कर्ति, adjecto c, sicut fem. suff. त्री apud Romanos sonat tri10c, e. c. genitri10c = जनित्री; fortasse etiam cutis hic pertinet, ita ut ortum sit e curtis = कर्ति.)
 
 कृत्तिका
@@ -9031,7 +9034,7 @@ m. (r. घृण् s. इ) radius.
 घृणिन्
 (a घृणा s. इन्) misericors. DR. 9. 8. 20.
 
-घृण्ण्
+घृण्|घृण्ण्
 1. A. घृण्णे (ग्रहणे; scribitur घृण्; gr. 110^a).) capere, prehendere; cf. ग्रह्, गृह्णामि.
 
 घृत
@@ -13705,7 +13708,7 @@ Praep. insep. deorsum, sub, de. (V. gr. 111. et cf. nostrum nie-der, germ. vet. 
 निंस्
 2. A. (चुम्बने K. चुम्बे V.; scribitur निस्, gr. 110^a).) osculari.
 
-निः
+नि|निः
 v. निस्.
 
 निःशब्द
@@ -14080,7 +14083,7 @@ m. (r. वस् habitare, s. अ) domus, habitatio. H. 4. 29. BH. 11. 25. 37.
 निविड
 (ut videtur, {|intervallum non habens,|} e नि pro न non v. निखिल et विड pro विल, v. Wils.) spissus, densus, arctus. RAGH. 9. 58. 11. 15. 19. 44.
 
-निवृत्त
+निवृत|निवृत्त
 v. वृत् praef. नि.
 
 निवृत्तकृषिगोरक्ष
@@ -14095,7 +14098,7 @@ v. वृत् praef. नि.
 निवृत्तयज्ञस्वाध्याय
 (BAH. e निवृत्त evanidus et DVANDV. e यज्ञ sacrificium et स्वाध्याय q. v.) evanida sacrificia et Ve10dorum lectiones habens. SU. 2. 22.
 
-निवृत्ति
+निवृति|निवृत्ति
 f. (r. वृत् praef. नि interire, s. ति) interitus, occasus, cessatio. BH. 16. 7.
 
 निवेश
@@ -14314,7 +14317,7 @@ m. vir, homo. BR. 2. 34. IN. 3. 7. (Proprium Them. est नर् gr. min. 124. c
 नृत्
 4. P. interdum A. saltare. IN. 2. 31.: एताश्चा ऽन्याश्च न नृतुस् तत्र. MAH. 1. 5187.: ननर्त तन् दृष्ट्वा नृत्यमानम्. c. आ¦ Caus. agitare, commovere. RAGH. 5. 42.: मरुद्भिर् नर्तितनक्तमाले. c. उप¦ coram aliquo saltare, c. acc. R. Schl. II. 91. 45.: उपानृत्यस् तु भरतम्. c. परि¦ circum aliquem saltare. MAH. 2. 2532.: दुःशासनस् तम् परिनृत्यति.
 
-नृत्त
+नृत|नृत्त
 n. (r. नृत् s. त) saltatio. Lass. 39. 11.
 
 नृत्य
@@ -16498,7 +16501,7 @@ m. (KARM. ex प्र et वीर heros) 1) eximius heros. 2) princeps, dominu
 प्रवृद्ध
 v. वृध् praef. प्र.
 
-प्रवृत्त
+प्रवृत|प्रवृत्त
 v. वृत् praef. प्र.
 
 प्रवृत्ति
@@ -21481,10 +21484,10 @@ nomen urbis. H. 1.
 वारि
 n. aqua. N. 24. 5. (Cf. वार्, वरुण, hib. burn aqua; fairge mare, fual «urine, water», mutato r in l; lat. mare, Them. mari, mutato v in m, v. gr. comp. 63.; lith. ma4re14s (Plur. fem., gen. mari-u10); slav. more id. (neut. sg. a Thema morjo, v. gr. comp. 259.); germ. vet. mari m. et n. (Them. marja); hib. muir, cambro-brit. mor id. Cf. etiam lat. urina, correpto वा in u, urceus, urna; gr. )
 
-वार्त्त
+वार्त|वार्त्त
 (r. वृत् s. अ) sanus. NALOD. 3. 19. schol.
 
-वार्त्ता
+वार्ता|वार्त्ता
 f. (a वृत्ति s. अ in fem.) nuntius; historia. Sring. 11. HIT. 64. 16. 17. 79. 15. 16. 85. 11.
 
 वार्द्धक
@@ -22570,13 +22573,13 @@ n. (r. वृज् s. इन) peccatum. AM.
 वृत्
 10. P. (भाषार्थे K. दीप्तौ V.) loqui; lucere. (Vid. 1. वृत् Caus.)
 
-वृत्त
+वृत|वृत्त
 v. वृत्.
 
 वृत्तान्त
 m. (e praec. et अन्त finis) 1) casus, eventus, res, res gesta, historia. N. 4. 23. HIT. 72. 17. UR. 86. 4. infr. Lass. 9. 9. 31. 9. 2) status, conditio. UR. 37. 4. vid. sq.
 
-वृत्ति
+वृति|वृत्ति
 f. (r. वृत् s. ति) 1) status, conditio, vitae ratio, versandi, agendi ratio. SA. 5. 46. BH. 14. 18. Lass. 39. 13. 40. 19. MEGH. 8. 91. 2) victus. HIT. 36. 21.
 
 वृत्र
@@ -26828,36 +26831,4 @@ f. (r. ह्राद् s. इन् in fem.) fulmen, Indri fulmen. AM.
 f. pudor.
 
 ह्रीछ्
-1. P. i. q. ह्री. (Huc trahi posset goth. id-reiga poenitentia, nisi pertinet ad रञ्ज्.)
-
-ह्रीमत्
-(a ह्री pudor s. मत्) pudibundus. DR. 8. 44.
-
-ह्रुड्
-1. A. (गतौ) ire.
-
-ह्रेष्
-1. A. hinnire. MAH. 4. 2000.: ह्रेषमाणैर् वाजिभिः. -ह्रेशित n. hinnitus. MAH. 3. 11764. -Caus. adhinnire alicui c. acc. MAH. 3. 11764.: ह्रेषयामासुर् अन्योन्यं ह्रेषितैः. (V. हेष्, हेषिन् et cf. germ. vet. hros equus, angl. horse, nostrum Rofs, gr.  .)
-
-ह्लग्
-1. P. (संवरणे) tegere, cf. ह्रग्.
-
-ह्लप्
-10. P. ह्लापयामि (भाषणे V.) Vid. ह्रप्.
-
-ह्लस्
-1. P. sonare. Vid. ह्रस्.
-
-ह्लाद्
-1. A. gaudere, laetari. MAH. 1. 3036.: ह्लादते जनिता प्रेक्ष्य (पुत्रम्). -C. loc. rei. MAH. 1. 3037.: ह्लादन्ते (नराः) स्वेषु दारेषु घर्मार्ताः सलिलेष्व् इव. -Caus. exhilarare. R. Schl. II. 44. 10.: शयानम् अनघं रात्रौ… रशिमभिः संस्पृशन् शीतैश् चन्द्रमा ह्लादयिष्यति. (Cf. anglo-sax. glæd laetus, splendens; angl. glad, germ. vet. glat splendens; hib. gairdim «I rejoice», nisi pertinet ad गृध् q. v.; slav. rad laetus, rados'c4a laetitia; fortasse gr.  ejecta10 liquida10, transposita10 aspiratione; fortasse  e  vel  lat. gaudeo.) c. आ¦ Caus. exhilarare. N. 21. 8.: ममा "ह्लादयते चेतः. c. प्र¦ Caus. P. A. id. R. Schl. I. 9. 56.: प्रह्लादयन्; MAH. 1. 7190.: प्रह्लादयध्वम्; UR. 86. 14.: प्रह्लादयस्व.
-
-ह्वल्
-1. P. (चलने K. चाले V.) vacillare, titubare. (Cf. germ. vet. wallo10n ambulare, errare, volitare.) c. वि¦ id. MAH. 1. 214.: सञ्ज्ञां नो ऽपलभे सूत मनो विह्वलती ऽव मे; R. Schl. II. 13. 4.: प्रत्युवाच ततः क्रुद्धो मुहूर्तं विह्वलन्न् इव. -विह्वलित vacillans, titubans. R. Schl. I. 9. 15.: मदविह्वलिताः काश्चित् प्रपतन्त्य् उत्पतन्तिच.
-
-ह्वृ
-1. P. (कौटिल्ये) curvum, flexuosum esse. (Vid. प्रह्व, उपह्वर et cf. ध्वृ i. e. ध्वर्, lat. va10rus, hib. fiar «crooked, inclined», fiaraim «I incline, bend», fiaras «crookedness».)
-
-ह्वे
-1. P. A. (हु, हू v. gr. 694.) vocare, advocare. SU. 3. 10.: विश्वकर्माणम् अह्वयत् (ed. Calc. आह्वयत्); R. Schl. II. 34. 11.: आर्यो ह्वयति वो राजा; MAH. 1. 3393.: माचै ऽनां शयने ह्वये. (Slav.  v-a-ti vocare; island. vet. hvi10a hinnire, germ. vet. hwaijo10n id., hwaijo10t, hweijo10t, weio10t hinnit, v. Graff IV. 1223.; fortasse goth. hro10pja voco = ह्वापयामि, sicut Caus. secundum generalem regulam sonaret, pro quo anomale ह्वाययामि (gr. 519.), mutato v in r (v. gr. comp. 20.), servata10 tenui p, sicut in sle10pa dormio, v. स्वप्; germ. vet. hro10fu, ruafu cet., nostrum rufe; fortasse hib. guilim «I weep, cry, bewail» = ह्वयामि, mutato य् in l (v. यकृत्), nisi pertinet ad 2. गॄ i. e. गर्.) c. आ¦ 1) advocare. R. Schl. II. 58. 1.: आजुहाव तं सूतम्; 91. 12.: आह्वये विश्वकर्माणम्; N. 5. 1.: आजुहाव महीपालान्…स्वयंवरे. 2) provocare ad pugnam vel ludum. MAH. 2. 879.: त्वाम् आह्वयामहे राजन् स्थिरो युध्यस्व; 4. 342.: सर्वमल्लान् अथा "ह्वयत्; RIGV. 32. 6.: आ हि जुह्वे महावीर्यम्; IN. 5. 7.: शशिनं वक्त्रचन्द्रेण सा "ह्वयन्ती ऽव; N. 12. 83.: आहूय provocando, post provocationem. -Caus. आह्वा ययामि advocari jubeo. RAGH. 15. 75.: कविम् आह्वाययामास. c. आ¦ praef. उप id. sgf. 2. MAH. 2. 1765.: उपाह्वयस्व तम्. c. आ¦ praef. सम् 1) convocare. SU. 2. 9.: सैनिकांश्च स माहूय. 2) provocare ad pugnam vel ludum. MAH. 2. 1518.: त्वां समाह्वयते; 4. 346.: भीमो मल्लं समाह्वयत्; 5. 35.: गान्धारराजस्य सुतम् मताक्षं समाह्वयद् देवितुम्. 
-
-
+1

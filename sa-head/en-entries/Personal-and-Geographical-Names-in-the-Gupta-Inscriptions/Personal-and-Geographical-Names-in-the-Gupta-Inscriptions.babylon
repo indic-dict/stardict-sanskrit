@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!-- %{date2) --><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR>  <teiHeader xml:lang="en-Latn"><BR>    <fileDesc><BR>      <titleStmt><BR>        <title>Personal and Geographical Names in the Gupta Inscriptions</title><BR>        <editor>Jim Funderburk</editor><BR>        <editor>Thomas Malten</editor><BR>        <editor>Peter Scharf</editor><BR>        <principal>Thomas Malten</principal><BR>        <funder>DFG - Deutsche Forschungsgemeinschaft</funder><BR>        <!--<funder>Glasenapp Stiftung</funder>--><BR>        <!--<funder>ECCP, European Union</funder>--><BR>      </titleStmt><BR>      <editionStmt><BR>         <edition>digital edition, pgn.txt <date>2014</date></edition><BR>        <respStmt><BR>          <resp>markup</resp><BR>          <name>Thomas Malten</name><BR>        </respStmt><BR>      </editionStmt><BR>      <extent>0.8 MB</extent><BR>      <publicationStmt><BR>        <publisher>University of Cologne</publisher><BR>        <pubPlace>Cologne, Germany</pubPlace><BR>        <date when="2014">2014</date><BR>        <availability><BR>          <p>All rights reserved other than those granted under the Creative Commons Attribution<BR>            Non-Commercial Share Alike license available in full at <ptr<BR>              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized<BR>            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is<BR>            granted to build upon this work non-commercially, as long as credit is explicitly<BR>            acknowledged exactly as described herein and derivative work is distributed under the<BR>            same license.</p><BR>        </availability><BR>      </publicationStmt><BR>      <seriesStmt><BR>        <title level="s"></title><BR>        <respStmt><BR>          <resp></resp><BR>          <name></name><BR>        </respStmt><BR>        <idno></idno><BR>      </seriesStmt><BR>      <notesStmt><BR>        <note></note><BR>      </notesStmt><BR>      <sourceDesc><BR>        <biblStruct xml:id="PGN"><BR>          <monogr><BR>            <author>Tej Ram Sharma</author><BR>            <author> </author><BR>            <title type="main" level="m">Personal and Geographical Names in the Gupta Inscriptions</title><BR>            <title type="subordinate" level="m"></title><BR>            <edition></edition><BR>            <imprint><BR>              <pubPlace>Delhi</pubPlace><BR>              <publisher>Concept Publishing Company</publisher><BR>              <date>1978</date><BR>            </imprint><BR>            <extent>378 pages</extent><BR>          </monogr><BR>        </biblStruct><BR>      </sourceDesc><BR>    </fileDesc><BR>    <encodingDesc><BR>      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>      <projectDesc><BR>        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and<BR>            merge all published Sanskrit dictionaries. Its aim is<BR>            to provide a basic lexical corpus to provide an easy access to all available meanings of<BR>            Sanskrit words and to allow the creation of a number of computer programs that will help<BR>            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review<BR>                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p><BR>      </projectDesc><BR>      <editorialDecl><BR>        <p><BR>          <date>2014</date></p><BR>      </editorialDecl><BR>      <tagsDecl> </tagsDecl><BR>    </encodingDesc><BR>    <profileDesc><BR>      <creation> </creation><BR>      <langUsage><BR>        <language ident="de-Latn">English</language><BR>        <language ident="sa-Latn-x-AS">Sanskrit</language><BR>      </langUsage><BR>      <textClass><BR>        <keywords scheme="#lcsh"><BR>          <list><BR>            <item>Sanskrit language -- Dictionaries -- English language</item><BR>          </list><BR>        </keywords><BR>        <classCode scheme="#lc"></classCode><BR>      </textClass><BR>    </profileDesc><BR>    <revisionDesc><BR>      <change>0</change><BR>    </revisionDesc><BR>  </teiHeader><BR>  <facsimile><BR>    See downloads pgn_bookmark.pdf,  <BR>   from http://www.sanskrit-lexicon.uni-koeln.de<BR>  </facsimile><BR><BR>  <text><BR>    <body><BR>      <xi:include href="pgn.txt"><BR>        <xi:fallback><BR>         See download pgn.txt from http://www.sanskrit-lexicon.uni-koeln.de<BR>        </xi:fallback><BR>      </xi:include><BR>    </body><BR>  </text><BR></TEI>
+
 गुप्त
 1. Gupta: (No. 1, L. 28; No. 21, L. 4; No. 22, L. 1; No. 47, L. 1; No. 49, L. 1; No. 50, L. 1; No. 51, L. 2, L. 4; No. 53, L. 1): He was the founder of the family. We have already discussed his name.
 
@@ -73,7 +76,7 @@
 गणपतिनाग
 2. Gaṇapatināga (No. 1, L. 21): Another king of Āryyāvartta defeated by Samudragupta. The first part is Gaṇapati and the second is ‘nāga’, which signifies that the king belonged to the Nāga dynasty. He probably ruled at Mathurā.^2 Names based on Moon
 
-चन्द्रवर्म्मन्
+चन्द्रवर्मन्|चन्द्रवर्म्मन्
 1. Candravarmman: (No. 1, L. 21): One of the kings of Āryyāvartta defeated by Samudragupta. The first part is Candra and second is ‘Varmma’ which is a form for the original term ‘varman’, a surname generally used for kṣatriyas. He may be identified with the king of that name whose record has been found at Susunia in Bankura district, Bengal.^3
 
 सुरश्मिचन्द्र
@@ -154,19 +157,19 @@ Puṣyamitra (No. 13, L. 11,): The name is mentioned in plural.^28 It is said th
 राज
 7...rāja (No. 19, L. 3): The first part of the name has been damaged. He was a king and was the grandfather of Goparāja, the feudatory chief of king Bhānugupta. He was the founder of the Lakṣa lineage. Names ending in Varman
 
-बलवर्म्मन्
+बलवर्मन्|बलवर्म्मन्
 1. Balavarmman (No. 1, L. 21): One of the kings of Āryyāvartta said to have been forcefully uprotted by Samudragupta. The first part of the name is Bala which means strength or power and the second part Varmman is a surname used for kṣatriyas. The name may literally mean ‘one who protects with his power’. It is a name based on quality.
 
-बन्धुवर्म्मन्
+बन्धुवर्मन्|बन्धुवर्म्मन्
 2. Bandhuvarmman (No. 17, L. 15, L. 16): Bandhuvarmman was the son of Viśvavarman. He was probably a feudatory chief, ruling at Dasapura, Mandasor in Western Malwa,^41 in the time of Kumāragupta I. He has been mentioned as a king (nṛpa) governing the city of Daśapura and it was under his rulership that the Sun-temple was caused to be built by the guild of silk-cloth weavers at Mandasor (Daśapura). The relevant lines in the inscription lay a stress on his name Bandhu. He is described as possessed of firmness and statesmanship; beloved of (his) kinsmen; the relative, as it were, of (his) subjects; the remover of the afflictions of (his) connections; pre-eminently skilful in destroying the ranks of (his) proud enemies.^42 Varman is a kṣatriya surname meaning ‘the protector’, the entire expression may literally be translated as ‘the protector of his relatives’.
 
 भीमवर्मन्
 3. Bhīmavarman (No. 26, L. 1): He is mentioned as a mahārāja and seems to have been a feudatory king of Skandagupta. Bhīma was the name of one of the five Pāṇḍavas (the second son of Pāṇḍu) mentioned in the Mahābhārata. Literally the name may mean ‘one who protects by awfulness’. Bhīma is also the name of Rudra-Śiva, one of the eight forms of Śiva.^43 Thus it may be a name based on god Śiva.
 
-हस्तिवर्म्मन्
+हस्तिवर्मन्|हस्तिवर्म्मन्
 4. Hastivarmman (No. 1, L. 2): A king of Veṅgī in the time of Samudragupta and included in the list of the Dakṣiṇāpatha kings defeated by the latter. He is identical with the king of the Sālaṅkāyana dynasty whose record has been found at Peddavegi.^44 It is a name based on animal. The name Hastin (elephant) denotes fatness and valour.
 
-विश्ववर्म्मन्
+विश्ववर्मन्|विश्ववर्म्मन्
 5. Viśvavarmman (No. 17, L. 14): A ruler (Goptṛ) in the time of Kumāragupta I. Literally the name may mean ‘a protector of the world’. There is a second possibility that it is a name based on the deity Viṣṇu, because Viśva meaning all-pervading or all-containing, omnipresent,^45 is also the name of Viṣṇu-kṛṣṇa. One-word names
 
 अच्युत
@@ -286,7 +289,7 @@ Puṣyamitra (No. 13, L. 11,): The name is mentioned in plural.^28 It is said th
 श्रीदत्त
 6. Śrīdatta (No. 46, LL. 11-22): He was the eldest son of Hari-śreṣṭhin and the grandson of Kaivartti-śreṣṭhin. Śrī is the goddess of wealth and datta means given. The whole expression will mean, ‘born by the grace of the goddess of wealth’.
 
-वर्ग्ग
+वर्ग|वर्ग्ग
 7. Vargga, Vargga-grāmika (No. 46, L. 12, L. 15): He was the middle son of Hari-śreṣṭhin. In L. 12 he is mentioned only as Vargga and in L. 15 as Vargga-grāmika. While his father is called a śreṣṭhin he was not śreṣṭhin or banker by profession. The word grāmika affixed to Vargga's name suggests that he was the headman of a village which seems to be no other than Avaḍāra. Vargga literally means one who excludes or removes or averts’.^7 NAMES OF PRATHAMA KULIKAS (Chief Artisans)
 
 धृतिमित्र
@@ -415,10 +418,10 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 उमयशस्
 8. Umayaśas (No. 43, L. 4): The first part is Uma and the second yaśas. According to lexicographers Uma means a city, town or landing-place,^51 and yaśas means fame. The whole thus literally means ‘one who has fame in the city’. NAMES OF MAHATTARAS (Village-headmen)
 
-देवकीर्त्ति
+देवकीर्ति|देवकीर्त्ति
 1. (De) vakīrtti (No. 29, L. 4): The first part is ‘Deva’ which means ‘god’ and the second part is kīrtti, meaning ‘fame’. The whole expression means ‘having fame like that of the gods’.
 
-देवशर्म्मन्
+देवशर्मन्|देवशर्म्मन्
 2. Devaśarmman (No. 29, L. 5): The first part of the word ‘Deva’ means ‘god’ and the second part ‘śarmman’ is a name-ending added to the name of brāhmaṇas as prescribed by the Dharmaśāstras.
 
 गोपाल
@@ -457,7 +460,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 शुङ्कक
 14. Śuṅkaka (No. 29, L. 4): It is also an abbreviated name with the addition of suffix ‘ka’. The word should have been Śaṅkuka instead of Śuṅkaka. The present form may be due to the mistake of the engraver. The word Śuṅkaka is meaningless. Śaṅku is the name of Lord Śiva. We have many names based on the word Śaṅku in literature. Śaṅkuka was the name of a poet (author of the Bhuvanābhyudaya and son of Mayūra),^66 and also of a writer on rhetoric.^67
 
-वर्ग्गपाल
+वर्गपाल|वर्ग्गपाल
 15. Varggapāla (No. 29, L. 4): The first part is Vargga which means ‘a separate division, group, company, family, party’, literally meaning ‘one who excludes or removes or averts’.^68 The second part is pāla meaning protector, thus the whole means ‘protector of the division, group or party’.
 
 विष्णुभद्र
@@ -601,7 +604,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 गुप्तशर्म्मन्
 2. Guptaśarmman (No. 43, L. 7): It would literally mean ‘a hidden resort’. We can find many names with the first part ‘Gupta’, e.g., Guptanātha, Gupteśvara, etc.
 
-हरिशर्म्मन्
+हरिशर्मन्|हरिशर्म्मन्
 3. Hariśarmman (No. 43, L. 7): Hari means lord Viṣṇu or Kṛṣṇa. We have also such names as Viṣṇuśarman and Śivaśarman where the first part is based on the name of a certain deity. The second part Śarman gives no meaning here to the first part.
 
 हिमशर्म्मन्
@@ -613,7 +616,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 क्रमशर्म्मन्
 6. Kramaśarmman (No. 43, L. 8): Krama means uninterrupted or regular progress, hereditary descent.^43 It may literally mean ‘one who protects the family by causing increase in descent (by his birth)’.
 
-लक्ष्मणशर्म्मन्
+लक्ष्मणशर्मन्|लक्ष्मणशर्म्मन्
 7. Lakṣmaṇaśarmman (No. 43, L. 8): The name is based on Lakṣmaṇa, the younger brother of deity Rāma. The word Śarman here has the significance of a surname only.
 
 मघशर्म्मन्
@@ -628,7 +631,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 शुक्क्रशर्म्मन्
 11. Śukkraśarmman (No. 43, LL. 8-9): Śukra means ‘bright, resplendent; light-coloured, white’.^45 The name may be based on colour, day (Friday), or the sage Śukra. Literally it would mean ‘one who is white-coloured’.
 
-सुशर्म्मन्
+सुशर्मन्|सुशर्म्मन्
 12. Suśarmman (No. 43, L. 7): ‘Su’ is generally prefixed before names. It means ‘good or excellent’. The whole will literally signify ‘one who is good’. Names ending in Śiva
 
 अपरशिव
@@ -712,7 +715,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 पुरंदर
 14. Puraṁdara (No. 43, L. 9): Literally meaning ‘destroyer of strongholds’, Puraṁdara is the name of Indra, the lord of the gods.^75
 
-शंकर
+शङ्कर|शंकर
 15. Śaṁkara (No. 43, L. 9): Literally meaning ‘causing prosperity’, Saṁkara is the name of Lord Śiva.^76.
 
 उन्दान
@@ -790,13 +793,13 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 महासेनदत्त
 2. Mahāsenadatta (No. 43, L. 15; L. 26): The first part is ‘Mahāsena’ which is the name of Kārttikeya or Skanda.^3 The second part is ‘datta’ which means ‘given’. The whole expression means ‘given by god Skanda’. Mahāsenadatta was a brāhmaṇa inhabitant of Puṇḍravardhana, belonging to Vājasaneyacaraṇa and versed in the four Vedas. Names ending in Śarmman
 
-नागशर्म्मन्
+नागशर्मन्|नागशर्म्मन्
 1. Nāgaśarmman (No. 29, L. 3): The first part is Nāga based on the Nāga or serpent-demon. The second part śarmman (or śarman) is a brāhmaṇa surname.
 
 नाथशर्म्मन्
 2. Nāthaśarmman (No. 28, LL. 3-4; L. 12; L. 17): In lines 3-4 and 12 we get the second part as śarmman but in L. 17 we find it as śarmma. The first part is Nātha meaning ‘protector, patron, possessor, owner, lord’^4 The second part is a brāhmaṇa surname. Nātha is the name of several authors.^5
 
-शिवशर्म्मन्
+शिवशर्मन्|शिवशर्म्मन्
 3. Śivaśarmman (No. 29, L. 3): The first part is the name of god Siva and the second is śarmman. Names ending in Svāmin
 
 गोपदेवस्वामिन्
@@ -820,7 +823,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 हरित्रात
 5. Haritrāta (No. 16, L. 5): The first part of the name is Hari, which means ‘God’ and is also the name among others of Lord Viṣṇu and Kṛṣṇa. Generally Hari is derived from § hṛ’ to take away or remove evil or sin.^23 The second part ‘trāta’ means ‘protected’. Thus the whole literally means ‘protected by Hari’.^24 Haritrāta was a brāhmaṇa belonging to the community of the Caturvedins of the locality called Padmā in the town named Indrapura.
 
-कर्प्पटिक
+कर्पटिक|कर्प्पटिक
 6. Karppaṭika^25 (No. 34, L. 6): The inscription records the purchase of land measuring one kulyavāpa by a brāhmaṇa, named Karppatika, for the purpose of his agnihotra rites. The word ‘Karpaṭika’ or Kārpaṭika means ‘acting deceitfully, fradulent, dishonest, a rogue, cheat’.^26 It also means a beggar.^27 Both the meanings may be applied here.
 
 त्रैविद्य
@@ -871,7 +874,7 @@ Bhīma (No. 43, LL. 3; 17, 19, 25): It is a name based on the Epic tradition. Bh
 रुद्रसोम
 15. Rudrasoma (No. 15, L. 7): He is the son of Bhaṭṭisoma who has been mentioned as a mahātmā. He is described as having another appellation of Vyāghra.^45 It may be a name formed by the combination of the names of two deities Rudra and Soma.
 
-शंकर
+शङ्कर|शंकर
 16. Śaṁkara (No. 22, L. 6): It is the name of a Jaina monk^46, who installed an image of Pārśvanātha. Literally meaning ‘causing prosperity’, it is one of the common names of Lord Śiva.^47 The present case goes against the traditions of the Smṛtis which forbid the giving of the names of deities directly to human beings.
 
 सनसिद्ध
@@ -1387,7 +1390,7 @@ Puṣkariṇī Puṣkara means a blue lotus so Puṣkariṇī denotes a lotus po
 त्रिवृता
 6. Trivṛtā (No. 44, L. 2, L. 8, L. 15): In L. 2, two localities named Trivṛtā and Śrīgohālī have been mentioned as connected with the village named Vāyigrāma.^676 Literally it means ‘surrounded or covered by three sides’. It seems that when the locality was founded the city was surrounded by some natural boundary on its three sides. This may have been in the form of rivulets or streams or hillocks. TRIBAL PLACE-NAMES Following are the place-names which have tribal associations without any mention of the specific boundary:
 
-आर्यावर्त्त
+आर्यावर्त|आर्यावर्त्त
 1. Āryāvartta (No. 1, L. 12): Samudragupta is stated to have violently exterminated many kings of Āryāvarta such as Rudradeva, Matila, Nāgadatta, Candravarman, Gaṇapatināga, Nāgasena, Acyuta, Nandin and Balavarman.^677 We also find references to Āryāvarta in other epigraphic records.^678 Literally Āryāvarta^679 means ‘the abode of the Āryas, or excellent or noble people’. The word ‘Ārya’ here is significant. It has been interpreted in two ways: some scholars derive the word Ārya from the root §Ar, to plough, and suggest that the Vedic Āryans were so called because they despised the pursuits of agriculture and remained shepherds and hunters.^680 “If Ārya were purely a racial term. a more probable derivation would be Ar, meaning strength or valour, from §ar to fight, whence we have the name of the Greek war-god Ares, areios, brave or warlike, perhaps even arete, virtue signifying, like the Latin virtues, first physical strength and courage and then moral force and elevation”.^681 “Intrinsically, in its most fundamental sense, Ārya means an effort or an uprising or overcoming. The Āryan is he who strives and overcomes all outside him and within him that stands opposed to the human advance.”^682 Wilson says that a variety of ancient designations of which ‘Āria’ is a component element (cf. Ariāna) are connected with the term Ārya. The Zend name for the country to the west of the Indus was ‘Eriene-veejo’, that is the Sanskrit Āryāvarta.^683 In defining the boundaries of Āryāvarta, Vasiṣṭha and Baudhāyana in their Dharmasūtras lay stress on the word Ārya and explain it to mean śiṣṭa. Patañjali also in his Mahā bhāṣya first explains the meaning of śiṣṭa in order to draw attention to the cultural basis of the name Āryāvarta. He remarks that correct conduct is found in Āryāvarta and then mentions its boundaries.^684 In the Brāhmaṇa period the centre of Āryan culture and civilization shifted to the Gangetic Doab “Āryāvarta came to be treated as conterminous with the region between the Gaṅgā and Yamunā.^685 In the Taittirīya Āraṇyaka^686 special honour is assigned to those who dwell between the Gaṅgā and the Yamunā. In the Śutra period Āryāvarta extended from the hills of Central Rajasthan to the hills of Central Bihar.^687 At the time of Patañjali,^688 Āryāvarta was bounded on the north by the Himalayas, on the south by Pāriyātraka, on the west by Ādarśāvalī and on the east by Kālakavana (Rajmahal hills) ‘Black Forest’ or rather Kanakhala, near Hardwar.^689 Thus it seems that Āryāvarta bore a sacerdotal sense and denoted a particularly limited area where Āryan institutions were the basis of social order.^690 What was originally called Āryāvarta was later named as Madhya-deśa and Āryāvarta came to include the whole of Northern India. This is related to the gradual spread of Āryanism.^691 Brahmāvarta and Brahmarṣideśa lost their identity in the Madhya-deśa and combined with Prācya, Pratīcya and Udīcya (Uttarāpatha) became the equivalent of Āryāvarta.^692 Both Udīcya and Prācya were taken as the home (loka) of standard Sanskrit both in Pāṇini's time and earlier. In the time of Patañjali, Āryāvarta came to be regarded as the home of the Śiṣṭas (persons proficient in the Śāstras) whose language set the norm.^693 By the second century A.D., the last limit of the composition of the Manu-smṛti, the wider outlook of Āryāvarta was popular. It was the name of the tract extending from the Eastern to the Western Ocean, and bounded on the north and south by the Himalaya and Vindhya respectively.^694 This is supported by the Kāvyamīmāṁsā of Rājaśekhara.^695 Rājaśekhara speaks of the river Narmadā as the dividing line between Āryāvarta and the Dakṣiṇāpatha.^696 In Inscription No. 1, L. 29 Āryāvarta is contrasted with Dakṣiṇāpatha, ‘the southern region’.^697 The wider sense of Āryāvarta is also supported by references in the Abhidhāna-cintāmaṇi^698 and the Rājataraṅgiṇī.^699
 
 काकनादबोट
@@ -1436,18 +1439,4 @@ Puṣkariṇī Puṣkara means a blue lotus so Puṣkariṇī denotes a lotus po
 12. Vilāsinī^75 (No. 14, L. 16): The river comes out from the mountain Raivataka. Fleet takes Sikatāvilāsinī as an adjective of the Palāśinī^76 but the three, Sikatā, Vilāsinī and Palāśinī seem to be separate rivers as we find the use of the plural number in the case which denotes the mention of more than two rivers. Hence Vilāsinī is the third river in the context: the other two being Pilāśinī and Sikatā (Suvarṇasikatā). THE MOUNTAINS
 
 कैलाश
-1. Kailāśa (No. 17, L. 6: L. 13): In L. 6 of the inscription the poet while giving an account of the city of Daśapura describes its buildings as lofty like the mountain Kailāśa itself.^77 L. 13 describes the mountain Kāilaśa as one of the breasts of the earth (the other being Sumeru) which was being reigned over by the Gupta king Kumāragupta.^78 Kailāśa mountain is situated about 25 miles to the north of Māna-sarovara beyond Gangrī and to the east of the Niti Pass.^79 The Mahābhārata^80 includes the Kumaun and Garhwal mountains in the Kailāśa range. The mountain also known as Hemakūṭa, Śaṁkaragiri and is to be identified with the Aṣṭapada mountain of the Jainas.^81 It surpasses in beauty the big Gurlā or any other of the Indian Himālaya.^82 Traditionally it is supposed to be the habitat of Śiva and Pārvatī.^83
-
-रैवतक
-2. Raivataka (No. 14, L. 16) (the same as Ūrajayat see Ūrjayat): Raivataka is also mentioned in the Ādi-Parvan of the Mahābhārata,^84 the Vividhatīrthakalpa,^85 the Bṛhatsaṁhitā,^86 the Dohad Stone Inscription of Mahamūda,^87 and the Jaunpur Inscription of Iśānavarman.^88 Its modern name Girnar was a switch over to it from the city name Girinagara, i. e., ‘a city on or at the foot of a hill’.^89 Raivataka derives its name from king Revatā, the father of Revatī, (the wife of Baladeva, Kṛṣṇa's elder brother).^90 Revata is supposed to have come there from Dwārakā and lived on the hill. There is still a tank called Revatī-kuṇḍa near Dāmodarakuṇḍa in the gorge of the hill.^91 The Gujarati Sanskrit poet Māgha in the Śiśupālavadha devotes the whole of Canto IV (verses 1-68) to the description of the Raivataka mountain. In Canto VI (verses 1-79) the poet describes the occurrence of six seasons one by one at the mountain Raivataka.
-
-सुमेरु
-3. Sumeru (No. 17, L. 13, No. 32, L. 15): In No. 17 the mountain Sumeru is described as one of the breasts of the earth (the other being Kailāśa) and the Gupta king Kumāragupta is mentioned as the lord of the earth. In No. 32 it has been named as Amarabhūdhara. Its other names are Meru, Karṇikācala, Ratnasānu, Svargiri, Svargigiri and Kāñcanagiri.^92 Sumeru is identified with Rudra Himālaya in Garhwal, where the river Gaṅgā has its source, it is near Badarikāśrama.^93 According to the Matsya Purāṇa^94 the Sumeru Parvata is bounded on the north by Uttara-Kuru, on the South by Bhāratavarṣa, on the west by Ketumāla and on the east by Bhadrāśvavarṣa.^95 It is also mentioned in the Padmapurāṇa.^96 and the Kālikāpurāṇa.^97 According to the Kālikāpurāṇa Śiva saw the summit of it. We also learn from this text that the Jambu river flows from this mountain.^98 We also find the mention of the Meru in the Śiśupālavadha of Māgha. It was on account of the eminence of Sumeru among the mountains that for praising kings they were described as ‘Meru’ among kings.^99 This metaphor may have been applied after the contention of the Purāṇas that the earth is supposed to be like lotus, with four Mahādvīpas as its four petals and mount Meru as its pericarp.^100
-
-ऊर्जयत्
-4. Ūrjayat (No. 14, L. 16): The poet here draws a picture: the lake Sudarśana looked like the sea^101 and the rivers Palāśinī, (Suvarṇasikatā), etc., had joined it has if the mountain Ūrjayat had stretched his hand with flowers (growing on the banks of the trees and thus falling in the rivers) for sending his daughters to their worthy husband.^102 Since the rivers emerged out from the mountain Raivataka, it may be called their father as described in verse 28, but to avoid repetition the poet uses in verse 29 a synonym of its name viz., the Ūrjayat and while making it the symbal of father represents the sea as the husband of the rivers.^103 Thus the mountains Ūrjayat and the Raivataka are one and the same. We also get support for our suggestion from the fact that whereas the Junāgaṛh Rock Inscription of Rudradāman describes the emergence of the rivers Palāśinī, Suvarṇsikatā etc., from the mountain Ūrjayat^104 in Inscription No. 14 the name of Raivataka is used in the same context.^105 Fleet^106 and Sircar^107 are wrong in describing Raivataka as a hill different from Ūrjayat or Girnar situated opposite to it. The Vividhatīrthakalpa also uses the names Raivataka and the Ujjayant (Ūrjayat) as synonyms for Girinara which was sanctified by Śrīnemi and is situated in Surāṣṭra (South Kathiawad).^108 In another inscription at Girnār (about 15th century) verses 5-8 refer to the mountain Girnār by both the names Ujjayanata and Raivata.^109 The Abhidhānacintāmaṇi of Hemacandra also mentions Ujjayanta and Raivataka as synonyms.^110 The Kap copper-plate of Keṭadi Sadāśiva-Nāyaka also refers to Ujjantagiri (Ūrjayat).^111 The mountain Ūrjayat is identified with Girnar hill near Junāgaṛh.^112 The literal meaning of Ūrjayat is strong, powerful, eminent.^113
-
-विष्णुपद
-5. Viṣṇupada (No. 20, L. 6): We know from the inscription that a lofty standard of the divine Viṣṇu was set up on the hill called Viṣṇupada.^114 Literally meaning ‘the hill marked with footprints of Viṣṇu’, Viṣṇupada hill has been identified with that part of the Delhi Ridge on which the column stands.^115 But there is no mountain in Delhi and the inscription appears to have been brought there from the mount Viṣṇupada.^116 On the evidence from the Epics, this Viṣṇupada hill is not far from Kurukshetra and the Beas.^117
-
-
+1. Kailāśa (No. 17, L. 6: L. 13): In L. 6 of the inscription the poet while giving an account of the city of Daśapura desc

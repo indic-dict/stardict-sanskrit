@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!-- Nov 27, 2013 --><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR>  <teiHeader xml:lang="en-Latn"><BR>    <fileDesc><BR>      <titleStmt><BR>        <title>Nachträge zum Sanskrit-Wörterbuch</title><BR>        <editor>Jim Funderburk</editor><BR>        <editor>Thomas Malten</editor><BR>        <principal>Thomas Malten</principal><BR>        <funder>DFG - Deutsche Forschungsgemeinschaft</funder><BR>        <!--<funder>Glasenapp Stiftung</funder>--><BR>        <!--<funder>ECCP, European Union</funder>--><BR>      </titleStmt><BR>      <editionStmt><BR>         <edition>digital edition, sch.txt <date>2009, 2014</date></edition><BR>        <respStmt><BR>          <resp>markup</resp><BR>          <name>Thomas Malten</name><BR>        </respStmt><BR>      </editionStmt><BR>      <extent>3MB</extent><BR>      <publicationStmt><BR>        <publisher>University of Cologne</publisher><BR>        <pubPlace>Cologne, Germany</pubPlace><BR>        <date when="2014">2014</date><BR>        <availability><BR>          <p>All rights reserved other than those granted under the Creative Commons Attribution<BR>            Non-Commercial Share Alike license available in full at <ptr<BR>              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized<BR>            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is<BR>            granted to build upon this work non-commercially, as long as credit is explicitly<BR>            acknowledged exactly as described herein and derivative work is distributed under the<BR>            same license.</p><BR>        </availability><BR>      </publicationStmt><BR>      <seriesStmt><BR>        <title level="s"></title><BR>        <respStmt><BR>          <resp></resp><BR>          <name></name><BR>        </respStmt><BR>        <idno></idno><BR>      </seriesStmt><BR>      <notesStmt><BR>        <note></note><BR>      </notesStmt><BR>      <sourceDesc><BR>        <biblStruct xml:id="SCH"><BR>          <monogr><BR>            <author>Richard Schmidt</author><BR>            <author> </author><BR>            <title type="main" level="m">Nachträge zum Sanskrit-Wörterbuch <BR>               in kürzerer fassung Otto Böhtlingk </title><BR>            <title type="subordinate" level="m"></title><BR>            <edition></edition><BR>            <imprint><BR>              <pubPlace>Leipzig</pubPlace><BR>              <publisher>Otto Harrassowitz</publisher><BR>              <date>1928</date><BR>            </imprint><BR>            <extent>398 pages</extent><BR>          </monogr><BR>        </biblStruct><BR>      </sourceDesc><BR>    </fileDesc><BR>    <encodingDesc><BR>      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>      <projectDesc><BR>        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and<BR>            merge all published Sanskrit dictionaries. Its aim is<BR>            to provide a basic lexical corpus to provide an easy access to all available meanings of<BR>            Sanskrit words and to allow the creation of a number of computer programs that will help<BR>            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review<BR>                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p><BR>      </projectDesc><BR>      <editorialDecl><BR>        <p><BR>          <date>2014</date></p><BR>      </editorialDecl><BR>      <tagsDecl> </tagsDecl><BR>    </encodingDesc><BR>    <profileDesc><BR>      <creation> </creation><BR>      <langUsage><BR>        <language ident="de-Latn">German</language><BR>        <language ident="sa-Latn-x-AS">Sanskrit</language><BR>      </langUsage><BR>      <textClass><BR>        <keywords scheme="#lcsh"><BR>          <list><BR>            <item>Sanskrit language -- Dictionaries -- German language</item><BR>          </list><BR>        </keywords><BR>        <classCode scheme="#lc"></classCode><BR>      </textClass><BR>    </profileDesc><BR>    <revisionDesc><BR>      <change>0</change><BR>    </revisionDesc><BR>  </teiHeader><BR>  <facsimile><BR>    See downloads sch_bookmark.pdf,  <BR>   from http://www.sanskrit-lexicon.uni-koeln.de<BR>  </facsimile><BR><BR>  <text><BR>    <body><BR>      <xi:include href="sch.txt"><BR>        <xi:fallback><BR>         See download sch.txt from http://www.sanskrit-lexicon.uni-koeln.de<BR>        </xi:fallback><BR>      </xi:include><BR>    </body><BR>  </text><BR></TEI>
+
 अ
 m. º= sarvajn5o…'rhan , S I , 53 , 3.<BR> -Vis2n2u , H 31 , 9; Va1s. 113 , 1. * 
 
@@ -163,7 +166,7 @@ n. Untätigkeit , Sarvad. 163 , 19.
 अकर्मप्राप्ति
 f. das Nicheintreten -x, Nichtzuhilfekommen des Schicksals , Pan5cat. 132 , 17. 
 
-अकर्मवन्त्
+अकर्मवत्|अकर्मवन्त्
 Adj. der den Werken entsagt hat , MBh. 14 , 19 , 8. 
 
 अकर्मश्रान्त
@@ -313,7 +316,7 @@ n. = an3ka1n3ka , Maitr. S. 2 , 8 , 7.
 अकिंचनीकृत
 = daridrita , S I , 53 , 7 (Ko.). º 
 
-अकिंचिज्ज्ञ
+अकिञ्चिज्ज्ञ|अकिंचिज्ज्ञ
 Adj. nichts wissend , Spr. 5188. 
 
 अकिंचिद्
@@ -367,7 +370,7 @@ mit cid ohne irgendeine Absicht , MBh. 12 , 219 , 26.
 अकुतोमृत्यु
 Adj. dem von keiner Seite der Tod droht , Bha1g. P. 3 , 17 , 19. 
 
-अकुत्सयन्त्
+अकुत्सयत्|अकुत्सयन्त्
 Adj. nicht schmähend , -xtadelnd. 
 
 अकुथित
@@ -421,7 +424,7 @@ Adj. nicht falsch (Münze).
 अकूटात्मन्
 Adj. = nirvya1jahr2daya und aparvatasvabha1va , H 43 , 175. º 
 
-अकूर्मपृषन्त्
+अकूर्मपृषत्|अकूर्मपृषन्त्
 Adj. nicht wie eine Schildkröte gesprenkelt , A1past. S4r. 2 , 11 , 3. 
 
 अकृच्छ्रलङ्घ्य
@@ -526,7 +529,7 @@ Adj. frei von Zorn , S4obh. 61. |अकोप m. º= i1s2atkopa , Yudh. 7 , 16 (
 अकोपन
 Adj. (f. a1) nicht zornig , -xböse (Kuh) , Hema1dri 1 , 456 , 2. 
 
-अकोपयन्त्
+अकोपयत्|अकोपयन्त्
 Adj. jemand nicht aufregend , 213 , 24. 
 
 अकोपिता
@@ -580,7 +583,7 @@ Adj. dass. , Sus4r. 1 , 257 , 8.
 अक्रियाक
 Adj. untätig , unbeweglich , S4is4. 20 , 17. 
 
-अक्रीणन्त्
+अक्रीणत्|अक्रीणन्त्
 Adj. nicht kaufend , so v.a. Gekauftes nicht annehmend , Vis2n2us. 5 , 129. 
 
 अक्रीत
@@ -589,7 +592,7 @@ Adj. nicht gekauft , S4at. Br. 3 , 2 , 4 , 7; Ta1n2d2ya-Br. 9 , 5 , 1.
 अक्रुद्ध
 Adj. nicht erzürnt , Taitt. A1r. 1 , 4 , 2. 
 
-अक्रुध्यन्त्
+अक्रुध्यत्|अक्रुध्यन्त्
 Adj. nicht zürnend , S4at. Br. 14 , 2 , 2 , 30. 
 
 अक्रूर
@@ -610,7 +613,7 @@ S4at. Br. 3 , 2 , 2 , 24.
 अक्रोध
 , f. a1 , Hema1dri 2 , a , 92 , 9. 
 
-अक्रोशन्त्
+अक्रोशत्|अक्रोशन्त्
 Adj. nicht schreiend , -xwehklagend , MBh. 3 , 219 , 14. 
 
 अक्लिष्ट
@@ -661,7 +664,7 @@ m. Pl. Grütze von unenthülstem Korn , Ma1n. Gr2hy. 1 , 11.
 अक्षतामय
 m. eine Krankheit ohne Verletzung , S4at. Br. 13 , 3 , 8 , 3. 
 
-अक्षतिमन्त्
+अक्षतिमत्|अक्षतिमन्त्
 Adj. unverletzt , Yudh. 7 , 118. º 
 
 अक्षतोदक
@@ -715,7 +718,7 @@ f. auch: Ungeduld , Kir. 2 , 42.
 अक्षमालामय
 Adj. aus Rosenkränzen gebildet , Hema1dri 2 , a , 104 , 14. 
 
-अक्षमावन्त्
+अक्षमावत्|अक्षमावन्त्
 Adj. ungeduldig , unnachsichtig , MBh. 3 , 28 , 16. 
 
 अक्षमिन्
@@ -844,7 +847,7 @@ Vis2n2us. 96 , 92. Nach dem Komm. °ku1t2e…=…paks2man2i1 , nach Anderen netr
 अक्षिच्छिद्र
 n. Augenöffnung , Ma1n. S4r. 8 , 19. 
 
-अक्षिण्वन्त्
+अक्षिण्वत्|अक्षिण्वन्त्
 Adj. nicht übel mitnehmend. 
 
 अक्षित्
@@ -871,7 +874,7 @@ m. Verblendung , Nais2. 8 , 31.
 अक्षिरुज्
 f. Augenkrankheit , Vara1h. Br2h. S. 51 , 11; 104 , 16. 
 
-अक्षिरोगवन्त्
+अक्षिरोगवत्|अक्षिरोगवन्त्
 Adj. augenkrank , Hema1dri 1 , 745 , 7. 
 
 अक्षिलक्षी
@@ -982,7 +985,7 @@ frei von Bösewichten , S II , 202 , 2; not a ruffian , Hars2ac. 202 , 13. º
 अखात
 2. a) Matsyap. 234 , 4. 
 
-अखादन्त्
+अखादत्|अखादन्त्
 auch: nicht essend , MBh. 13 , 115 , 41. 
 
 अखिन्न
@@ -1015,7 +1018,7 @@ m. = S4iva , S4ri1k. XVI , 7. º
 अगड
 ? S I , 501 , 11 (Ko.) s. tad2ika1rgala. º 
 
-अगणयन्त्
+अगणयत्|अगणयन्त्
 Adj. nicht achtend auf (Acc.) , R. 4 , 10 , 4. 
 
 अगणितप्रतियात
@@ -1144,7 +1147,7 @@ Adj. keinen brummenden Laut von sich gebend , Ba1lar. 151 , 5.
 अगुण
 3. ohne besondere Beigabe , -xbesonderes Epitheton , Ka1ty. S4r. 6 , 7 , 23. 
 
-अगुणवन्त्
+अगुणवत्|अगुणवन्त्
 auch: ohne Vorzüge , schlecht , böse , Spr. 2122. 
 
 अगुणशील
@@ -1186,7 +1189,7 @@ und *°ka…gan2a…ca1rva1di. *
 अगृहीत
 Adj. nicht geschöpft , S4at. Br. 3 , 9 , 2 , 8; 4 , 2 , 3 , 3. 5.<BR> -ºungeflochten? Mgs. II , 6 , 4^b. 
 
-अगृह्णन्त्
+अगृह्णत्|अगृह्णन्त्
 Adj. nicht fassend (vom Blutegel gesagt) , 217 , 32. 
 
 अगृह्य
@@ -1492,7 +1495,7 @@ m. *älterer Bruder , S4ri1k. XXV , 15. 18.
 अग्रजय
 m. = uttamajaya , S I , 596 , 11. º 
 
-अग्रजवन्त्
+अग्रजवत्|अग्रजवन्त्
 Adj. zusammen mit dem älteren Bruder , Yudh. 1 , 93. º 
 
 अग्रणी
@@ -2062,10 +2065,10 @@ n. Jugend , Uttarar. 95 , 18 (125 , 1).
 अचरित
 n. M 8 , 49 nach Mit. zu Ya1jn5. 2 , 40 das Nichtessen , Enthaltung von Speisen. 
 
-अचरिष्यन्त्
+अचरिष्यत्|अचरिष्यन्त्
 Adj. der das Gelübde nicht einhalten will , Gobh. 3 , 1 , 13. 
 
-अचर्वयन्त्
+अचर्वयत्|अचर्वयन्त्
 Adj. nicht kauend. 
 
 अचल
@@ -2422,7 +2425,7 @@ Adv. mit kr2 jemandem (Akk.) ewige Jugend und Unsterblichkeit verleihen , Subha1
 अजलोमन्
 Adj. (f. °mni1) ziegenhaarig , Maitr , S. 4 , 2 , 14 (37 , 15). 
 
-अजल्पन्त्
+अजल्पत्|अजल्पन्त्
 Adj. nicht sagend , 129 , 10. 
 
 अजवृष
@@ -2515,7 +2518,7 @@ f. Indigestion , Komm. zu Nya1yam. 6 , 8 , 10.
 अजीर्यता
 f. Unzerstörbarkeit , Kat2hop. 1 , 28. 
 
-अजीर्यन्त्
+अजीर्यत्|अजीर्यन्त्
 Adj. nicht alternd , Kat2hop. 1 , 28. 
 
 अजीवनि
@@ -2779,7 +2782,7 @@ Adj. dieses nicht wissend , darin unerfahren.
 अतत
 Adj. nicht bedeckt , nicht voll von , Yudh. 7 , 46. º 
 
-अतत्त्वार्थवन्त्
+अतत्त्वार्थवत्|अतत्त्वार्थवन्त्
 Adj. der Wahrheit nicht entsprechend , Bhag. 18 , 22. 
 
 अतथाकरण
@@ -2824,7 +2827,7 @@ Yudh. 2 , 15 (atanutaya1…gauraven2ety…arthah.…atanor…bha1vo…'tanuta1�
 अतनुबल
 Adj. (f. a1) stark , Mudra1r. 157 , 1 (231 , 5). 
 
-अतन्तुमन्त्
+अतन्तुमत्|अतन्तुमन्त्
 Adj. nicht fadenziehend (Milch). 
 
 अतन्त्र
@@ -3094,7 +3097,7 @@ Maitr. S. 4 , 4 , 9 (60 , 9). 10 (62 , 10).
 अतिजरठ
 Adj. sehr alt. 
 
-अतिजरन्त्
+अतिजरत्|अतिजरन्त्
 Adj. (f. °ti1) , sehr alt. 
 
 अतिजवन
@@ -3433,7 +3436,7 @@ Adj. dem Sinne nach etwa: stark betäubend , MBh. 7 , 10 , 17.
 अतिबल
 n. große Kraft usw. Abl. stark (verwundet) , MBh. 13 , 5 , 6. |अतिबल m. oder n. = atibala 3. a) Vara1h. Yogay. 9 , 18. 
 
-अतिबलवन्त्
+अतिबलवत्|अतिबलवन्त्
 Adj. überaus mächtig , MBh. 1 , 74 , 79. 
 
 अतिबलात्कृत
@@ -3505,7 +3508,7 @@ in na1tibhogin.
 अतिमञ्जुल
 Adj. überaus lieblich , Das4ak. 86 , 12. 
 
-अतिमतिमन्त्
+अतिमतिमत्|अतिमतिमन्त्
 Adj. überaus klug , Mudra1r. 86 , 15 (141 , 9); R. ed. Bomb. 4 , 29 , 29. 
 
 अतिमद
@@ -3520,7 +3523,7 @@ Adj. sehr wütend , MBh. 8 , 22 , 10.
 अतिमर्शम्
 Absol. übergreifend , Ait. Br. 6 , 28 , 6. 
 
-अतिमहन्त्
+अतिमहत्|अतिमहन्त्
 Adj. überaus groß (Baum) , Das4ak. 46 , 16; allzu lang (Erzählung) , 79 , 3. 
 
 अतिमहारौद्र
@@ -3682,7 +3685,7 @@ m. zu langes Gerede. Pl. Vr2s2abh. 33.
 अतिलवणसात्म्य
 Adj. zu sehr an Salzgenuß gewöhnt , Caraka 3 , 1. 
 
-अतिलालवन्त्
+अतिलालवत्|अतिलालवन्त्
 Adj. stark den Speichel triefen lassend , Sus4r. 2 , 281 , 14. 
 
 अतिलोक
@@ -3694,7 +3697,7 @@ Adj. wonach man großes Verlangen hat , überaus reizend. Nom. abstr. °ta1 f. J
 अतिलोलुप
 Adj. heftige Begierden habend , Bha1g. P. 3 , 20 , 23. 
 
-अतिलौल्यवन्त्
+अतिलौल्यवत्|अतिलौल्यवन्त्
 Adj. zu -x, sehr begierig , Katha1s. 22 , 200. 
 
 अतिवक्र
@@ -3844,7 +3847,7 @@ m. ein großer Held , Maha1vi1rac. 10 , 20.
 अतिवीर्य
 Adj. überaus mächtig , Hariv. 1558. 
 
-अतिवीर्यवन्त्
+अतिवीर्यवत्|अतिवीर्यवन्त्
 Adj. überaus wirksam (Heilmittel) , Kir. 2 , 4. 
 
 अतिवृद्ध
@@ -3853,13 +3856,13 @@ m. N. pr. des Weltelefanten des Westens , Garga in JRAS 1871 , S. 274.
 अतिवृष्य
 Adj. (f. a1) stark auf die Potenz wirkend , Vara1h. Br2h. S. 76 , 9. 
 
-अतिवेगवन्त्
+अतिवेगवत्|अतिवेगवन्त्
 Adj. überaus schnell fliegend (Pfeil) , MBh. 3 , 268 , 17. 
 
 अतिवेदना
 f. heftiger Schmerz , Katha1s. 29 , 167. 
 
-अतिवेपथुमन्त्
+अतिवेपथुमत्|अतिवेपथुमन्त्
 Adj. heftig zitternd , S4is4. 9 , 77. 
 
 अतिवैचक्षण्य
@@ -3931,7 +3934,7 @@ Adj. überaus falsch , -xhinterlistig , -xboshaft , MBh. 13 , 33 , 11; Spr. 4258
 अतिशय
 m. auch = vis4es2a , Art. s4a1stra1ti° Ja1takam. 4. 
 
-अतिशयवन्त्
+अतिशयवत्|अतिशयवन्त्
 Adj. übermäßig , Das4ak. 85 , 17. 
 
 अतिशयितत्व
@@ -3970,7 +3973,7 @@ Adj. überaus prächtig , -xschön , R. 2 , 30 , 41.
 अतिशोभाकर
 Adj. großen Schmuck verleihend , MBh. 8 , 34 , 46. 
 
-अतिशोभावन्त्
+अतिशोभावत्|अतिशोभावन्त्
 Adj. außerordentlich glänzend , Yudh. 8 , 33. º 
 
 अतिशोषिन्
@@ -4201,7 +4204,7 @@ n. große Verhöhnung , -xVerspottung , -xan den Tag gelegte Geringschätzung , 
 अतीचार
 m. 1. = atica1ra 2. , Ka1s4i1kh. 56 , 23.<BR> -2. Übertretung. vrata1ti1ca1ra Hem. Par. 1 , 385. Vgl. anati1ca1ra und nirati1ca1ra weiter unten. 
 
-अतीतवन्त्
+अतीतवत्|अतीतवन्त्
 vergangen , S II , 298 , 1. º 
 
 अतीरेक
@@ -4612,7 +4615,7 @@ f. keine Sklavin , MBh. 1 , 34 , 19.
 अदासिक
 Adj. ohne Sklavinnen , Hemadri 1 , 639 , 14. 16. 
 
-अदास्यन्त्
+अदास्यत्|अदास्यन्त्
 Adj. nicht zu geben beabsichtigend , AV. 6 , 71 , 3; 119 , 1. 
 
 अदाहुक
@@ -4630,7 +4633,7 @@ m. ein Gott; Can2d2i1s4. 54.<BR> -º = bha1skara , S I , 45 , 4.
 अदित्सा
 f. das Nichtgebenwollen , Hem. Par. 5 , 10. 
 
-अदिप्सन्त्
+अदिप्सत्|अदिप्सन्त्
 Adj. niemand etwas anhaben wollend , AV. 4 , 36 , 1. 
 
 अदिवा
@@ -4651,13 +4654,13 @@ auch: mit vollem Tone ausgesprochen. °tama Sam2hitop. 8 , 1.
 अदीनग
 Adj. wohlgemut , Hariv. 15843. 15916. 
 
-अदीप्तिमन्त्
+अदीप्तिमत्|अदीप्तिमन्त्
 Adj. nicht leuchtend , -xstrahlend , Su1ryas. 7 , 20. 
 
 अदीर्घबोध
 Adj. von kurzem Verstande , Bha1g. P. 10 , 81 , 37. 
 
-अदीव्यन्त्
+अदीव्यत्|अदीव्यन्त्
 Adj. nicht würfelnd , AV. 6. 119 , 1. 
 
 अदुःख
@@ -4669,7 +4672,7 @@ Adj. kein Leid verdienend , MBh. 3 , 27 , 6. 20. 27. 34.
 अदुःखिन्
 Adj. kein Leid empfindend , nicht unglücklich , Nom. abstr. °tva n. , Hema1dri 1 , 151 , 22. 
 
-अदुन्वन्त्
+अदुन्वत्|अदुन्वन्त्
 Adj. keine Gewissensbisse empfindend , leichten Herzens , Hem. Par. 1 , 185. 
 
 अदुर्जनत्व
@@ -4897,7 +4900,7 @@ auch: ohne Gefährten , ganz allein (Katha1s. 24 , 103); seines Gleichen nicht h
 अद्विवर्ष
 Adj. noch nicht zwei Jahre alt , Pa1r. Gr2hy. 3 , 10 , 2. 
 
-अद्विषन्त्
+अद्विषत्|अद्विषन्त्
 Adj. niemand hassend , MBh. 2 , 54 , 2. 
 
 अद्वीप
@@ -4939,7 +4942,7 @@ n. Unterschale , Hema1dri 1 , 228 , 2. 5. 18.
 अधःपुष्पिका
 f. eine best. Pflanze , Sud. zu A1past. Gr2hy. 14 , 14. 
 
-अधनवन्त्
+अधनवत्|अधनवन्त्
 Adj. besitzlos , arm , Agni-P. 38 , 11. 
 
 अधमर्णता
@@ -5053,7 +5056,7 @@ Adj. auf dem Erdboden sich zur Ruhe legend , La1t2y. 10 , 18 , 11.
 अधातु
 m. keine Region , Vajraccs. 29 , 11. 
 
-अधातुमन्त्
+अधातुमत्|अधातुमन्त्
 Adj. nicht aus Elementen bestehend , Bha1g. P. 2 , 8 , 7. 
 
 अधारयमाण
@@ -5131,7 +5134,7 @@ Adj. voller Sorgen , Das4ak. 6 , 12.
 अधिकाधिक
 auch: überaus groß usw. , Hem. Par. 1 , 394. 430. °kam Adv. immer mehr und mehr 2 , 391. 
 
-अधिकारवन्त्
+अधिकारवत्|अधिकारवन्त्
 m. Beamter , Mudra1r. 65 , 18 (106 , 8). 
 
 अधिकारसंप्रदाय
@@ -5503,7 +5506,7 @@ f. nicht die oberste Stelle , MBh. 8 , 32 , 41.
 अधूत
 Adj. nicht bewegt , Ta1n2d2ya-Br. 7 , 9 , 9. 
 
-अधून्वन्त्
+अधून्वत्|अधून्वन्त्
 Adj. nicht bewegend , Tan2d2ya-Br. 7 , 9 , 9. 
 
 अधृति
@@ -5578,7 +5581,7 @@ Kaus4. 35 , 4.
 अध्यध्वम्
 Adv. auf dem Wege , S4is4. 12 , 32. 
 
-अध्ययनमात्रवन्त्
+अध्ययनमात्रवत्|अध्ययनमात्रवन्त्
 Adj. der nur studiert hat , Ba1dar. 3 , 4 , 12. 
 
 अध्ययनसंप्रदान
@@ -5677,7 +5680,7 @@ Adj. nicht mehr am Leben seiend , Mayr , Ind. Erb. 18.
 अध्रुव
 Adj. ºunbestimmt -x, ungenau aussagend (Zeuge) , Kaut2. 177 , 7. Vorher kommt: dhruvam2…hi…sa1ks2ibhih2…s4rotavyam. B. liest abruva1n2a1m2…(abruva1n2a1na1m2) "wenn sie ihre Aussage verweigern". 
 
-अध्वगच्छन्त्
+अध्वगछत्|अध्वगच्छन्त्
 m. = adhvaga , Reisender , Ja1takam. 6 , 27. 
 
 अध्वगति
@@ -5863,7 +5866,7 @@ n. = Vulva , E409 (R). º
 अनङ्गीकरण
 n. das Nichteinräumen und zugleich: das jmd. körperlos Machen , Nais2. 8 , 41. 
 
-अनङ्गीकुर्वन्त्
+अनङ्गीकुर्वत्|अनङ्गीकुर्वन्त्
 Adj. etwas (Akk.) nicht einräumend , Sa1h. D. 31 , 12. 
 
 अनङ्गीकृत
@@ -5923,7 +5926,7 @@ m. keine Übertragung , Paribh. 101.
 अनतिपात
 m. Nichtversäumnis , Nichtvernachlässigung , P. 3 , 3 , 38 , Sch. 
 
-अनतिपातयन्त्
+अनतिपातयत्|अनतिपातयन्त्
 Adj. nicht hinüberschießend , La1t2y. 3 , 10 , 12. 
 
 अनतिपाद
@@ -5965,7 +5968,7 @@ Maitr. S. 4 , 1 , 13.
 अनतिव्यक्त
 Adj. nicht zu offen , -xsichtbar , Hem. Yogas4. 1 , 48. 
 
-अनतिस्कन्दन्त्
+अनतिस्कन्दत्|अनतिस्कन्दन्त्
 Adj. nicht überspringend , so v.a. gleichmäßig (Regen) , TBr. 3 , 3 , 6 , 4. 
 
 अनतीचार
@@ -5998,7 +6001,7 @@ Adj. (f. a1) unbewohnt , menschenleer , R. Gorr. 2 , 68 , 56.
 अनधीतपूर्व
 Adj. der vorher noch nicht studiert hat , A1s4v. S4r. 8 , 14 , 21. 
 
-अनधीतवन्त्
+अनधीतवत्|अनधीतवन्त्
 Adj. der etwas (Akk.) nicht studiert hat , Hema1dri 1 , 524 , 20. 
 
 अनधीतिन्
@@ -6055,7 +6058,7 @@ Adj. wozu man nicht die Erlaubnis hat , M. 2 , 116. |अननुज्न्५
 अननुतापिन्
 Adj. nicht bußfertig , Anukr. zu Vis2n2us. 
 
-अननुध्यायन्त्
+अननुध्यायत्|अननुध्यायन्त्
 Adj. nicht denkend an (Gen.) , MBh. 12 , 269 , 31. 
 
 अननुमति
@@ -6289,7 +6292,7 @@ m. das Nichtnachschleichen. Maitr. S. 1 , 10 , 20; 2 , 5 , 6; 3 , 2 , 4; 6 , 1.
 अनन्वित
 Adj. in keiner logischen Verbindung mit etwas anderem stehend , Sa1h. D. 9.<BR> -Nom. abstr. °tva n. , Alam2ka1rat. 13 , a. 
 
-अनन्विष्यन्त्
+अनन्विष्यत्|अनन्विष्यन्त्
 Adj. nicht nachforschend nach (Akk.) , 120 , 20. 
 
 अनन्वीक्षमाण
@@ -6337,7 +6340,7 @@ S4a1n3kh. S4r. 13 , 4 , 1 fehlerhaft für anapavr2kta.
 अनपव्यन्त्
 , lies a4napavyayant. 
 
-अनपव्याहरन्त्
+अनपव्याहरत्|अनपव्याहरन्त्
 Adj. keine weltliche Rede führend , A1past. S4r. 2 , 16 , 1. 
 
 अनपव्याहार
@@ -6391,7 +6394,7 @@ n. das Nichthingehen in (Lok.) , Vis2n2us. 25 , 10.
 अनभिगीत
 Adj. nicht mit dem zweiten Svara beginnend und mit dem ersten endend , Sam2hitopan. 17 , 2. 
 
-अनभिघ्नन्त्
+अनभिघ्नत्|अनभिघ्नन्त्
 Adj. nicht darauf schlagend , A1past. 2 , 22 , 13. 
 
 अनभिजल्पित
@@ -6409,19 +6412,19 @@ n. Unkenntnis , Prab. 114 , 14 v.l.
 अनभिद्रुग्ध
 Adj. nicht feindlich gesinnt , Ja1takam. 25. 
 
-अनभिधावन्त्
+अनभिधावत्|अनभिधावन्त्
 Adj. nicht zu Hilfe eilend , Vis2n2us. 5 , 74. 
 
-अनभिधून्वन्त्
+अनभिधून्वत्|अनभिधून्वन्त्
 Adj. nicht befächelnd , A1past. S4r. 15 , 8 , 14. 
 
-अनभिधृष्णुवन्त्
+अनभिधृष्णुवत्|अनभिधृष्णुवन्त्
 Adj. nicht bezwingend , Maitr. S. 1 , 10 , 14. 
 
-अनभिध्वंसयन्त्
+अनभिध्वंसयत्|अनभिध्वंसयन्त्
 Adj. nicht bespritzend , A1past. S4r. 12 , 14 , 15. 
 
-अनभिनन्दन्त्
+अनभिनन्दत्|अनभिनन्दन्त्
 Adj. sich über etwas nicht freuend , Ta1n2d2ya-Br. 5 , 9 , 3. 
 
 अनभिनिर्वृत्त
@@ -6436,7 +6439,7 @@ Adj. nicht gepackt.<BR> -erfaßt , Sus4r. 1 , 128 , 2.
 अनभिपरिहरन्त्
 Adj. nicht umkreisend , -xumfahrend , Kaus4. 44. 
 
-अनभिप्राणन्त्
+अनभिप्राणत्|अनभिप्राणन्त्
 Adj. nicht darüber einatmend , A1past. S4r. 15 , 2 , 11. 
 
 अनभिप्रीत
@@ -6739,7 +6742,7 @@ Adj. nicht hochmütig , nicht stolz , Hariv. 4243.
 अनवलोकन
 n. das Nichthinblicken , Nichtaufblicken , ZDMG 39 , 306. 
 
-अनवलोकयन्त्
+अनवलोकयत्|अनवलोकयन्त्
 Adj. nicht hinsehend. pas4ca1t sich nicht umsehend , MBh. 12 , 9 , 19; nicht hinsehend nach (Akk.) , Bhag. 6 , 13. 
 
 अनवविद्ध
@@ -6841,7 +6844,7 @@ auch: ohne Kern , -xStein (Frucht) , Caraka 6 , 1.
 अनस्थिचित्
 Adj. nicht wie Knochen geschichtet. Maitr. S. 3 , 5 , 1. 
 
-अनस्थिमन्त्
+अनस्थिमत्|अनस्थिमन्त्
 = …anastha , Gaut. 22 , 21. 
 
 अनस्यूत
@@ -7051,7 +7054,7 @@ Adj. dass. , MBh. 13 , 14 , 194.
 अनादिमध्यान्त
 Adj. ohne Anfang , Mitte und Ende , Ind. St. 15 , 290. 
 
-अनादिशन्त्
+अनादिशत्|अनादिशन्त्
 Adj. nicht vorschreibend , seine Einwilligung versagend , Hem. Par. 1 , 443. 
 
 अनादिष्टदेवत
@@ -7099,7 +7102,7 @@ Adj. ungefragt erzählend , -xsprechend , Ma1rk. P. 20 , 20.
 अनाप्तर्
 der nicht teilhaftig wird , S4is4. 16 , 38. 
 
-अनाप्नुवन्त्
+अनाप्नुवत्|अनाप्नुवन्त्
 Adj. nicht gelangend zu , -xteilhaftig werdend , Ragh. 2 , 73. 
 
 अनाप्रीत
@@ -7240,7 +7243,7 @@ Adj. finster , dunkel , MBh. 13 , 64 , 10.
 अनालोचित
 Adj. nicht erwogen , nicht überlegt , Pan5cat. 239 , 4; Spr. 168. 
 
-अनावर्तयन्त्
+अनावर्तयत्|अनावर्तयन्त्
 Adj. nicht umdrehend , S4a1n3kh. S4r. 16 , 1 , 20. 
 
 अनावश्यकत्व
@@ -7252,7 +7255,7 @@ Adj. nicht in Aufregung geraten , -xbestürzt , Hariv. 4234.
 अनाविद्ध
 auch: nicht in Unruhe versetzt , nicht aufgeregt , Bha1g. P. 1 , 2 , 19; 7 , 15 , 35. 
 
-अनाविष्कुर्वन्त्
+अनाविष्कुर्वत्|अनाविष्कुर्वन्त्
 Adj. nicht kund tuend , Ba1dar. 3 , 4 , 50. 
 
 अनाविःस्रगनुलेप
@@ -7300,7 +7303,7 @@ Adj. dem kein Sitz angeboten worden ist , A1past. 1 , 6 , 26.
 अनासवाख्य
 Adj. nicht Likör heißend , Kuma1ras. 1 , 31. 
 
-अनासादयन्त्
+अनासादयत्|अनासादयन्त्
 Adj. (f. °nti1) nicht erlangend , -xteilhaftig werdend , 302 , 17. 
 
 अनासादयमान
@@ -7600,7 +7603,7 @@ Adj. nicht durchschossen , -xdurchbohrt , MBh. 4 , 55 , 5. anividdham2 MBh. 4 , 
 अनिविष्ट
 Adj. der sich nicht häuslich niedergelassen hat , unverheiratet , MBh. 1 , 195 , 24. 
 
-अनिवृत्त
+अनिवृत|अनिवृत्त
 1. auch: nicht abstehend von (Abl.) ,<BR> -aufgebend , -xvernachlässigend , Hema1dri 1 , 25 , 13. 
 
 अनिवृत्तयोधिन्
@@ -7675,10 +7678,10 @@ Adj. die Hoffnung nicht aufgebend , R. ed. Bomb. 3 , 60 , 36.
 अनिसृष्ट
 Adj. nicht ermächtigt , MBh. 3 , 215 , 7. 
 
-अनिस्तिष्ठन्त्
+अनिस्तिष्ठत्|अनिस्तिष्ठन्त्
 Adj. etwas nicht zu Ende bringend , auf halbem Wege stehen bleibend , Cha1nd. Up. 7 , 20. 
 
-अनिःसरन्त्
+अनिःसरत्|अनिःसरन्त्
 Adj. nicht herauskommend , Pan5cat. 195 , 8. 
 
 अनीक
@@ -7867,7 +7870,7 @@ Adj. die Gesetze nicht übertretend.
 अनुच्छित्ति
 f. Unzerstörbarkeit , Kap 6 , 13. 
 
-अनुच्छिन्दन्त्
+अनुछिन्दत्|अनुच्छिन्दन्त्
 Adj. nicht verletzend , S4a1n3kh. Br. 2 , 8 , 13. 
 
 अनुच्छ्वसमान
@@ -7924,7 +7927,7 @@ Adv. bei jedem ti1rtha , Baudh. 2 , 5 , 3; 10 , 3.
 अनुतोदन
 n. das Nachstoßen , häufiges Wiederholen , Komm. zu Ta1n2d2ya-Br. 12 , 10 , 11. 
 
-अनुतोदवन्त्
+अनुतोदवत्|अनुतोदवन्त्
 Adj. von anutoda , Ta1n2d2ya-Br. 10 , 6 , 4. 
 
 अनुत्कीर्ण
@@ -7948,7 +7951,7 @@ n. eine mangelhafte Antwort in einem Prozeß , Ka1ty. in Mit. 16. Nom. abstr. °
 अनुत्तर
 1. Adj. (f. a1) a) Vajracch. 24 , 2.<BR> -1. e) mit keiner Stipulation verbunden , Na1r. 1 , 5. 
 
-अनुत्तरंग
+अनुत्तरङ्ग|अनुत्तरंग
 Adj. nicht wogend , Kuma1ras. 3 , 48. 
 
 अनुत्तरप्रकाशपञ्चाशिका
@@ -8101,7 +8104,7 @@ m. das Nichtkommen , Nais2. 5 , 25.
 अनुपगृहीत
 Adj. unverändert , Sam2hitopan. 17 , 4. 
 
-अनुपघ्नन्त्
+अनुपघ्नत्|अनुपघ्नन्त्
 auch: nicht berührend , La1t2y. 1 , 9 , 23. 
 
 अनुपचरित
@@ -8116,7 +8119,7 @@ Adj. nicht angezündet , S4at. Br. 11 , 8 , 3 , 7.
 अनुपदस्त
 Adj. unerschöpflich , Kaus4. 88. 
 
-अनुपदस्यन्त्
+अनुपदस्यत्|अनुपदस्यन्त्
 Adj. dass. , TS. 5 , 2 , 9 , 2. 
 
 अनुपदिग्ध
@@ -8170,10 +8173,10 @@ Adj. dass. , Nais2. 4 , 110.
 अनुपभुज्यमान
 Adj. nicht genossen werdend (Reichtum) , Hit. 46 , 8 v.l. 
 
-अनुपमक्षन्त्
+अनुपमक्षत्|अनुपमक्षन्त्
 s. unter anupamajjant. 
 
-अनुपमज्जन्त्
+अनुपमज्जत्|अनुपमज्जन्त्
 Adj. nicht untertauchend , A1past. im Komm. zu Ka1ty. S4r. 5 , 5 , 31. Die Handschriften des A1past. S4r. lesen 8 , 8 , 14; 13 , 21.1 statt dessen anupamaks2ant (!). 
 
 अनुपमसंहारिग्रन्थ
@@ -8221,7 +8224,7 @@ Z. 1 lies: auf die.
 अनुपलीढ
 Adj. nicht beleckt , Kaus4. 33. 
 
-अनुपविशन्त्
+अनुपविशत्|अनुपविशन्त्
 Adj. sich nicht setzend , A1s4v. Gr2hy. 3 , 7 , 1. 
 
 अनुपविष्ट
@@ -8458,7 +8461,7 @@ m. ºNachopferung , Kut2t2. 547.
 अनुयाज
 , Nom. abstr. °tva n. Kap. S. 41 , 7. 
 
-अनुयाजवन्त्
+अनुयाजवत्|अनुयाजवन्त्
 Adj. von Nachopfern begleitet , Maitr. S. 3 , 7 , 2. 
 
 अनुयायिन्
@@ -8632,7 +8635,7 @@ n. nachfolgendes Hersagen , Komm. zu Ta1n2d2ya-Br. 4 , 9 , 13.
 अनुशय
 m. Verwahrung , Aufbewahrung , Kaut2. 189 , 3. 
 
-अनुशयवन्त्
+अनुशयवत्|अनुशयवन्त्
 Adj. Reue empfindend , S4is4. 8 , 61. 
 
 अनुशयिन्
@@ -8911,7 +8914,7 @@ Z. 3 lies aneka1rthah2.<BR> -Auch: kein Bestandteil , Paribh. 4.
 अनेकार्थकैरवकौमुदी
 Titel eines Werkes , Bühler , Report No. 702. 
 
-अनेजन्त्
+अनेजत्|अनेजन्त्
 Adj. sich nicht bewegend , Bha1g. P. 7 , 3 , 32. 
 
 अनेय
@@ -8941,7 +8944,7 @@ Adj. nicht vom Monde kommend , Ba1lar. 53 , 20.
 अनैभृत्य
 n. Wandelbarkeit , MBh. 5 , 43 , 47. = ada1rd2hya Ni1lak. Mangel an Bescheidenheit , Ja1takam. 28. 
 
-अनैरंमद
+अनैरम्मद|अनैरंमद
 Adj. nicht vom Wetterleuchten kommend , Ba1lar. 53 , 19. 
 
 अनैर्भृत्य
@@ -9352,7 +9355,7 @@ m. Hinterteil , M. Müller , Ren. 323.
 अन्त्रकूजन
 n. Kollern im Leibe. 
 
-अन्त्रवृद्धिमन्त्
+अन्त्रवृद्धिमत्|अन्त्रवृद्धिमन्त्
 Adj. einen Leistenbruch habend , hema1dri 1 , 732 , 12. 
 
 अन्त्रापीडप्रकर्षिन्
@@ -9394,7 +9397,7 @@ darkened , Hars2ac. 14 , 3; 200 , 7. º
 अन्धकाल
 m. eine best. Hölle , Ka1ran2d2. 18 , 14. 
 
-अन्धंकरण
+अन्धङ्करण|अन्धंकरण
 Adj. (f. i1) blind machend , Nais2. 1 , 87; 8 , 28. [Rasas. 21 , 1.] |अन्द्हम्२करन्२अ n. cause of blindness , Va1s. 297 , 2. 
 
 अन्धतामिस्र
@@ -9403,7 +9406,7 @@ Adj. (f. i1) blind machend , Nais2. 1 , 87; 8 , 28. [Rasas. 21 , 1.] |अन्�
 अन्धपट
 m. schwarzes Gewand , S I , 604 , 1. º 
 
-अन्धंभविष्णु
+अन्धम्भविष्णु|अन्धंभविष्णु
 Adj. blind werdend , Hem. Par. 6 , 244; Anarghar. 5 , 11. Nom. abstr. °ta1 f. Nais2. 19 , 36. 
 
 अन्धल
@@ -9415,7 +9418,7 @@ m. ein best. sama1dhi , Ka1ran2d2. 92 , 21.
 अन्धस्
 n. º= bha1jana (Gefäß) , S I , 416 , 1. 
 
-अन्धस्वन्त्
+अन्धस्वत्|अन्धस्वन्त्
 Adj. das Wort andhas ent haltend , Ta1n2d2ya-Br. 12 , 3 , 3. 
 
 अन्धीकरण
@@ -9946,7 +9949,7 @@ m. (!) = 2. apanaya , MBh. 6 , 49 , 22.
 अपनिद्र
 auch: sich sträubend , (Härchen am Körper) , Nais2. 6 , 78; geöffnet , Dharmas4 4 , 1. 
 
-अपनिद्रन्त्
+अपनिद्रत्|अपनिद्रन्त्
 Adj. sich öffnend , Nais2. 6 , 101. 
 
 अपनिद्रय्
@@ -10123,7 +10126,7 @@ Nom. ag. eines Vergehens schuldig , S4is4. 10 , 14.
 अपराद्धेषु
 Adj. dessen Pfeil das Ziel verfehlt , Nais2. 3 , 70. 
 
-अपराधवन्त्
+अपराधवत्|अपराधवन्त्
 Adj. das Ziel verfehlend , Caraka 58 , 14 (na1para1dhava1n…bhavati zu lesen). 
 
 अपराधीन
@@ -10534,7 +10537,7 @@ Adj. keine Reue empfindend.
 अपश्चिम
 º= adviti1ya , S II , 37 , 2. 
 
-अपश्यन्त्
+अपश्यत्|अपश्यन्त्
 nicht gewahr werdend 127 , 7 (apas4yanti1); 81 , 29 (apasyati1); nicht sehend , in der Astrol. so v.a. nicht in adspectu stehend von (Akk.) , Vara1h. Br2h. 5 , 1.<BR> -nicht erwägend , -xprüfend , Chr. 211 , 6. 
 
 अपश्रम
@@ -10765,7 +10768,7 @@ Adj. zu dessen Ende man nicht gelangen kann , mit dem oder womit man nicht ferti
 अपारमिता
 f. keine Vollkommenheit , Vajracch. 29 , 1. 
 
-अपारयन्त्
+अपारयत्|अपारयन्त्
 Adj. auch: nicht überwin den könnend , MBh. 4 , 21 , 18; jemand oder etwas (Akk.) nicht zu widerstehen vermögend , 3 , 167 , 40; 9 , 20 , 9; nicht erwarten könnend , LA. 20 , 17 v.l. In der Bedeutung nicht vermögend mit Inf. oder einem Nom. act. im Lok. (Bha1g. P. 8 , 2 , 30). 
 
 अपारायणीय
@@ -10858,7 +10861,7 @@ Adj. Anteil am Soma-Trunk habend , S4a1n3kh. Br. 4. 4. Vgl. anapi°.
 अपीडन
 Adj. (f. i1) nicht peinigend , -xpeinlich , Ja1takam. 31 , 33. 
 
-अपीडयन्त्
+अपीडयत्|अपीडयन्त्
 3. nicht quälend , -xpeinigend , MBh. 13 , 37 , 3. 
 
 अपीडा
@@ -10999,7 +11002,7 @@ n. das nicht vollkommen Ausgebildetsein , Unreife , Bhäg. P. 4 , 29 , 72.
 अप्छटा
 Wassermenge , S I , 530 , 15 (Ko.). º 
 
-अप्तुमन्त्
+अप्तुमत्|अप्तुमन्त्
 [so betont!]. 
 
 अप्तुर्
@@ -11221,7 +11224,7 @@ m. Ungehemmtheit. 2. apratibandha Adj. ungehemmt. Von einer Erbschaft im Gegensa
 अप्रतिबोधन
 n. Unkenntnis , MBh. 12 , 304 , 9. 
 
-अप्रतिबोधवन्त्
+अप्रतिबोधवत्|अप्रतिबोधवन्त्
 Adj. ohne Bewußtsein , -xIntelligenz , VP. 1 , 5 , 6. 
 
 अप्रतिभट
@@ -11251,7 +11254,7 @@ n. MBh. 12 , 11 325 fehlerhaft für apratibodhana.
 अप्रतिलीना
 Adj. f. unverschleiert , Lalit. 179 , 18. 19. 
 
-अप्रतिलोमयन्त्
+अप्रतिलोमयत्|अप्रतिलोमयन्त्
 Adj. sich nicht widersetzend. va1ca1 so v.a. nicht wider sprechend , A1past. 
 
 अप्रतिवर्तन
@@ -11326,7 +11329,7 @@ f. Unbestand , TBr. 1 , 2 , 5 , 1.
 अप्रतिसंहृत
 Adj. ungehemmt , unbehindert , R. 2 , 22 , 10. 
 
-अप्रतिसंक्रम
+अप्रतिसङ्क्रम|अप्रतिसंक्रम
 Adj. (f. a1) woraud sich nichts abspiegelt , Sarvad. 155 , 3. 
 
 अप्रतिसंख्या
@@ -11452,7 +11455,7 @@ Adj. nicht ausreichend , S4is4. 10 , 83.
 अप्रमत्त
 2. n. Bez. der siebenten unter den 14 Stufen , welche nach dem Glauben der Jaina zur Erlösung führen. 
 
-अप्रमत्तवन्त्
+अप्रमत्तवत्|अप्रमत्तवन्त्
 Adj. nicht fahrlässig , MBh. 12 , 245 , 6. 
 
 अप्रमद
@@ -11467,7 +11470,7 @@ Adj. unbegrenzt in °s4ubha und °ma1n2a1bha.<BR> -Subst. das Sichvergegenwärti
 अप्रमोष
 m. Nichtentziehung , das Nichtverlustiggehen , Ja1takam. 1 , 12. 
 
-अप्रयच्छन्त्
+अप्रयछत्|अप्रयच्छन्त्
 Adj. nicht gebend , überh. MBh. 12 , 34 , 12. 
 
 अप्रयत
@@ -11497,7 +11500,7 @@ ohne daß die Welt zugrunde ginge , Ragh. 10 , 35.
 अप्रवण
 Adj. nicht demütig , MBh. 1 , 89 , 4. 
 
-अप्रवदन्त्
+अप्रवदत्|अप्रवदन्त्
 Adj. (f. °dati1) , nicht rauschend , A1s4v. Gr2hy. 2 , 7 , 7. 
 
 अप्रविभागिन्
@@ -11665,7 +11668,7 @@ Adj. ohne Lebensmittel.
 अप्सुचर
 Adj. in den Gewässern wandelnd. [Im General-Index "im Wasser sich aufhaltend , S4a1n3kh. Br. 20 , 1".] * 
 
-अप्सुमन्त्
+अप्सुमत्|अप्सुमन्त्
 Adj. 3. Bez. eines Agni , A1past. S4r. 9 , 3 , 22.<BR> -4. an diesen Agni gerichtet , ebenda 23.<BR> -stets Wasser habend , Cha1nd. Up. 2 , 4 , 2. 
 
 अप्सुषदस्
@@ -11986,7 +11989,7 @@ m. die Brahmanlehre , die die Entstehung der Welt aus dem Nichtsein vertritt , P
 अभावब्रह्मवादिन्
 m. Vertreter des ºva1da , Praty. Hr2d. 17 , 10. [B.] º 
 
-अभावयन्त्
+अभावयत्|अभावयन्त्
 Adj. etwa: etwas nicht fest im Auge behaltend , Bhag. 2 , 66. 
 
 अभावविकल्प
@@ -12247,7 +12250,7 @@ Adj. mit zugewandter Fahne , MBh. 8 , 11 , 9.
 अभिपत्ति
 Erreichung , Erlangung , Ja1takam. 25 , 8; Besitz , 20 , 16. 
 
-अभिपत्तिमन्त्
+अभिपत्तिमत्|अभिपत्तिमन्त्
 Adj. im Besitz von... seiend , Ja1takam. 28 , 17. 
 
 अभिपर्यावर्त
@@ -12691,7 +12694,7 @@ Adj. furchtlos , unerschrocken , MBh. 7 , 72 , 46.
 अभीरुण
 , so richtig betont , AV. 7 , 89 , 3. 
 
-अभीशुमन्त्
+अभीशुमत्|अभीशुमन्त्
 2. m. die Sonne , S4is4. 6 , 63. 
 
 अभीषह्
@@ -12709,7 +12712,7 @@ m. Angriff , MBh. 7 , 191 , 31.
 अभुङ्क्षित
 s. bhun3ks2ita1bhun3ks2ita. 
 
-अभुजंगवन्त्
+अभुजङ्गवत्|अभुजंगवन्त्
 Adj. ohne Schlangen und zugleich: ohne liederliche Gesellen , Ka1vya1d. 2 , 322. 
 
 अभुजिष्य
@@ -13066,7 +13069,7 @@ Adj. = amatsara Adj. , Hema1dri 1 , 563 , 5.<BR> -Auch: nicht versessen auf (Lok
 अमदन
 m. Bein. S4iva's , Bha1g. P. 1 , 11 , 37. 
 
-अमद्यमद्यन्त्
+अमद्यमद्यत्|अमद्यमद्यन्त्
 Adj. ohne ein berauschendes Getränk munter seiend (Elefant) , Ka1m. Ni1tis. 16 , 33. 
 
 अमध्यंदिनसाचि
@@ -13432,7 +13435,7 @@ m. Mond , S I , 299 , 1. º
 अमृतचित्
 Adj. wie Nektar geschichtet , Maitr. S. 3 , 4 , 4. 
 
-अमृततरंगिणी
+अमृततरङ्गिणी|अमृततरंगिणी
 f. Titel eines Werkes , Opp. Cat. 1. 
 
 अमृततुरंग
@@ -14119,7 +14122,7 @@ Adj. f. noch nicht die Menses habend , Kaus4. 37.
 अरजोविरजोनययुक्त
 m. ein best. sama1dhi , Maha1vy. 21. * 
 
-अरज्यन्त्
+अरज्यत्|अरज्यन्त्
 Adj. keine Freude an etwas habend , Katha1s. 112 , 88. 
 
 अरञ्जक
@@ -14326,7 +14329,7 @@ n. heißt in der Politik der hinter dem arimitra herrschende Fürst , Ka1m. Ni1t
 अरिमेदस्
 (m.) = vit2khadira , S II , 195 , 4. º 
 
-अरिषः
+अरिष|अरिषः
 Feind für Feind , H 43 , 45. º 
 
 अरिष्ट
@@ -14518,7 +14521,7 @@ m. Sonnenstein , H XXVI , 37; XXX , 86; S4ri1k. X , 9. 21. º
 अर्कमय
 Adj. von der Calotropis gigantea , A1past. S4r. 15 , 5 , 11. 
 
-अर्कवन्त्
+अर्कवत्|अर्कवन्त्
 auch: dem zu Ehren der arka dargebracht wird (Maitr. S. 2 , 2 , 9) und: das Wort arka enthaltend (Ta1n2d2ya-Br. 5 , 1 , 8). 
 
 अर्कशैल
@@ -14575,7 +14578,7 @@ Adj. mit Akk. verehren wollend , Kir. 13 , 65. [H 49 , 20.]
 अर्चिर्माल्य
 m. Pl. Bez. einer Gruppe von Affen , R. ed. Bomb. 4 , 42 , 4. 
 
-अर्चिष्मन्त्
+अर्चिष्मत्|अर्चिष्मन्त्
 m. auch N. pr. eines Affen , R. ed. Bomb. 4 , 42 , 3. 
 
 अर्छ्
@@ -15187,7 +15190,7 @@ m. Schmücker , S I , 209 , 4 v.u. (Ko.). *
 अलंकर्मीण
 Adj. einem Geschäfte gewachsen , S4r2n3gt. 175^a; mit Lok. Hem. Par. 1 , 126. 
 
-अलंकार
+अलङ्कार|अलंकार
 4. ein best. sama1dhi , Ka1ran2d2. 51 , 12. |अलम्२क१र ºn. Schmuck , S I , 150 , 14 v.u. (Ko.). 
 
 अलंकारतिलक
@@ -15241,7 +15244,7 @@ f. Nom. abstr. zu alan3ghani1ya nicht zu überschreiten und: dem man nicht zu na
 अलङ्घनीयत्व
 n. Nom. abstr. zu alan3ghani1ya , dem man nicht zu nahe treten darf , Ra1jat. 6 , 2. 
 
-अलङ्घयन्त्
+अलङ्घयत्|अलङ्घयन्त्
 Adj. nicht übertretend (einen Befehl) , Ragh. 9 , 9. 
 
 अलज्ज
@@ -15262,7 +15265,7 @@ das Genugsein , Rasas. 27^a. º
 अलन्दक
 m. = mr2ttika1kun2d2a , S II , 227 , 1. º 
 
-अलंधन
+अलन्धन|अलंधन
 Adj. hinreichendes Vermögen besitzend , M. 8 , 162. 
 
 अलब्धगाध
@@ -15304,10 +15307,10 @@ n. und Alam2budha n. N. pr. zweier ti1rtha , Matsyap. 22 , 50 , 51.
 अलम्बुष
 *eine best. Pflanze , Hars2ac. 255 , 12. 
 
-अलंभविष्णु
+अलम्भविष्णु|अलंभविष्णु
 Adj. imstande seiend zu (Inf.) , Brahma-P. Uttarakh. Kap. 3. 
 
-अलंभूष्णु
+अलम्भूष्णु|अलंभूष्णु
 Adj. mächtig , fähig , S4ri1k. II , 56. 
 
 अलव
@@ -15415,7 +15418,7 @@ n. die nicht allgemeine Art und Weise zu leben , Bha1g. P. 8 , 3 , 7.
 अलोपनीय
 = anullan3ghani1ya , S II , 240 , 14 v.u. (Ko.). º 
 
-अलोपयन्त्
+अलोपयत्|अलोपयन्त्
 Adj. nicht abbringend von (Abl.) , Ragh. 12 , 9. 
 
 अलोभवन्त्
@@ -15487,13 +15490,13 @@ nicht gefräßig , S I , 299 , 14 v.u. (Ko.). º
 अल्पराधस्
 Adj. dem weniges gelingt , unglücklich. 
 
-अल्पवन्त्
+अल्पवत्|अल्पवन्त्
 Adj. wenig besitzend , Hema1dri 1 , 433 , 9. 
 
 अल्पविज्ञान
 Adj. von geringer Einsicht , MBh. 3 , 29 , 34. 
 
-अल्पवित्तवन्त्
+अल्पवित्तवत्|अल्पवित्तवन्त्
 Adj. wenig besitzend , Hema1dri 1 , 361 , 19. 
 
 अल्पवीर्य
@@ -15505,7 +15508,7 @@ m. ein Mann mit geringen verdienstlichen Werken , Rasas. 196^d. º
 अल्पश्रुत
 Adj. ungelehrt , Hema1dri 1 , 529 , 18; unwissend , Maha1vy. 127. 
 
-अल्पस्वमन्त्
+अल्पस्वमत्|अल्पस्वमन्त्
 Adj. geringen Besitz habend , S4atr. 14 , 109. 
 
 अल्पातङ्क
@@ -15805,7 +15808,7 @@ n. v.l. für apadravya , Zach. Beitr. *
 अवधान
 auch: das Einsetzen , Befestigen. jya1va° einer Bogensehne , MBh. 8 , 90 , 100. 
 
-अवधानवन्त्
+अवधानवत्|अवधानवन्त्
 Adj. aufmerksam. Nom. abstr. °vatta1 f. Ko. zu Nais2. 8 , 9. 
 
 अवधि
@@ -16357,7 +16360,7 @@ Adj. (f. a1) TS. 4 , 4 , 12 , 3 nach dem Komm. = raks2ayita1ro…ra1yavo…yasya
 अवस्रंसन
 n. das Herabfallen , Dha1tup. 18 , 16. 
 
-अवस्वद्वन्त्
+अवस्वद्वत्|अवस्वद्वन्त्
 Adj. mit Strebenden vereint , Maitr. S. 2 , 6 , 3. 
 
 अवस्वन्य
@@ -16369,7 +16372,7 @@ und °sva1pini1 f. die Zauberkunst (vidya1) der Einschläferung , Hem. Par. 2 , 
 अवहनन
 2. genauer: die linke Lunge , Ko. zu Vis2n2us. 96 , 91. 
 
-अवहन्त्
+अवहत्|अवहन्त्
 Adj. nicht fließend , stehend (Wasser) , A1s4v. Gr2hy. 4 , 4 , 10. 
 
 अवहसित
@@ -16546,7 +16549,7 @@ auch: keine feindliche Gesinnung an den Tag legend , sich nicht auflehnend.<BR> 
 अविकारक
 Adj. nicht irritiert , Dhanika zu Das4ar. II , 33 (S. 64 , Z. 8). º 
 
-अविकारवन्त्
+अविकारवत्|अविकारवन्त्
 Adj. keine Wandlungen zeigend , stets sich gleich bleibend. 
 
 अविकारिन्
@@ -16621,7 +16624,7 @@ auch: nicht gut sehend.
 अविचल
 Adj. , f. a1. 
 
-अविचलन्त्
+अविचलत्|अविचलन्त्
 Adj. sich nicht bewegend , Nais2. 4 , 93. 2. avica1ra Adj. auch: von keiner Überlegung begleitet , Lalit. 439 , 7. 
 
 अविचारक
@@ -16771,7 +16774,7 @@ m. ein best. sama1dhi , Maha1vy. 24. *
 अविन्दक
 nicht findend , S4uk. t. o. 9 [p. 21 , 31]. º 
 
-अविन्दन्त्
+अविन्दत्|अविन्दन्त्
 Adj. nicht findend , -xausfindig machend , M. 8 , 109. 
 
 अविन्यस्त
@@ -16786,7 +16789,7 @@ auch: nicht vollkommen zunichte geworden , Bha1g. P. 1 , 6 , 22.<BR> -In Nachtr.
 अविपद्
 Adj. = avinas4vara , H 31 , 32. º 
 
-अविपद्यन्त्
+अविपद्यत्|अविपद्यन्त्
 Adj. nicht zunichte werdend , -xsterbend , Bha1g. P. 6 , 1 , 8. 
 
 अविपरिणामवर्तिन्
@@ -16816,7 +16819,7 @@ m. das Nichtzerstreuen , S4a1n3kh. Br. 17 , 2.
 अविबुध
 Adj. auch: nicht ohne kluge Männer und m. kein Gott , Ka1vya1d. 2 , 322. 
 
-अविब्रुवन्त्
+अविब्रुवत्|अविब्रुवन्त्
 Adj. 1. etwas (Akk.) nicht aussagend , MBh. 15 , 8 , 24; nicht etwas (Akk.) zu jemand (Akk.) sagend , 1 , 83 , 26.<BR> -2. seine Meinung über etwas (Akk.) nicht aussprechend , nicht auslegend , MBh. 7 , 199 , 32. 
 
 अविभक्त
@@ -17125,7 +17128,7 @@ n. kein Männermord , A1past. S4r. 5 , 27 , 1.
 अवीरोष
 Adj. = saros2a…(vigato…ros2o…yasya…sa…vi1ros2ah2;…na…vi1ros2ah2…avi1ros2ah2) , Yudh. 8 , 36. º 
 
-अवीर्यवन्त्
+अवीर्यवत्|अवीर्यवन्त्
 Adj. schwach , machtlos , Maitr. S. 3 , 8 , 1. 
 
 अवृथार्थ
@@ -17650,7 +17653,7 @@ Ma1lati1m. 305 , 1. [Z.] |आस्४मन्तक m. ºein Fürst , S I , 18
 अश्मयोक्त
 (?) eine best. Pflanze , Kaus4. 8 , 15. 
 
-अश्मवर्षवन्त्
+अश्मवर्षवत्|अश्मवर्षवन्त्
 Adj. Steine regnend , R. ed. Bomb. 3 , 22 , 24. 
 
 अश्मवश
@@ -17815,7 +17818,7 @@ n. Titel eines Werkes , Opp. Cat. 1.
 अश्ववक्त्र
 m. = kim2nara , H 5 , 93. * 
 
-अश्ववन्त्
+अश्ववत्|अश्ववन्त्
 Adj. das Wort as4va enthaltend , Ta1n2d2ya-Br. 12 , 4 , 15. 1. as4vava1ra…=…as4vava1la 2.; vgl. a1s4vava1ra.<BR> -Hars2ac. 208 , 13. [Z.]. 
 
 अश्ववाहन
@@ -17869,7 +17872,7 @@ m. das unterseeische Feuer , Nais2. 8 , 81.
 अश्वारि
 m. ºNerium odorum , E 839 (A). * 
 
-अश्वावन्त्
+अश्वावत्|अश्वावन्त्
 , lies as4va1vati1. 
 
 अश्विका
@@ -18094,7 +18097,7 @@ Adj. nicht zügelnd , -xin der Gewalt habend , MBh. 12 , 91 , 42.
 असंयत्त
 Adj. unvorbereitet , nicht auf seiner Hut seiend , Bha1g. P. 8 , 6 , 28.<BR> -Auch: nicht beunruhigt , R2V. 1 , 83 , 3. 
 
-असंयन्त्
+असंयत्|असंयन्त्
 , so richtiger betont in einigen Hdschrr. 
 
 असंयमितालकिन्
@@ -18256,7 +18259,7 @@ Adj. 1. nicht gerunzelt.<BR> -2. ungeschmälert.
 असंकॢप्त
 Adj. nicht begehrt , MBh. 14 , 46 , 19. 
 
-असंक्रान्त
+असङ्क्रान्त|असंक्रान्त
 m. Schaltmonat , Hema1dri 1 , 79 , 20. 
 
 असंख्य
@@ -18307,7 +18310,7 @@ Adj. nicht gewahr werdend , Spr. 6125.
 असंजात
 Adj. nicht erstanden , -xzum Vorschein gekommen , Spr. 2135. 
 
-असंज्ञा
+असञ्ज्ञा|असंज्ञा
 3. kein Bewußtsein , Vajracch. 23 , 10; 30 , 21; 31 , 1; 45 , 17. 
 
 असंज्ञान
@@ -18379,13 +18382,13 @@ Adj. nicht verwandt , Kap. S. 2 , 5.
 असनिदर्शन
 Adj. etwa undefinierbar , Maha1vy. 101. * 
 
-असन्त्
+असत्|असन्त्
 , asat mit kr2 schlecht empfangen , Ja1takam. 22 , 70; schlecht behandeln , 23. |असन्त् Adj. º= apan2d2ita…,…mu1rkha , Yudh. 6 , 36 ["san…sudhi1h2…kovidah2…kavih2" ity Amarah2 , Ko.]. 
 
 असंतर्दन
 n. das Nichtaneinanderbefestigen , Komm. zu Jaim. 3 , 3 , 24. 
 
-असंताप
+असन्ताप|असंताप
 ºein Elefant mit best. Eigenschaften , S I , 299 , 1. 
 
 असम्तृण्ण
@@ -18547,13 +18550,13 @@ n. Mangel an klarem Bewußtsein , -xBesonnenheit , Maha1vy. 104. *
 असंप्रज्ञात
 Adj. bewußtlos , Komm. zu Yogas. 1 , 17. f. °yogin m. ein Yogin im Zustande der Bewußtlosigkeit , Aniruddha zu Sa1m2khyas. 6 , 50. °sama1dhi m. bis zur Bewußtlosigkeit gesteigerte Versenkung , Komm. zu Yogas. 1 , 18. °jn5a1ta1vastha1 f. Zustand der Bewußtlosigkeit , Aniruddha zu Sa1m2khyas. 6 , 50. 
 
-असंप्रज्ञान
+असम्प्रज्ञान|असंप्रज्ञान
 n. Nichterkenntnis , Maha1vy. 245 , 488. * 
 
 असंप्रदत्त
 Z. 2 , lies 790 st. 709. 
 
-असंप्रमाण
+असम्प्रमाण|असंप्रमाण
 Adj. nicht zu geräumig , S4a1n3kh. Gr2hy. 6 , 2. 
 
 असंप्रमोष
@@ -18577,25 +18580,25 @@ n. Titel eines Werkes , Opp. Cat. 1.
 असंभाष्य
 auch: nicht zur Unterredung geeignet (Ort) , M. 8 , 55. 
 
-असंभिन्दन्त्
+असम्भिन्दत्|असंभिन्दन्त्
 Adj. (f. °ti1) nicht verletzend , Ta1n2d2ya-Br. 7 , 9 , 11. Auch: nicht untereinander mengend , TBr. 3 , 7 , 5 , 6. 
 
-असंभूत
+असम्भूत|असंभूत
 Adj. nicht vorhanden , -xda seiend , fingiert , R. ed. Bomb. 4 , 32 , 4. 
 
 असंभृत
 Adj. nicht gemacht , natürlich , Kuma1ras. 1 , 31. 
 
-असंभ्रम
+असम्भ्रम|असंभ्रम
 m. keine Gemütsaufregung , Bha1g. P. 5 , 9 , 21. 
 
 असंमताववाद
 m. unautorisiertes Predigen , Maha1vy. 261. * 
 
-असंमृष्ट
+असम्मृष्ट|असंमृष्ट
 2. n. eine noch nicht vollbrachte Reinigung , -xAnschürung usw. (des Feuers) , S4at. Br. 2 , 5 , 2 , 19; Ka1ty. S4r. 5 , 5 , 6. 
 
-असंमोषधर्मन्
+असम्मोषधर्मन्|असंमोषधर्मन्
 Adj. Divya1vad. 49 , 10 ff. 
 
 असरण
@@ -18634,7 +18637,7 @@ Adj. kein Genosse seiend , Paribh. 103.
 असहन
 1. b) Nom. abstr. °ta1 f. , Uttamac. 146. 
 
-असहन्त्
+असहत्|असहन्त्
 Adj. (f. °nti1) nicht ertragend , 100 , 8. 
 
 असहमान
@@ -18931,7 +18934,7 @@ n. Murren , S II , 414 , 17. º
 असूयिन्
 in anasu1yin. 
 
-असूर्यंपश्य
+असूर्यम्पश्य|असूर्यंपश्य
 1. Nom. abstr. °ta1 f. , Hem. Par. 2 , 139. 
 
 असूसु
@@ -19081,7 +19084,7 @@ Adj. am stoma nicht teilhabend , Maitr. S. 4 , 7 , 1 (94 , 10).
 अस्त्रकर्मन्
 n. = astravidya1 , Yudh. 4 , 89. º 
 
-अस्त्रक्षतिमन्त्
+अस्त्रक्षतिमत्|अस्त्रक्षतिमन्त्
 Adj. durch Geschosse verwundet , S4is4. 19 , 78. 
 
 अस्त्रखदिर
@@ -19300,13 +19303,13 @@ m. das Ich , Yogava1s. in Sa1m2khyapr. 51 , 11.
 अहमिन्द्र
 m. N. pr. eines göttlichen Wesens , Dharmas4arma1bhy. 4 , 84; 5 , 88. 
 
-अहंपदार्थ
+अहम्पदार्थ|अहंपदार्थ
 m. das Ich , Maha1deva zu Sa1m2khyas. 1 , 138. 
 
 अहंप्राथमिका
 Kuval. I , 115 (= ed. Subrahman2ya Sarma1 p. 99) , Rivalität. º 
 
-अहंमति
+अहम्मति|अहंमति
 eine hohe Meinung von sich habend , Brahmavaiv. 2 , 38 , 22. 
 
 अहर
@@ -19357,7 +19360,7 @@ H 43 , 145 ist falsche Lesart.]
 अहानि
 Adj. nicht mangelhaft , H 43 , 375. º 
 
-अहापयन्त्
+अहापयत्|अहापयन्त्
 Adj. es nicht fehlen lassend an (Akk.) , Spr. 1003. ka1lam so v.a. keine Zeit verlierend , nicht säumend , Ka1m. Ni1tis. 5 , 64. 
 
 अहार्य
@@ -19765,7 +19768,7 @@ n. das Glätten , Maha1vy. 280. *
 आकोटना
 (!) f. Bestrafung , Asaha1ya zu Na1rada. 
 
-आकोपवन्त्
+आकोपवत्|आकोपवन्त्
 Adj. ein wenig erzürnt auf (Lok.) , S4is4. 2 , 99. 
 
 आकोपित
@@ -19834,7 +19837,7 @@ Adj. f. [°n2i1] mit siddhi die Zauberkraft anzuziehen , Ma1lati1m. (ed. Bomb.) 
 आक्षेप्तर्
 auch: der jemand etwas entzieht , JRAS. Beng. 47 , 406 , 48. 
 
-आक्ष्यन्त्
+आक्ष्यत्|आक्ष्यन्त्
 , vgl. Aufrecht zu Ait. Br. 4 , 17 , 6. 7. 
 
 आक्ष्वेडित
@@ -20581,7 +20584,7 @@ f. das Verweilen -x, Verbleiben bei sich (auf das Subjekt des Satzes sich bezieh
 आत्मसम
 nach Ni1lak. auch so v.a. a1tmasa1mya…=…a13tmasamata1 , MBh. 5 , 36 , 4. 
 
-आत्मसंभावित
+आत्मसम्भावित|आत्मसंभावित
 Adj. von sich selbst eingenommen , Bhag. 16 , 17. 
 
 आत्मस्थिति
@@ -20656,7 +20659,7 @@ Adj. zu den mit ad beginnenden Wurzeln -x, zur zweiten Klasse der Wurzeln gehör
 आदान
 n. ºMenge , H 5 , 134. º= prapan5ca , Yudh. 6 , 81 in va1ga1da1na…=…va1kprapan5ca).<BR> -Vgl. a1ta1na! 
 
-आदानं
+आदान|आदानं
 dva1rasya n. ºdas an die Tür Schleppen (oder die Tür Weisen?) , Kaut2. 156 , 4. 
 
 आदाय
@@ -21220,7 +21223,7 @@ Zuverlässigkeit , Sa1m2khyapr. 74 , 4 v.u.
 आप्तोर्यामहौत्र
 n. Titel eines Werkes , Opp. Cat. 1. 
 
-आप्यानवन्त्
+आप्यानवत्|आप्यानवन्त्
 [so zu lesen!]. 
 
 आप्यायना
@@ -21631,7 +21634,7 @@ Ind. St. 15 , 295.
 आयुष्पति
 und °patni1 s. a1yuh2°. 
 
-आयुष्मन्त्
+आयुष्मत्|आयुष्मन्त्
 m. ºein astrol. yoga , S I , 318 , 15 (Ko.). [Monier Williams hat diese Bedeutung!] 
 
 आयुष्य
@@ -21817,7 +21820,7 @@ n. Gesundheit , S I , 361 , 3 v.u. (Ko.). º
 आरोग्ययति
 salutare , begrüßen , Divya1v. 52; 129 , 5; 259 , 11; 273 , 12. 
 
-आरोग्यवन्त्
+आरोग्यवत्|आरोग्यवन्त्
 Adj. gesund , Hema1dri 1 , 741 , 5. 
 
 आरोग्यापय्
@@ -22006,7 +22009,7 @@ zum Berieselungsgraben werdend , S I , 522 , 4. º
 आलस
 (m. n.?) º= a1lasyam , H 5 , 145. 
 
-आलस्यवन्त्
+आलस्यवत्|आलस्यवन्त्
 Adj. träge , faul , Des4i1n. 1 , 46. * 
 
 आलानित
@@ -22057,7 +22060,7 @@ m. Zuschauer , Nais2. 2 , 68.
 आलोककर
 *m. ein best. sama1dhi , Maha1vy. 21. 
 
-आलोकवन्त्
+आलोकवत्|आलोकवन्त्
 auch: sehend (Gegensatz: blind) , Hem. Par. 1 , 245. 
 
 आलोकसुवेगध्वज
@@ -22324,7 +22327,7 @@ n. Himmelsgegend , Mr2cch. 85 , 2.
 आशाम्बर
 m. eine Art Mönch , S II , 410 , 26. º 
 
-आशावन्त्
+आशावत्|आशावन्त्
 Adj. hoffend , Yudh. 6 , 78. º 
 
 आशाश
@@ -22579,7 +22582,7 @@ n. das Ausdrücken (eines Gedankens) in su1tra-Form , Praty. Hr2d. 20 , 3. [B.] 
 आसेचनक
 Hars2ac. 30 , 2; vgl. Haravijaya 27 , 76 und Hi1rasaubha1gyaka1vya 9 , 127. [Z.]<BR> -Pa1rv. 588 , 7. |अ१सेचनक º= atr2ptijanaka , S I , 176 , 3. 
 
-आसेचनवन्त्
+आसेचनवत्|आसेचनवन्त्
 Adj. einen Bauch habend (Gefäß) , A1past. S4r. 15 , 14 , 13. 
 
 आस्कन्दन
@@ -25207,7 +25210,7 @@ n. das zu mehr Gewordensein , Maitryup. 5 , 2.
 उद्भूतरूपकारणतावाद
 m. Titel eines Werkes , Opp. Cat. 1. 
 
-उद्भूतस्पर्शवन्त्
+उद्भूतस्पर्शवत्|उद्भूतस्पर्शवन्त्
 Adj. fühlbar , Bha1s2a1p. 55. 
 
 उद्भूष्णु
@@ -25501,7 +25504,7 @@ m. 1. Frührot , A1past. S4r. 15 , 18 , 13.<BR> -2. Aussehen. ni1lopa° Adj. sch
 उपकुरङ्ग
 m. eine Antilopenart , Ra1jan. 19 , 47. * 
 
-उपकृतिमन्त्
+उपकृतिमत्|उपकृतिमन्त्
 Adj. mit einer Diensterweisung verbunden , S4is4. 9 , 33. 
 
 उपकेरु
@@ -25855,7 +25858,7 @@ m. Buhle , S4uk. t. o. 46. 55 [p. 53 , 21; 60 , 19]. º
 उपरमम्
 Absol. inne haltend , R. ed. Bomb. 3 , 7 , 22. 
 
-उपरागवन्त्
+उपरागवत्|उपरागवन्त्
 Adj. (durch Ra1hu) verfinstert , S4is4. 20 , 45. 
 
 उपरिक्रीडा
@@ -26371,7 +26374,7 @@ Adj. sich das Gleichgewicht haltend , gleich schwer beladen , Ka1t2h. 27 , 10.
 उभयतोवैश्वानर
 Adj. beiderseits Vais4va1nara habend , Maitr. S. 4 , 6 , 6 (87 , 6). 
 
-उभयदन्त्
+उभयदत्|उभयदन्त्
 Maitr. 1 , 8 , 1. 
 
 उभयदेह
@@ -26965,7 +26968,7 @@ m. ºMond , H 30 , 76.
 ऋक्षबिल
 n. N. pr. einer Höhle , R. ed. Bomb. 4 , 50 , 8. 
 
-ऋक्षवन्त्
+ऋक्षवत्|ऋक्षवन्त्
 Adj. ºreich an Bären , H 30 , 35. 
 
 ऋक्षवर्ण
@@ -27094,7 +27097,7 @@ m. N. pr. eines deyagandharva , MBh. 1 , 123 , 57.
 ऋद्ध
 2. vgl. Zach. Beitr. 
 
-ऋद्धिमन्त्
+ऋद्धिमत्|ऋद्धिमन्त्
 2. Nom. abst. °matta1 , MBh. 5 , 131 , 23. 
 
 ऋद्ध्यभिसंस्कार
@@ -27391,7 +27394,7 @@ Adj. eine Welt besitzend , Maitr. S. 1 , 10 , 18 (158 , 1).
 एकलोलीभाव
 m. das einzige Begehren , völlige Aufgehen , S II , 230 , 5 v.u. (Ko.). º 
 
-एकवन्त्
+एकवत्|एकवन्त्
 Adj. einfach , Mgs. I , 10 , 2; II , 10 , 6. º 
 
 एकवपुस्
@@ -27673,7 +27676,7 @@ f. Bez. des dritten Stadiums im vaira1gya , Sa1m2khyatattvakaumudi1 zu ka1rika1 
 एकैकत्र
 Adv. einzeln , Komm. zu A1past. S4r. 6 , 16 , 12. 
 
-एकैकवन्त्
+एकैकवत्|एकैकवन्त्
 Adj. nur eines von mehreren Dingen besitzend , Komm. zu A1past. S4r. 1 , 14 , 9. 
 
 एकैकिक
@@ -27871,7 +27874,7 @@ Adj. von solcher Lebensdauer , Maha1vy. 15. *
 एवंपरिणाम
 Adj. einen solchen Abschluß habend , Maha1vi1rac. 93 , 18. 
 
-एवंप्रत्यय
+एवम्प्रत्यय|एवंप्रत्यय
 Adj. eine solche Überzeugung habend , S4am2k. zu Br2h. A1r. Up. S. 231. 
 
 एवंप्रमुख
@@ -27937,7 +27940,7 @@ n. *eine Art Coitus , V 143. 144; E 556. 557 (K).
 ऐतरेयारण्यक
 n. Titel eines A1ran2yaka. 
 
-ऐदंपर्य
+ऐदम्पर्य|ऐदंपर्य
 n. auch S I , 447 , 5; II , 349 , 25. 
 
 ऐन
@@ -28315,7 +28318,7 @@ eine best. Frucht , Kaus4. 48 , 32. Oder ºTestikel? v.l. kakruca.
 ककुदिन्
 = dhvajin , H 43 , 349. º 
 
-ककुद्मन्त्
+ककुद्मत्|ककुद्मन्त्
 1. auch = kaku4nmant , TS. 1 , 7 , 7 , 2. 
 
 ककुद्मिकन्या
@@ -28342,7 +28345,7 @@ m. = diggaja , S I , 599 , 7. º
 ककुभ
 m. 2. b) ein best. Vogel [Gal.] , Svapnac. 2 , 21; S II , 208 , 5 [Ko. erklärt mit ba1lakurkut2a]. 
 
-ककुभ्वन्त्
+ककुभ्वत्|ककुभ्वन्त्
 Adj. = kaku4nmant gipfelnd , sich auftürmend , Maitr. S. 1 , 11 , 1. 
 
 ककुम्मुख
@@ -28366,7 +28369,7 @@ s. oben kakuca.
 कक्षिमालिकोपनिषद्
 f. Titel eines Werkes , Opp. Cat. 1. 
 
-कक्षीवन्त्
+कक्षीवत्|कक्षीवन्त्
 , Pl. R2V. 1 , 126 , 4. 
 
 कक्ष्य
@@ -28690,7 +28693,7 @@ Adj. ºold , Hars2ac. 32 , 7.<BR> -ºdeep red , Hars2ac. 52 , 7; 253 , 19.
 कठोरत्विष्
 m. Sonne , S4ri1k. XVI , 3. º 
 
-कडंगर
+कडङ्गर|कडंगर
 m. Spreu , S I , 453 , 4 v.u. (Ko.); H 28 , 40.<BR> -eine best. Waffe , MBh. 7 , 25 , 58. * 
 
 कडारपिङ्ग
@@ -28888,7 +28891,7 @@ m. N. pr. eines ra1jars2i , Sa1y. zu R2V. 4 , 16 , 10.
 कथंकथा
 f. Zweifel , Saddh. P.; Divya1vad. 84 , 9. 
 
-कथंकारम्
+कथङ्कारम्|कथंकारम्
 Adv. auch S4ri1k. 14 , 60; S II , 348 , 10. 
 
 कथय्
@@ -30112,7 +30115,7 @@ Adj. = ka1rs2i 1. Kap. S. 2 , 16.
 कर्षुक
 m. Bauer , S4uk. t. s. 67 , 7. º 
 
-कर्षूवीरिणवन्त्
+कर्षूवीरिणवत्|कर्षूवीरिणवन्त्
 Adj. mit Einschnitten und Andropogon muricatus versehen , Ka1ty. S4r. 21 , 3 , 26. 
 
 कल्
@@ -30328,7 +30331,7 @@ Titel eines Werkes , Opp. Cat. 1.
 कलावत्त्व
 n. = kala1vijn5atva , S I , 222 , 8. º 
 
-कलावन्त्
+कलावत्|कलावन्त्
 ºAdj. = vidagdha , H 38 , 16; 43 , 180. 
 
 कलासमग्र
@@ -31021,7 +31024,7 @@ n. das Schönmachen , Dha1tup. 32 , 97.
 कान्दर्प
 Adj. von Kandarpa stammend , Manm. I , 19^c. * 
 
-कांदिशीक
+कान्दिशीक|कांदिशीक
 Adj. flüchtig auch S4uk. t. s. 64 (= p. 185 , 7). 
 
 कान्वशिर
@@ -31120,7 +31123,7 @@ m. verkehrter Wandel in betreff sinnlicher Neigungen , das verbotenen sinnlichen
 कामलता
 *Penis , S I , 129 , 4 v.u. (Ko.). 
 
-कामवन्त्
+कामवत्|कामवन्त्
 ºein Elefant mit einer bestimmten Eigenschaft ("jigha1m2sum2…sarvasattva1na1m2…ka1mavantam2…pracaks2ate") , S I , 298 , 4. 
 
 कामवर्ष
@@ -31267,7 +31270,7 @@ n. eine Art s4ra1ddha , S I , 542 , 13 (Ko.); II , 192 , 7 v.u. (Ko.; hier ºAdj
 कारण्यकारक
 m. Maha1vy. 186 , 167 wohl fehlerhaft für ka1ran2a1ka1raka Marterer , Henker. * 
 
-कारंधमिन्
+कारन्धमिन्|कारंधमिन्
 1. Alchymist , Adept der alchymistischen Philosophie , Hars2ac. (1936) 489 , 13. 
 
 कारयन्त्रिक
@@ -31738,7 +31741,7 @@ m. Herrscher , S I , 145 , 3. º
 काष
 m. das Reiben. gan2d2a° S4is4. 5 , 43. [H 30 , 27; Padyac. V , 27^a in kat2aka1s2ali1-laya1…=…kat2asya…gajagan2d2asya…ka1s2ali1-laya1…kas2an2akri1d2aya1]. 
 
-काषं
+काष|काषं
 ka1s2am2 Absol. immer wieder reibend , S4r2n3gt. 89^a; Muk. 91^b. º 
 
 काष्ठतक्ष्
@@ -31885,7 +31888,7 @@ m. *Stechapfel , Govardh. 115.
 किन्तमाम्
 und kintara1m Adv. P. 5 , 4 , 11. * 
 
-किंता
+किन्ता|किंता
 f. Schlechtigkeit , Feigheit , Kir. XV , 18. º 
 
 किंदरा
@@ -31924,10 +31927,10 @@ Adj. welche Speise genießend und welchen Vergnügungen nachgehend? Hariv. 11171
 किमेक
 m. Taugenichts , S4uk. t. o. Einl , [p. 5 , 26]. º 
 
-किंपच
+किम्पच|किंपच
 geizig , S I , 403 , 7. * 
 
-किंपवित्र
+किम्पवित्र|किंपवित्र
 Adj. wodurch Läuterung erhaltend? TS. 6 , 4 , 5 , 3. 
 
 किंपिरिपर्यन्त
@@ -32563,7 +32566,7 @@ f. wovon der Kronprinz den Nießbrauch hat , Apanage des Kronprinzen , Maha1vi1r
 कुमारराज
 m. Bein. Hars2avardhana's , M. Müller , Ren. 286. 
 
-कुमारवन्त्
+कुमारवत्|कुमारवन्त्
 m. N. pr. eines Mannes , Maitr. S. 4 , 2 , 6. 
 
 कुमार्ग
@@ -32629,7 +32632,7 @@ n. Titel eines Werkes , Opp. Cat. 1.
 कुम्भभेदन
 (n.) Topfscherbe , S I , 459 , 13 (Ko.). º 
 
-कुम्भसंभव
+कुम्भसम्भव|कुम्भसंभव
 m. 1. auch S4ri1k. 24 , 84. 
 
 कुम्भा
@@ -33319,7 +33322,7 @@ Adj. = kutsita1…u1rmir…yasya , S4ri1k. XIV , 34. º
 कूलक
 m. N. pr. eines mythischen Berges , Divya1vad. 455 , 28. 
 
-कूलंकषा
+कूलङ्कषा|कूलंकषा
 Fluß , S4uk. t. o. 12 [p. 24 , 33; 25 , 1]. * 
 
 कूलवन्ती
@@ -33451,7 +33454,7 @@ Adj. der sich angestrengt hat , Kir. XIII , 33. º
 कृतसत्कृति
 Adj. der eine Wohltat erwiesen hat , Kir. XIII , 10. º 
 
-कृतसंपुट
+कृतसम्पुट|कृतसंपुट
 Adj. = kr2ta1n5jali 1. , Verz. d. Oxf. H. 62 , a , 10. 
 
 कृतस्मय
@@ -33493,7 +33496,7 @@ Adj. = kr2tasna1na , Maha1vi1r. ed. Aiyar p. 189 , Z. 5. º
 कृति
 f. Gebäude , Bauwerk , Ja1takam. 381 , 19; etwa Verstellung , Affektation , 560 , 23.<BR> -m. auch N. pr. eines Gandharva , Taitt. A1r. 1 , 9 , 3. 
 
-कृतिमन्त्
+कृतिमत्|कृतिमन्त्
 ºAdj. = kr2tih2…s4ubhakarma…tadva1n , Yudh. 5 , 57. 
 
 कृतोद्वाह
@@ -33829,7 +33832,7 @@ m. N. eines daitya , H 43 , 237. º
 केतुमती
 ºHeer , H 43 , 223. º 
 
-केतुमन्त्
+केतुमत्|केतुमन्त्
 Adj. ºreich an Meteoren , H 43 , 223. 
 
 केतुमाल
@@ -34114,7 +34117,7 @@ m. eine Art Zeug , Maha1vy. 280 , 5. *
 कोटर
 *m. Baumhöhle , S I , 99 , 14 (Ko.). 
 
-कोटरवन्त्
+कोटरवत्|कोटरवन्त्
 Adj. Höhlen habend , Ma1lati1m. (ed. Bomb.) 305 , 2. 
 
 कोटवी
@@ -34783,7 +34786,7 @@ m. das Fließen von Blut , Vara1h. Br2h. S. 24 , 19.
 क्षतिज
 n. Blut , H 49 , 28. º 
 
-क्षतिमन्त्
+क्षतिमत्|क्षतिमन्त्
 Adj. verwundet , S4is4. 19 , 78. 
 
 क्षत्तर्
@@ -34993,7 +34996,7 @@ Adj. abwaschend , Yudh. 2 , 79. º
 क्षितिका
 f. ein best. Teil eines Saiteninstrumentes , Kaus4. 32 , 12. 
 
-क्षितिक्षमावन्त्
+क्षितिक्षमावत्|क्षितिक्षमावन्त्
 Adj. geduldig wie die Erde , R. ed. Bomb. 4 , 24 , 25. 31. 
 
 क्षितिक्षित्
@@ -35947,7 +35950,7 @@ n. Titel eines Werkes , Opp. Cat. 1.
 गजवक्त्र
 Adj. mit dem Gesicht eines Elefanten begabt (= Gan2es4a) , S4r2n3ga1rasarv. 146^b. º 
 
-गजवन्त्
+गजवत्|गजवन्त्
 Adj. ºmit einem Elefanten versehen = Indra (gajavantam…Aira1van2ahastiyuktam) , Yudh. 3 , 15. 
 
 गजवैद्य
@@ -36310,7 +36313,7 @@ n. ein best. wohlriechendes Getränk , Ma1n. Gr2hy. 2 , 14.
 गन्धपाषाण
 m. Schwefel , V 366; Hars2ac. 217 , 12. * 
 
-गन्धपाषाणवन्त्
+गन्धपाषाणवत्|गन्धपाषाणवन्त्
 Adj. Schwefel enthaltend , Das4ak. (1883) 128 , 5. Nach dem Komm. = manah2s4ila1didha1tupa1s2a1…n2amaya. 
 
 गन्धप्रवादा
@@ -36340,7 +36343,7 @@ m. Pl. die Welten des Gandharva 1. a)a) S4at. Br. 14 , 6 , 6 , 1.
 गन्धर्विन्
 ? m. = gandharva , S I , 477 , 2. º 
 
-गन्धवन्त्
+गन्धवत्|गन्धवन्त्
 , f. °vati1 *N. pr. einer tantra-Gottheit , Maha1vy. 197 , 90. 
 
 गन्धवाह
@@ -36349,7 +36352,7 @@ m. Pl. die Welten des Gandharva 1. a)a) S4at. Br. 14 , 6 , 6 , 1.
 गन्धसार
 (nach dem Ko. ºn.) Sandelholz , S I , 295 , 4 v.u. (Ko.); S4ri1k. X , 36 [hier Genus unbestimmbar]. *gandhasa1ra m. ºEingenname , S4r2n3gbh. 5 , 9 v.u.<BR> -ºN. eines Elefanten treibers , S4r2n3gt. 41 , 11 v.u. gandhasindhura m. = gandhadvipa , Dharmas4arm. 5 , 59. [S4r2n3ga1rasarv. 132; S I , 553 , 12 (Ko.); Govardh. 15; S4ri1k. 13 , 4; 14 , 22.] * 
 
-गन्धस्रग्दामवन्त्
+गन्धस्रग्दामवत्|गन्धस्रग्दामवन्त्
 Adj. mit wohlriechenden Girlanden versehen , Ma1n. Gr2hy. 2 , 6. 
 
 गन्धहस्तिन्
@@ -36388,7 +36391,7 @@ m. a musical term , Hars2ac. 95 , 8.
 गमगमन
 n. Gehen und Kommen , H 13 , 70. º 
 
-गमनवन्त्
+गमनवत्|गमनवन्त्
 Adj. hingehend , vergehend , Sa1y. zu R2V. 1 , 113 , 15. 
 
 गमागमिक
@@ -36565,7 +36568,7 @@ n. Fehlgeburt , Sumantu bei Kull. zu M. 5 , 66.
 गर्भसंकरित
 m. Mischling , Spr. 5749. 
 
-गर्भसंप्लव
+गर्भसम्प्लव|गर्भसंप्लव
 m. Fehlgeburt , MBh. 2 , 17 , 38. 
 
 गर्भस्तम्भ
@@ -36931,7 +36934,7 @@ f. , °ta1tparya n. , °candrika1 f. , °bodhika1 f. , °pratipada n. Titel von 
 गीतार्थसंग्रह
 m. , °raks2a1…,…ºvivr2ti f. , °saman3gala1ca1rapad2dhati f. , °sa1ra Titel von Werken , Opp. Cat. 1. 
 
-गीर्वन्त्
+गीर्वत्|गीर्वन्त्
 Adj. von 2. gir. * 
 
 गीर्वाणश्लोक
@@ -36985,7 +36988,7 @@ H 41 , 53 ºPferdegeschirr , Zaumzeug?
 गुण
 Bez. der Zahl drei; vgl. 1. n).<BR> -Macht , Ja1takam. 17 , 23. 
 
-गुणगणवन्त्
+गुणगणवत्|गुणगणवन्त्
 Adj. mit vielen Vorzügen ausgestattet , Bha1m. V. 1 , 19. 
 
 गुणग्रहीतर्
@@ -37474,7 +37477,7 @@ n. der Kreis der gocari1 , die Gruppe der s4akti's des Innenorgans , Praty. Hr2d
 गोळिका
 s. unter golaka weiter unten. 
 
-गोणिः
+गोणि|गोणिः
 (prasa1rayati)…=…nat2aprasevakam2…(dharati) , S II , 88 , 3. 
 
 गोणी
@@ -37603,7 +37606,7 @@ n. und °paribha1s2a1 f. Titel von Werken , Opp. Cat. 1.
 गोपुच्छा
 ºeine Art Zäsur , H 26 , 86 (Ko.). 
 
-गोप्तृमन्त्
+गोप्तृमत्|गोप्तृमन्त्
 Adj. einen Beschützter habend , Kaus2. Up. 2 , 1. 
 
 गोप्यतत्त्व
@@ -37876,7 +37879,7 @@ auch Verpfändung. °ke…muc verpfänden , Campaka 40 , 473.
 ग्रहणक्रियाक्रम
 m. Titel eines Werkes , Opp. Cat. 1. 
 
-ग्रहणवन्त्
+ग्रहणवत्|ग्रहणवन्त्
 = valita , S I , 596 , 13 v.u. (ko.). 
 
 ग्रहत्व
@@ -38347,7 +38350,7 @@ auch S4ri1k. 3 , 17; 7 , 15.
 घूक
 Eule auch S4ri1k. 22 , 36. 
 
-घृणावन्त्
+घृणावत्|घृणावन्त्
 Adj. ekelhaft , Sarasvati1k. 6 , s4l. 17. 
 
 घृणि
@@ -38563,7 +38566,7 @@ m. N. pr. eines Da1nava , VP. 1 , 21 , 12.
 चक्ररोमिका
 = Braue , S I , 159 , 5 v.u. (Ko.). º 
 
-चक्रवन्त्
+चक्रवत्|चक्रवन्त्
 n. Wagen , Baudh. 1 , 3 , 34. Vgl. cakri1vant. 
 
 चक्रविक्रम
@@ -38587,7 +38590,7 @@ m. 2. a) *Töpfer , S I , 413 , 5.<BR> -2. d) Fürst , König , Hem. Par. 1 , 39
 चक्रिभुज्
 m. Pfau , H 43 , 44. º 
 
-चक्रीवन्त्
+चक्रीवत्|चक्रीवन्त्
 m. *Esel , S II , 245 , 21; Hars2ac. 230 , 7 (gardabha…us2t2ro…va1).<BR> -3 n. Wagen , A1past. S4r. 15 , 20 , 18. 
 
 चक्ष्
@@ -38611,7 +38614,7 @@ m. º= S4es2a , S I , 251 , 1. |चक्स्२उह्२स्४रवस
 चक्षुष्प्रीति
 f. Augenweide. 
 
-चक्षुष्मन्त्
+चक्षुष्मत्|चक्षुष्मन्त्
 , *f. °s2mati1 N. pr. einer tantra-Gottheit , Maha1vy. 197 , 92. 
 
 चक्षूराग
@@ -38878,7 +38881,7 @@ mit vier Toren (oder n. und = nagara?) , S I , 145 , 6 v.u. (Ko.). º
 चतुर्थि
 A1past. Gr2hy. 9 , 1. wohl fehlerhaft für caturthi1. Vgl. ZDMG 41 , 671. 
 
-चतुर्दन्त्
+चतुर्दत्|चतुर्दन्त्
 Adj. vier Zähne habend , Ka1s4. zu P. 5 , 4 , 141. * 
 
 चतुर्दशतत्त्वार्थसारसंग्रह
@@ -40105,7 +40108,7 @@ Adj. in Baumrinde gekleidet , Yudh. 3 , 97. º
 चीरी
 ºFetzen , S I , 398 , 2. 
 
-चीवरवन्त्
+चीवरवत्|चीवरवन्त्
 Adj. ein Bettlergewand tragend , Pr. P. 85. 
 
 चीवरिणी
@@ -40540,10 +40543,10 @@ mit pratisam…,…ºpratisam2channa bedeckt mit , R. ed. Bomb. 4 , 1 , 21.
 छदिर्दर्श
 (Betonung falsch) m. das Sichtbarsein von Dächern , Maitr. S. 2 , 2 , 3 (17 , 9); A1past. S4r. 6 , 25 , 6. Vgl. acchadirdars4a. 
 
-छदिष्मन्त्
+छदिष्मत्|छदिष्मन्त्
 Adj. ein Verdeck habend (Wagen) , A1past. S4r. 10 , 24 , 2. 
 
-छदिःसंमित
+छदिःसम्मित|छदिःसंमित
 Adj. einer Decke entsprechend , S4at. Br. 3 , 5 , 3 , 9. 
 
 छद्मगृह
@@ -40576,7 +40579,7 @@ n. Willfahren , S I , 176 , 7. º
 छन्दोगान
 n. , Chandodarpan2a m. Titel von Werken , Opp. Cat. 1. 
 
-छन्दोभङ्गवन्त्
+छन्दोभङ्गवत्|छन्दोभङ्गवन्त्
 Adj. metrisch fehlerhaft , Sarasvati1k. 9 , 2 v.u. 
 
 छन्दोभाग
@@ -40675,7 +40678,7 @@ n. Titel eines Werkes , Opp. Cat. 1.
 छायापौरुष
 n. die Länge des Zeigers an der Sonnenuhr , Kaut2. 106 , 11. º 
 
-छायावन्त्
+छायावत्|छायावन्त्
 *Schönheit besitzend , H 17 , 25. 
 
 छायावृक्ष
@@ -40993,7 +40996,7 @@ m. ein gewöhnlicher Stier , Can2d2i1s4. 79.
 जनविद्
 ºMenschenkenner? Mgs I , 10 , 8. 
 
-जनसंमर्द
+जनसम्मर्द|जनसंमर्द
 m. Menschengedränge , Ma1lati1m. (ed. Bomb.) 354 , 9. 
 
 जनातिग
@@ -41014,7 +41017,7 @@ f. Mutter , Manm. II , 16^b. *
 जनिदिवस
 m. Geburtstag , Maha1vi1rac. 107 , 17. 
 
-जनिमन्त्
+जनिमत्|जनिमन्त्
 m. Geschöpf , Mensch , Maha1vi1rac. 132 , 19. 
 
 जनिविद्
@@ -41167,7 +41170,7 @@ ist richtig.
 जयरामीय
 n. Titel eines Werkes , Opp. Cat. 1. 
 
-जयवन्त्
+जयवत्|जयवन्त्
 Adj. der gesiegt hat , Hem. Par. 1 , 317. 
 
 जयहय
@@ -41902,7 +41905,7 @@ glänzen , H 48 , 48. *
 जुम्बका
 f. Bez. einer ga1yatri1 , Ha1ri1ta im Komm. zu VS. 25 , 9 und Hema1dri 3 , a , 903 , 4. 
 
-जुषाणवन्त्
+जुषाणवत्|जुषाणवन्त्
 Adj. das Wort jus2a1n2a enthaltend , Komm. zu A1past. S4r. 6 , 31 , 12. 
 
 जुहूराण
@@ -41911,7 +41914,7 @@ m. ºRoß , S I , 214 , 4. *
 जूटिकाबन्ध
 coiled hair , Hars2ac. 37 , 8. º 
 
-जूतिमन्त्
+जूतिमत्|जूतिमन्त्
 Adj. drängend , ungestüm. 
 
 जूर्
@@ -42274,7 +42277,7 @@ m. Rauschen , H II , 57; V , 3; XXXVII , 36; L , 84. º
 झांकारित
 = sam2mukhi1kr2ta , S4ri1k. II , 49. º 
 
-झांकारिन्
+झाङ्कारिन्|झांकारिन्
 Adj. = jham2ka1rin , Maha1vi1rac. 51 , 2. 
 
 झांकृत
@@ -42808,7 +42811,7 @@ m. Sohn , Hem. Par. 1 , 395; 2 , 12. 294. 298.
 तनुत्रिन्
 Adj. gepanzert , S4is4. 19 , 99. 
 
-तनुमन्त्
+तनुमत्|तनुमन्त्
 ºSubst. (m.) Körperwesen , S I , 534 , 1. 
 
 तनुरुह
@@ -42841,7 +42844,7 @@ n. das Spinnen , Sud. zu A1past. Gr2hy. 8 , 12.
 तन्तुक्रिया
 f. das Geschäft des Spinnens , Har. zu A1past. Gr2hy. 10 , 10. 
 
-तन्तुमन्त्
+तन्तुमत्|तन्तुमन्त्
 1. b) A1past. S4r. 9 , 8 , 5.<BR> -2. f. °mati1 auch: eine an diesen Agni gerichtete Darbringung , Komm. zu A1past. S4r. 9 , 8 , 5. 
 
 तन्तुसंतति
@@ -43255,7 +43258,7 @@ Adj. im Besitz seiner Welt seiend. Nom. abstr. °ta1 f. Bha1g. P. 4 , 24 , 7.
 तवर्गबन्ध
 m. Bez. einer Strophenform , H 48 , 82. º 
 
-तवस्वन्त्
+तवस्वत्|तवस्वन्त्
 , so zu akzentuieren. 
 
 तष्टि
@@ -43819,7 +43822,7 @@ f. eine aus Sesamkörnern gebildete Kuh , MBh. 13 , 64 , 35; 71 , 40.
 तिलधेनुका
 f. dass. , MBh. 3 , 84 , 87. 
 
-तिलंतुद
+तिलन्तुद|तिलंतुद
 m. Ölmüller , S I , 430 , 13 (Ko.); 449 , 12 (Ko.). * 
 
 तिलपिश्ल
@@ -44014,13 +44017,13 @@ m. eine Art na1yaka , E 346 (A). 347 (P).
 तुरंगफल
 (n.) Schachbrett , S II , 242 , 10 (Ko.). º 
 
-तुरंगम
+तुरङ्गम|तुरंगम
 m. ºeine Pflanze , E 887 (P). 
 
 तुरंगमा
 ºGalopp , Suk. t. o. 58 [p. 63 , 4]. 
 
-तुरंगवदन
+तुरङ्गवदन|तुरंगवदन
 m. = Gandharve , Govardh. XV. * 
 
 तुरंगशत्रु
@@ -44350,10 +44353,10 @@ Adj. von glänzender Herkunft , edel (von Pferden gebraucht) , Prabandh. 33 , 9.
 तेजोमात्रा
 f. Lichtteilchen , S4at. Br. 14 , 7 , 2 , 1. 
 
-तेजोवन्त्
+तेजोवत्|तेजोवन्त्
 Adj. auch kräftig , energisch , R. ed. Bomb. 4 , 50 , 12. °vati1 f. *ein best. sama1dhi , Maha1vy. 21 , 44.<BR> -*Piper chaba , Kaut2. 120 , 2 v.u. 
 
-तेजोवैदग्ध्यशीलवन्त्
+तेजोवैदग्ध्यशीलवत्|तेजोवैदग्ध्यशीलवन्त्
 Adj. Energie , Scharfsinn und guten Charakter besitzend , Sa1h. D. 64. 
 
 तेमन
@@ -44917,7 +44920,7 @@ Adj. drei Arten des Erotischen enthaltend , Das4ar. III , 65^a. º
 त्रिःश्रेणि
 Adj. drei Reihen bildend , Ait. Br. 3 , 39 , 2. 
 
-त्रिषंधि
+त्रिषन्धि|त्रिषंधि
 1. Kaus. 16 , 24. 
 
 त्रिष्टावरुत्री
@@ -45028,7 +45031,7 @@ Bhadrab. 1 , 64. Instr. tvakaya1 4 , 9.
 त्वक्कोच
 m. Runzel , S II , 69 , 12 (Ko.). º 
 
-त्वक्तरंग
+त्वक्तरङ्ग|त्वक्तरंग
 m. Runzel , S I , 493 , 8 (Ko.); 5 v.u. (Ko.). º 
 
 त्वक्संकोच
@@ -45070,7 +45073,7 @@ m. Bein. Indra's , Can2d2i1s4. 23.
 त्विष्
 Z. 6. 7 lies ava statt a1 und wohnen statt nehmen. |त्विस्२ f. *Rede , Wort , S I , 195 , 5. 
 
-त्विषिमन्त्
+त्विषिमत्|त्विषिमन्त्
 ºSubst. m. Sonne , Hars2ac. 55 , 7. 
 
 त्वैषीरथि
@@ -45100,7 +45103,7 @@ mit abhi beißen , Ja1takam. 32 , 30.<BR> -Mit vi sich einkneifen in (Akk.) , Ja
 दंष्ट्रा
 ºStraße , H 43 , 58. 
 
-दंष्ट्राकरालवन्त्
+दंष्ट्राकरालवत्|दंष्ट्राकरालवन्त्
 Adj. hervorstehende Zähne habend , R. ed. Bomb. 4 , 22 , 29. 
 
 दंष्ट्रायुध
@@ -45496,7 +45499,7 @@ N. eines Dorfes , Lat2. 4 , 4. º
 दरीभृत्
 m. Berg , Kir. 18 , 2. 
 
-दरीमन्त्
+दरीमत्|दरीमन्त्
 Adj. höhlenreich , R. ed. Bomb. 4 , 40 , 35. 
 
 दर्दर
@@ -45724,7 +45727,7 @@ Adj. seit zehn Jahren bestehend , M. 2 , 134. Vgl. A1past. 1 , 14 , 13.
 दशार्धता
 f. = pan5catva , die Auflösung des Körpers in die fünf Elemente , der Tod , MBh. 3 , 209 , 26. 
 
-दशावन्त्
+दशावत्|दशावन्त्
 Adj. mit Fransen versehen , A1past. S4r. 12 , 14 , 11. 
 
 दशावस्थ
@@ -45820,7 +45823,7 @@ Adj. in Wohltätigkeit bestehend , Maha1vy. 93 , 2. *
 दानमातङ्ग
 m. Brunstelefant , H 48 , 42. º 
 
-दानवन्त्
+दानवत्|दानवन्त्
 Adj. ºshedding ichor , Va1s. 295 , 5; Hars2ac. 200 , 18. 
 
 दानवपुष्
@@ -45988,7 +45991,7 @@ auch Verbrennungsplatz , Vasis2t2ha 19 , 26.
 दाहग्राहिन्
 Adj. die Glut (des Körpers) wegnehmend , Kaut2. 78 , 12. º 
 
-दाहवन्त्
+दाहवत्|दाहवन्त्
 Adj. = da1ho…manasta1po…vidyate…yasya…sah2 , Yudh. 7 , 143. º 
 
 दाहवाहिन्
@@ -46243,7 +46246,7 @@ auch Samayam. 5 , 77.
 दीपावती
 f. N. pr. einer Stadt , Divya1vad. 246 , 9 ff. 
 
-दीप्तिमन्त्
+दीप्तिमत्|दीप्तिमन्त्
 m. ºSonne , Padyac. IX , 33^a. 
 
 दीप्र
@@ -46312,7 +46315,7 @@ m. das Antun eines Leides , M. 6 , 64.
 दुःखवसति
 f. = duh2khava1sa , MBh. 3 , 280 , 43; 5 , 187 , 4. 
 
-दुःखशोकवन्त्
+दुःखशोकवत्|दुःखशोकवन्त्
 Adj. Leid und Kummer empfindend , R. 4 , 19 , 11. 
 
 दुःखस्पर्शम्
@@ -46420,7 +46423,7 @@ m. schlimme Anfechtung , Karn2as. II , 35^a. º
 दुरभिसंधि
 m. auch S II , 293 , 16. 
 
-दुरभिसंभव
+दुरभिसम्भव|दुरभिसंभव
 Adj. Maha1vy. 245 , 804. schwer auszuführen , schwierig , Ja1takam. 12; mit Schwierigkeiten verbunden oder schwer zu bewohnen , 21. 
 
 दुरवगाह
@@ -46735,7 +46738,7 @@ Adj. dessen Mund die Boten sind , S4is4. 2 , 82.
 दूतयति
 auch S I , 274 , 7. 
 
-दूतवन्त्
+दूतवत्|दूतवन्त्
 Adj. einen Boten habend , Kaus2. Up. 2 , 1. 
 
 दूतानुपातिन्
@@ -46840,7 +46843,7 @@ Adj. f. ansehend , betrachtend , Bha1m. V. 2 , 178.
 दृषद्भेदक
 m. Steinmetz , S I , 271 , 13 v.u. (Ko.). º 
 
-दृषन्त्
+दृषत्|दृषन्त्
 , eher fehlerhaft für ris4ant. 
 
 दृष्टचर
@@ -47110,7 +47113,7 @@ Adj. mit einem Körper versehen , Hariv. 9030. Wohl dehabaddha zu lesen.
 देहभेद
 m. Verfall des Leibes , Tod , S4veta1s4v. Up. 1 , 11; MBh. 2 , 44 , 11. 
 
-देहंभरवार्त्तिक
+देहम्भरवार्तिक|देहंभरवार्त्तिक
 Adj. nur darauf bedacht den Leib zu ernähren , Bha1g. P. 5 , 5 , 3. 
 
 देहली
@@ -47431,7 +47434,7 @@ m. Pl. = dramila 2. , Gan2ar. drava 2. m. b) Ja1takam. 28. 32 , 2; S I , 406 , 5
 द्रवत्व
 n. ºOrgasmus , E 405. 884 (A). 
 
-द्रवन्त्
+द्रवत्|द्रवन्त्
 Z. 2 , lies dravanti1 st. dravati1. 
 
 द्रवमय
@@ -47557,7 +47560,7 @@ m. = As4vattha1man , Hars2ac. 289 , 17. *
 द्वक्षीव
 eine Zutat zum Gemüse , S I , 401 , 4 v.u. (Ko.). º 
 
-द्वंद्व
+द्वन्द्व|द्वंद्व
 , Lok. so v.a. unter vier Augen , R. 7 , 103 , 11. 
 
 द्वन्द्वता
@@ -47878,7 +47881,7 @@ Adj. zweieckig; n. ein solches Gefäß für Spenden an die As4vin , A1past. S4r.
 द्विःसम
 Adj. doppelt so groß , Ya1jn5. 3 , 285. 
 
-द्वीपवन्त्
+द्वीपवत्|द्वीपवन्त्
 3. a) , Dharmas4. 1 , 31. 
 
 द्वीपिद्विज
@@ -48076,7 +48079,7 @@ f. "Blasebalg" , eine Art Schild , Kaut2. 102 , 9 v.u. º
 धमनी
 = agnyuddi1panabha1n2d2a (Man3kha 486) , vgl. Gr2hyasam2grahaparis4is2t2a I , 70 (ZDMG 35 , 541. 559); Ka1tya1yanasmr2ti I , 9 , 15. [Z.].<BR> -Blasebalg , S II , 43 , 4 v.u. (Ko.). 
 
-धयद्वन्त्
+धयद्वत्|धयद्वन्त्
 A1past. S4r. 14 , 18 , 5. 
 
 धर्
@@ -48160,7 +48163,7 @@ m. Fürst , S I , 436 , 6. º
 धर्म
 11. Bogen , Dharmas4. 17 , 66. [S I , 53 , 2; 203 , 3; 211 , 7; II , 218 , 8.] 
 
-धर्मकामार्थसंबन्ध
+धर्मकामार्थसम्बन्ध|धर्मकामार्थसंबन्ध
 m. so v.a. Eheschließung , MBh. 1 , 74 , 20. 2. dharmaka1ya Adj. das Gesetz (buddh.) zum Körper habend , Vajracch , 43 , 8. 
 
 धर्मचक्षुस्
@@ -48244,7 +48247,7 @@ Adj. das Recht zum Vehikel habend , sich vom Gesetz leiten lassend , MBh. 13 , 1
 धर्मविप्लव
 m. Rechtsverletzung , Kir. 1 , 13. 
 
-धर्मविरोधवन्त्
+धर्मविरोधवत्|धर्मविरोधवन्त्
 Adj. das Recht beeinträchtigend , alles Recht verletzend , R. ed. Blomb. 2 , 36 , 29. 
 
 धर्मशरीर
@@ -48391,7 +48394,7 @@ Koriander , E 848 (A). *
 धामनिधि
 Navasa1has. 1 , 79. Zitat bei Mahendra zu Hem. Anek. 2 , 266. [Z.] 
 
-धामवन्त्
+धामवत्|धामवन्त्
 Adj. mächtig , kräftig , Kir. 1 , 43. 
 
 धामाधिप
@@ -48439,7 +48442,7 @@ n. ºStromwasser , H 5 , 115 (Ko.).
 धाराल
 Adj. in Reihen sich bewegend , Manm. 636 , 3 [im Prakrit]; scharf (Schwert) , Prabandh. 202 , 3 v.u. * 
 
-धारावन्त्
+धारावत्|धारावन्त्
 Adj. ºmit Strömen (Blutes) versehen , Yudh. 7 , 103. 
 
 धारावाहिका
@@ -48487,7 +48490,7 @@ m. Name eines Arztes , S I , 509 , 8;<BR> -eines ºKönigs , S I , 550 , 7.
 धीता
 f. Tochter , Zach. Beitr. 
 
-धीमन्त्
+धीमत्|धीमन्त्
 *m. = Bodhisattva , Maha1vy. 22 , 3. 
 
 धीर
@@ -48520,7 +48523,7 @@ N. einer Stadt , Prabandh. 207 , 1 v.u.; 238 , 1. º
 धुंधुंधुमारव
 Zuruf an die Kühe (?) , Kam2s. III , 25^a. º 
 
-धुन्धुमन्त्
+धुन्धुमत्|धुन्धुमन्त्
 m. N. pr. eines Sohnes des Kevala , VP. 4 , 1 , 19 (20). Bandhumant v.l. 
 
 धुमधुमायते
@@ -48787,7 +48790,7 @@ Adj. , Zach. Beitr. *
 ध्वन्याचार्य
 = A1nandavardhana und Verfasser des Dhvanya1loka. Vgl. Pischel , ZDMG 39 , 315. 
 
-ध्वस्मन्वन्त्
+ध्वस्मन्वत्|ध्वस्मन्वन्त्
 1. lies: befleckt , so v.a. verunehrt , verleumdet , R2V. 6 , 15 , 12; 7 , 4 , 9. Es. ist tva14 oder tva14d zu lesen. 
 
 ध्वाङ्क्ष्
@@ -48829,7 +48832,7 @@ m. vielleicht eine Art Geldbeutel , Divya1vad. 124 , 2.
 नक्तंकर
 m. Mond , H 24 , 44. º 
 
-नक्तंचर
+नक्तञ्चर|नक्तंचर
 m. ºMond , H 20 , 54. 
 
 नक्तंभोजिन्
@@ -49174,7 +49177,7 @@ f. Augenweide , = caks2uh2pri1ti (s. d.) , Ratirahasya (ed. Benares 1912) XIII ,
 नयनबुद्बुद
 n. Augapfel , Sus4r. 2 , 303 , 4. 
 
-नयनवन्त्
+नयनवत्|नयनवन्त्
 Adj. Augen habend , Ma1lati1m. (ed. Bomb.) 97 , 1. 
 
 नयनवारि
@@ -49246,7 +49249,7 @@ ein Mensch als Schlachtopfer , Ja1takam. 10 , 17.
 नरपाल
 m. ºN. eines Königs , S II , 283 , 16. 
 
-नरंमन्य
+नरम्मन्य|नरंमन्य
 , Rudrat2a , S4r2n3ga1rat. 1 , 124. 
 
 नरवीर
@@ -49726,10 +49729,10 @@ Adj. nicht zu flüssig , Sus4r. 1 , 233 , 12.
 नातिपृथु
 Adj. (f. ebenso) nicht zu breit , Vara1h. Br2h. S. 70 , 8. 
 
-नातिप्रसीदन्त्
+नातिप्रसीदत्|नातिप्रसीदन्त्
 Adj. nicht ganz heiter seiend , Bha1g. P. 1 , 4 , 27. 
 
-नातिमुदावन्त्
+नातिमुदावत्|नातिमुदावन्त्
 Adj. nicht sehr erfreut , -xfroh , Ma1rk. P. 69 , 12. 
 
 नातिरोहिणी
@@ -49816,7 +49819,7 @@ Adj. dessen Geist an vielerlei Gefallen findet , MBh. 13 , 124 , 28.
 नानाब्रह्मसामत्व
 n. Verschiedenartigkeit des Brahmasa1man , La1t2y. 10 , 4 , 4. 
 
-नानामन्त्रौघसिद्धिमन्त्
+नानामन्त्रौघसिद्धिमत्|नानामन्त्रौघसिद्धिमन्त्
 Adj. im Besitz von einer Menge wirksamer Zaubersprüche seiend , Katha1s. 70 , 55. 
 
 नानामुख
@@ -49828,7 +49831,7 @@ Adv. mannigfach klingend , Muk. 103^d. º
 नानायोग
 m. Vielfältigkeit , Kap. 1 , 150. 
 
-नानारत्नाकरवन्त्
+नानारत्नाकरवत्|नानारत्नाकरवन्त्
 Adj. eine Fundgrube für mancherlei Juwelen habend , Vara1h. Br2h. S. 48 , 24. 
 
 नानारस
@@ -50107,7 +50110,7 @@ auch H 5 , 87; S I , 243 , 8.
 निकूजितव्य
 n. das Stöhnen , Ja1takam. 29 , 43. 
 
-निकृत्ति
+निकृति|निकृत्ति
 f. Niedermetzelung , Vernichtung etc. , S II , 365 , 10. º 
 
 निकृन्तिन्
@@ -51637,7 +51640,7 @@ Adj. reich an Schweiß? Kuval. IV , 4 (Ko.). º
 निहालन
 n. das Durchackern = eifriches Mitmachen , S II , 322 , 11; s. hal…+…ni. º 
 
-निह्रादवन्त्
+निह्रादवत्|निह्रादवन्त्
 Adj. lärmend , Kir. 14 , 27. 
 
 निह्रादित
@@ -52132,7 +52135,7 @@ Bootszins , Kaut2. 126 , 5. º
 नौक्रम
 m. Schiffbrücke , Divya1vad. 55 , 17. 
 
-नौचक्रीवन्त्
+नौचक्रीवत्|नौचक्रीवन्त्
 m. ein Eigentümer von Schiffen und Wagen , Gaut. 10 , 33. 
 
 नौतन
@@ -52291,7 +52294,7 @@ Ansatzstelle der Flügel , Govardh. 506. *
 पक्षपुच्छ
 n. Pl. Flügel und Schwanz , S4at. Br. 7 , 2 , 2 , 8. 
 
-पक्षपुच्छवन्त्
+पक्षपुछवत्|पक्षपुच्छवन्त्
 Adj. Flügel und Schwanz habend , S4at. Br. 6 , 7 , 2 , 7. 8. 
 
 पक्षभुक्ति
@@ -52336,7 +52339,7 @@ Adj. ºmit vielen Staubfäden besetzt , H XXI , 3.<BR> -Uttarar. III , 23^b nach
 पक्ष्मलित
 stark geworden , S4r2n3gbh. 7^b. º 
 
-पक्ष्मसंपात
+पक्ष्मसम्पात|पक्ष्मसंपात
 m. = paks2mapa1ta.…ºje…ka1le so v.a. in einem Augenblick , MBh. 5 , 90 , 42. 
 
 पङ्क
@@ -52807,7 +52810,7 @@ eine Art Gemüse , Damayanti1k. 236.
 पण्डित
 , ºf. a1 , eine Gelehrte , Prabandh. 105 , 10. 
 
-पण्डितंमन्य
+पण्डितम्मन्य|पण्डितंमन्य
 Adj. sich für klug haltend , Rasas. Epilog 13^a. 
 
 पण्डितवैतण्डिक
@@ -52858,7 +52861,7 @@ n. eine Art Schmuckstück , Padyac. II , 21^b. º
 पतगपति
 m. = Garud2a , Vis2n2ubh. VII , 33. º 
 
-पतंग
+पतङ्ग|पतंग
 , f. a1 N. pr. eines mythischen Flusses , Divya1vad. 451 , 3; 456 , 19. 
 
 पतंगजव
@@ -52885,7 +52888,7 @@ Vogelweibchen , S II , 365 , 23. º
 पतद्ग्रह
 Spucknapf , Hars2ac. 237 , 2. 
 
-पतन्त्
+पतत्|पतन्त्
 2. Kir. 6 , 1; 16 , 47. 
 
 पतयति
@@ -53551,7 +53554,7 @@ aversion , disinclination , Hars2ac. 194 , 6. º
 पराजयवन्त्
 Adj. unterliegend , S4r2n3gbh. 14 , 10. º 
 
-पराजितः
+पराजित|पराजितः
 aus dem gewaltigen Kampfe und zugleich: von den Feinden unbesiegt , Yudh. 4 , 97. º 
 
 पराधेय
@@ -53605,7 +53608,7 @@ n. ºeine Art Coitus , E 556 (K).
 परावृत्तक
 n. ºeine Art Coitus , V 141. 
 
-पराशक्तिः
+पराशक्ति|पराशक्तिः
 f. die höchste Macht; im Kas4m. S4iv. ºBez. der höchsten S4akti S4iva's (der seinen immanenten Aspekt darstellenden Schöpfermacht) im Unterschied zu den unzähligen , von ihr abhängigen S4akti's , Praty. Hr2d. 2 , 6. [B.] 
 
 परासर
@@ -54010,10 +54013,10 @@ Adj. (mit Akk.) zu schmähen beabsichtigend , S4is4. 15 , 73.
 परिवृक्ष
 (?) Kaus4. 80. 
 
-परिवृत्त
+परिवृत|परिवृत्त
 1. Adj. s. unter vart mit pari.<BR> -2. n. das Rollen , Sichhinundherbewegen , Sichwälzen , MBh. 11 , 162 (parivr2tti v. l.); Ma1lati1m. 76 , 10 (ed. Bomb. 164 , 2. 
 
-परिवृत्ति
+परिवृति|परिवृत्ति
 auch: das Rollen , MBh. 11 , 6 , 14.<BR> -Ausgang , Ende , Kir. 9 , 2. 74. 76. 
 
 परिवेदित
@@ -54379,10 +54382,10 @@ m. Verbot , Verhinderung , Maha1vy. 245 , 122. Vgl. parigodha und palibodha in d
 पलित
 3. b) Das4ak. (1883) 37 , 10. 
 
-पलितंकरण
+पलितङ्करण|पलितंकरण
 Adj. (f. i1) , Va1sav. 297 , 2; Alam2ka1rav. 47 , b. 
 
-पलितवन्त्
+पलितवत्|पलितवन्त्
 Adj. graue Haare habend , Hem. Par. 1 , 202. 
 
 पलिश
@@ -54766,7 +54769,7 @@ Adj. f. geehelicht , Hem. Par. 2 , 119.
 पाणिग्राहम्
 Absol. bei der Hand ergreifend , S4is4. 18 , 12. 
 
-पाणिग्राहवन्त्
+पाणिग्राहवत्|पाणिग्राहवन्त्
 m. Bräutigam , Sa1y. zu Taitt. A1r. 6 , 1 , 3 , 14. 
 
 पाणिघ
@@ -55111,7 +55114,7 @@ n. Gleichgiltigkeit? S4uk. t. o. 50 [p. 57 , 3]. º
 पारमी
 f. = paramasya…bha1vah2 , Padyac. II , 54^b; IX , 56^a. º 
 
-पारंपरी
+पारम्परी|पारंपरी
 f. Aufeinanderfolge , Subha1s2ita1v. 1489. 
 
 पारलौहित्यक
@@ -55603,7 +55606,7 @@ Bein. Skanda's , AV. Paris4. 20 , 4.
 पिनाकिन्
 Z. 2 , lies b) statt 3. Z. 3 , lies 3. statt 4. 
 
-पिपतिषन्त्
+पिपतिषत्|पिपतिषन्त्
 2. Kir. 7 , 17. 
 
 पिपाययिषु
@@ -55612,7 +55615,7 @@ trinken lassen wollend , H XXVI , 3 [pipa1vayis2avo gedruckt!]. º
 पिपासा
 ºder Wunsch zu schützen , H XLIII , 290. 
 
-पिपासावन्त्
+पिपासावत्|पिपासावन्त्
 , so zu lesen. [pw 7 pi1° gedruckt und daher an falscher Stelle aufgeführt.] 
 
 पिपीलिकोत्किरण
@@ -56317,7 +56320,7 @@ Adj. Kaut2. 77 , 5? J. J. Meyer , S. 109 , 11 "in der `Blüte' zersprungen"; Gan
 पुष्पतरु
 m. Baum mit bemerkenswerten Blüten , S I , 339 , 2 v.u. (Ko.). º 
 
-पुष्पंधय
+पुष्पन्धय|पुष्पंधय
 m. Biene auch S I , 68 , 2. 
 
 पुष्पपट्ट
@@ -56359,7 +56362,7 @@ m. Biene , S4ri1k. VI , 64. *
 पुष्पलोह
 n. kind of precious stone , Hars2ac. 149 , 11. º 
 
-पुष्पवन्त्
+पुष्पवत्|पुष्पवन्त्
 , f. °vati1 auch N. pr. einer Fürstin , Hem. Par. 6 , 94. 
 
 पुष्पवन्त
@@ -56725,7 +56728,7 @@ ein runder Flecken , Haravijaya 5 , 69. [Erstens muß es "Fleck" heißen , zweit
 पृषदाकु
 m. Schlange , S II , 205 , 3. º 
 
-पृषन्त्
+पृषत्|पृषन्त्
 2. b) pr2s2ta1m2…patih2 S4is4. 6 , 55. 
 
 पृष्ट
@@ -57280,7 +57283,7 @@ auch allgemeiner Titel eines nordbuddhistischen su1tra , wovon verschiedene Reda
 प्रज्वालक
 m. Entflammer , S I , 453 , 4 v.u. (Ko.). º 
 
-प्रणतात्मवन्त्
+प्रणतात्मवत्|प्रणतात्मवन्त्
 Adj. gebeugten Körpers , sich verbeugend , R. ed. Bomb. 4 , 46 , 2. 
 
 प्रणम्र
@@ -57352,7 +57355,7 @@ n. Hieb , S II , 189 , 3 v.u. (Ko.). º
 प्रतान
 m. º= rajjubandhana , S I , 595 , 8. 
 
-प्रतानवन्त्
+प्रतानवत्|प्रतानवन्त्
 Kaut2. 51 , 2 v.u. , so v.a. ºübersponnen. 
 
 प्रतानिनी
@@ -57730,7 +57733,7 @@ Lok. in einander begegnender Richtung , Divya1vad. 164 , 27; 165 , 16.
 प्रतिमाशरीर
 n. = pratiphalitam2…s4ari1ram , Padyac. IV , 34^a. º 
 
-प्रतिमासंप्रोक्षण
+प्रतिमासम्प्रोक्षण|प्रतिमासंप्रोक्षण
 n. , so zu lesen st. °ks2an2am. 
 
 प्रतिमिति
@@ -57943,7 +57946,7 @@ Absol. wieder an seinen Platz stellend , Komm. zu A1past. S4r. 11 , 5 , 7.
 प्रतिसंबन्ध
 m. jeweilige Beziehung , Kaut2. 24 , 1/2. º 
 
-प्रतिसंमोदन
+प्रतिसम्मोदन|प्रतिसंमोदन
 n. Begrüßung. °katha1 f. Anrede zur B. , Ja1takam. 21. 23. 
 
 प्रतिसर
@@ -58012,7 +58015,7 @@ m. Auftreten , Das4ar. II , 52 (in channanetr2prati1ca1ra). º
 प्रतीच्छन
 [n.] Govardh. 99 [in va1taprati1cchanapat2i1…=…va1ta1nuku1lagamanajanakam2…vastram]. º 
 
-प्रतीतिमन्त्
+प्रतीतिमत्|प्रतीतिमन्त्
 Adj. bekannt , erkannt , Haravijaya 6 , 32. 
 
 प्रतीपदर्शिनी
@@ -58261,7 +58264,7 @@ Adj. , f. a1 , eben erscheinend (Sonnenglanz) , Padyac. VII , 42^d. º
 प्रथमेतर
 Adj. ºwestlich , Padyac. VIII , 13^a. 
 
-प्रदण्डवन्त्
+प्रदण्डवत्|प्रदण्डवन्त्
 Adj. strenge Strafen verhängend , Para1s4ara 1 , 61 (S. 389). 
 
 प्रदर
@@ -58492,7 +58495,7 @@ auch Bez. eines best. Beamten , Festgr. 16 , 37.
 प्रमाथ
 m. º= pis4a1ca , S I , 47 , 6.<BR> -ºAufwirbeln von Staub I , 31 , 4; 339 , 1; 603 , 1. 
 
-प्रमादवन्त्
+प्रमादवत्|प्रमादवन्त्
 = unmatta , S I , 583 , 3. * 
 
 प्रमादित्व
@@ -58732,10 +58735,10 @@ S II , 400 , 25 sich vorwärts bewegend?? º
 प्रवीड
 zu streichen. Lies puri1tat. [Z.] * 
 
-प्रवृत्त
+प्रवृत|प्रवृत्त
 3. f. a1. N. pr. einer Unholdin , Ma1rk. P. 51 , 42 , b (zu lesen atha…Pravr2tta1…sa1). 
 
-प्रवृत्तसंप्रहार
+प्रवृतसम्प्रहार|प्रवृत्तसंप्रहार
 Adj. zu kämpfen begonnen habend. Nom. abstr. °tva n. , Katha1s. 15 , 140. 
 
 प्रवृत्ताशिन्
@@ -58822,7 +58825,7 @@ zu befragen nach (prati) , R. ed. Bomb. 4 , 42 , 49.
 प्रसक्ति
 f. ºEinwilligung , Dhanika zu Das4ar. I , 43 (p. 25 , Z. 12). 
 
-प्रसंख्यान
+प्रसङ्ख्यान|प्रसंख्यान
 n. ºRechnen , S I , 236 , 2. 
 
 प्रसङ्गति
@@ -58966,7 +58969,7 @@ n. eine Art Schlag , V 147. 150; E 512 (R , A). 519 (R; m.!). 521 (K , R).<BR> -
 प्रसृताभरण
 n. = jan3gha1lam2ka1ra. S I , 106 , 7 v.u. (Ko.). º 
 
-प्रसृतिंपच
+प्रसृतिम्पच|प्रसृतिंपच
 , ambhah2° so v.a. nur wenig Wasser gebend , Alam2ka1ras. 26 , b; Alam2ka1rav. 72 , a; Alam2ka1rar. 10 b. Vgl. Viddhas4a1l. 48 , 6. 
 
 प्रसृत्वर
@@ -59005,7 +59008,7 @@ Adj. anderweitig beschäftigt , Ja1takam. 28.
 प्रस्थानक
 n. = prastha1na 1. , Damayanti1k. 208. 
 
-प्रस्थावन्त्
+प्रस्थावत्|प्रस्थावन्त्
 vgl. Roth in Festgr. 99. 
 
 प्रस्थिक
@@ -59773,7 +59776,7 @@ nutzlos , S I , 234 , 3 v.u. (Ko.). º
 फलता
 fruition , Va1s. 258 , 5. º 
 
-फलमूलवन्त्
+फलमूलवत्|फलमूलवन्त्
 Adj. mit Früchten und Wurzeln versehen , R. 5 , 73 , 19. 
 
 फलाग्रशाखिन्
@@ -59848,7 +59851,7 @@ m. N. eines Hirten , Prabandh. 46 , 2. º
 फुल्ल
 (nach dem Ko. n.; pw "wohl n.") Blüte , S I , 449 , 8 v.u. (Ko.); 575 , 2. [94 , 4 nicht zu entscheiden.] II , 182 , 9 (1 v.u. Ko.). 
 
-फुल्लपद्मोत्पलवन्त्
+फुल्लपद्मोत्पलवत्|फुल्लपद्मोत्पलवन्त्
 Adj. mit blühenden padma und utpala versehen , R. ed. Bomb. 4 , 1 , 3. 
 
 फूत्का
@@ -60721,7 +60724,7 @@ m. ein best. giftiges Insekt. vi° gedruckt.
 बिन्दूयमान
 Tropfen darstellend , Rasas. 14 , 11. º 
 
-बिबिबाभवन्त्
+बिबिबाभवत्|बिबिबाभवन्त्
 Partic. knisternd , Maitr. S. 1 , 6 , 5 (95 , 6). 
 
 बिब्बोकिनी
@@ -60817,7 +60820,7 @@ das Saatgut aufessend , S I , 382 , 14 (Ko.). º
 बीजभोजिन्
 das Saatgut aufessend , S I , 382 , 2. º 
 
-बीजवन्त्
+बीजवत्|बीजवन्त्
 Adj. ºmit dem dramatischen Element bi1ja versehen , dies enthaltend , Das4ar. I , 48^b. 
 
 बीजवृक्ष
@@ -61180,7 +61183,7 @@ zu Speise werden , Gopa1l. 70 , 25. º
 भक्तिज्ञ
 , Nom. abstr. °ta1 f. , Ja1takam. 20 , 22. 
 
-भक्तिमहन्त्
+भक्तिमहत्|भक्तिमहन्त्
 Adj. = bhaktimant 1. , Divya1vad. 433 , 11. 
 
 भक्तीद्यावापृथिवी
@@ -61714,7 +61717,7 @@ m. º= ven2uva1danavis4es2a , H XXVI , 85.
 भावनामय
 in stetigem Denken bestehend , daraus hervorgegangen , Maha1vy. 75 , 3; 93 , 4. * 
 
-भावन्त्
+भावत्|भावन्त्
 Adj. glänzend , Vis2n2ubh. II , 44^b. º 
 
 भावभट
@@ -61951,7 +61954,7 @@ m. ºPfau , S I , 466 , 1; = Garud2a [in °bhujaga1s4anaketana m. = Vis2n2u] , H
 भुजगेन्द्र
 m. = Fürst der Schlangendämonen , S I , 621 , 1. 
 
-भुजंग
+भुजङ्ग|भुजंग
 m. ºMesua Roxburghii , E 875 (P). 
 
 भुजंगता
@@ -61960,13 +61963,13 @@ profligacy , Hars2ac. 88 , 2. º
 भुजंगनाथ
 m. = S4es2a , S I , 590 , 3. º 
 
-भुजंगभुज्
+भुजङ्गभुज्|भुजंगभुज्
 m. Pfau , Padyac V , 20^a. * 
 
 भुजंगभुवन
 n. = pa1ta1la , S I , 132 , 6. º 
 
-भुजंगम
+भुजङ्गम|भुजंगम
 m. ºLebemann , S I , 86 , 1. 
 
 भुजंगवल्लिक
@@ -62026,7 +62029,7 @@ m. ºein best. Vogel , Hars2ac. 263 , 9.
 भुलिङ्ग
 m. [pw bhu1°] ein best. Vogel , Manm. II , 6^a. º 
 
-भुवद्वन्त्
+भुवद्वत्|भुवद्वन्त्
 Maitr. S. 2 , 6 , 1 (64 , 9). 
 
 भुवन
@@ -62137,7 +62140,7 @@ m. = Staub , S4ri1k. XXV , 126. º
 भूमन्
 f. S4a1n3kh. Br. 7. 9. 
 
-भूमन्त्
+भूमत्|भूमन्त्
 m. Fürst , König , Prabandh. 215 , 7. * 
 
 भूमि
@@ -63103,7 +63106,7 @@ Z. 2 lies: singend.
 मदपुरुष
 m. = ra1ks2asa , S I , 28 , 4; 490 , 1. º 
 
-मदयन्त्
+मदयत्|मदयन्त्
 Adj. intoxicated , Va1s. 213 , 3. º 
 
 मदवारण
@@ -63391,7 +63394,7 @@ f. Pl. Bez. bestimmter Hymnen , Vasis2t2ha 28 , 13.
 मनन
 n. auch: Ehrenbezeugung , Sa1y. zu R2V. 1 , 165 , 4. 
 
-मननवन्त्
+मननवत्|मननवन्त्
 Adj. mit Ehrenbezeugungen verbunden , Sa1y. zu R2V. 1 , 165 , 2. 
 
 मननीय
@@ -63520,7 +63523,7 @@ m. Groll , S4ri1k. II , 53; V , 39; VII , 30; XIV , 57.
 मन्तुमत्त्व
 n. = sa1para1dhata1 , Vis2n2ubh. VI , 11^a. º 
 
-मन्तुमन्त्
+मन्तुमत्|मन्तुमन्त्
 Adj. º= sa1para1dha , Vis2n2ubh. VII , 30^c. 
 
 मन्त्र
@@ -63697,7 +63700,7 @@ n. Vulva , E 413. 454 (A). 879 (P). º
 मन्मथमाथकृत्
 m. = S4iva , S4ri1k. XIX , 40. º 
 
-मन्मथवन्त्
+मन्मथवत्|मन्मथवन्त्
 Adj. verliebt , R. ed. Bomb. 4 , 28 , 13. [H 20 , 40.] 
 
 मन्मथविनोद
@@ -64033,7 +64036,7 @@ Adj. groß , ansehnlich , Divya1vad. 227 , 4.
 महनिका
 f. N. einer Prinzessin , Prabandh. 33 , 6. º 
 
-महन्त्
+महत्|महन्त्
 , mahatas Abl. von größerem Wert (Gegensatz hi1natas) , Vasis2t2ha 2 , 37. 
 
 महये
@@ -64042,7 +64045,7 @@ f. N. einer Prinzessin , Prabandh. 33 , 6. º
 महर्द्धिक
 *hehr , herrlich , Maha1vy. 15 , 17 (evam2…maharddhika1 zu lesen). 
 
-महर्द्धिमन्त्
+महर्द्धिमत्|महर्द्धिमन्त्
 Adj. auch: sehr kostbar , MBh. 7 , 127 , 17. 
 
 महल्ल
@@ -64597,7 +64600,7 @@ m. ºBetrug beim Messen , H XIII , 35.
 मानरज्जु
 Meßschnur , Padyac. V , 22^c. º 
 
-मानवन्त्
+मानवत्|मानवन्त्
 = °aham2ka1rin , proud , Hars2ac. 252 , 7. 
 
 मानव्याजि
@@ -64684,7 +64687,7 @@ Adj. in Betrügereien erfahren , Yudh. 3 , 65. º
 मायाप्रमातर्
 m. im Kas4m. S4iv. das Erkenntnissubjekt des unreinen Weges (as4uddha1dhvan) der Sphäre der Beschränkung , das die pralaya1kala's und sakala's (s. d.) umfaßt , Praty. Hr2d. 13 , 12. 13. [B.] º 
 
-मायाबलवन्त्
+मायाबलवत्|मायाबलवन्त्
 Adj. über die Macht eines Zaubers verfügend , R. 7 , 29 , 26. 
 
 मायामुनि
@@ -64831,7 +64834,7 @@ Adj. dem Auge einer Katze (an Farbe) gleich , Kaut2. 77 , 15. º
 मार्तण्डीय
 Adj. auch Su1ryas4. 76^d. 
 
-मार्त्तिक
+मार्तिक|मार्त्तिक
 m. º= Dron2a , Govardh. 664. 
 
 मार्त्य
@@ -66703,7 +66706,7 @@ Adj. nur zeitweilig daseiend , Kaut2. 132 , 3. º
 यावत्प्रिय
 Adj. in welchem Maße lieb , Maitr. S. 1 , 6 , 3 (90 , 10). 
 
-यावत्संपातम्
+यावत्सम्पातम्|यावत्संपातम्
 Adv. so lange es geht , Cha1nd. Up. 5 , 10 , 5. 
 
 यावदन्त्य
@@ -66715,7 +66718,7 @@ Adv. nach jedem Feinde einzeln (abgeschossen) , Kir. XIV , 56. º
 यावद्देहभाविन्
 Adj. so lange während wie der Körper , Aniruddha zu Sa1m2khyas. 5 , 66; 6 , 54. 
 
-यावन्त्
+यावत्|यावन्त्
 , ya1vac…ca...…ya1vac…ca...…antara1t zwischen... und... , Divya1vad. 93 , 24; 386 , 10. ya1vat mit Dat. bis zu , bis auf , 2 , 24; 523 , 15. 
 
 यावसिक
@@ -66862,7 +66865,7 @@ n. Gifttrank "drugged liquor") , Kaut2. 34 , 8.<BR> -S. Meyer's Übers. , p. 41 
 योगपुरुष
 m. Agent , Kaut2. 45 , 7. º 
 
-योगर्द्धिरूपवन्त्
+योगर्द्धिरूपवत्|योगर्द्धिरूपवन्त्
 Adj. in der Gestalt des verkörperten vollkommenen yoga. MBh. 3 , 300 , 9. 
 
 योगवरचक्षुस्
@@ -67339,7 +67342,7 @@ n. die Perle der Perlen , Das4ak. 20 , 6.
 रत्नराशि
 m. *Ozean , H...; Hars2ac. 207 , 10. 
 
-रत्नवन्त्
+रत्नवत्|रत्नवन्त्
 3. a) , Haravijaya 11 , 43. 
 
 रत्नवल्ली
@@ -67561,7 +67564,7 @@ m. = Ra1hu , S II , 325 , 24. º
 रविसूनु
 m. = Karn2a , Yudh. 8 , 24. º 
 
-रशनसंमित
+रशनसम्मित|रशनसंमित
 auch A1past. S4r. 14 , 6 , 10. 
 
 रशना
@@ -67609,7 +67612,7 @@ m. º= Ka1ma , S4ri1k. XI , 2; º= s4r2n3ga1ra , S4ri1k. VIII , 50. [Man3kha 746
 रसवतीपाक
 m. Koch , S II , 86 , 8 v.u. (Ko.). º 
 
-रसवन्त्
+रसवत्|रसवन्त्
 Z. 6 , lies Anarghar. 
 
 रसवाहिनी
@@ -67735,7 +67738,7 @@ als Bez. der Zahl sechszehn , Verz. d. Oxf. H. 172 , b , 20.<BR> -1. a)a) R. ed.
 राजनक्षत्र
 n. = yasmin…naks2atre…ra1jn5o…janma…babhu1va , S II , 100 , 9. º 
 
-राजन्वन्त्
+राजन्वत्|राजन्वन्त्
 auch S4ri1k. 4 , 13; S4r2n3ga1rasarv. 161^c. 
 
 राजपट्टिका
@@ -70309,7 +70312,7 @@ m. Geschwätzigkeit , S I , 100 , 3. º
 वाजिन्
 Adj. mit Federn versehen und: sich bewegend , S4is4. 19 , 62. 
 
-वाजिनीवन्त्
+वाजिनीवत्|वाजिनीवन्त्
 , vgl. Pischel , Ved. Studien I , 9 ff. 
 
 वाजिभूमि
@@ -70708,7 +70711,7 @@ f. Lauf des Wassers , S II , 325 , 4. º
 वार्घटीयन्त्रचक्र
 n. Schöpfrad , Dharmas4arm. 8 , 29. 
 
-वार्त्ताक
+वार्ताक|वार्त्ताक
 n. ºdie Pflanze (pw die Frucht) , S I , 405 , 6 v.u. (Ko.; va1rta1ka gedruckt). 
 
 वार्त्तावशेषित
@@ -71503,7 +71506,7 @@ f. Schulhaus , Padyac. VII , 2 (Ko.). º
 विद्यास्थान
 n. Wissenszweig auch Ja1takam. p. 2 , 5 (hier sind es deren 18!). 
 
-विद्युन्मण्डलवन्त्
+विद्युन्मण्डलवत्|विद्युन्मण्डलवन्त्
 Adj. blitzbekränzt (Wolke) , R. ed. Bomb. 3 , 35 , 10. 
 
 विद्युन्मालिन्
@@ -71875,7 +71878,7 @@ m. = vailaks2ya , S I , 466 , 8 v.u. (Ko.). º
 विप्रतिपत्ति
 Argwohn gegen (Lok.) , Ja1takam. 25 , 13; feindselige Gesinnung und Behandlung , 11. 
 
-विप्रतिसारवन्त्
+विप्रतिसारवत्|विप्रतिसारवन्त्
 Adj. von Reue erfüllt , Ja1takam. 4 , 17. 
 
 विप्रतीसार
@@ -72046,13 +72049,13 @@ Adj. sich zerreiben lassend , Kaut2. 78 , 5 v.u. Vgl. J. J. Meyer , S. 111 , Anm
 विमर्दितक
 n. eine Art Coitus , E 568 , (R). º 
 
-विमर्शवन्त्
+विमर्शवत्|विमर्शवन्त्
 Adj. nachdenkend , im Zweifel seiend , Ja1takam. 13. 
 
 विमल
 3. d)b) lies: eine der zehn Bodhisattva-Stufen bei den Buddhisten , JRAS 8 , 4. 
 
-विमलकिरीटहारवन्त्
+विमलकिरीटहारवत्|विमलकिरीटहारवन्त्
 Adj. mit einem fleckenlosen Diadem und Perlenschmuck versehen , R. 7 , 15 , 41. 
 
 विमांसी
@@ -72079,7 +72082,7 @@ V 193? = br2hallala1t2a1 Y. º
 विमुद्र
 Adj. (f. a1) aufgeschlossen , sich in reicher Fülle zeigend , Vikrama1n3kac. 4 , 52.<BR> -*aufgeblüht , S4ri1k. III , 52; XIII , 50. 
 
-विमृद्वन्त्
+विमृद्वत्|विमृद्वन्त्
 Adj. (f. °dvati1) dem Indra Vimr2dh gehörig , S4a1n3kh. Br. 4 , 1. 
 
 वियच्चर
@@ -72196,7 +72199,7 @@ Adj. ºumgearbeitet , Kaut2. 93 , 2. 9. Vgl. J. J. Meyer , S. 136 , Anm. 3. |व
 विरूपचक्षुस्
 m. = S4iva , Kir. XIV , 26. º 
 
-विरूपवन्त्
+विरूपवत्|विरूपवन्त्
 Adj. häßlich , Prabandh. 76 , 6. º 
 
 विरेफस्
@@ -72247,7 +72250,7 @@ S4r2n3ga1rasarv. 105^c verdruckt für virasi1° oder virali1kr2? º
 विलात
 ºm. = bhilla , S II , 198 , 6. 
 
-विलायं
+विलाय|विलायं
 S II , 366 , 11 Druckfehler für vilayam2.] º 
 
 विलायित
@@ -72286,7 +72289,7 @@ m. Berühren , Govardh. 397.
 विलेपिका
 Reisgrütze , S4uk. t. o. 46 [p. 53 , 29. 32; 54 , 3. 5. 7. 9. 12]. * 
 
-विलोकयन्त्
+विलोकयत्|विलोकयन्त्
 solitary , Va1s. 207 , 1. º 
 
 विलोचनाम्भस्
@@ -72382,7 +72385,7 @@ Adj. einzutreten wünschend , Yudh. 5 , 58. º
 विवीत
 ºn. Weideplatz , Kaut2. 49 , 7. 
 
-विवृत्ति
+विवृति|विवृत्ति
 f. das Auseinandergehen , Sichöffnen , Kir. 7 , 14; Umdrehung 12.<BR> -ºErtrag von Grundstücken , Bodenrente , in °vikraye , Kaut2. 187 , 15 sale of the means of livelihood , i. e. lands." 
 
 विवेदन
@@ -72469,7 +72472,7 @@ m. eine best. Münze , Prabandh. 172 , 4. º
 विश्रमण
 n. das Ausruhenlassen , Da1rila zu Kaus4. 16 , 25. 
 
-विश्रम्भवन्त्
+विश्रम्भवत्|विश्रम्भवन्त्
 Adj. vertrauensvoll und ruhig , keine Unsicherheit empfindend , Ja1takam. 23 , 5. 
 
 विश्रम्भितव्य
@@ -72487,7 +72490,7 @@ S I , 160 , 2 v.u. (Ko.) verdruckt für vis4ra1n2ana? º
 विश्राणित
 = pratipa1dita , S4ri1k. II , 43 [MW distributed , bestowed]. º 
 
-विश्रान्तिमन्त्
+विश्रान्तिमत्|विश्रान्तिमन्त्
 Adj. sich behaglich fühlend , S4ri1k. 2 , 13. 
 
 विश्रामधामन्
@@ -72880,7 +72883,7 @@ Adj. streaming forth , Hars2ac. 175 , 12. º
 विस्वादुता
 = virasata1 , H XXX , 54 (Ko.). 60 (Ko.) = arasatvam. º 
 
-विहंगिका
+विहङ्गिका|विहंगिका
 ºVogelweibchen , S II , 171 , 4. |विहन्३गिक१ f. *Schulterjoch , Prabandh. 160 , 2 v.u. 
 
 विहंगी
@@ -72979,7 +72982,7 @@ m. Meer , H XLIII , 293. º
 वीटी
 Betelprieme , S4r2n3ga1rasarv. 62^c; 93^c; S4r2n3gt. 153^c. º 
 
-वीणापणवतूणवन्त्
+वीणापणवतूणवत्|वीणापणवतूणवन्त्
 Adj. mit einer Laute , einer Trommel und einer Flöte versehen , R. 7 , 23 , 4 , 39. 
 
 वीणावर्त
@@ -73105,16 +73108,16 @@ m. Pterospermum acerifolium , S II , 6 , 2; 364 , 12.<BR> -ºn. die Blüte davon
 वृजिन
 *m. lock of hair , Hars2ac. 181 , 2. 
 
-वृत्त
+वृत|वृत्त
 ºStahl , Kaut2. 100 , 4 v.u. 
 
 वृत्तपुच्छा
 f. eine Pelzart , Kaut2. II , 11 (79 , 11). º 
 
-वृत्तस्वाध्यायवन्त्
+वृतस्वाध्यायवत्|वृत्तस्वाध्यायवन्त्
 Adj. einen guten Lebenswandel führend und dem Veda-Studium obliegend , Br2haspati in Viva1daratn. 331. 
 
-वृत्ति
+वृति|वृत्ति
 f. ºRundung , S I , 192 , 3.<BR> -º= a1varta (Haarwirbel) s. an3gajavr2tti. 
 
 वृत्तिकाम
@@ -73699,7 +73702,7 @@ Adv. mit kr2 fern halten , beseitigen , Maha1vy. 245.<BR> -*°bha1va m. das Bese
 व्यपोहन
 n. Beseitigung , S4uk. t. o. 29 [p. 40 , 12]. º 
 
-व्यभिचारवन्त्
+व्यभिचारवत्|व्यभिचारवन्त्
 Adj. sich umhertreibend , Baudh. 1 , 21 , 20. 
 
 व्यभिचारिता
@@ -74155,13 +74158,13 @@ mit abhivi H XLII , 46 [abhivis4an3kya; pw hat nur °s4an3kin].<BR> -Mit pari…
 शङ्कन
 (n.) Befürchtung , S I , 364 , 11 (Ko.) º 
 
-शंकर
+शङ्कर|शंकर
 auch Bein. Skanda's , AV. Paris4. 20 , 6. |स्४अम्२कर [m.?] ºAsclepias gigantea? E 884 (A). 886 (P). 
 
 शंकरनृत्यरङ्गदेश
 m. Leichenstätte , Das4ak. (1883) 146 , 11. 
 
-शंकरप्रिय
+शङ्करप्रिय|शंकरप्रिय
 eine Art Coitus , E 594 (D). 
 
 शङ्काभङ्ग
@@ -74746,7 +74749,7 @@ m. ein Mensch mit irgendwie deformierten Ohren , S I , 277 , 5 v.u. (Ko.) º
 शस्त
 eine Art Gürtel (Hars2acarita) , vgl. Johansson , JF. 14 , 336 , Anm. [Z.] 
 
-शस्त्रग्राहवन्त्
+शस्त्रग्राहवत्|शस्त्रग्राहवन्त्
 Adj. Waffen als Seeungeheuer habend (nadi1) , R. 7 , 28 , 42. 
 
 शस्त्रग्राहिन्
@@ -75037,7 +75040,7 @@ m. [Name eines] Büßer[s] , S II , 138 , 3 v.u. (Ko.); 150 , 12 (Ko.) º
 शिखामणीयते
 die Krone , das Beste sein , S I , 454 , 2. º 
 
-शिखावन्त्
+शिखावत्|शिखावन्त्
 2. a) , Kir. 16 , 56. 
 
 शिखावल
@@ -75592,7 +75595,7 @@ m. N. pr. einer Örtlichkeit. °ri1ya und °ri1yaka m. dort wohnend , Divya1vad.
 शुषिर
 ºhollow part of vi1n2a1 , Hars2ac. 222 , 8. 
 
-शुष्मवन्त्
+शुष्मवत्|शुष्मवन्त्
 ºSubst. m. feuriger Krieger , H XLII , 23. 
 
 शूकरमुख
@@ -76498,7 +76501,7 @@ m. eine Art Coitus , E 593 (D). º
 संयोजन
 alles , was an die Welt bindet , Divya1vad. 533 , 25; 553 , 24; Maha1vy. 109. 
 
-संरम्भवन्त्
+संरम्भवत्|संरम्भवन्त्
 Adj. zornig , Haravijaya 9 , 13. 
 
 संरम्भिता
@@ -76612,7 +76615,7 @@ n. das Sinken , Divya1vad. 229 , 23.
 संसेवन
 das Aufsuchen , Umgehen mit jemand (Gen.) , Ja1takam. 23 , 63. 
 
-संस्कारवन्त्
+संस्कारवत्|संस्कारवन्त्
 *einen Eindruck empfangend , Maha1vy. 208. 
 
 संस्कृतमय
@@ -76786,7 +76789,7 @@ n. Dichtheit , S I , 75 , 12 v.u. (Ko.) º
 सघृण
 zartfühlend , Ja1takam. 31 , 78; Skrupel empfindend , 11 , 18. 
 
-संकट
+सङ्कट|संकट
 m. ºeine Art Coitus , E 589 (S). 
 
 संकथ्य
@@ -76810,7 +76813,7 @@ s. saka1yika1.
 संकीर्णता
 ºMenschengedränge , S I , 320 , 5 v.u. (Ko.); ºWagengedränge , SI , 583 , 14 (Ko.) 
 
-संकुचित
+सङ्कुचित|संकुचित
 ºverzwickt , S4uk. t. o. 26 , 29 [p. 38 , 17; 40 , 1]. 
 
 संकुब्ज
@@ -76822,7 +76825,7 @@ Adj. Hars2ac. 260 , 7. º
 संकेतव्याघातिन्
 Adj. wider eine Verabredung handelnd , Prabandh. 11 , 1 v.u. º 
 
-संकोच
+सङ्कोच|संकोच
 m. ºVerlegenheit , S4uk. t. o. 1. 18. 43 , 49 [p. 13 , 19; 32 , 1; 50 , 27; 55 , 35]. 
 
 संकोचना
@@ -76849,19 +76852,19 @@ f. ºAbbild , S4ri1k. IV , 52.
 संक्रामणी
 f. eine Art Zauber , Divya1vad. 636 , 27. 
 
-संक्रीडन
+सङ्क्रीडन|संक्रीडन
 n. = s4abda (of a gate) , Hars2ac. 89 , 18. º 
 
-संक्रीडित
+सङ्क्रीडित|संक्रीडित
 n. Gerassel , Kir. 16 , 8. 
 
-संक्षेप
+सङ्क्षेप|संक्षेप
 m. ºGesamtabgabe , Kaut2. 67 , 3. Vgl. J. J. Meyer , S. 94 , Anm. 7. 
 
 सङ्ख
 = s4an3kha Muschel (im Yamaka; s4asayor…aikya1t) , Yudh. 7 , 12. º 
 
-संख्य
+सङ्ख्य|संख्य
 4. n. Schlacht auch S4ri1k. 18 , 56. 
 
 संख्यातीत
@@ -76891,7 +76894,7 @@ n. N. pr. eines Lin3ga , Ka1s4i1kh. 61 , 6.
 संगमेश्वर
 2. n. N. pr. eines Lin3ga , Ka1s4i1kh. 70 , 77. 
 
-संगर
+सङ्गर|संगर
 m. ºeine Art Coitus , V 167 , 170. 
 
 संगर्भ
@@ -76912,25 +76915,25 @@ f. *Unterhaltung , S II , 352 , 18.
 संगृहिणी
 f. unchaste woman (bhoga1rtham2…raks2ita1…ves4ya1distri1) , Prabandh. 294 , 4 v.u. º 
 
-संग्रह
+सङ्ग्रह|संग्रह
 m. , ºein Ort , zu dem zehn Dörfer gehören , S I , 88 , 6.<BR> -ºKürzung? Kala1v. V , 13. 
 
-संग्रहणी
+सङ्ग्रहणी|संग्रहणी
 f. ºHetäre , Prabandh. 173 , 2 v.u. 
 
 संग्रामविसर
 m. Eigenname , Lat2. 4 , 7 v.u. º 
 
-संग्राह
+सङ्ग्राह|संग्राह
 m. *Griff am ºMesser , S I , 467 , 13 v.u. (Ko.) 
 
-संग्राहक
+सङ्ग्राहक|संग्राहक
 am Ende eines Komp. *an sich ziehend , Maha1vy. 29 , 7. 
 
 संग्लापन
 n. = s4ari1rasya…tapobhih2…kr2s4i1karan2am , S I , 114 , 3. º 
 
-संघट्ट
+सङ्घट्ट|संघट्ट
 ºa race , Hars2ac. 65 , 3; 230 , 12. 
 
 संघतिथि
@@ -76960,7 +76963,7 @@ f. ºein apadravya , V 368.<BR> -ºein best. Kriegsgerät , Kaut2. 101 , 7 v.u. 
 संघातपर्वत
 m. N. pr. zweier Berge in der Hölle , die sich öffnen und wieder schließen , Ja1takam. 19 , 28. 
 
-संघात्य
+सङ्घात्य|संघात्य
 ºn. Zusammenfügen (eine best. Kunst des Goldarbeiters) , Kaut2. 90 , 4 v.u.; 91 , 9. 7 v.u. 
 
 सचन्दनतिलक
@@ -77008,7 +77011,7 @@ goodness , Hars2ac. 274 , 16. º
 सज्जिन्
 bewirkend , S I , 74 , 3. º 
 
-संचय
+सञ्चय|संचय
 (nach dem Ko. ºn.) t. t. aus der hastis4iks2a1 , S I , 495 , 5. 
 
 संचरित्र
@@ -77035,7 +77038,7 @@ m. eine best. (wohl ansteckende) Krankheit , Maha1vy. 284.
 संचारिका
 *f. Botin , S I , 151 , 12 (Ko.); 359 , 4 v.u. (Ko.); II , 19 , 2; 356 , 12; H XV , 68; XXV , 41. 
 
-संचारिन्
+सञ्चारिन्|संचारिन्
 Adj. º= vyabhica1cin , Das4ar. IV , 46^b. 
 
 संचुम्बन
@@ -77110,7 +77113,7 @@ Hospiz , S I , 199 , 1 v.u. (Ko.); II , 218 , 13 v.u. (Ko.) º
 सत्त्रिन्
 m. Lockspitzel (J. J. Meyer: "Hinterhältler") , Kaut2. 16 , 9 etc. 
 
-सत्त्ववन्त्
+सत्त्ववत्|सत्त्ववन्त्
 , so zu lesen statt sattvant. 
 
 सत्त्वविहित
@@ -77140,7 +77143,7 @@ n. ºguter Topf , S I , 413 , 5.
 सत्यघोष
 m. ein purohita (= S4ri1bhu1ti) , S II , 345 , 6. º 
 
-सत्यंकार
+सत्यङ्कार|सत्यंकार
 m. Handgeld auch S4uk. t. s. 35 (p. 109 , 7; 110 , 1). 
 
 सत्यभणिति
@@ -77170,7 +77173,7 @@ mit atya1 Kaus. auch: jemandem (Akk.) zu nahe kommen , R. ed. Bomb. 3 , 37 , 17.
 सदक
 unenthu1lstes Korn auch S II , 401 , 5. 
 
-सदन्त्
+सदत्|सदन्त्
 Adj. Zähne habend , seine Z. behaltend. Nom. abstr. sadattva n. Maitr. S. 1 , 8 , 5 (121 , 20) sadattva14ya zu vermuten statt ya4dattva14ya. 
 
 सदंपुष्पा
@@ -77320,7 +77323,7 @@ Adj. begründet , S4r2n3ga1rasarv. p. 8 , Z. 1. º
 सनीडभाज्
 Adj. in der Nähe befindlich , Padyac. I , 16^c. º 
 
-सन्त्
+सत्|सन्त्
 6. b) satkr2tya mit gehöriger Aufmerksamkeit , andachtsvoll , Ja1takam. 1. 2. 9. 11. 24. 25. 31 , 70; sorgfältig , eifrig , 2. *satka1rin Adj. Maha1vy. 98. 
 
 संतमसीभू
@@ -77332,7 +77335,7 @@ m. Erquickung , S I , 182 , 1. º
 संताडित
 n. eine Art Schlag , E 513 (P). º 
 
-संतानक
+सन्तानक|संतानक
 m. ºEigenname , Muk. 29 , 4; 30 , 7. 
 
 संतानिक
@@ -77350,16 +77353,16 @@ Adj. durch Zapfen oder Riegel zu verbinden , A1past. S4r. 11 , 13 , 2.
 संतोषित्व
 n. Genügsamkeit , S I , 218 , 15 v.u. (Ko.) º 
 
-संदंश
+सन्दंश|संदंश
 m. ºeine Art Coitus , V 163; E 559 (K). 
 
 संदंशन
 = sam2dam2s4a 6. , Kaut2. 115 , 1 (in an3gus2t2ha º= Daumen und Zeigefinger). º 
 
-संदंशिका
+सन्दंशिका|संदंशिका
 ºeine Art Schlag , V 152; E 525 (K). 
 
-संदर्भवन्त्
+सन्दर्भवत्|संदर्भवन्त्
 Adj. ein kunstvolles Gefüge habend , Haravijaya 11 , 33. 
 
 संदष्टक
@@ -77416,19 +77419,19 @@ n. Einbruch , Mr2cch. 52 , 5.
 संधिनी
 º= garbhin2i1…sati1…vr2s2abhen2a1kra1nta1…gauh2 , S II , 186 , 2. 
 
-संधिविग्रहिन्
+सन्धिविग्रहिन्|संधिविग्रहिन्
 m. Minister über Krieg und Frieden , S I , 470 , 5. 7. º 
 
 संधुक्षिन्
 anfachend , S I , 36 , 2. º 
 
-संध्या
+सन्ध्या|संध्या
 *Grenze , Darpad. V , 10. 
 
-संध्याबलि
+सन्ध्याबलि|संध्याबलि
 m. *a bull let loose , Hars2ac. 111 , 4. 
 
-संध्याराग
+सन्ध्याराग|संध्याराग
 *sort of redness , red lead , Va1s. 58 , 4. 
 
 सन्न
@@ -78244,10 +78247,10 @@ Adv. behaglich , Rasas. 61 , 9 v.u. º
 समौष्ठ
 n. eine Art Kuß , E 476 (A , P). º 
 
-संपद्
+सम्पद्|संपद्
 Gleichsetzung von Ähnlichem , S4am2kara zu Veda1nta 68 , 2. 
 
-संपन्न
+सम्पन्न|संपन्न
 ºsweet thing , milk , Pu1rn2abh. 255 , 5 (pw. sam2pannaks2i1ra1 , wohlschmeckende Milch gebend). 
 
 संपरायधरा
@@ -78277,7 +78280,7 @@ durch Auffliegen zu erreichen , S I , 14 , 5. º
 संपुट
 m. ºeine Art Coitus , V 137. 138. 162 [n.]; Y 163 [n.]; E 558 (K). 569 (R). 576 (A). 584 (P).<BR> -ºeine Art Kuß , E 466 (R , A , P). 
 
-संपुटक
+सम्पुटक|संपुटक
 n. ºeine Art Coitus , V 138; Y 76. 138; E 555 (K). 536 (R). 589 (S).<BR> -ºeine Art Kuß , V 111; E 466 (K). 
 
 संपुटयमक
@@ -78286,16 +78289,16 @@ n. Bez. einer Strophenform , H XLVIII , 128. º
 सम्पुटिका
 f. ºArt Hose , Kaut2. II , 11 (p. 80 , 11). 
 
-संपुष्क
+सम्पुष्क|संपुष्क
 Adj. A1past. Gr2hy. 18 , 11 nach dem Komm. = aks2ata , ungemahlen. Vielleicht fehlerhaft für sam2s4us2ka. 
 
-संपेषण
+सम्पेषण|संपेषण
 n. Stampfen , S I , 340 , 12 v.u. (Ko.) º 
 
 संप्रकोप
 m. = kopa1tis4aya , Uttarar. V , 3^a ed. Laks2man2asu1ri ( v.l. sainyaka1ya.) º 
 
-संप्रख्यान
+सम्प्रख्यान|संप्रख्यान
 n. Maha1vy. 133. * 
 
 संप्रजन्य
@@ -78313,7 +78316,7 @@ f. dieser Zustand eines yogin , ebenda.
 संप्रतिग्रह
 m. gute Aufnahme , Vorliebe für jemand , Ja1takam. 7. 
 
-संप्रतिभास
+सम्प्रतिभास|संप्रतिभास
 m. kombinierende Vorstellung , Aniruddha zu Sa1m2khyas. 5 , 99. 
 
 संप्रथर
@@ -78322,13 +78325,13 @@ m. Beratung? S4uk. t. o. 15 [p. 29 , 26]. º
 संप्रदानकालिक
 Adj. zur Zeit der Übergabe bestehend (Preis) , Kaut2. 179 , 15. º 
 
-संप्रयुक्तक
+सम्प्रयुक्तक|संप्रयुक्तक
 Adj. mitwirkend , Maha1vy. 114. * 
 
-संप्रयोगिन्
+सम्प्रयोगिन्|संप्रयोगिन्
 m. Partner in der Liebe , Y 17. * 
 
-संप्रवादन
+सम्प्रवादन|संप्रवादन
 n. das zu gleicher Zeit Ertönenlassen , Sud. zu A1past. Gr2hy. 2 , 14. 
 
 संप्रहर्षण
@@ -78337,7 +78340,7 @@ n. *das Aufmuntern , Maha1vy. 245 °n2a1 f. dass. , Ja1takam. 7.
 संप्रहार
 ºa wrong Sanskritization of Pra1kr2t sam2paha1ra , Skt. °sam2pradha1ra (for sam2pradha1ran2a or °na1) , deliberation , Pu1rn2abh. 166 , 2; 184 , 5. 
 
-संप्रान्त
+सम्प्रान्त|संप्रान्त
 m. völliges Ende , Ka1s4i1kh. 64 , 72. 
 
 संप्रियता
@@ -78352,7 +78355,7 @@ Dienerin , S4r2n3ga1rasarv. p. 21 , Z. 3 v.u.<BR> -Sollte tavai2sa1ham2…pres2y
 संप्लव
 ºVerschwommenheit (als Mangel eines Schriftstücks) , Kaut2. 75 , 2 , 7. 
 
-संबन्धिकत्व
+सम्बन्धिकत्व|संबन्धिकत्व
 n. das Zusammenhängen , Sam2sk. K. 27 , b , 10; 214 , b , 6. 
 
 संबाध
@@ -78364,7 +78367,7 @@ n. das Zusammenhängen , Sam2sk. K. 27 , b , 10; 214 , b , 6.
 संबाधि
 (m.?) = vr2ks2apraka1n2d2a , S I , 588 , 8 v.u. (Ko.; fehlt im Texte!) º 
 
-संबीज
+सम्बीज|संबीज
 n. allgemeiner Same , Ka1s4i1kh. 44 , 26. 
 
 संभज
@@ -78391,13 +78394,13 @@ n. Ko. zu. Vis2n2ubh. VII , 16 (s. sa1ra1). º |सम्२ब्ह१लन n
 संभावना
 ºErhaltung , Beschützung , S I , 74 , 1. 
 
-संभिन्नप्रलाप
+सम्भिन्नप्रलाप|संभिन्नप्रलाप
 m. sinnloses Geschwätz , Maha1vy. 92; Divya1vad. 302 , 8.<BR> -°prala1pika Adj. Unsinn redend , 301 , 24. 
 
 संभिन्नमदमर्यादा
 ein Stadium der Brunst beim Elefanten , S I , 495 , 4. º 
 
-संभिन्नव्यञ्जना
+सम्भिन्नव्यञ्जना|संभिन्नव्यञ्जना
 f. eine Art Hermaphrodit , Maha1vy. 271. *°na n. diese Deformität , 284. * 
 
 संभूयसमुत्थातर्
@@ -78406,13 +78409,13 @@ m. Mitunternehmer , Partner , Kaut2. 185 , 16. º
 संभृति
 Menge , Haravijaya 2 , 62. 
 
-संमिति
+सम्मिति|संमिति
 f. º= avaka1s4a , S I , 293 , 4 v.u. (Ko.) 
 
-संमुख
+सम्मुख|संमुख
 Adj. auch: passend , den Umständen angemessen , Lalit. 464 , 6; 466 , 4.<BR> -ºSubst. n. eine Art Coitus , Y 142. 
 
-संमुखविनय
+सम्मुखविनय|संमुखविनय
 m. etwa: ein Verweis unter vier Augen , Maha1vy. 264. * 
 
 संमूर्छक
@@ -78517,7 +78520,7 @@ m. S.-Schänder , S I , 11 , 2. º
 सरस्वतीवाहन
 m. Pfau , S II , 143 , 2 v.u. (Ko.) º 
 
-सरस्वन्त्
+सरस्वत्|सरस्वन्त्
 2. m. c) Meer auch S4ri1k. III , 3. 
 
 सरहस्य
@@ -78625,7 +78628,7 @@ m. Schlangenfänger , Kaut2. 115 , 3 v.u. (sarva° ed. Mysore 1909 wohl nur Druc
 सर्पधारक
 m. Schlangenbändiger , S I , 436 , 13 (Ko.) º 
 
-सर्पवृश्चिकरोमवन्त्
+सर्पवृश्चिकरोमवत्|सर्पवृश्चिकरोमवन्त्
 Adj. dessen Haare Schlangen und Skorpione sind , R. 7 , 23 , 1 , 74. 
 
 सर्पवेणी
@@ -78727,7 +78730,7 @@ f. eine best. Fingerstellung , Maha1vy. 197 , 78. *
 सर्वरोधविरोधसंप्रशमन
 m. ein best. sma1dhi , Maha1vy. 21 , 101. * 
 
-सर्ववन्त्
+सर्ववत्|सर्ववन्त्
 Adj. alles enthaltend , Mgs. II , 14 , 30. º 
 
 सर्वविश्वासिता
@@ -78850,7 +78853,7 @@ Adj. (f. a1) aufhörend , Yudh. 2 , 86. º
 सविसर
 Adj. hervorströmend , H XLVI , 56. º 
 
-सवृत्त
+सवृत|सवृत्त
 Adj. (f. a1) einen guten Wandel führend , R. ed. Bomb. 3 , 58 , 9. 
 
 सवृषण
@@ -78880,7 +78883,7 @@ Adv. = niyamam2…kr2tva1 , H XLIII , 375. º
 ससंबाधम्
 dicht angedrängt , S II , 34 , 1. º 
 
-ससंभ्रमम्
+ससम्भ्रमम्|ससंभ्रमम्
 Adv. °hastily , Hars2ac. 141 , 5. 
 
 ससांनाय्यक
@@ -79195,7 +79198,7 @@ m. N. eines Ministers , Prabandh. 136 , 5 v.u.; 138 , 2. º
 सान्द्रित
 = nibid2i1bhu1ta , S I , 230 , 8; = sthu1lita 246 , 3. º 
 
-सांनहनिक
+सान्नहनिक|सांनहनिक
 Adj. auch Padyac. X , 3^b. 
 
 सांनह्य
@@ -79249,7 +79252,7 @@ n. ºAbstr. zu sa1maja , Elefant , H XLIII , 179.
 सामद
 Adj. die s. schützend , H XLIII , 228. 
 
-सामधर्मार्थनीतिमन्त्
+सामधर्मार्थनीतिमत्|सामधर्मार्थनीतिमन्त्
 Adj. liebevoll , gerecht , nützlich und klug (Rede) , R. ed. Bomb. 4 , 29 , 8. Vgl. sasa1madharma1rthasama1hita 4 , 30 , 19. 
 
 सामन्त्य
@@ -80200,7 +80203,7 @@ Adj. sehr rühmlich. Im Sinne eines Komparativs (= pras4astatara) Vis2n2ubh. IV 
 सुभगकन्दर्प
 (m.) Name eines Palastes , S II , 189 , 2. º 
 
-सुभगंभावुक
+सुभगम्भावुक|सुभगंभावुक
 Adj. reizend werdend , auch Rasas. 219^a. 
 
 सुभटघटाप्राकार
@@ -80581,10 +80584,10 @@ Adj. schön gereinigt , Maha1vy. 226. *
 सुष्ठुता
 f. Wohlergehen , Maha1vy. 255. * 
 
-सुसंवृत्त
+सुसंवृत|सुसंवृत्त
 schön rund , Maha1vy. 17; Lalit. 120 , 20. 
 
-सुसंधि
+सुसन्धि|सुसंधि
 m. ºBündnis , S I , 91 , 12 (Ko.) 
 
 सुसमग्रता
@@ -80770,7 +80773,7 @@ eine best. dämonische Gottheit , Mgs II , 14 , 29. º
 सूपशास्त्र
 n. Kochbuch , Kochkunst , S II , 222 , 4. º 
 
-सूपसंपन्न
+सूपसम्पन्न|सूपसंपन्न
 Adj. gehörig zum Mönche geweiht , Maha1vy. 48. * 
 
 सूपस्थलम्
@@ -80800,7 +80803,7 @@ m. Sonnenstein , H XII , 78. º
 सूहव
 (so!) N. einer Frau , Prabandh. 292 , 8 v.u.; 294 , 5 v.u. º 
 
-सृक्क
+सृक|सृक्क
 n. Mundwinkel , S I , 463 , 7 (könnte im Texte auch zu sr2kkan gehören!); Y 127 , Z. 3 v.u.; Hars2ac. 65 , 2; 114 , 10 (horse's muzzle). * 
 
 सृगाल
@@ -81613,7 +81616,7 @@ m. (°Name) ein Fürst von Van3ga , S I , 431 , 6.
 स्फूर्जथु
 m. 1. Donner auch S4ri1k. 19 , 12. 
 
-स्फूर्जावन्त्
+स्फूर्जावत्|स्फूर्जावन्त्
 Adj. von Donner begleitet , auch H 43 , 354. 
 
 स्फूर्यति
@@ -81883,7 +81886,7 @@ Adj. ºleiblicher Sohn , Kaut2. 164 , 11.
 स्वयंदूती
 eine Art Botin , V 282. 284. º 
 
-स्वयंप्रभ
+स्वयम्प्रभ|स्वयंप्रभ
 m. ºN. eines gan2a , H XLVI , 12. 
 
 स्वयंभू
@@ -81994,7 +81997,7 @@ m. Fessel des Himmels , Kam2s. VII , 1^c; 25^b. º
 स्वर्लोलाक्षी
 = apsaras , S4ri1k. XXIV , 5. º 
 
-स्वर्वन्त्
+स्वर्वत्|स्वर्वन्त्
 ºder schnelle Renner , Roß , Mgs II , 15 , 6^g. 
 
 स्वर्वारयोषा
@@ -82036,7 +82039,7 @@ Trik. III , 4 , 3; S4iks2a1samuccaya 104 , 11; 116 , 2. Vgl. Pa1li sotthina1. [Z
 स्वस्तिमती
 N. einer ºStadt , S II , 353 , 4. 
 
-स्वस्वामिसंबन्ध
+स्वस्वामिसम्बन्ध|स्वस्वामिसंबन्ध
 m. die zwischen Besitz und Besitzer bestehende Verbindung , Aniruddha zu Sa1m2khyas. 6 , 67. 69f.; Maha1deva zu 69. 
 
 स्वःसद्
@@ -83239,7 +83242,7 @@ Adj. so v.a. künstlich bewässert, Kir. I, 17. [SchNµ28117]º
 अदेशज
 Adj. aus fremden Ländern stammend, Prabandh. 84, 6 v.u. [SchNµ28118]º 
 
-अदोषवन्त्
+अदोषवत्|अदोषवन्त्
 Adj. schuldlos, Prabandh. 93, 2. [SchNµ28119]º 
 
 अद्वयवादिन्
@@ -83374,7 +83377,7 @@ Adj. ºnicht aus der Luft stammend, Prabandh. 317, 7. 10. [SchNµ28162]
 अनादिनिष्ठ
 Adj. ohne Anfang und Ende, Kir. XVIII, 40. [SchNµ28163]º 
 
-अनामृशन्त्
+अनामृशत्|अनामृशन्त्
 Adj. nicht berührend, Kir. XVII, 33. [SchNµ28164]º 
 
 अनायतिव्यय
@@ -83509,7 +83512,7 @@ n. final act of faith, Prabandh. 218, 6; 244, 1 v.u. Vgl. Tawney, S. 134, Anm. 5
 अन्दू
 f. Fußkette (des Elefanten), Kam2s. VI, 11^a. [SchNµ28208]* 
 
-अन्धंकरण
+अन्धङ्करण|अन्धंकरण
 Adj. ºdunkel machend, Padyac. VIII, 16^d. (pw blind machend.) [SchNµ28209]* 
 
 अन्यथात्मक
@@ -83587,7 +83590,7 @@ Adj. immer auf Abwegen wandelnd, Kaut2. 34, 1 v.u. [SchNµ28233]º
 अपार
 ºeine Stelle, wo kein Ausfluß ist, Kaut2. 170, 10. [SchNµ28234] 
 
-अपाश्रयवन्त्
+अपाश्रयवत्|अपाश्रयवन्त्
 Adj. ºabhängig (d. h. nicht geschäftsfähig), Kaut2. 148, 9. [SchNµ28235] 
 
 अपितृद्रव्य
@@ -83935,7 +83938,7 @@ Titel eines Jaina-Textes, Prabandh. 94, 6 v.u. [SchNµ28349]º
 अलकाधिप
 m. = Kubera, Kir. III, 59. [SchNµ28350]* 
 
-अलंक्रिया
+अलङ्क्रिया|अलंक्रिया
 f. ºSchmuckstück, Padyac. IV, 24^b; 35^a. [SchNµ28351] 
 
 अलितरुणी
@@ -84019,7 +84022,7 @@ m. Erdherrscher, Fürst, Prabandh. 197, 3. [SchNµ28377]º
 अवनेयिमन्
 m. s. apa°. [SchNµ28378]º 
 
-अवन्त्
+अवत्|अवन्त्
 ºHerrscher, Kir. V, 27. [SchNµ28379] 
 
 अवन्ध्यकोप
@@ -84502,7 +84505,7 @@ n. painted figure, Prabandh. 287, 5 v.u. a1varjana1 ºf. das Geneigtmachen, Prab
 आविस्
 Adv. ºam Anfang eines Komp. = a1virbhu1ta; vgl. z.B. pw a1virmu1la. Padyac. X, 53^c. [SchNµ28539] 
 
-आवृत्ति
+आवृति|आवृत्ति
 f. ºAbkehr, Flucht, Kir. XV, 11. [SchNµ28540] 
 
 आवेगवन्त्
@@ -85744,523 +85747,4 @@ Adv. unter Quälereien tötend, Kaut2. 122, 1 v.u. [SchNµ28949]º
 क्षीरपक
 m. eine Art Edelstein, Kaut2. 77, 9. [SchNµ28953]º 
 
-क्षुद्रक
-n. ºKleinarbeit, Kaut2. 87, 5 v.u. 2 v.u. [SchNµ28954] 
-
-क्षुरप्रमाला
-f. Kaut2. 138, 7 ein Halsschmuck des Elefanten? Vgl. J. J. Meyer, S. 222, Anm. 2. [SchNµ28955]º 
-
-क्षुल्लक
-m. ºKnabe, Prabandh. 273, 9 v.u. [SchNµ28956] 
-
-क्षेत्रपति
-m. genius loci, Prabandh. 318, 5/6. Vgl. Tawney, S. 201, Anm. 2. [SchNµ28957] 
-
-क्षेत्राधिपति
-m. genius loci, Prabandh. 268, 1; 319, 4. Vgl. Tawney, S. 167, Anm. 2. [SchNµ28958]º 
-
-क्षेत्रिन्
-º= s4ari1ravant , Vis2n2ubh. VI, 3^b. [SchNµ28959] 
-
-क्षेपण
-ºm. Einsetzen, Fassen von Edelsteinen, Kaut2. 87, 5 v.u. 4 v.u. [SchNµ28960] 
-
-क्षेमरात्रि
-f. eine friedlich verlaufende Nacht, Kaut2. 144, 6 v.u. [SchNµ28961]º 
-
-क्षोणीप
-m. Fürst, Kam2s. VII, 21^c. [SchNµ28962]º 
-
-क्ष्वेला
-f. = *ks2ved2a1 (Schlachtgeschrei), Saug. 6, 6. [SchNµ28963]º 
-
-खचय
-m. die Gesamtheit der Sinnesorgane (kha1na1m…indriya1n2a1m2…cayah2…samu1hah2), Vis2n2ubh. III, 9^b. [SchNµ28964]º 
-
-खण्डप्रशस्ति
-ºfragmentary inscription, Prabandh, 99, 8 v.u. [SchNµ28965] 
-
-खण्डफुल्ल
-Adj. angelweit geöffnet (?), Kaut2. 166, 1 v.u. Vgl. J. J. Meyer, S. 264, Anm. 2. [SchNµ28966]º 
-
-खण्डसंघात्य
-Adj. aus (verschiedenfarbigen) Stücken zusammengefügt, Kaut2. 80, 4/5. [SchNµ28967]º 
-
-खत्तक
-passage of the door, Prabandh. 96, 3. Vgl. Tawney, S. 211 (khat2t2aka). [SchNµ28968]º 
-
-खनी
-f. Steinbruch, Prabandh. 219, 6 v.u. [SchNµ28969]* 
-
-खन्यध्यक्ष
-m. Aufseher über die Edelsteinfundgruben, Kaut2. 84, 9 v.u. [SchNµ28970]º 
-
-खल्लि
-ºbald head, Prabandh. 234, 5 v.u. [SchNµ28971] 
-
-खातपौरुष
-n. Mannshöhe beim Graben in der Erde (= 84 an3gula), Kaut2. 106, 2 v.u. [SchNµ28972]º 
-
-खात्र
-ºunterirdischer Gang, Prabandh. 32, 10 (°pa1tana); 67, 9 (%°pa1ta%). [SchNµ28973]* 
-
-खिङ्ग
-m. Wüstling, Prabandh. 249, 2. [SchNµ28974]* 
-
-खिलता
-f. = vyarthatva, Kam2s. I, 39^d. [SchNµ28975]º 
-
-खेचरी
-f. im Kas4m. S4iv. ºdie erste der 4 karan2es4vari1's, Herrin des Erkenntnissubjekts, Praty. Hr2d. 29, 2. [B.] [SchNµ28976] 
-
-खेचरीचक्र
-n. der Kreis der khecari1, die Gruppe der s4akti's des Erkenntnissubjekts, Praty. Hr2d. 29, 6. [B.] [SchNµ28977]º 
-
-खेड
-N. einer Ortschaft (maha1stha1na), Prabandh. 272, 3. [SchNµ28978] 
-
-गगनगामिनी
-Adj. f. auf das Fliegen durch die Lüfte bezüglich (vidya1), Prabandh. 308, 5 v.u. [SchNµ28979]º 
-
-गङ्गा
-f. N. ºeiner Kuh, Kam2s. III, 22^b. [SchNµ28980] 
-
-गणिन्
-ºf. -i1 Jaina-Lehrerin (Tawney: "abbess"), Prabandh. 32, 2. [SchNµ28981] 
-
-गण्ड
-m. º= tapodhana, Prabandh. 212, 4 v.u.; 233, 2. [SchNµ28982] 
-
-गण्डिका
-f. ºHolzblock, Kaut2. 86, 3. [SchNµ28983] 
-
-गत
-n. ºHingehen (wohin: Lok.), Vis2n2ubh. II, 26^a. [SchNµ28984] 
-
-गतगर
-Adj. frei von Gift, Vis2n2ubh. VI, 27^d (gatatara1 gedruckt). [SchNµ28985]º 
-
-गततरा
-Vis2n2ubh. VI, 27^d Druckfehler für gatagara1 (s. d.).] [SchNµ28986] 
-
-गन्धसुख
-Adj. angenehm von Geruch, Kaut2. 78, 11. [SchNµ28987]º 
-
-गम्भीरिमन्
-m. Tiefe, Prabandh. 258, 5. [SchNµ28988]º 
-
-गर्तापूरी
-mit kr2 so v.a. lebendig begraben, Prabandh. 281, 5 v.u. 2/1 v.u. [SchNµ28989]º 
-
-गर्दभदन्त
-Adj. mit Eselzähnen versehen, Prabandh. 89, 6 v.u. [SchNµ28990]º 
-
-गर्भधारण
-n. Prabandh. 117, 1 v.u. ºdelaying the birth (Tawney, S. 72). [SchNµ28991] 
-
-गर्भस्तम्भ
-das Verzögern der Entbindung (durch Zaubermittel), Prabandh. 117, 3 v.u. [SchNµ28992]º 
-
-गलिङ्ग
-Adj. mit Rindern bespannt, Kaut2. 127, 6 v.u. [SchNµ28993]º 
-
-गवेधु
-Kaut2. 102, 2 Coix barbata, aber nach J. J. Meyer, S. 156, Anm. 1 hier ºSida retusa. (ed. Mysore 1919 hat °gavethu.) [SchNµ28994]* 
-
-गवेधुक
-( v.l. gavethuka) Kaut2. 100, 5 = ºSida retusa? Vgl. J. J. Meyer, S. 151, Anm. 4. [SchNµ28995] 
-
-गाडरारघट्ट
-N. eines Gha1t2's, Prabandh. 249, 7 v.u. [SchNµ28996]º 
-
-गायत्री
-f. ºN. einer Kuh, Kam2s. III, 22^b. [SchNµ28997] 
-
-गार्भिण
-n. ºträchtige, Tiere, Saug. 24^a. [SchNµ28998]* 
-
-गिणिगिणत्
-onomat. von einer schnüffelnden Aussprache, Prabandh. 234, 6 v.u. [SchNµ28999]º 
-
-गिरिधारिन्
-m. N. eines Fürsten, Kam2s. I, 13^d. [SchNµ29000]º 
-
-गिरिशागार
-= s4mas4a1na , Prabandh. 153, 2 v.u. Vgl. Tawney, S. 92, Anm. 5. [SchNµ29001]º 
-
-गीतरसिका
-f. N. einer Kuh, Kam2s. III, 22^b. [SchNµ29002]º 
-
-गुप्तवृत्त्या
-Instr. f. in a secret way, disguised, Prabandh. 173, 6; 178, 4/5. [SchNµ29003]º 
-
-गुप्तवेष
-Adj. verkleidet. Abstr. °ta1 f. Prabandh. 163, 8 v.u. [SchNµ29004]º 
-
-गुप्तिस्थान
-n. Schutzgebiet, Kaut2. 123, 4. [SchNµ29005]º 
-
-गुम्फ्
-mit °anu durchfle4chten, umwi4nden, Vis2n2ubh. IV, 39^b (°gumphita…=…yukta). [SchNµ29006] 
-
-गुरूदर
-ºSubst. royal pavilion, Prabandh. 41, 1 v.u.; 42, 5 etc. [SchNµ29007] 
-
-गूढाजीव
-Adj. heimlichen Lebensunterhalt habend, Kaut2. 125, 10. [SchNµ29008]º 
-
-गूढाजीविन्
-Adj. einer, der einen geheimen Lebensunterhalt hat, Kaut2. 148, 6. [SchNµ29009]º 
-
-गोण्डित
-Adj. Prabandh. 135, 7 v.u. broken down in health. v.l. mod2ita…(*mud…pramardane)…=…rugn2a. [SchNµ29010]º 
-
-गोत्रजा
-ºSubst. f. family goddess, Prabandh. 40, 9; 41, 2. [SchNµ29011] 
-
-गोदावरी
-f. N. ºeiner Kuh, Kam2s. III, 22^b. [SchNµ29012] 
-
-गोनश
-m. N. eines yaks2a (nach Tawney, S. 127), Prabandh. 208, 2/3. [SchNµ29013]º 
-
-गोप
-m. *Aufseher über mehrere Dörfer ("Revieraufseher"), Kaut2. 142, 3. [SchNµ29014] 
-
-गोपालक
-m. º(Feld)hüter? Kaut2. 118, 4 (nach ed. Mysore 1919). Vgl. J. J. Meyer, S. 183, Anm. 3.<BR> -ºPfleger (von Gärten etc.), ebenda 127, 2 (199, Anm. 2). [SchNµ29015] 
-
-गोमती
-ºDu. = va1gbuddhi1, Vis2n2ubh. II, 24^b. [SchNµ29016] 
-
-गोमती
-f. N. ºeiner Kuh, Kam2s. III, 22^b. [SchNµ29017] 
-
-गोष्ठिक
-ºSubst. m. Gemeindemitglied, Prabandh. 259, 8. [SchNµ29018] 
-
-गौरी
-f. N. ºeiner Kuh, Kam2s. III, 22^b. [SchNµ29019] 
-
-ग्रहगति
-der (das Schicksal eines Menschen bestimmende) Lauf der Planeten, Prabandh. 85, 9 v.u. [SchNµ29020]º 
-
-ग्रहता
-f. °gra1hitvam (Aufnehmen eines Lautes mit dem Ohr), Vis2n2ubh. IV, 21^a. [SchNµ29021] 
-
-ग्रैवेयकर्म
-n. Gewöhnung (des Elefanten) an die Halskette, Kaut2. 138, 3. [SchNµ29022]º 
-
-घट्
-Intens. °ja1ghat2i1ti möglich sein, Prabandh. 299, 6. [SchNµ29023] 
-
-घटशतायते
-so viel wie hundert Töpfe voll sein, Prabandh. 180, 4. [SchNµ29024]º 
-
-घटायते
-so viel wie ein Topfvoll sein, Prabandh. 179, 1 v.u. ( v.l. °ghat2as4ata1yate). [SchNµ29025]º 
-
-घटिका
-f. ºein best. Hohlmaß, Kaut2. 105, 3 v.u. [SchNµ29026] 
-
-घटिकागृह
-n. Glockenturm, Prabandh. 49, 9/8 v.u. [SchNµ29027]º 
-
-घरट्ट
-ºwhetstone [pw "Handmühle"], Prabandh. 242, 2. [SchNµ29028] 
-
-घर्घरक
-ºGlocke, Prabandh. 172, 3. [SchNµ29029] 
-
-घाट
-(m.) ºGha1t2, Prabandh. 33, 11; 120, 3 v.u.<BR> -ºpassage, Prabandh. 259, 2 v.u. [SchNµ29030] 
-
-घातुक
-ºSubst. m. Mörder, Prabandh. 196, 4. [SchNµ29031] 
-
-घुर्
-fürchterlich schreien, Kam2s. II, 24^c. [SchNµ29032]* 
-
-चक्र
-ºcirculus vitiosus, Prabandh. 163, 2 v.u. [SchNµ29033] 
-
-चक्रभ्रमम्
-Adv. im Kreise herum, Prabandh. 163, 4 v.u. [SchNµ29034] 
-
-चण्डभानु
-m. ºSonne, Subhadr. 32^b. [SchNµ29035] 
-
-चण्डुक
-m. Ball, zusammengeballte Masse, Prabandh. 169, 6. [SchNµ29036]º 
-
-चतुःसरिक
-vierfache Girlande, Prabandh. 321, 4. 9. Vgl. Tawney, The Katha1kos4a, S. 233. [SchNµ29037]º 
-
-चत्वारिंशत्कुली
-f., eine Gruppe von 40 Familien, Kaut2. 143, 1 v.u. [SchNµ29038]º 
-
-चन्दनी
-f. N. ºeiner Kuh, Kam2s. III, 22^a. [SchNµ29039] 
-
-चन्द्रावली
-f. N. ºeiner Kuh, Kam2s. III, 22^a. [SchNµ29040] 
-
-चन्द्रिका
-f. N. ºeiner Kuh, Kam2s. III, 22^a. [SchNµ29041] 
-
-चमरिका
-f. N. einer Kuh, Kam2s. III, 22^a. [SchNµ29042]º 
-
-चम्पा
-N. ºeiner Kuh, Kam2s. III, 22^a. [SchNµ29043] 
-
-चर्च्
-(tadeln) ºPass. Prabandh. 258, 7 (carcyate). [SchNµ29044] 
-
-चर्मचक्षुस्
-Adj. auch Karn2as. S. 24, 11 (in der S4auraseni1-Form. cammacakkhu1). [SchNµ29045] 
-
-चर्मचक्षुस्
-Subst. n. das irdische Auge ("mortal eye", Tawney), Prabandh. 215, 4. [SchNµ29046]º+ 
-
-चलत्प्रभुज्
-Adj. im Gehen essend, Prabandh. 316, 5 v.u. [SchNµ29047]º 
-
-चलदल
-m. Ficus religiosa, Kam2s. V, 14^c. [SchNµ29048]* 
-
-चलाचलता
-f. Unstätheit, Prabandh. 287, 4/5. [SchNµ29049]º 
-
-चउलादेवी
-f. N. einer Hetäre, Prabandh. 191, 3. [SchNµ29050]º 
-
-चउलिङ्ग
-m. N. eines Kornak, Prabandh. 197, 2 v.u. [SchNµ29051]º 
-
-चाङ्गदेव
-m. N. eines Mannes, Prabandh. 208, 3. [SchNµ29052]º 
-
-चातुर्यता
-f. Gewandtheit, Prabandh. 154, 9 v.u. [SchNµ29053]º 
-
-चादिग
-m. N. eines Kaufmanns, Prabandh. 207, 1 v.u. ( v.l. Ca1viga.) [SchNµ29054]º 
-
-चामुण्डराज
-m. N. eines Prinzen, Prabandh. 251, 3. [SchNµ29055]º 
-
-चाररात्रि
-f. "Freinacht" (wo "die Leute frei herumschwärmen dürfen", J. J. Meyer, S. 234, Anm. 2), Kaut2. 146, 8. [SchNµ29056]º 
-
-चाविग
-m. N. eines Kaufmanns, Prabandh. 208, 7/6 v.u. 6 v.u.; 209, 9 ( v.l. Ca1diga). [SchNµ29057]º 
-
-चाहड
-m. N. eines Ministers, Prabandh. 251, 10. [SchNµ29058]º 
-
-चित्त
-= vicintya…vicintya , Vis2n2ubh. 37^b. Ko. hat aber cetam2…cetam. [SchNµ29059]º 
-
-चित्तरङ्ग
-m. = manah2pri1ti…(citta…+…ran3ga) und zugleich = jn5a1nasya…u1rmih2…(cit…+…taran3ga) Vis2n2ubh. IV, 3^d resp. 3^c. [SchNµ29060]º 
-
-चित्रकसिद्धि
-f. magical picture, Prabandh. 276, 3 v.u. [SchNµ29061]º 
-
-चित्रकारिन्
-Adj. Staunen erregend, wundervoll, Prabandh. 313, 4. [SchNµ29062]º 
-
-चित्रपदाति
-f. painted soldier, Prabandh. 287, 9. [SchNµ29063]º 
-
-चिन्तायिकत्व
-n. Amt als Fürsorger, Prabandh. 275, 2. [SchNµ29064]º 
-
-चुलुकनीय
-Adj. zu schlürfen, Kam2s. III, 7^b. [SchNµ29065]º 
-
-चुलुकय्
-auch Kam2s. III, 29^b. [SchNµ29066] 
-
-चुल्ही
-f. = culli1 (Ofen), Prabandh. 276, 8. [SchNµ29067]º 
-
-चेतम्
-s. cittam2…cittam. [SchNµ29068]º 
-
-चेतनाचेतनिक
-Adj. mit oder ohne Überlegung verursacht (ra1tridos2a), Kaut2. 146, 7 v.u. [SchNµ29069]º 
-
-चैत्यशलाका
-"champion caitya", Pr2abandh. 259, 10/11. [SchNµ29070]º 
-
-छत्त्रशिला
-f. umbrella-rock (= Ujjayanta), Prabandh. 238, 5 v.u. (°s4i1la1 gedruckt); 239, 1. [SchNµ29071]º 
-
-छलघातिन्
-Adj. aus einem Hinterhalt losschlagend, Prabandh. 298, 4 v.u. [SchNµ29072]º 
-
-जगदीशितर्
-m. Beiname ºHari's, Vis2n2ubh. V, 2^c. [SchNµ29073] 
-
-जङ्घाग्र
-(n.?) alles was Beine hat, "Kopfzahl", Kaut2. 142, 3 v.u. [SchNµ29074]º 
-
-जनकृश
-Adj. (f. a1) scant of people, Prabandh. 227, 3 v.u. [SchNµ29075]º 
-
-जनिभृत्
-m. = pra1n2in, Vis2n2ubh. II, 41^b. [SchNµ29076]º 
-
-जयतलदेवी
-f. Frauenname, Prabandh. 266, 1/2. [SchNµ29077]º 
-
-जरद्गवी
-f. alte Kuh, Prabandh. 319, 9. [SchNµ29078]º 
-
-जलजनेत्र
-Adj. lotusäugig, Vis2n2ubh. III, 20^c (Subst. m.). [SchNµ29079]º 
-
-जव
-m. ºeine best. Gangart des Pferdes, Kaut2. 134, 4 v.u. [SchNµ29080] 
-
-जवन
-m. *Pferd, Prabandh. 286, 4. [SchNµ29081] 
-
-जह्नुजा
-f. = Gan3ga1, Kam2s. IV, 2^d in jahnudyuman2ividhija1sam2gama…iva. [SchNµ29082]º 
-
-जाङ्गुली
-(f. auf *i1) s. folg. [SchNµ29083] 
-
-जाङ्गुलीविद्
-m. Giftkundiger, Kaut2. 135, 2 ( v.l. ja1n3gali1vid.) [SchNµ29084]º 
-
-जानकीजानि
-m. = Ra1ma, Vis2n2ubh. I, 7^d. [SchNµ29085]º 
-
-जाबालिपुर
-n. N. einer Stadt, Prabandh. 259, 5 v.u. [SchNµ29086]º 
-
-जामेय
-m. Schwestersohn, Prabandh. 273, 9 v.u.; Vis2n2ubh. V, 13^b. [SchNµ29087]* 
-
-जायु
-ºn. (pw *m.) Arznei, Vis2n2ubh. VII, 18^b; VIII, 12^c. [SchNµ29088] 
-
-जितकाशिता
-f. Siegesbewußtsein, Prabandh. 294, 8 (Instr. = im Triumphe). [SchNµ29089]º 
-
-जीर्णभुज्
-Adj. who eats what he can digest, Prabandh. 316, 5 v.u. [SchNµ29090]º 
-
-जोष
-ºn. (pw m.) Glück, Zufriedenheit, Vis2n2ubh. VIII, 21^a. [SchNµ29091] 
-
-ज्ञातेय
-n. Verwandtschaft, Kam2s. 78, 1. [SchNµ29092]* 
-
-ज्योतिरिङ्गण
-m. auch Kam2s. III, 19^b. [SchNµ29093]*+ 
-
-ज्योतिष्केन्द्र
-m. a chief of the Jyotis2ka gods, Prabandh. 252, 3/4. Vgl. Tawney, S. 156, Anm. 1. [SchNµ29094]º 
-
-झणझणत्
-klirrend, Karn2as. I, 24^b. [SchNµ29095]º 
-
-झोलिकाविहार
-cradle-temple, Prabandh. 238, 2/3. [SchNµ29096]º 
-
-टंकारयति
-erklingen lassen (die Sehne des Bogens), Subhadr. 14, 11 v.u. [SchNµ29097]º 
-
-डम्फ
-(oder -a1?) eine Art Musikinstrument, Kam2s. III, 23^b. [SchNµ29098]º 
-
-ढङ्कशाला
-f. Münzstätte, Prabandh. 282, 3. [SchNµ29099]º 
-
-तपनतनय
-m.,] f. a1 = Yamuna1, Kam2s. 46, 10. [SchNµ29100]* 
-
-तरणितनया
-f. = Yamuna1, Kam2s. IV, 28^a etc. [SchNµ29101]º 
-
-तरणितनूजा
-= Yamuna1, Kam2s. III, 14^a. [SchNµ29102]º 
-
-तर्णकपाल
-m. Kälberhirt, Vis2n2ubh. VI, 27^b. [SchNµ29103]º 
-
-तापिका
-*f. Kochtopf, Prabandh. 276, 8. [SchNµ29104] 
-
-ताराधिपास्या
-Adj. f. = candramukhi1 Vis2n2ubh. VI, 38^c. [SchNµ29105]º 
-
-तालापचार
-m. Tänzer, Kaut2. 158, 9 v.u. [pw hat °cara.] [SchNµ29106]º 
-
-तिग्मत्विष्
-m. Sonne, Saug. 58^a. [SchNµ29107]º 
-
-तिरोजनपद
-m. Ausländer, Kaut2. 141, 3. [SchNµ29108]º 
-
-तीर्थ
-*Menstruation, Kaut2. 153, 4 v.u. [SchNµ29109] 
-
-तुहिनगिरिनन्दिनी
-f. = Pa1rvati1, Kam2s. 2, 5. [SchNµ29110]º 
-
-तृणावर्तक
-m. = °varta (N. eines daitya), Kam2s. II, 9^b. [SchNµ29111]º 
-
-तृष्णावारिन्
-Adj. den Durst löschend, Vis2n2ubh. VII, 15^a. [SchNµ29112]º 
-
-तोडर
-m. N. eines Fürsten, Kam2s. I, 13^b. Verdruckt für T2od2ara. [SchNµ29113]º 
-
-त्रिदिवति
-zum Himmel werden, Vis2n2ubh. V, 29^b. [SchNµ29114]º 
-
-त्रिपदी
-f. ºeine Strecke von drei Fuß, Kaut2. 166, 2 v.u. [SchNµ29115] 
-
-त्वत्क
-= tvat am Anfang eines Komp. Vis2n2ubh. V, 32^d in °tvatkapitr2ka Adj. dich zum Vater habend.<BR> -ºalleinstehend, Saug. 79^d (vi1ra…tvatke…bhuje…'smin…vasatu...…jayas4ri1h2). [SchNµ29116]* 
-
-दनुतनुज
-m. = Da1nava, Vis2n2ubh. VI, 7^b. [SchNµ29117]º 
-
-दलता
-f. Abstr. zu dala (Blatt), Vis2n2ubh. III, 26^c. [SchNµ29118]º 
-
-दशमिता
-f. Abstr. zu das4amin, Vis2n2ubh. III, 8^d (das4amita1s4amita1…tanur…an3gina1m zu lesen). [SchNµ29119]º 
-
-दशास्यता
-f. Abstr. zu Das4a1sya (= Ra1van2a), Vis2n2ubh. V, 26^a. [SchNµ29120]º 
-
-दशास्याराति
-m. = Ra1ma (d. h. Vis2n2u), Vis2n2ubh. VII, 33^b. [SchNµ29121]º 
-
-दावपावक
-m. Waldbrand, Vis2n2ubh. VII, 17^c. 18^a. [SchNµ29122]º 
-
-दासति
-zum Sklaven werden, Vis2n2ubh. V, 29^d. [SchNµ29123]º 
-
-दूरदूषण
-Adj. = du1re…du1s2an2am2…yasya…(du1s2an2ahi1na), Vis2n2ubh. II, 32^d. [SchNµ29124]º 
-
-दृगंश
-m. Seitenblick, Vis2n2ubh. I, 33^b; VI, 7^d. °Devaki1tanaya m. = Hari. Abstr. °ta1 Vis2n2ubh. V, 10^a. [SchNµ29125]º 
-
-प्रातिपक्ष्य
-n. Abstr. zu pratipaks2a, Praty. Hr2d. 32, 9. [B.] [SchNµ29126]º 
-
-
+क्षु�

@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!-- April 4, 2014 --><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR>  <teiHeader xml:lang="en-Latn"><BR>    <fileDesc><BR>      <titleStmt><BR>        <title>A Dictionary, Sanskrit and English</title><BR>        <editor>Jim Funderburk</editor><BR>        <editor>Thomas Malten</editor><BR>        <principal>Thomas Malten</principal><BR>        <funder>DFG - Deutsche Forschungsgemeinschaft</funder><BR>        <!--<funder>Glasenapp Stiftung</funder>--><BR>        <!--<funder>ECCP, European Union</funder>--><BR>      </titleStmt><BR>      <editionStmt><BR>         <edition>digital edition, gst.txt <date>2014</date></edition><BR>        <respStmt><BR>          <resp>markup</resp><BR>          <name>Thomas Malten</name><BR>        </respStmt><BR>      </editionStmt><BR>      <extent>2.3 MB</extent><BR>      <publicationStmt><BR>        <publisher>University of Cologne</publisher><BR>        <pubPlace>Cologne, Germany</pubPlace><BR>        <date when="2014">2014</date><BR>        <availability><BR>          <p>All rights reserved other than those granted under the Creative Commons Attribution<BR>            Non-Commercial Share Alike license available in full at <ptr<BR>              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized<BR>            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is<BR>            granted to build upon this work non-commercially, as long as credit is explicitly<BR>            acknowledged exactly as described herein and derivative work is distributed under the<BR>            same license.</p><BR>        </availability><BR>      </publicationStmt><BR>      <seriesStmt><BR>        <title level="s"></title><BR>        <respStmt><BR>          <resp></resp><BR>          <name></name><BR>        </respStmt><BR>        <idno></idno><BR>      </seriesStmt><BR>      <notesStmt><BR>        <note></note><BR>      </notesStmt><BR>      <sourceDesc><BR>        <biblStruct xml:id="GST"><BR>          <monogr><BR>            <author>Theodor Goldstücker</author><BR>            <author> </author><BR>            <title type="main" level="m">A Dictionary, Sanskrit and English</title><BR>            <title type="subordinate" level="m"><BR>             Extended and improved from the second edition of the dictionary<BR>             of Professor H.H. Wilson<BR>            </title><BR>            <edition></edition><BR>            <imprint><BR>              <pubPlace>Berlin</pubPlace><BR>              <publisher>A. Asher</publisher><BR>              <date>1856</date><BR>            </imprint><BR>            <extent>334 pages</extent><BR>          </monogr><BR>        </biblStruct><BR>      </sourceDesc><BR>    </fileDesc><BR>    <encodingDesc><BR>      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>      <projectDesc><BR>        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and<BR>            merge all published Sanskrit dictionaries. Its aim is<BR>            to provide a basic lexical corpus to provide an easy access to all available meanings of<BR>            Sanskrit words and to allow the creation of a number of computer programs that will help<BR>            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review<BR>                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p><BR>      </projectDesc><BR>      <editorialDecl><BR>        <p><BR>          <date>2014</date></p><BR>      </editorialDecl><BR>      <tagsDecl> </tagsDecl><BR>    </encodingDesc><BR>    <profileDesc><BR>      <creation> </creation><BR>      <langUsage><BR>        <language ident="de-Latn">English</language><BR>        <language ident="sa-Latn-x-AS">Sanskrit</language><BR>      </langUsage><BR>      <textClass><BR>        <keywords scheme="#lcsh"><BR>          <list><BR>            <item>Sanskrit language -- Dictionaries -- English language</item><BR>          </list><BR>        </keywords><BR>        <classCode scheme="#lc"></classCode><BR>      </textClass><BR>    </profileDesc><BR>    <revisionDesc><BR>      <change>0</change><BR>    </revisionDesc><BR>  </teiHeader><BR>  <facsimile><BR>    See downloads gst_bookmark.pdf,  <BR>   from http://www.sanskrit-lexicon.uni-koeln.de<BR>  </facsimile><BR><BR>  <text><BR>    <body><BR>      <xi:include href="gst.txt"><BR>        <xi:fallback><BR>         See download gst.txt from http://www.sanskrit-lexicon.uni-koeln.de<BR>        </xi:fallback><BR>      </xi:include><BR>    </body><BR>  </text><BR></TEI>
+
 अ
 I. The letter a¤, the first of the alphabet and the short vowel inherent in every consonant. See अकार. <BR>II. The pronominal theme which occurs in the declension of इदम् and is considered as a substitute for इदम् and एतत् qq. vv. <BR>III. ind. (निपात) A particle, a shorter form of न (see also अन and अना); it is used<BR> ^1 In composition with nouns, when it implies<BR> ^a. Negation.<BR> ^b. Privation or prohibition.<BR> ^c. Diminution (i. e. a little).<BR> ^d. Deterioration.<BR> ^e. Similarity or comparison; in a few instances it has apparently become an expletive; cf. e. g. कुप्य and अकुप्य, उदार and अनुदार, एडमूक and अनेडमूक. If the noun begins with a vowel, it assumes the form of अन्, as अ and अन्त form अनन्त; this rule is neglected sometimes, if the vowel following the अ happen to be a ऋ; e. g. अ and ऋणिन् form अनृणिन् and sometimes अऋणिन्.<BR> ^2 In conjunction with an inflected verb, when it implies blame or reproach; e. g. अ करोषि वै त्वं जाल्म ‘how badly thou dost (it), fool’. Accord. to an artificial E. from अत्, kŕit aff. ड. <BR>IV. ind. (निपात) An interjection of pity. <BR>V. 1. m. (अः)<BR> ^1 Vaiśwánara (in an Upan.).<BR> ^2 Brahman (m.).<BR> ^3 Vishńu.<BR> ^4 Siva. 2. n. (अम्) A name of the (neuter) Brahman.
 
@@ -865,7 +868,7 @@ Tatpur. I. n. (-नम्)<BR> ^1 Leaving entire.<BR> ^2 Admitting, non-refutati
 अखण्डित
 Tatpur. m. f. n. (-तः-ता-तम्)<BR> ^1 Unbroken, undivided.<BR> ^2 Undisturbed, uninterrupted, continuous.<BR> ^3 Unrefuted. E. अ neg. and खण्डित.
 
-अखण्डितर्त्तु
+अखण्डितर्तु|अखण्डितर्त्तु
 Bahuvr. m. f. n. (-र्त्तुः-र्त्तुः-र्त्तु) Fruitful, bearing fruit in due season. E. अखण्डित and ऋतु.
 
 अखात
@@ -3478,10 +3481,10 @@ m. (-रः) I.<BR> ^1 Going over or beyond.<BR> ^2 Surpassing, excelling. E. �
 अतिचारिन्
 m. f. n. (-री-रिणी-रि) Transgressing, surpassing. E. चर् with अति, kŕit aff. घिनुण्, the affix implying here habit or nature.
 
-अतिच्छत्र
+अतिछत्र|अतिच्छत्र
 Tatpur. I. m. (-त्रः) A species of mushroom. (See छत्रा and पालघ्न.) <BR>II. f. (-त्रा)<BR> ^1 Anise (Anethum pimpinella).<BR> ^2 Barleria longifolia. E. अति (sc. क्रान्त) and छत्र (in the sense of the accusative), ‘surpassing a parasol’; in the fem. with टाप् aff.
 
-अतिच्छत्रक
+अतिछत्रक|अतिच्छत्रक
 I. m. (-कः) A mushroom. See the preceding. <BR>II. f. (-का) The same as अतिच्छत्रा. E. taddh. aff. कन् added to the last.
 
 अतिच्छन्द
@@ -7882,10 +7885,10 @@ Tatpur. m. f. n. (-लः-ला-लम्) Clear, clean, pure. E. अ neg. and 
 अनावृत
 Tatpur. m. f. n. (-तः-ता-तम्)<BR> ^1 Uncovered, unhidden.<BR> ^2 Open, uninclosed (as a field &c.). E. अ neg. and आवृत.
 
-अनावृत्त
+अनावृत|अनावृत्त
 Tatpur. m. f. n. (-त्तः-त्ता-त्तम्)<BR> ^1 Not turned round.<BR> ^2 Not retreating.<BR> ^3 Not approached, not visited. E. अ neg. and आवृत्त.
 
-अनावृत्ति
+अनावृति|अनावृत्ति
 Tatpur. f. (-त्तिः) Not-returning, literally and metaphorically (as after death into this world). E. अ neg. and आवृत्ति.
 
 अनावृष्टि
@@ -9955,7 +9958,7 @@ Tatpur. m. (-हः) The seventh of the seven tongues or flames of the sacrifici
 अनुवाक
 Tatpur. m. (-कः)<BR> ^1 Reciting, recital, reading; e. g. अनुवाकहता बुद्धिः ‘common sense lost in or by the reading (of the Vedas)’.<BR> ^2 A section, a chapter, esp. of the Ŕig-, Yajuror Atharvaveda and of writings referring to either of these Vedas.<BR> ^3 One who recites (? comp. आनुवाक). E. वच् with अनु, kŕit aff. घञ्.
 
-अनुवाकसंख्या
+अनुवाकसङ्ख्या|अनुवाकसंख्या
 Tatpur. f. (-ख्या) The name of the fourth of the eighteen Pariśisht́as belonging to the Yajurveda. E. अनुवाक and संख्या.
 
 अनुवाकानुक्रमणी
@@ -10069,7 +10072,7 @@ Avyayíbh. After Vishńu. E. अनु and विष्णु.
 अनुवी
 See अनुव्यम्.
 
-अनुवृत्त
+अनुवृत|अनुवृत्त
 Tatpur. 1. m. f. n. (-त्तः-त्ता-त्तम्) Following, obedient. 2. n. (-त्तम्) Compliance. E. वृत् with अनु, kŕit aff. क्त.
 
 अनुवृत्ति
@@ -11002,7 +11005,7 @@ Tatpur. n. (-त्यम्) Modesty, humility. E. अ neg. and औद्धत
 अनौरस
 Tatpur. m. (-सः) Adopted (as a son). E. अ neg. and औरस.
 
-अन्त्
+अत्|अन्त्
 r. 1st cl. par. (अन्ततिआनत्-आनन्त-अन्तिता.--Caus. अन्तयति-आन्तितत्.-Desid. अन्तितिषति.) To bind. (According to Dhanapála this radical is a provincialism of the Dravid́as instead of the classical अन्द् q. v. which occurs also in the variety of ईन्त्; Maitreya, Káśyapa and others admit of both, अन्त् and अन्द्, as classical forms.)
 
 अन्त
@@ -12202,7 +12205,7 @@ n. (-त्वम्) The same as अन्धता. E. अन्ध, taddh. af
 अन्धपूतना
 Karmadh. f. (-ना) A female imp or devil, one of the nine evil spirits which are supposed to possess children and to work in them diseases generally believed to be incurable (see ग्रह); she is imagined ‘of formidable size, tawny, bald and wearing yellow-red garments’. Compare the following. E. अन्ध and पूतना.
 
-अन्धपूतनार्त्त
+अन्धपूतनार्त|अन्धपूतनार्त्त
 Tatpur. m. (-र्त्तः) A child possessed by the demon Andhapútaná; ‘it dislikes the breast, is troubled with diarrhœa, hiccough, vomiting and fever, has a bad colour, sleeps on the ground and smells sour’. E. अन्धपूतना and आर्त्त.
 
 अन्धमूषा
@@ -12481,7 +12484,7 @@ Tatpur. m. f. n. (-दः-दी-दम्) Eating food &c. (see the meanings of
 अन्नादन
 Tatpur. n. (-नम्) The eating food. E. अन्न and अदन.
 
-अन्नादायः
+अन्नादाय|अन्नादायः
 A misprint for अन्नादाय, the dative of अन्नाद. See the E. of अन्नाद.]
 
 अन्नादिन्
@@ -14785,10 +14788,10 @@ Tatpur. m. f. n. (-तः-ता-तम्) Opened, laid open. The Ŕigv. Práti
 अपवृति
 Tatpur. f. (-तिः) Opening. [In the present edition of the Mediní it occurs as a meaning of आच्छादन, viz. ‘आच्छादनं संपिधाने वस्त्रेऽपवृतिमात्रके’; but a better reading instead of the latter word is clearly प्रावृतिमात्रके, as आच्छादन does not mean ‘covering’ and ‘opening’ at the same time; the Śabdamuktámahárńava, which quotes this reading, explains therefore आच्छादनम् न (i. e. नपुंसकं) तिरोधाने अंशुके प्रावरणसामान्ये च.]<BR>E. वृ with अप, kŕit aff. क्तिन्.
 
-अपवृत्त
+अपवृत|अपवृत्त
 Tatpur. 1. m. f. n. (-त्तः-त्ता-त्तम्)<BR> ^1 Gone in a wrong direction; e. g. when Suśruta describes one of the various preternatural parturitions (मूढगर्भ), अन्तःपार्श्वापवृत्तशिराः कश्चिदेकेन बाहुना…योनिमुखमभिप्रतिपद्यते, and the mode of promoting the parturition: पार्श्वापवृत्तशिरसमंसं प्रपीड्योर्ध्वमुत्क्षिप्य शिरोऽपत्यपथमानीयापहरेत्.<BR> ^2 Passed away, finished, ended, e. g. a sacrifice, as in the Mímánsá Sútra: एकचितिर्वा स्यादपवृत्ते हि चोद्यते निमित्तेन; comp. the following. E. वृत् with अप, kŕit aff. क्त. BREAḲ. n. (-त्तम्) (In Astronomy.) The ecliptic; comp. अपमवृत्त, अपमण्डल, अपममण्डल; e. g. in the Goládhyáya of the Siddhántaśiromańi …मेषादिजीवाः श्रुतयोऽपवृत्ते तद्भूमिजे क्रान्तिगुणा भुजाः स्युः ।. E. अप and वृत्त.
 
-अपवृत्ति
+अपवृति|अपवृत्ति
 Tatpur. f. (-त्तिः) Cessation, end, e. g. in Śabara on the Mímánsá Sútra: ‘अपवृत्ते तु चोदना तत्सामान्यात्स्वकालः स्यात्’ । अपवृत्ते यागे चोद्यते । यागान्तरमिदमपवृत्तिश्च सर्वेष्वङ्गाङ्गेषु भवति. E. वृत् with अप, kŕit aff. क्तिन्.
 
 अपवेध
@@ -15430,10 +15433,10 @@ I. Tatpur. m. f. n. (-तः-ता-तम्) 1.<BR> ^1 Covered, concealed.<BR>
 अपावृति
 Tatpur. f. (-तिः) I. Covering, concealing. E. वृ with आ and अप, kŕit aff. क्तिन्. <BR>II. Opening, laying open. E. वृ with अप, kŕit aff. क्तिन्, the final vowel of the prefix being lengthened.
 
-अपावृत्त
+अपावृत|अपावृत्त
 Tatpur. 1. m. f. n. (-त्तः-त्ता-त्तम्)<BR> ^1 Desisting from, abstaining from; (the same as निवृत्त).<BR> ^2 Reversed, turned to the contrary. BREAḲ. n. (-त्तम्) The rolling on the ground, of a horse. E. वृत् with आ and अप, kŕit aff. क्त.
 
-अपावृत्ति
+अपावृति|अपावृत्ति
 Tatpur. f. (-त्तिः) Returning, revolving. E. वृत् with आ and अप, kŕit aff. क्तिन्.
 
 अपाश्या
@@ -18241,7 +18244,7 @@ Tatpur. n. (-णम्)<BR> ^1 March in general; (Ráman. on the Amarak. = ग�
 अभिनिर्वृत्त
 Tatpur. m. f. n. (-त्तः-त्ता-त्तम्) Completed, accomplished, effected; e. g. Mahábhár. Adip.: एतन्नामाभिनिर्वृत्तं तस्य देशस्य वै द्विजाः (Nílak.: अभिनिर्वृत्तं = निर्व्यूढम्); or कथेयमभिनिर्वृत्ता भरतानां महात्मनाम्. E. वृत् with निर् and अभि, kŕit aff. क्त.
 
-अभिनिर्वृत्ति
+अभिनिर्वृति|अभिनिर्वृत्ति
 Tatpur. f. (-त्तिः) Completion, result, the be coming of; e. g. रोगस्य; or in a Vártt. to Páń.: न वा द्रव्यवत्कर्मचोदनायां द्वयोरेकस्याभिनिर्वृत्तेः (Patanj.: एक आदेशो भविष्यति । तद्यथा द्रव्येषु कर्मचोदनायां द्वयोरेकस्याभिनिर्वृत्तिर्भवति). E. वृत् with निर् and अभि, kŕit aff. क्तिन्.
 
 अभिनिवर्तम्
@@ -19075,7 +19078,7 @@ Tatpur. m. f. n. (-तः-ता-तम्) Beheld, seen; e. g. Bhat́t́ik.: �
 अभिवीर
 Bahuvr. m. (-रः) Surrounded by heroes, a vaidik epithet of Indra; Ŕigv., Sámav., Yajurv.: अभिवीरो अभिसत्वा सहोजा जैत्रमिन्द्र रथमा तिष्ठ गोवित्. E. अभि and वीर.
 
-अभिवृत्त
+अभिवृत|अभिवृत्त
 Tatpur. m. f. n. (-त्तः-त्ता-त्तम्) Going towards; e. g. Rámáy.: जाह्नवीमभिवृत्तायास्तस्याः (scil. सरय्वाः) शब्दो ऽयमीदृशः; comp. अभिवर्तिन्. E. वृत् with अभि, kŕit aff. क्त.
 
 अभिवृद्ध
@@ -20059,7 +20062,7 @@ Tatpur. m. f. n. (-तः-ता-तम्) Worshipped, revered, respected; e. g
 अभ्यर्च्य
 Tatpur. m. f. n. (-र्च्यः-र्च्या-र्च्यम्) The same as अभ्यर्चनीय. E. अर्च् with अभि, kŕitya aff. यत्.
 
-अभ्यर्ण्ण
+अभ्यर्ण|अभ्यर्ण्ण
 Tatpur. 1. m. f. n. (-र्ण्णः-र्ण्णा-र्ण्णम्) Near, proximate; e. g. Bhat́t́ik.: अव्यर्ण्णो गिरिकूटाभानभ्यर्ण्णानार्दिदद्द्रुतम् । वृत्तशस्त्रान्महारम्भानदान्तांस्त्रिदशैरपि. BREAḲ. n. (-र्ण्णम्) Proximity, neighbourhood; e. g. Bhat́t́ik.: अभ्यर्ण्णेऽम्भःपतनसमये पर्णलीभूतसानुं किष्किन्ध्याद्रिं न्यविशत मधुक्षीवगुञ्जद्द्विरेफम्; or Gítagov.: रासोल्लासभरेण विभ्रमभृतामाभीरवामभ्रुवाम् । अभ्यर्ण्णे परिरभ्य निर्भरमुरः प्रेमान्धया राधया &c. Comp. अपार्ण्ण and अप्यर्ध. E. (Páń.) अर्द् with अभि, kŕit aff. क्त. (Comp. अभ्यर्दित.)
 
 अभ्यर्थना
@@ -20300,39 +20303,4 @@ I. Tatpur. m. (-सः)<BR> ^1 Repetition, repeated occurence; e. g. Manu: त�
 Tatpur. n. (-त्तम्) (In comm. on Páńini.) The cause of the reduplication-syllable; e. g. a Vártt. in the Káś. (not in the Bháshya) to Páń.: स्वापेर्ण्यन्तस्याभ्यासनिमित्तेन प्रत्ययेनानन्तर्ये सति संप्रसारणमिष्यते. E. अभ्यास and निमित्त.
 
 अभ्यासयोग
-Tatpur. m. (-गः) Deep meditation preceded by the effort to keep the mind in its unmodified condition or in that of goodness. See अभ्यास 6. b. and the instance p. 319b, 1. 30. Comp. अध्यासयोग. E. अभ्यास and योग.
-
-अभ्यासलोप
-Tatpur. m. (-पः) (In comm. on Páńini.) The dropping of the reduplication-syllable; e. g. in देहि, धेहि &c.: a Vártt. to Páń.: घ्वसोरेद्धावभ्यासलोपश्च; (comp. Páń.: अत्र लोपोऽभ्यासस्य). E. अभ्यास and लोप.
-
-अभ्यासविकार
-Tatpur. m. (-रः) (In comm. on Páńini.) The change (esp. of the vowel) in the syllable of reduplication; (as Guńa or prolongation of the vowel in such a syllable of the intens. verbe: चेचीयते, लोलूयते, पापच्यते, यायजीति); e. g. a Vártt. to Páń.: न वाभ्यासविकारेष्वपवादस्योत्सर्गबाधकत्वात्; or a Paribháshá: अभ्यासविकारेष्वपवादा उत्सर्गान्विधीन्न बाधन्ते. E. अभ्यास and विकार.
-
-अभ्यासव्यवाय
-Tatpur. m. (-यः) (In comm. on Páńini.) An interval produced by the reduplication-syllable; e. g. (between the element which produces the change of a radical स् to ष् and the latter) Pat. on a Vártt. to Páń.: (तद्व्यवाये चाषोपदेशार्थम् ।) तद्व्यवाये । अभ्यासव्यवाये चाषोपदेशस्यापि यथा स्यात् । अभिषिषेणयिषति. E. अभ्यास and व्यवाय.
-
-अभ्यासाकूपार
-Tatpur. n. (-रम्) The ritual name of the Sámaveda vers 1. 538. (= I. 6. 1. 5. 6.), in the Grámageyagána (acc. to Benfey's valuable Index); a various reading for आकूपार; see also द्विरभ्यासाकूपार. E. अभ्यास and आकूपार.
-
-अभ्यासादन
-Tatpur. n. (-नम्) The same as अभ्यवस्कन्दन (and see the remark under the latter word). E. सद् in the caus., with आ and अभि, kŕit aff. ल्युट्.
-
-अभ्यासादेश
-Tatpur. m. (-शः) (In comm. on Páńini.) The substitution (of a letter) in the reduplication-syllable; e. g. the Káś. on the Vártt. (अभ्यासजश्त्वचर्त्वमेत्वतुकोः सिद्धं वक्तव्यम्) बभणतुः । बभणुः । अभ्यासादेशस्यासिद्धत्वादनादेशादेरित्येत्वं प्राप्नोति. E. अभ्यास and आदेश.
-
-अभ्यासिन्
-Tatpur. m. (-सी) A Yogin who practises the अभ्यास (q. v. 6. b. p. 319a, 1. 49 &c.); e. g. Mádh. Sarvadarś.: चत्वारः खलु योगिनः…। तत्राभ्यासी प्रवृत्तिमात्रज्योतिः प्रथमः. E. अस् with अभि, kŕit aff. णिनि.
-
-अभ्याहत
-Tatpur. m. f. n. (-तः-ता-तम्)<BR> ^1 Hurt, killed; e. g.: Mahábh. Ádip.: शरैरभ्याहतानां च सङ्घशः स्म वनौकसाम् । विरावः शुश्रुवे घोरः समुद्रस्येव मथ्यतः; or Vanap.: त्यक्त्वा रणमिमं सौते पृष्ठतोऽभ्याहतः शरैः &c.<BR> ^2 Impeded, obstructed; e. g. Mah. Śántip.: एवमभ्याहते लोके समन्तात्परिवारिते &c.; or ibid.: अनभ्याहतचित्तः स्यादनव्याहतवाग्भवेत् &c.; or Rámáy.: अयोध्यां भरतः क्षिप्रं प्रविवेश महायशाः…तिमिराभ्याहतां कालीमप्रकाशां निशामिव; or Suśr.: शोकज्वरायासशिरोऽभितापैरभ्याहता यस्य नरस्य दृष्टिः; or ibid.: अभ्याहते नयने बहुधा नराणाम् &c. E. हन् with आ and अभि, kŕit aff. क्त.
-
-अभ्याहनन
-Tatpur. n. (-नम्)<BR> ^1 Hurting, killing.<BR> ^2 Impeding, obstructing. Comp. अभ्याघातिन्. E. हन् with आ and अभि, kŕit aff. ल्युट्.
-
-अभ्याहार
-Tatpur. m. (-रः)<BR> ^1 Conveying; e. g. Śatapath.: एकेऽवान्तरदेशे कर्षूं खात्वा ततोऽभ्याहारं कुर्वन्ति.<BR> ^2 The same as अभिहार q. v. E. हृ with आ and अभि, kŕit aff. घञ्.
-
-अभ्याहित
-Tatpur. m. f. n. (-तः-ता-तम्) Put on (as fuel on fire); e. g. Mánava-Kalpa-S.: उत्तरार्धेऽभ्याहितस्य (Kumárila: इध्मदारुण इत्यर्थः…) । ज्वलति जुहोति (Kum.: अभ्याहिते ज्वलति । यद्वा । अभ्याहितस्य ज्वलति देशे &c.). E. धा with आ and अभि, kŕit aff. क्त.
-
-
+Tatpur. m. (-गः) Deep meditation preceded by the effort to keep the mind in its unmodified condition or in that of goodness. See अभ्यास 6. b. and the instance p. 319b, 1. 30. Comp. अध्यासयोग. E. अभ�

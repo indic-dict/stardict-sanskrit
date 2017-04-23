@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR>  <teiHeader xml:lang="en-Latn"><BR>    <fileDesc><BR>      <titleStmt><BR>        <title>Dictionnaire Classique Sanscrit-Francais</title><BR>        <editor>Jim Funderburk</editor><BR>        <editor>Thomas Malten</editor><BR>        <principal>Thomas Malten</principal><BR>        <funder>DFG - Deutsche Forschungsgemeinschaft</funder><BR>        <!--<funder>Glasenapp Stiftung</funder>--><BR>        <!--<funder>ECCP, European Union</funder>--><BR>      </titleStmt><BR>      <editionStmt><BR>        <edition>digital edition, bur.txt <date>2013</date></edition><BR>        <respStmt><BR>          <resp>markup</resp><BR>          <name>Thomas Malten</name><BR>        </respStmt><BR>      </editionStmt><BR>      <extent>3MB</extent><BR>      <publicationStmt><BR>        <publisher>University of Cologne</publisher><BR>        <pubPlace>Cologne, Germany</pubPlace><BR>        <date when="2013">2013</date><BR>        <availability><BR>          <p>All rights reserved other than those granted under the Creative Commons Attribution<BR>            Non-Commercial Share Alike license available in full at <ptr<BR>              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized<BR>            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is<BR>            granted to build upon this work non-commercially, as long as credit is explicitly<BR>            acknowledged exactly as described herein and derivative work is distributed under the<BR>            same license.</p><BR>        </availability><BR>      </publicationStmt><BR>      <seriesStmt><BR>        <title level="s"></title><BR>        <respStmt><BR>          <resp></resp><BR>          <name></name><BR>        </respStmt><BR>        <idno>1</idno><BR>      </seriesStmt><BR>      <notesStmt><BR>        <note></note><BR>      </notesStmt><BR>      <sourceDesc><BR>        <biblStruct xml:id="BUR"><BR>          <monogr><BR>            <author>Emile Burnouf</author><BR>            <author>L. Leupol</author><BR>            <author>L. Renou</author><BR>            <title type="main" level="m">Dictionnaire Classique Sanscrit-Francais</title><BR>            <title type="subordinate" level="m"></title><BR>            <edition>>first edition</edition><BR>            <imprint><BR>              <pubPlace>Paris</pubPlace><BR>              <publisher>Adrien-Maisonneuve</publisher><BR>              <date>1866</date><BR>            </imprint><BR>            <extent>781 pages</extent><BR>          </monogr><BR>        </biblStruct><BR>       </sourceDesc><BR>    </fileDesc><BR>    <encodingDesc><BR>      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>      <projectDesc><BR>        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and<BR>            merge all published Sanskrit dictionaries. Its aim is<BR>            to provide a basic lexical corpus to provide an easy access to all available meanings of<BR>            Sanskrit words and to allow the creation of a number of computer programs that will help<BR>            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review<BR>                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p><BR>      </projectDesc><BR>      <editorialDecl><BR>        <p> <date>2013</date></p><BR>      </editorialDecl><BR>      <tagsDecl><BR>        <BR>      </tagsDecl><BR>    </encodingDesc><BR>    <profileDesc><BR>      <creation>?</creation><BR>      <langUsage><BR>        <language ident="en-Latn">French</language><BR>        <language ident="sa-Latn-x-AS">Sanskrit</language><BR>      </langUsage><BR>      <textClass><BR>        <keywords scheme="#lcsh"><BR>          <list><BR>            <item>Sanskrit language -- Dictionaries -- French</item><BR>          </list><BR>        </keywords><BR>        <classCode scheme="#lc"></classCode><BR>      </textClass><BR>    </profileDesc><BR>    <revisionDesc><BR>      <change>?</change><BR>    </revisionDesc><BR>  </teiHeader><BR>  <facsimile><BR>    See download burnouf.pdf from http://www.sanskrit-lexicon.uni-koeln.de<BR>  </facsimile><BR><BR>  <text><BR>    <body><BR>      <xi:include href="bur.txt"><BR>        <xi:fallback><BR>         See download bur.txt from http://www.sanskrit-lexicon.uni-koeln.de<BR>        </xi:fallback><BR>      </xi:include><BR>    </body><BR>  </text><BR></TEI>
+
 अ
 अ 1re lettre de l'alphabet sanscrit, nommée अकार।
 
@@ -970,7 +973,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 अतिशये
 अतिशये 2, (शी) ac. Surpasser par le sommeil, dormir plus longtemps que qqn. Surpasser, मारुतस्य वेगम् la rapidité du vent. 
 
-अतिसंधान
+अतिसन्धान|अतिसंधान
 अतिसńधान n. (धा) action de sortir des conventions; perfidie.
 
 अतिसर्ज
@@ -1528,7 +1531,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 अनम
 अनम a. (नम्) qui n'honore pas les dieux ou les brāhmanes.
 
-अनमितंपच
+अनमितम्पच|अनमितंपच
 अनमितंपच a. (अमित, पच्) m à m. qui ne fait pas cuire beaucoup de choses, qui ne mange rien, c-à-d. avare ou misérable. Cf. किम्पच।
 
 अनय
@@ -1684,7 +1687,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 अनावृत
 अनावृत pp. (वृ) non choisi, non élu.
 
-अनावृत्ति
+अनावृति|अनावृत्ति
 अनावृत्ति f. (वृत्) absence de retour.
 
 अनावृष्टि
@@ -4291,10 +4294,10 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 अर्तन
 अर्तन n. (ऋत्) blāme, reproche.
 
-अर्त्ति
+अर्ति|अर्त्ति
 अर्त्ति f. (अर्द्) douleur. Le bout de l'arc.
 
-अर्त्तिका
+अर्तिका|अर्त्तिका
 अर्त्तिका f. soeur aīnée [au théātre]. 
 
 अर्थ्
@@ -5860,7 +5863,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 अस्रु
 अस्रु n. larme. Cf. अस्र।
 
-अस्वच्छन्द
+अस्वछन्द|अस्वच्छन्द
 अस्वच्छन्द a. (स्व, छन्द) qui n'a pas de volonté à soi, docile, obéissant. 
 
 अस्वतन्त्र
@@ -7177,7 +7180,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 आर्तव
 आर्तव a. (ऋतु) qui est de saison; opportun. Menstruel.<BR> -S. n. flux menstruel.
 
-आर्त्ति
+आर्ति|आर्त्ति
 आर्त्ति f. tourment, affliction. आर्त्ति f. Vd. la double pointe du milieu de l'arc. Le bout de l'arc; cf. अर्त्ति।
 
 आर्दण
@@ -7246,7 +7249,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 आलाबु
 आलाबु f. citrouille.
 
-आलावर्त्त
+आलावर्त|आलावर्त्त
 आलावर्त्त n. éventail de toile peinte.
 
 आलास्य
@@ -7417,7 +7420,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 आवृत्
 आवृत् f. (वृत्) ordre, méthode.
 
-आवृत्ति
+आवृति|आवृत्ति
 आवृत्ति f. (वृत्) retour. Cf. आवर्ते। 
 
 आवृष्ट
@@ -8356,7 +8359,7 @@ ou आखात अखात ou आखात m. n. (खन्) pièce d'eau natu
 उच्छून
 उच्छून pp. (श्वि) grossi, gonflé.
 
-उच्छृङ्खल
+उछृङ्खल|उच्छृङ्खल
 उच्छृङ्खल a. qui a rejeté sa chaīne; déchaīné; effréné; indompté; furieux. 
 
 उच्छेद
@@ -10330,7 +10333,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 ऊर्द्
 ऊर्द्। ऊर्दे, etc.; cf. उर्द्। ऊर्दयामि c. de ऊर्द्; cf. उर्द्। ऊर्दिदिषे dés. de ऊर्द्; cf. उर्द्।
 
-ऊर्द्दर
+ऊर्दर|ऊर्द्दर
 ऊर्द्दर m. (ऊर्ज्; sfx. दर) champion,  héros; un homme robuste, un fort; rāxasa.
 
 ऊर्द्ध
@@ -13279,13 +13282,13 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 कार्तान्तिक
 कार्तान्तिक m. (कृतान्त) astrologue  qui prédit les destinées.
 
-कार्त्तिक
+कार्तिक|कार्त्तिक
 कार्त्तिक m. (कृत्तिका) le mois कार्त्तिक où la lune est pleine dans les Pléiades [octobre-novembre].
 
-कार्त्तिकिक
+कार्तिकिक|कार्त्तिकिक
 कार्त्तिकिक m. mms.
 
-कार्त्तिकेय
+कार्तिकेय|कार्त्तिकेय
 कार्त्तिकेय m. np. du dieu de la guerre, fils de Śiva, nourri par les कृत्तिकास्। कार्त्तिकेयप्रसू f. (प्रसू mère) Durgā.
 
 कार्त्तिकोत्सव
@@ -14995,10 +14998,10 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 कृतोत्साह
 कृतोत्साह a. (उत्; सह्) qui a fait effort, qui s'efforce.
 
-कृत्त
+कृत|कृत्त
 कृत्त pp. de कृत्।
 
-कृत्ति
+कृति|कृत्ति
 कृत्ति f. (कृत्) action de couper, de fendre, de trancher pour diviser. Ecorce du भूर्ज, sur laquelle on écrit. Peau de bête; surtout peau d'antilope servant de siége et de lit aux novices et aux ascètes. L'astérisme nommé कृत्तिका। Lat. cortex; irland. cart. कृत्तिका f. le 3e astérisme lunaire, comprenant  les 6 étoiles des Pléiades et dont le signe est un couteau (कृत् couper). La quinzaine obscure de la Lune. Au fig. vache, vache symbolique; ciel; feu. Cardamome,  bot. Au pl. les six Pléiades ou nymphes, nourrices de Kārttikêya. कृत्तिकाभव m. (भू) surnom de चन्द्र dieu de la Lune. कृत्तिकासुत m. (सु) कार्त्तिकेय। कृत्तिवास et कृत्तिवासस् m. Śiva-mahādêva, vêtu d'une peau de tigre.
 
 कृत्नु
@@ -17311,7 +17314,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 गर्द्
 गर्द्। गर्दामि 1, et गर्दयामि 10. Résonner; rugir; mugir; cf. गर्ज्।
 
-गर्द्दभ
+गर्दभ|गर्द्दभ
 गर्द्दभ m. (गर्द्; दम्ब् 10) āne. Odeur.<BR> -गर्द्दभी f. bouzier, esp. d'insecte.  Maladie de la peau.<BR> -गर्द्दभ n. lotus blanc. गर्द्दभशाक m. ovieda verticillata, bot. गर्द्दभाण्ड m. hibiscus populneoides, bot. गर्द्दभाह्वय m. lotus blanc.
 
 गर्ध्
@@ -18424,7 +18427,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 ग्धि
 ग्धि m. vd. (घस्) mangeur.
 
-ग्मन्त्
+ग्मत्|ग्मन्त्
 ग्मन्त् (ppr. vd. de गम्) allant.
 
 ग्मस्
@@ -18832,7 +18835,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 घृणिन्
 घृणिन् a. (घृणा) compatissant, miséricordieux. 
 
-घृण्ण्
+घृण्|घृण्ण्
 घृण्ण्। घृण्णे 1; etc. Prendre, saisir; cf. घुण्ण्, घ्ण्ण्। [Cette rac. paraīt être une altération de गृह्].
 
 घृत
@@ -30139,7 +30142,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 निर्वृत
 निर्वृत (pp. de वृ) couvert, à l'abri; en sécurité.<BR> -S. n. abri, maison. निर्वृलि f. (sfx. ति) joie, plaisir; audace, témérité. [pour निर्वृत्ति]<BR>départ, disparition;  mort; cessation, repos; conclusion,  terminaison.
 
-निर्वृत्त
+निर्वृत|निर्वृत्त
 निर्वृत्त (pp. de वृत्) terminé, accompli, fini, cessé. निर्वृल्लि f. (sfx. ति) terminaison, accomplissement;  cessation; mort, béatitude finale. Bd. la cessation de l'existence en acte, la loi panthéistique du retour. Qqf. [pour निर्वृति]<BR>joie.
 
 निर्वेद
@@ -30241,7 +30244,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 निवृणोमि
 निवृणोमि (वृ). Couvrir; entourer;  protéger. Cacher, dérober: अपस् les eaux du nuage, Vd.<BR> -Pp. निचृत; au n. voile, manteau, etc. 
 
-निवृत्त
+निवृत|निवृत्त
 निवृत्त (pp. de वृत्) achevé, terminé,  cessé, passé; perdu. Dont on s'abstient;  cf. निवर्तामि। निवृत्ति f. fin, terminaison, terme; cessation.  Abstention; refus.
 
 निवेद
@@ -30853,7 +30856,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 नृतु
 नृतु et नृतू m. Vd. celui qui se balance [dans le ciel, le Soleil]. Danseur. 
 
-नृत्त
+नृत|नृत्त
 नृत्त pp. de नृत्।<BR> -S. n. danse.
 
 नृत्य
@@ -32107,7 +32110,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 परिवृणोमि
 परिवृणोमि (वृ). Couvrir, entourer; faire cercle ou cortége à qqn., ac.
 
-परिवृत्ति
+परिवृति|परिवृत्ति
 परिवृत्ति f. (वृत्) retour, échange, troc. Action d'envelopper, de couvrir. Qqf. mms. que परिविल्लि।
 
 परिवृश्चामि
@@ -36130,7 +36133,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 प्रवृणोमि
 प्रवृणोमि (वृ) couvrir, क्षोणिम्  la terre; mettre sur soi, वस्त्रम् un vêtement. Empêcher [mettre à couvert de], शत्रून् les ennemis.<BR> -Choisir. 
 
-प्रवृत्त
+प्रवृत|प्रवृत्त
 प्रवृत्त pp. de प्रवर्ते। प्रवृत्तचक्रता f. pouvoir absolu. प्रवृत्ति f. action de s'avancer; flux continu, courant; le suc des tempes de l'éléphant en rut. Au fig. marche du développement,  développement de l'action, de la production; production en acte de l'existence: प्रवृत्तिर् निवृत्तिश् च l'émanation  et le retour; प्रवृत्तिस् पुराणी l'émanation  primordiale du monde, le développement  primitif de l'activité divine. Qqf. nouvelle, message, correspondance. Qqf. la ville d'Ujjayanī. प्रवृत्तिज्ञ m. (ज्ना) messager; correspondant;  espion.
 
 प्रवृद्ध
@@ -45247,7 +45250,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 वार्णिक
 वार्णिक m. (वर्ण) scribe, écrivain,  copiste.
 
-वार्त्त
+वार्त|वार्त्त
 वार्त्त a. (वृत्; sfx. त) sain, bien portant. Qui a un métier, une profession.<BR> -S. n. santé. Paille.<BR> -S. f. वार्त्ता métier,  profession; site, place, séjour. Rumeur  publique, parole qui va se répétant; nouvelles. Melongène, bot. वार्त्ताक, वार्त्ताकिन्, वार्त्ताकु m. वार्त्ताकि f. melongène, bot. वार्त्तायन m. (अय, de इ) porteur de nouvelles;  espion; envoyé diplomatique. वार्त्तावह m. épicier. वार्त्तावृति m. maītre de maison. वार्त्तिक m. chercheur de nouvelles; espion; envoyé secret. Homme vivant d'un métier, vaeśya.<BR> -N. commentaire, glose, explication d'un commentaire.<BR> -F. caille, gr. .
 
 वार्त्रघ्न
@@ -47377,7 +47380,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 विवृणोमि
 विवृणोमि (वृ) ouvrir, नयने les yeux; विवर् उषा गोभिर् अन्धस् l'aurore a ouvert la route aux vaches, Vd. Découvrir,  dévoiler: ऊर्वम् उचिजो विवव्रुस् les prêtres ont découvert le feu caché sous les eaux, Vd. Pp. विवृत, ouvert, large; au f. plaie béante. विवृताक्ष m. (अक्ष) coq. विवृति f. (sfx. ति) exposition, explication, commentaire. 
 
-विवृत्ति
+विवृति|विवृत्ति
 विवृत्ति f. (वृत्; sfx. ति) rotation, révolution. Hiatus, tg.
 
 विवृत्सामि
@@ -48034,10 +48037,10 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 वृति
 वृति f. (sfx. ति) choix; demande. Couverture, enveloppe; clôture; enclos. वृतिङ्कर m. (कृ) flacourtia sapida, bot.
 
-वृत्त
+वृत|वृत्त
 वृत्त (pp. de वृत्) rond, tournant. Qui a eu lieu; passé; mort; lu, étudié.<BR> -S. m. tortue.<BR> -S. n. la chose dont on s'occupe, état, profession, métier; élément  constitutif de qqc., ce qui s'y trouve. Vers, mètre poétique. वृत्ततस् adv. (sfx. तस्) par suite de la profession,  relativement au métier, etc. वृत्तपुष्प m. le cadamba, bot. वृत्तफल n. poivre noir. वृत्तस्थ a. (स्था) qui reste dans sa profession,  qui s'acquitte des devoirs de son état. वृत्तान्त m. (अन्त) fin d'une occupation, repos, loisir. But ou objet d'une occupation;  maniere; propriété, nature; sorte, espèce. Récit, bruit public, nouvelles. Totalité.
 
-वृत्ति
+वृति|वृत्ति
 वृत्ति f. (sfx. ति) état, condition, manière  de vivre, profession, métier. Mode de lecture, tg. Mode ou sujet de composition  dramatique.
 
 वृत्य
@@ -48457,7 +48460,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 वैकटिक
 वैकटिक m. (विकट) biioutier. 
 
-वैकर्त्तन
+वैकर्तन|वैकर्त्तन
 वैकर्त्तन m. Karna. 
 
 वैकुण्ठ
@@ -49243,7 +49246,7 @@ f. (दा) don, présent; cadeau fait pour séduire. उपदानक n. don,
 व्यावृणोमि
 व्यावृणोमि (आ; वृ) ouvrir: वि दुरो [द्वाऋअस्]<BR>न आवस् [आवर्] tu nous as ouvert les portes, Vd. Eloigner, empêcher qqn., ac. व्यावृत (pp.) choisi; excepté, exclu. Entouré; empêché. व्यावृति f. (आ; वृ; sfx. ति) choix; exception,  exclusion. 
 
-व्यावृत्त
+व्यावृत|व्यावृत्त
 व्यावृत्त (आ; pp. de वृत्) loué, célébré en vers; cf. वृत्त। व्यावृत्ति f. (sfx. ति) louange, action de chanter les louanges.
 
 व्यास
@@ -52636,7 +52639,7 @@ dés. de शद्।
 सन्निविष्ट
 सन्निविष्ट a. (विश्) assis, qui a son siége, हृदि dans le coeur; proche; voisin; présent, qui est sous la main.
 
-सन्निवृत्ति
+सन्निवृति|सन्निवृत्ति
 सन्निवृत्ति f. (वृत्) action d'éviter,  de s'abstenir, de renoncer.
 
 सन्निवेश
@@ -53299,7 +53302,7 @@ dés. de शद्।
 समावृणोमि
 समावृणोमि (आ; वृ) couvrir,  वाससा d'un vêtement. Tenir fermé, पुरम् une forteresse. Empêcher.
 
-समावृत्त
+समावृत|समावृत्त
 समावृत्त m. (आ; वृत्) élève qui a fini ses études et pris congé de son instituteur.
 
 समावेदयामि
@@ -55951,7 +55954,7 @@ dés. de शद्।
 सुचेलक
 सुचेलक m. (चेल) belle étoffe.
 
-सुच्छत्री
+सुछत्री|सुच्छत्री
 सुच्छत्री f. la Śउतुद्री (Setlège).
 
 सुजन
@@ -59213,111 +59216,4 @@ dés. de शद्।
 ह्रणिया f. cf. हृणिया।
 
 ह्रद
-ह्रद m. lac profond, grande pièce d'eau. Rayon de lumière. ह्रदग्रह m. alligator. ह्रदिनी f. rivière.
-
-ह्रप्
-ह्रप्। ह्रापयामि 10. Parler, faire du bruit.
-
-ह्रस्
-ह्रस्। ह्रसामि 1; p. जह्रास; etc. Sonner, résonner. Diminuer, décroītre. 
-
-ह्रसिमन्
-ह्रसिमन् m. (sfx. इमन्) briéveté,  petitesse.
-
-ह्रसीयस्
-ह्रसीयस्, ह्रसिष्ठ, comp. et sup. de ह्रस्व।
-
-ह्रस्व
-ह्रस्व a. (sfx. व) court; bref; petit de taille; bref, tg. insignifiant.<BR> -S. m. un nain. ह्रस्वगवेधुका f. hedysarum lagopodioïdes,  bot. ह्रस्वदर्भ m. esp. de कुश, bot. ह्रस्वपत्रक m. esp. de bassia. ह्रस्वाग्नि m. asclepias gigantea, bot. ह्रस्वाङ्ग m. (अङ्ग) un nain. Sorte de racine médicinale, cf. जीवक।
-
-ह्राद्
-ह्राद्। ह्रादे 1. Sonner, tinter.
-
-ह्राद
-ह्राद m. son, tintement; bruit. ह्रादिन् a. qui sonne, qui fait du bruit.<BR> -S. f. la foudre. Rivière, en gén. Boswellia  thurifera, bot.
-
-ह्रास
-ह्रास m. son, bruit. ह्रासयामि (c. de ह्रस्); pqp. अजिह्रसम्। Amoindrir, raccourcir. 
-
-ह्रिणीया
-ह्रिणीया f. (ह्री) honte, pudeur, modestie. Blāme, reproche.
-
-ह्रित
-ह्रित a. (ह्री) modeste, pudique. (हृ) pris, emporté; partagé.<BR> -S. n. portion,  part.
-
-ह्रिति
-ह्रिति f. (हृ; sfx. ति) prise; enlèvement. 
-
-ह्रिये
-ह्रिये ps. de हृ।
-
-ह्रिवेर
-ह्रिवेर n. esp. de parfum.
-
-ह्री
-ह्री। जिह्रेमि 3; p. जिह्राय; f2. ह्रेष्यामि; ā. अह्रैषम्; pp. ह्रीत et ह्रीण। Rougir de honte, de pudeur; rougir devant  qqn., ab.
-
-ह्री
-ह्री f. pudeur, honte. ह्रीक a. pudique, modeste.<BR> -S. f. ह्रीका pudeur, honte, crainte pudique. ह्रीकु a. pudique, modeste.<BR> -S. m. laque;  étain.
-
-ह्रीछ्
-ह्रीछ्। ह्रीच्छामि 1; cf. ह्री।
-
-ह्रीजित
-ह्रीजित a. (pp. de जि) dominé par la honte, par la pudeur.
-
-ह्रीण
-ह्रीण, ह्रीत, pp. de ह्री।
-
-ह्रीमत्
-ह्रीमत् a. (sfx. मत्) pudique, honteux.
-
-ह्रीवेर
-ह्रीवेर n. (वेर) sorte de parfum.  ह्रीवेल n. mms.
-
-ह्रुड्
-ह्रुड्, ह्रूड्; ह्रौड्, cf. हुड् aller.
-
-ह्रुत
-ह्रुत pp. de ह्वृ।
-
-ह्रेपयामि
-ह्रेपयामि (c. de ह्रि); pqp. अजिह्रीपम्। Faire rougir de honte.
-
-ह्रेष्
-ह्रेष्। ह्रेषे 1; p. जिह्रेषे; etc. Hennir. Aller. Gr. . Cf. हेष्। ह्रेषयामि (c.) faire hennir.
-
-ह्रेषा
-ह्रेषा f. hennissement.
-
-ह्लग्
-ह्लग्। ह्लगामि, cf. ह्रग्।
-
-ह्लप्
-ह्लप्, cf. ह्रप्।
-
-ह्लस्
-ह्लस्, cf. ह्रस्।
-
-ह्लाद्
-ह्लाद्। ह्लादे 1; p. जह्लादे; pp. ह्लन्न। Se réjouir, s'égayer, s'amuser avec, 1. Ang. glad.
-
-ह्लाद
-ह्लाद m. joie, gaieté. ह्लादयामि (c. de ह्लाद्) réjouir, égayer. ह्लादिनी f. boswellia thurifera, bot.
-
-ह्लीका
-ह्लीका, ह्लीकु, cf. ह्रीका, ह्रीकु।
-
-ह्लेषा
-ह्लेषा f. cf. ह्रेषा।
-
-ह्वल्
-ह्वल्। ह्वलामि 1; p. जह्वाल; etc. Chanceler, trembler. ह्वलयामि et ह्वालयामि (c.) Ebranler, faire trembler, महीम् la terre.
-
-ह्वृ
-ह्वृ। ह्वरामि 1, ह्वृणोमि 9; p. जह्वार; f2. ह्वरिष्यामि; ā. अह्वार्षम्; pp. ह्वृत et ह्रुत, Vd. Etre courbé, être abattu, être blessé. Manger, Vd. Śf. ध्वृ। ह्वारयामि (c.) courber; abattre, terrasser;  Vd.
-
-ह्वे
-ह्वे। ह्वयामि, ह्वये 1 [हवे, हुवे, Vd.]; p. जुहाव, जुहुवे [3 p. हुवे et जुह्वे; 3 p. pl. जुहुरे et जुहूरे, Vd.]; f2. ह्वास्यामि, ह्वास्ये; ạ. अह्वम्, अह्वसि et अह्वासि [अह्वे; 3 p. pl. अहूषत, Vd.]; o. हूयासम्; inf. vd. हुवध्यै। {@Ps.@} हूये; pp. हूत। Appeler, नाम्ना par son nom; convoquer:  हुवामह इन्द्रं सोमस्य पीतये nous invitons Indra à boire le sôma, Vd. Invoquer: मनिषी हवते वाम् un sage vous invoque, Vd., रुद्रम् हुवेम invoquons Rudra, Vd. Demander, Vd. Rivaliser [provoquer], ac. ह्वाययामि (c.); pqp. अजूहवम्।
-
-
+ह्रद m. lac profond, grande pièce d'eau. Rayon de lumière. �
