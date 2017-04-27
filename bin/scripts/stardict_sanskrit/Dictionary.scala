@@ -2,11 +2,11 @@ package stardict_sanskrit
 
 import java.io.{File, PrintWriter}
 
-import org.apache.commons.compress.archivers.tar.TarArchiveEntry
 import org.slf4j.LoggerFactory
+import sanskritnlp.transliteration.{iast, transliterator}
 
 import scala.io.Source
-import sys.process._
+import scala.sys.process._
 
 class Dictionary(val name: String) {
   val log = LoggerFactory.getLogger(getClass.getName)
@@ -114,23 +114,35 @@ class Dictionary(val name: String) {
     s"${dirFile.getName} with ${babylonFile} babylon, ${babylonFinalFile} babylonFinal, ${ifoFile} ifo, ${tarFile} tar "
 }
 
-object batchProcessor {
+trait BatchProcessor {
   val log = LoggerFactory.getLogger(getClass.getName)
 
-  def getMatchingDirectories (file_pattern: String = ".*"): List[java.io.File] = {
+  def getMatchingDirectories (file_pattern: String = ".*", baseDir: String = "."): List[java.io.File] = {
     log info (s"file_pattern: ${file_pattern}")
+    val baseDirFile = new File(baseDir)
+    log info (s"Current directory: ${baseDirFile.getCanonicalPath}")
 
-    val directories = new java.io.File( "." ).listFiles.filter(_.isDirectory).filter(x => x.getName.matches(s".*/?$file_pattern")).filterNot(_.getName.matches(".*/?tars"))
+    log info baseDirFile.listFiles.filter(_.isDirectory).mkString("\n")
+    val directories = baseDirFile.listFiles.filter(_.isDirectory).filter(x => x.getName.matches(s".*/?$file_pattern")).filterNot(_.getName.matches(".*/?tars"))
     log info (s"Got ${directories.length} directories")
     return directories.toList
   }
 
-  def getMatchingDictionaries(file_pattern: String = ".*") = getMatchingDirectories(file_pattern).map(new Dictionary(_))
+  def getMatchingDictionaries(file_pattern: String = ".*", baseDir: String = ".") = getMatchingDirectories(file_pattern, baseDir).map(new Dictionary(_))
 
-  def addOptitrans(file_pattern: String = ".*") = {
-    log info "=======================Adding optitrans headwords, making final babylon file."
+}
+
+object babylonProcessor extends BatchProcessor{
+  override def getMatchingDictionaries(file_pattern: String, baseDir: String = "."): List[Dictionary] = {
+    val dictionaries = super.getMatchingDictionaries(file_pattern, baseDir).filter(_.getFinalBabylonFile != null)
+    log info (s"Got ${dictionaries.filter(_.babylonFinalFile.isDefined).length} babylon_final files")
+    log info (s"Got ${dictionaries.filter(x => x.babylonFile.isDefined && !x.babylonFinalFile.isDefined).length}  dicts without babylon_final files but with babylon file.")
+    return dictionaries
+  }
+
+  def fixHeadwordsInFinalFile(file_pattern: String = ".*", baseDir: String = ".", headwordTransformer: (Array[String]) => Array[String]) = {
     val files_to_ignore = Set("spokensanskrit.babylon")
-    var dictionaries = getMatchingDictionaries(file_pattern).filter(_.babylonFile.isDefined)
+    var dictionaries = getMatchingDictionaries(file_pattern, baseDir).filter(_.babylonFile.isDefined)
     log info (s"Got ${dictionaries.length} babylon files")
     var dictsToIgnore = dictionaries.filter(_.babylonFinalFileNewerThanBabylon())
     if (dictsToIgnore.nonEmpty) {
@@ -145,19 +157,37 @@ object batchProcessor {
       if (files_to_ignore contains file) {
         log info (f"skipping: $file")
       } else {
-        log info (f"Adding headwords to: $file")
-        sanskritnlp.dictionary.babylonTools.addTransliteratedHeadwords(file, ".babylon_final", "dev", "optitrans")
+        log info (f"Fixing headwords in: $file")
+        sanskritnlp.dictionary.babylonTools.fixHeadwords(file, ".babylon_final", headwordTransformer)
       }
     })
     // sys.exit()
   }
 
+  def addOptitrans(file_pattern: String = ".*", baseDir: String = ".") = {
+    log info "=======================Adding optitrans headwords, making final babylon file."
+    val headwordTransformer = (headwords_original:Array[String]) => headwords_original.map(
+      x => x ++ transliterator.transliterate(x, "dev", "optitrans"))
+    fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=headwordTransformer)
+  }
+
+  def stripNonOptitransHeadwords(file_pattern: String = ".*", baseDir: String = "."): Unit = {
+    log info "=======================stripNonOptitransHeadwords, making final babylon file."
+    val headwordTransformer = (headwords_original:Array[String]) => headwords_original.filterNot(iast.isEncoding(_))
+    fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=headwordTransformer)
+  }
+
+
+  def addDevanagari(file_pattern: String = ".*") = {
+    val directories = getMatchingDirectories(file_pattern)
+    log error "Not implemented"
+    throw new Error()
+  }
+
   def makeStardict(file_pattern: String = ".*", babylon_binary: String) = {
     log info "=======================makeStardict"
-    var dictionaries = getMatchingDictionaries(file_pattern).filter(_.babylonFile.isDefined)
+    var dictionaries = getMatchingDictionaries(file_pattern)
 
-    log info (s"Got ${dictionaries.filter(_.babylonFinalFile.isDefined).length} babylon_final files")
-    log info (s"Got ${dictionaries.filter(x => x.babylonFile.isDefined && !x.babylonFinalFile.isDefined).length}  dicts without babylon_final files but with babylon file.")
     var dictsToIgnore = dictionaries.filter(_.ifoFileNewerThanBabylon())
     if (dictsToIgnore.nonEmpty) {
       log warn s"Ignoring these files, whose dict files seem updated: " + dictsToIgnore.mkString("\n")
@@ -166,6 +196,20 @@ object batchProcessor {
     dictionaries.foreach(_.makeStardictFromBabylonFile(babylon_binary))
   }
 
+  def main(args: Array[String]): Unit = {
+    val dictPattern = "purANa-encyclopedia"
+    val workingDirInit = System.getProperty("user.dir")
+    var workingDir = "/home/vvasuki/stardict-sanskrit/sa-kAvya/"
+    System.setProperty("user.dir", workingDir)
+    stripNonOptitransHeadwords(dictPattern, workingDir)
+
+
+    // addOptitrans(dir)
+    // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
+  }
+}
+
+object tarProcessor extends BatchProcessor {
   def writeTarsList(tarDestination: String, urlBase: String) = {
     val outFileObj = new File(tarDestination + "/tars.MD")
     outFileObj.getParentFile.mkdirs
@@ -208,12 +252,6 @@ object batchProcessor {
     }
   }
 
-  def addDevanagari(file_pattern: String = ".*") = {
-    val directories = getMatchingDirectories(file_pattern)
-    log error "Not implemented"
-    throw new Error()
-  }
-
   def getStats() = {
     val indexIndexorum = "https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/dictionaryIndices.md"
     val indexes = Source.fromURL(indexIndexorum).mkString.replaceAll("<|>","").split("\n")
@@ -230,10 +268,9 @@ object batchProcessor {
   }
 
   def main(args: Array[String]): Unit = {
-    val dir = "dhAtupradIpa"
-    // addOptitrans(dir)
-    // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
-//    makeTars("https://github.com/sanskrit-coders/stardict-telugu/raw/master/en-head/tars", dir)
-    getStats
+    //    makeTars("https://github.com/sanskrit-coders/stardict-telugu/raw/master/en-head/tars", dir)
+    //    getStats
   }
+
+
 }
