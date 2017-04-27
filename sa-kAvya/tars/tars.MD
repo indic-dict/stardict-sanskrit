@@ -7,4 +7,4 @@ https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya/tars/pu
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya/tars/purANa-index-dev__2016-02-20_16-15-38.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya/tars/rv-padapATha-dev__2016-02-20_16-15-38.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya/tars/rv-padasvara-dev__2016-02-20_16-15-38.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya/tars/vedic_index__2017-04-16_09-13-40__1MB.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-kAvya/tars/vedic_index__2017-04-27_13-17-56__1MB.tar.gz
