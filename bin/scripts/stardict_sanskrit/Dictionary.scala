@@ -197,7 +197,7 @@ object babylonProcessor extends BatchProcessor{
   }
 
   def main(args: Array[String]): Unit = {
-    val dictPattern = "purANa-encyclopedia"
+    val dictPattern = "vedic.*"
     val workingDirInit = System.getProperty("user.dir")
     var workingDir = "/home/vvasuki/stardict-sanskrit/sa-kAvya/"
     System.setProperty("user.dir", workingDir)
