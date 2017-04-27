@@ -3,8 +3,10 @@ package stardict_sanskrit
 import java.io.{File, PrintWriter}
 
 import org.slf4j.LoggerFactory
+import sanskritnlp.dictionary.BabylonDictionary
 import sanskritnlp.transliteration.{iast, transliterator}
 
+import scala.collection.mutable
 import scala.io.Source
 import scala.sys.process._
 
@@ -117,6 +119,15 @@ class Dictionary(val name: String) {
 trait BatchProcessor {
   val log = LoggerFactory.getLogger(getClass.getName)
 
+  /**
+    * Get a recursive listing of all files underneath the given directory.
+    * from stackoverflow.com/questions/2637643/how-do-i-list-all-files-in-a-subdirectory-in-scala
+    */
+  def getRecursiveListOfFiles(dir: File): Array[File] = {
+    val these = dir.listFiles
+    these ++ these.filter(_.isDirectory).flatMap(getRecursiveListOfFiles)
+  }
+
   def getMatchingDirectories (file_pattern: String = ".*", baseDir: String = "."): List[java.io.File] = {
     log info (s"file_pattern: ${file_pattern}")
     val baseDirFile = new File(baseDir)
@@ -177,11 +188,31 @@ object babylonProcessor extends BatchProcessor{
     fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=headwordTransformer)
   }
 
+  def getWordListFromDicts(basePaths: List[String]): mutable.HashSet[String] = {
+    val words = mutable.HashSet[String]()
+    val babylonFiles = basePaths.flatMap(basePath => getRecursiveListOfFiles(new File(basePath))).
+      filter(_.getName.matches(".*\\.babylon(_final)?"))
+    val babylonDicts = babylonFiles.map(x => {
+      val dict = new BabylonDictionary(name_in = x.getName, head_language = "")
+      dict.fromFile(x.getCanonicalPath)
+      dict
+    })
+    log info s"Got ${babylonDicts.length} babylon files."
 
-  def addDevanagari(file_pattern: String = ".*") = {
-    val directories = getMatchingDirectories(file_pattern)
-    log error "Not implemented"
-    throw new Error()
+    babylonDicts.foreach(dict => {
+      dict.makeWordToLocationMap()
+      words ++= dict.getWords
+    })
+    log info s"Got ${words.length} words"
+    return words
+  }
+
+  def getDevanagariOptitransFromIast(file_pattern: String = ".*", baseDir: String = ".") = {
+    log info "=======================Adding optitrans headwords, making final babylon file."
+    val toDevanAgarIAndOptitrans = (headwords_original:Array[String]) => headwords_original.map(
+      x => transliterator.transliterate(x, "iast", "dev")) ++ headwords_original.map(
+      x => transliterator.transliterate(x, "iast", "optitrans"))
+    fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=toDevanAgarIAndOptitrans)
   }
 
   def makeStardict(file_pattern: String = ".*", babylon_binary: String) = {
@@ -197,13 +228,13 @@ object babylonProcessor extends BatchProcessor{
   }
 
   def main(args: Array[String]): Unit = {
-    val dictPattern = "vedic.*"
+    val dictPattern = ".*"
     val workingDirInit = System.getProperty("user.dir")
-    var workingDir = "/home/vvasuki/stardict-sanskrit/sa-kAvya/"
+    var workingDir = "/home/vvasuki/stardict-pali/pali-head/"
     System.setProperty("user.dir", workingDir)
-    stripNonOptitransHeadwords(dictPattern, workingDir)
-
-
+    // stripNonOptitransHeadwords(dictPattern, workingDir)
+getDevanagariOptitransFromIast(dictPattern, workingDir)
+    getWordListFromDicts(List("/home/vvasuki/stardict-pali/pali-head/"))
     // addOptitrans(dir)
     // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
   }
