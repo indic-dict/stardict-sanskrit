@@ -166,8 +166,8 @@ object babylonProcessor extends BatchProcessor{
 
   def addOptitrans(file_pattern: String = ".*", baseDir: String = ".") = {
     log info "=======================Adding optitrans headwords, making final babylon file."
-    val headwordTransformer = (headwords_original:Array[String]) => headwords_original.map(
-      x => x ++ transliterator.transliterate(x, "dev", "optitrans"))
+    val headwordTransformer = (headwords_original:Array[String]) => headwords_original ++ headwords_original.map(
+      x => transliterator.transliterate(x, "dev", "optitrans"))
     fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=headwordTransformer)
   }
 
