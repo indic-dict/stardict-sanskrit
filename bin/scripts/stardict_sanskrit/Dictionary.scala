@@ -203,7 +203,7 @@ object babylonProcessor extends BatchProcessor{
       dict.makeWordToLocationMap()
       words ++= dict.getWords
     })
-    log info s"Got ${words.length} words"
+    log info s"Got ${words.size} words"
     return words
   }
 
@@ -212,6 +212,19 @@ object babylonProcessor extends BatchProcessor{
     val toDevanAgarIAndOptitrans = (headwords_original:Array[String]) => headwords_original.map(
       x => transliterator.transliterate(x, "iast", "dev")) ++ headwords_original.map(
       x => transliterator.transliterate(x, "iast", "optitrans"))
+    fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=toDevanAgarIAndOptitrans)
+  }
+
+  def getDevanagariOptitransFromIastIfIndic(file_pattern: String = ".*", baseDir: String = ".", indicWordSet: mutable.HashSet[String] = mutable.HashSet[String]()) = {
+    log info "=======================Adding optitrans headwords, making final babylon file."
+    def isIndic(word: String) = indicWordSet.contains(word) || iast.isEncoding(word)
+    def transliterateIfIndic(x: String, destSchema: String) = if(isIndic(x)) {
+      transliterator.transliterate(x, "iast", destSchema)
+    } else {
+      x
+    }
+    val toDevanAgarIAndOptitrans = (headwords_original:Array[String]) => headwords_original.map(
+      x => transliterateIfIndic(x, "dev")) ++ headwords_original.map(x => transliterateIfIndic(x, "optitrans"))
     fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=toDevanAgarIAndOptitrans)
   }
 
@@ -230,11 +243,11 @@ object babylonProcessor extends BatchProcessor{
   def main(args: Array[String]): Unit = {
     val dictPattern = ".*"
     val workingDirInit = System.getProperty("user.dir")
-    var workingDir = "/home/vvasuki/stardict-pali/pali-head/"
+    var workingDir = "/home/vvasuki/stardict-pali/pali-en-head/"
     System.setProperty("user.dir", workingDir)
     // stripNonOptitransHeadwords(dictPattern, workingDir)
-getDevanagariOptitransFromIast(dictPattern, workingDir)
-    getWordListFromDicts(List("/home/vvasuki/stardict-pali/pali-head/"))
+    // getDevanagariOptitransFromIast(dictPattern, workingDir)
+    getDevanagariOptitransFromIastIfIndic(dictPattern, workingDir, getWordListFromDicts(List("/home/vvasuki/stardict-pali/pali-head/")))
     // addOptitrans(dir)
     // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
   }
