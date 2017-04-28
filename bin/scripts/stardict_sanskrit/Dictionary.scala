@@ -3,11 +3,12 @@ package stardict_sanskrit
 import java.io.{File, PrintWriter}
 
 import org.slf4j.LoggerFactory
-import sanskritnlp.dictionary.BabylonDictionary
+import sanskritnlp.dictionary.{BabylonDictionary, babylonTools}
 import sanskritnlp.transliteration.{iast, transliterator}
 import sanskritnlp.vyAkaraNa.devanAgarI
 
 import scala.collection.mutable
+import scala.collection.mutable.ListBuffer
 import scala.io.Source
 import scala.sys.process._
 
@@ -189,8 +190,7 @@ object babylonProcessor extends BatchProcessor{
     fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=headwordTransformer)
   }
 
-  def getWordListFromDicts(basePaths: Seq[String], wordPattern: String = "(\\p{IsDevanagari})+"): mutable.HashSet[String] = {
-    val words = mutable.HashSet[String]()
+  def getWordToDictsMapFromPaths(basePaths: Seq[String], wordPattern: String = "(\\p{IsDevanagari})+"): mutable.HashMap[String, ListBuffer[BabylonDictionary]] = {
     val babylonFiles = basePaths.flatMap(basePath => getRecursiveListOfFiles(new File(basePath))).
       filter(_.getName.matches(".*\\.babylon(_final)?"))
     log info s"Got ${babylonFiles.length} babylon files."
@@ -202,23 +202,21 @@ object babylonProcessor extends BatchProcessor{
     })
     log info s"Got ${babylonDicts.length} babylon files."
 
-    babylonDicts.foreach(dict => {
-      dict.makeWordToLocationMap()
-      words ++= dict.getWords.filter(_.matches(wordPattern))
-    })
-    log info s"Got ${words.size} words"
-    return words
+    val wordToDicts = babylonTools.mapWordToDicts(dictList=babylonDicts, headword_pattern=wordPattern)
+    log info s"Got ${wordToDicts.size} words"
+    return wordToDicts
   }
 
-  def dumpWordList(basePaths: Seq[String], wordPattern: String = "(\\p{IsDevanagari})+", outFilePath: String) = {
-    val words = getWordListFromDicts(basePaths, wordPattern)
+  def dumpWordToDictMap(basePaths: Seq[String], wordPattern: String = "(\\p{IsDevanagari})+", outFilePath: String) = {
+    val words = getWordToDictsMapFromPaths(basePaths, wordPattern)
     log info s"Got ${words.size} words"
     log info s"Dumping to ${outFilePath} "
     val outFileObj = new File(outFilePath)
     new File(outFileObj.getParent).mkdirs
     val destination = new PrintWriter(outFileObj)
-    words.toList.sorted.foreach(word => {
-      destination.println(word)
+    words.keys.toList.sorted.foreach(word => {
+      val dictNames = words.get(word).get.map(_.dict_name)
+      destination.println(s"$word\t${dictNames.mkString(",")}")
     })
     destination.close()
   }
@@ -257,15 +255,27 @@ object babylonProcessor extends BatchProcessor{
     dictionaries.foreach(_.makeStardictFromBabylonFile(babylon_binary))
   }
 
+  def transliterateAllIndicToDevanagarI(inFilePath: String, outFilePath: String, sourceScheme:String, wordListFilePath: String ="/home/vvasuki/stardict-sanskrit/wordlists/words_sa_dev.txt") = {
+    var wordSet = Source.fromFile(wordListFilePath, "utf8").getLines.map(_.split("\t").headOption.getOrElse("न")).map(transliterator.transliterate(_, transliterator.scriptDevanAgarI, sourceScheme)).toSet
+    val outFileObj = new File(outFilePath)
+    new File(outFileObj.getParent).mkdirs
+    val destination = new PrintWriter(outFileObj)
+    val inFile = Source.fromFile(inFilePath, "utf8").getLines().map(line => {
+      val outStr = transliterator.transliterateWordsIfIndic(in_str = line, wordSet=wordSet, sourceScheme=sourceScheme, destScheme = transliterator.scriptDevanAgarI)
+      destination.println(outStr)
+    })
+    destination.close()
+  }
+
   def main(args: Array[String]): Unit = {
     val dictPattern = ".*"
     val workingDirInit = System.getProperty("user.dir")
     var workingDir = "/home/vvasuki/stardict-sanskrit/"
     System.setProperty("user.dir", workingDir)
-    dumpWordList(basePaths=List(workingDir), outFilePath=s"${workingDir}words.txt")
+//    dumpWordToDictMap(basePaths=List(workingDir), outFilePath=s"${workingDir}wordlists/words_sa_dev.txt")
     // stripNonOptitransHeadwords(dictPattern, workingDir)
     // getDevanagariOptitransFromIast(dictPattern, workingDir)
-//    getDevanagariOptitransFromIastIfIndic(dictPattern, workingDir, getWordListFromDicts(List("/home/vvasuki/stardict-pali/pali-head/")))
+//    getDevanagariOptitransFromIastIfIndic(dictPattern, workingDir, getWordToDictsMapFromPaths(List("/home/vvasuki/stardict-pali/pali-head/").keys))
     // addOptitrans(dir)
     // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
   }
