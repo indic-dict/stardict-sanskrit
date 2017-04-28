@@ -1,3 +1,6 @@
+LICENCE
+<?xml version="1.0" encoding="UTF-8"?><BR><!-- July 17, 2013 --><BR><!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>--><BR><?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?><BR><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><BR>  <teiHeader xml:lang="en-Latn"><BR>    <fileDesc><BR>      <titleStmt><BR>        <title>The Vedic Index of Names and Subjects</title><BR>        <editor>Jim Funderburk</editor><BR>        <editor>Thomas Malten</editor><BR>        <principal>Thomas Malten</principal><BR>        <funder>DFG - Deutsche Forschungsgemeinschaft</funder><BR>        <!--<funder>Glasenapp Stiftung</funder>--><BR>        <!--<funder>ECCP, European Union</funder>--><BR>      </titleStmt><BR>      <editionStmt><BR>         <edition>digital edition, vei.txt <date>2013</date></edition><BR>        <respStmt><BR>          <resp>markup</resp><BR>          <name>Thomas Malten</name><BR>        </respStmt><BR>      </editionStmt><BR>      <extent>2.8MB</extent><BR>      <publicationStmt><BR>        <publisher>University of Cologne</publisher><BR>        <pubPlace>Cologne, Germany</pubPlace><BR>        <date when="2013">2013</date><BR>        <availability><BR>          <p>All rights reserved other than those granted under the Creative Commons Attribution<BR>            Non-Commercial Share Alike license available in full at <ptr<BR>              target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"/>, and summarized<BR>            at <ptr target="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>. Permission is<BR>            granted to build upon this work non-commercially, as long as credit is explicitly<BR>            acknowledged exactly as described herein and derivative work is distributed under the<BR>            same license.</p><BR>        </availability><BR>      </publicationStmt><BR>      <seriesStmt><BR>        <title level="s"></title><BR>        <respStmt><BR>          <resp></resp><BR>          <name></name><BR>        </respStmt><BR>        <idno></idno><BR>      </seriesStmt><BR>      <notesStmt><BR>        <note></note><BR>      </notesStmt><BR>      <sourceDesc><BR>        <biblStruct xml:id="VEI"><BR>          <monogr><BR>            <author>Arthur Anthony Macdonell</author><BR>            <author>Arthur Berriedale Keith</author><BR>            <author></author><BR>            <title type="main" level="m">The Vedic Index of Names and Subjects, Volumes I,II</title><BR>            <title type="subordinate" level="m"></title><BR>            <edition>First Edition 1912 (?); Reprint 1958</edition><BR>            <imprint><BR>              <pubPlace>Varanasi</pubPlace><BR>              <publisher>Motilal Banarsidass</publisher><BR>              <date>1912</date>  <!-- 1958 --><BR>            </imprint><BR>            <extent>560 pages, 595 pages</extent><BR>          </monogr><BR>        </biblStruct><BR>      </sourceDesc><BR>    </fileDesc><BR>    <encodingDesc><BR>      <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.--><BR>      <projectDesc><BR>        <p><quote>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and<BR>            merge all published Sanskrit dictionaries. Its aim is<BR>            to provide a basic lexical corpus to provide an easy access to all available meanings of<BR>            Sanskrit words and to allow the creation of a number of computer programs that will help<BR>            to analyze Sanskrit texts. <bibl><author>Malten</author><date>1997</date><title>Review<BR>                of the Cologne Digital Sanskrit Lexicon project</title></bibl></quote></p><BR>      </projectDesc><BR>      <editorialDecl><BR>        <p><BR>          <date>2013</date></p><BR>      </editorialDecl><BR>      <tagsDecl> </tagsDecl><BR>    </encodingDesc><BR>    <profileDesc><BR>      <creation> </creation><BR>      <langUsage><BR>        <language ident="en-Latn">English</language><BR>        <language ident="sa-Latn-x-AS">Sanskrit</language><BR>      </langUsage><BR>      <textClass><BR>        <keywords scheme="#lcsh"><BR>          <list><BR>            <item>Sanskrit language -- Dictionaries -- English language</item><BR>          </list><BR>        </keywords><BR>        <classCode scheme="#lc"></classCode><BR>      </textClass><BR>    </profileDesc><BR>    <revisionDesc><BR>      <change>0</change><BR>    </revisionDesc><BR>  </teiHeader><BR>  <facsimile><BR>    See download vei1_bookmark.pdf,  vei2_bookmark.pdf from http://www.sanskrit-lexicon.uni-koeln.de<BR>  </facsimile><BR><BR>  <text><BR>    <body><BR>      <xi:include href="vei.txt"><BR>        <xi:fallback><BR>         See download vei.txt from http://www.sanskrit-lexicon.uni-koeln.de<BR>        </xi:fallback><BR>      </xi:include><BR>    </body><BR>  </text><BR></TEI>
+
 aMshu|अंशु
 अंशु<BR> --I. Name of a protégé of the Aśvins in the Rigveda. 1) viii. 5, 26. Cf. Ludwig, Translation of the Rigveda, 3, 160; Hopkins, Journal of the American Oriental Society, 17, 89; Sieg, Die Sagenstoffe des Ṛgveda, 129, suggests that he may be identical with Khela. 2. Dhānaṃjayya, pupil of Amāvāsya Śāṇḍilyāyana, according to the Vaṃśa Brāhmaṇa. 2) Indische Studien, 4, 373.
 
@@ -148,10 +151,10 @@ atharii|अथरी
 atharvan|अथर्वन्
 अथर्वन्<BR> --The name in the singular denotes the head of a semi-divine family of mythical priests, 1) See Macdonell, Vedic Mythology, 141. In the Vaṃśa of the Bṛhadāraṇyaka Upaniṣad, ii. 6, 3, Atharvan Daiva is characteristically the pupil of Mṛtyu. of whom nothing historical can be said. In the plural the family as a whole is meant. In a few places an actual family seems to be referred to. Thus, for instance, they are mentioned as recipients of gifts in the Dānastuti 2) Rv. vi. 47, 24. (‘Praise of Gifts’), of Aśvattha's generosity; their use of milk mingled with honey in the ritual is referred to; 3) Rv. ix. 11, 2. and a cow that miscarries (ava-tokā) from accident is dedicated to the Atharvans, according to the Taittirīya Brāhmaṇa. 4) iii. 4, 11, 1. Cf. Vājasaneyi Saṃhitā, xxx. 15. Cf. Bloomfield, Hymns of the Atharvaveda, xxxv. et seq., who (p. xxxviii) takes avatokā as a woman, and the Atharvans as the hymns; Hillebrandt, Vedische Mythologie, 2, 174 et seq.
 
-atharvaaNaH|अथर्वाणः
+atharvaaNa|atharvaaNaH|अथर्वाण|अथर्वाणः
 अथर्वाणः<BR> --This expression 1) Taittirīya Brāhmaṇa, iii. 12, 9, 1; Pañcaviṃśa Brāhmaṇa, xvi. 10, 10; Śatapatha Brāhmaṇa, xiii. 4, 3, 5 et seq. is used with Aṅgirasaḥ, to denote the Atharvaveda. The compound Atharvāṅgirasaḥ is employed in the same sense.
 
-atharvaangirasaH|अथर्वाङ्गिरसः
+atharvaangirasa|atharvaangirasaH|अथर्वाङ्गिरस|अथर्वाङ्गिरसः
 अथर्वाङ्गिरसः<BR> --This is the collective name of the Atharvaveda in several passages 1) Taittirīya Brāhmaṇa, iii. 12, 8, 2; Taittirīya Āraṇyaka, ii. 9; 10; Śatapatha Brāhmaṇa, xi. 5, 6, 7; Bṛhadāraṇyaka Upaniṣad, ii. 4, 10; iv. 1, 2; 5, 11; Chāndogya Upaniṣad, iii. 4, 1. 2; Taittirīya Upaniṣad, ii. 3, 1. of the later Brāhmaṇas. It occurs once in the Atharvaveda itself, 2) x. 7, 20. while the term Atharvaveda is not found before the Sūtra period. 3) Śāṅkhāyana Srauta Sūtra, xvi. 2, 9, etc. The compound seems, according to Bloomfield, 4) Journal of the American Oriental Society, 11, 387 et seq.; Hymns of the Atharvaveda, xviii. et seq. to denote the two elements which make up the Atharvaveda. The former part refers to the auspicious practices of the Veda (bheṣajāni); 5) Av. xi. 6, 14. the latter to its hostile witchcraft, the yātu 6) Satapatha Brāhmaṇa, x. 5, 2, 20. or abhi-cāra. 7) Kauśika Sūtra, 3, 19. This theory is supported by the names of the two mythic personages Ghora Āṅgirasa and Bhiṣaj Ātharvaṇa, as well as by the connection of Atharvāṇaḥ and Ātharvaṇāni with healing (bheṣaja) in the Pañcaviṃśa Brāhmaṇa. 8) xii. 9, 10; xvi. 10, 10. Moreover, the term bhesajā (‘remedies’) designates in the Atharvaveda 9) x. 6, 14. that Veda itself, while in the Śatapatha Brāhmaṇa 10) x. 5, 2, 20. Cf. Hillebrandt, Vedische Mythologie, 2, 177. yātu (‘sorcery’) conveys the same meaning. The evidence, however, being by no means convincing, it remains probable that there existed no clear differentiation between the two sages as responsible for the Atharvaveda as a whole. 
 
 adRShTa|अदृष्ट
@@ -415,7 +418,7 @@ argala|अर्गल
 argalakaahoDi|अर्गलकाहोडि
 अर्गल-काहोडि<BR> is mentioned in the Kāṭhaka Samhitā (xxv. 7) as a teacher. The name may, however, be Aryala, as suggested in the St. Petersburg Dictionary, s.v., and as read by v. Schroeder in his edition. The Kapiṣṭhala (xxxix. 5) has Ayala. See below.
 
-archant|अर्चन्त्
+archant|archat|अर्चत्|अर्चन्त्
 अर्चन्त्<BR> is possibly, as Ludwig 1) Translation of the Ṛgveda, 3, 133. thinks, the name of the author of a hymn of the Rigveda 2) x. 149, 5. ; but the word may be merely the ordinary participle ‘praising.’
 
 archanaanas|अर्चनानस्
@@ -439,7 +442,7 @@ aryamNaHpanthaa|अर्यम्णःपन्था
 aryala|अर्यल
 अर्यल<BR> --Those at whose snake feast the Gṛhapati was Aryala, and the Hotṛ was Āruṇi are mentioned in the Pañcaviṃśa Brāhmaṇa (xxiii. 1, 5). See also Argala.
 
-arvant|अर्वन्त्
+arvant|arvat|अर्वत्|अर्वन्त्
 अर्वन्त्<BR> See Aśva.
 
 arshas|अर्शस्
@@ -877,7 +880,7 @@ aasangaplaayogi|आसङ्गप्लायोगि
 aasandii|आसन्दी
 आ-सन्दी<BR> --This is a generic term for a seat of some sort, occurring frequently in the later Saṃhitās 1) Av. xiv. 2, 65; xv. 3, 2 et seq.; Taittirīya Saṃhitā, vii. 5, 8, 5; Vājasaneyi Saṃhitā, viii. 56; xix. 16; 86, etc. and Brāhmaṇas. 2) Aitareya Brāhmaṇa, viii. 5; 6; 12; Śatapatha Brāhmaṇa, iii. 3, 4, 26; v. 2, 1, 22; 4, 4, 1, etc. but not in the Rigveda. In the Atharvaveda 3) xv. 3, 2 et seq. the settle brought for the Vrātya is described at length. It had two feet, lengths wise and cross-pieces, forward and cross-cords, showing that it was made of wood and also cording. It was also covered with a cushion (Āstaraṇa) and a pillow (Upabarhaṇa), had a seat (Āsāda) and a support (Upaśraya). Similar seats are described in the Kauṣītaki Upaniṣad 4) i. 5. Cf. Weber, Indische Studien, 1, 397; Keith, Śāṅkhāyana Aranyaka, 19. and the Jaiminīya Brāhmaṇa. 5) ii. 24. The seat for the king at the royal consecration is described in very similar terms in the Aitareya Brāhmaṇa, 6) viii. 5; 6; 12. where the height of the feet is placed at a span, and the lengthwise and cross-pieces are each to be a cubit, while the interwoven part (vivayana) is to be of Muñja grass, and the seat of Udumbara wood. In another passage of the Atharvaveda 7) xiv. 2, 65. See his note in Whitney's Translation of the Atharvaveda, 765. Lanman seems to take the seat meant as a ‘long reclining chair.’ There also a cushion (Upadhāna) and coverlet (Upavāsana) are mentioned. The Śatapatha Brāhmaṇa repeatedly describes the Āsandī in terms showing that it was an elaborate seat. In one place 8) v. 4, 4, 1. it is said to be made of Khadira wood, perforated (vi-tṛṇṇā), and joined with straps (vardhra-yutā) like that of the Bhāratas. At the Sautrāmaṇī rite 9) xii. 8, 3, 4 et seq. (an Indra sacrifice) the seat is of Udumbara wood, is knee-high, and of unlimited width and depth, and is covered with plaited reed-work. The imperial seat 10) xiv. 1, 3, 8 et seq. is to be shoulder-high, of Udumbara wood, and wound all over with cords of Balvaja grass (Eleusina indica). Elsewhere 11) vi. 7, 1, 12 et seq. Cf. Zimmer, Altindisches Leben, 155. the seat is a span high, a cubit in width and depth, of Udumbara wood, and covered with reed-grass cords, and daubed with clay.
 
-aasandiivant|आसन्दीवन्त्
+aasandiivant|aasandiivat|आसन्दीवत्|आसन्दीवन्त्
 आसन्दी-वन्त्,<BR> ‘possessing the throne,’ is the title of the royal city of Janamejaya Pārikṣita, in which the horse, for his famous Aśvamedha, was bound. The authorities both cite a Gāthā for the fact, but they differ as to the priest who celebrated the rite. In the Śatapatha Brāhmaṇa 1) xiii. 5, 4, 2. he is stated to have been Indrota Daivāpa Śaunaka, but in the Aitareya 2) viii. 21. Cf. Śāṅkhāyana Śrauta Sūtra, xvi. 9, 1. Pāṇini, viii. 2, 12, knows the name. Tura Kāvaṣeya.
 
 aasaada|आसाद
@@ -1147,7 +1150,7 @@ upaavijaanashruteya|उपाविजानश्रुतेय
 upoditigaupaaleya|उपोदितिगौपालेय
 उपोदिति गौपालेय<BR> is mentioned in the Pañcaviṃśa Brāhmaṇa (xii. 13, 11) as a seer of Sāmans.
 
-ubhayaadant|उभयादन्त्
+ubhayaadant|ubhayaadat|उभयादत्|उभयादन्त्
 उभया-दन्त्,<BR> ‘having incisors in both jaws,’ is an expression employed to distinguish, among domestic animals, the horse, the ass, etc., from the goat, the sheep, and cattle. The distinction occurs in a late hymn of the Rigveda, 1) x. 90, 10. and is several times alluded to in the later Saṃhitās 2) Taittirīya Saṃhitā, ii. 2, 6, 3; v. 1, 2, 6; Maitrāyaṇī Saṃhitā, i. 8, 1. and the Brāhmaṇas. 3) Śatapatha Brāhmaṇa, i. 6, 3, 30 (ubhayato-dant). In one passage of the Taittirīya Saṃhitā 4) ii. 2, 6, 3. man is classed with the horse as ubhayā-dant. The opposite is anyato-dant, ‘having incisors in one jaw only,’ a term regularly applied to cattle, 5) Taittirīya Saṃhitā, ii. 1, 1, 5; v. 1, 2, 6; 5, 1, 3. the eight incisors of which are, in fact, limited to the lower jaw. The ass is styled ubhayā-dant in the Atharvaveda. 6) v. 31, 3. In one passage of the Atharvaveda, 7) v. 19, 2. however, the epithet is applied to a ram; but the sense here is that a marvel occurs, just as in the Rigveda 8) viii. 18, 17. a ram destroys a lioness. Bloomfield 9) Hymns of the Atharvaveda, 434. suggests in the Atharvaveda passage another reading which would mean ‘horse.’ A parallel division of animals is that of the Taittirīya 10) iv. 3, 10, 2. and Vājasaneyi Saṃhitās 11) xiv. 30. into ‘whole-hoofed’ (eka-śapha) and ‘small’ (kṣudra). Zimmer 12) Altindisches Leben, 74-76. seeks to show from the Greek  13) Aristotle, Hist. An., ii. 1, 8. and the Latin ambidens 14) Festus apud Paulum Diaconum Cf. Weber, Indische Studien, 10, 58. that the Indo-European was familiar with the division of the five sacrificial animals into the two classes of man and horse on the one hand, and cattle, sheep, and goats on the other. But this supposition is not necessary.
 
 uraa|उरा
@@ -1489,7 +1492,7 @@ kakkaTa|कक्कट
 kaxa|कक्ष
 कक्ष<BR> is the name of two men mentioned as teachers in a Vaṃśa (list of teachers) of the Jaiminīya Upaniṣad Brāhmaṇa. One is Kakṣa Vārakya, pupil of Proṣṭhapada Vārakya, 1) iii. 41, 1. and the other Kakṣa Vārāki 2) iii. 41, 1. or Vārakyā, 3) iv. 17, 1. pupil of Dakṣa Kātyāyani Ātreya. See also Urukakṣa.
 
-kaxiivant|कक्षीवन्त्
+kaxiivant|kaxiivat|कक्षीवत्|कक्षीवन्त्
 कक्षीवन्त्<BR> is the name of a Ṛṣi mentioned frequently in the Rigveda, 1) i. 18, 1; 51, 13; 112, 11; 116, 7; 117, 6; 126, 3; iv. 26, 1; viii. 9, 10; ix. 74, 8; x. 25, 10; 61, 16. and occasionally elsewhere. 2) Av. iv. 29, 5, and passage noted below. He appears to have been a descendant of a female slave named Uśij. 3) Rv. i. 18, 1; perhaps also i, 112, 11, but Auśija may there be a separate name (see Auśija). Cf. Pañcaviṃśa Brāhmaṇa, xiv. 11, 16. He must have been a Pajra by family, as he bears the epithet Pajriya, 4) Rv. i. 116, 7; 117, 6. and his descendants are called Pajras. 5) Rv. i. 126, 4. In a hymn of the Rigveda 6) i. 126. he celebrates the prince Svanaya Bhāvya, who dwelt on the Sindhu (Indus), as having bestowed magnificent gifts on him; and the list of Nārāśaṃsas (‘Praises of Heroes’) in the Śāṅkhāyana Śrauta Sūtra 7) xvi. 4, 5. mentions one by Kakṣīvant Auśija in honour of Svanaya Bhāvayavya. In his old age he obtained as a wife the maiden Vṛcayā. 8) Rv. i. 51, 13. He appears to have lived to be a hundred, 9) Rv. ix. 74, 8. the typical length of life in the Vedas. He seems always to be thought of as belonging to the past, and in a hymn of the fourth book of the Rigveda 10) iv. 26, 1. he is mentioned with the semi-mythical Kutsa and Kavi Uśanas. Later, also, he is a teacher of bygone days. 11) Av. iv. 29, 5; xviii. 3, 15; Aitareya Brāhmaṇa, i. 21, 6. 7; Jaiminīya Upaniṣad Brāhmaṇa, ii. 6, 11. In Vedic literature he is not connected with Dīrghatamas beyond being once mentioned along with him in a hymn of the Rigveda. 12) viii. 9, 10 But in the Bṛhaddevatā 13) iv. 11 et seq. he appears as a son of Dīrghatamas by a slave woman, Uśij. Weber 14) Episches im vedischen Ritual, 22-25. considers that Kakṣīvant was originally a Kṣatriya, not a Brāhmaṇa, quoting in favour of this view the fact that he is mentioned beside kings like Para Āṭṇāra, Vītahavya Śrāyasa, and Trasadasyu Paurukutsya. 15) Taittirīya Saṃhitā, v. 6, 5, 3; Kāṭhaka Saṃhitā, xxii. 3; Pancaviṃśa Brāhmaṇa, xxv. 16, 3, Cf. xiv. 11, 16. Cf. Oldenberg, Zeitschrift der Deutschen Morgenländischen Gesellschaft, 42, 221, 236, n. 1; Ludwig Translation of the Rigveda, 3, 102; Geldner, Rigveda, Kommentar, 23, 24. But that these are all kings is an unnecessary assumption: these persons are mentioned in the passages in question undoubtedly only as famous men of old, to whom are ascribed mythical sacrificial performances, and who thus gained numerous sons.
 
 kanka|कङ्क
@@ -1831,7 +1834,7 @@ kikidiivi|किकिदीवि
 kitava|कितव
 कितव,<BR> ‘the gambler,’ is frequently referred to in the Rigveda 1) ii. 29, 5; v. 85, 8; x. 34, 3. 7. 10. 11. 13. and later. 2) Av. vii. 50, 1; 109, 3; Vājasaneyi Saṃhitā, xxx. 8. 18. 22; Aitareya Brāhmaṇa, ii. 19, etc. A father is represented as chastising his son for gambling. 3) Rv. ii. 29, 5. Cf. Pitṛ. The gambler seems at times to have fallen, along with his family, into servitude, presumably by selling himself to pay his debts. 4) Rv. x. 34. Cf. perhaps the bhaktadāsa, ‘slave for hire,’ of the Mānava Dharma Sāstra, viii. 415; Fick, Die sociale Gliederung, 197. Technical names 5) Taittirīya Saṃhitā, iv. 3, 3, 1 et seq.; Vājasaneyi Saṃhitā, xxx. 18. for different sorts of gamblers given in the Yajurveda Saṃhitās are Ādinava-darśa, Kalpin, Adhi-kalpin, and Sabhā-sthāṇu. None of these can be safely 6) Cf. Weber, Zeitschrift der Deutschen Morgenländischen Gesellschaft, 18, 282; Zimmer, Altindisches Leben, 284. explained, though the last has usually 7) So Mahīdhara on Vājasaneyi Saṃhitā, xxx. 18; Sāyaṇa on Taittirīya Brāhmaṇa, iii. 4, 16, 1. been taken as a satirical name derived from the gambler's devotion to the dicing place (Sabhā), ‘pillar of the dicing hall.’ The first literally means ‘seeing ill-luck,’ 8) Cf. Roth, St. Petersburg Dictionary, s.v.; Weber, loc. cit. and may refer to the quickness of the dicer to note an error on the part of his antagonist, or to his eagerness to see the defeat of his rival.
 
-kiMpuruSha|किंपुरुष
+kiMpuruSha|kimpuruSha|किंपुरुष|किम्पुरुष
 किं-पुरुष,<BR> lit. ‘what sort of man,’ appears in the Brāhmaṇas 1) Aitareya Brāhmaṇa, ii. 8; Satapatha Brāhmaṇa, i. 2, 3, 9; vii. 5, 2, 32. to designate the ‘ape,’ which is a mimic man. Possibly the same sense should be seen in the passage of the Vājasaneyi Saṃhitā, 2) xxx. 16; Taittirīya Brāhmaṇa, iii. 4, 12, 1. where it occurs, and where Roth 3) St. Petersburg Dictionary, s.v. assumes it to refer to a contemptible man. Max Müller 4) Ancient Sanskrit Literature, 420. Cf. Weber, Indische Studien, 9, 246; Omina und Portenta, 356; Eggeling, Sacred Books of the East, 12, 51, n. 3. renders it ‘savage.’
 
 kiyaambu|कियाम्बु
@@ -2815,7 +2818,7 @@ gharma|घर्म
 ghaasa|घास
 घास<BR> means ‘fodder’ in the Atharvaveda 1) Av. iv. 38, 7; viii. 7, 8; xi. 5, 18, etc. and later. 2) Vājasaneyi Saṃhitā, xi. 75; xxi. 43; Taittirīya Saṃhitā, vi. 5, 9, 3; Taittirīya Brāhmaṇa, i. 6, 3, 10, etc. In the Rigveda 3) i. 162, 14. Ghāsi is used of the fodder of the horse victim at the Aśvamedha.
 
-ghRNiivant|घृणीवन्त्
+ghRNiivant|ghRNiivat|घृणीवत्|घृणीवन्त्
 घृणीवन्त्<BR> is the name of some animal in the list of victims at the Aśvamedha, or horse sacrifice, in the Vājasaneyi Saṃhitā. 1) xxiv. 39. In the parallel passage of the Maitrāyaṇī Saṃhitā 2) iii. 14, 20. Ghṛṇāvant is the reading. Elsewhere the word is adjectival. 3) Rv. x. 176, 3. Cf. Zimmer, Altindisches Leben, 99. 
 
 ghRta|घृत
@@ -2830,7 +2833,7 @@ ghoraaangirasa|घोरआङ्गिरस
 ghoSha|घोष
 घोष<BR> See Ghoṣā.
 
-ghoShavant|घोषवन्त्
+ghoShavant|ghoShavat|घोषवत्|घोषवन्त्
 घोषवन्त्<BR> See Svara.
 
 ghoShaa|घोषा
@@ -3208,7 +3211,7 @@ jiivagRbh|जीवगृभ्
 jiivaja|जीवज
 जीव-ज<BR> See Jarāyu.
 
-jiivant|जीवन्त्
+jiivant|jiivat|जीवत्|जीवन्त्
 जीवन्त्<BR> appears to denote a certain plant in one passage of the Atharvaveda, 1) xix. 39, 3. Cf. Whitney, Translation of the Atharvaveda, 960. where the edition of Roth and Whitney has the unjustified emendation Jīvala. 2) With this conjectural form, cf. Jīvalā, an epithet of a plant in Av. vi. 59, 3; viii. 2, 6; 7, 6; xix. 39. 3. 
 
 jiivalachallaki|जीवलचल्लकि
@@ -3760,7 +3763,7 @@ dadhyancaatharvaNa|दध्यञ्चाथर्वण
 dadhyaashir|दध्याशिर्
 दध्य्-आशिर्<BR> See Dadhi and Soma.
 
-dant|दन्त्
+dant|dat|दत्|दन्त्
 दन्त्, दन्त,<BR> ‘tooth,’ is frequently mentioned from the Rigveda onwards. 1) Rv. vii. 55, 2; x. 68, 6; Av. v. 23, 3; 29, 4; vi. 56, 3, etc. The more usual form is Danta, Rv. iv. 6, 8; vi. 75, 11; Av. iv. 3, 6, etc. Cleansing (dhāv) the teeth was an ordinary act, especially in preparation for a sacrifice, and accompanied bathing, shaving of the hair and beard (keśa-śmaśru), and the cutting of the nails. 2) Maitrāyaṇī Saṃhitā, iii. 6, 2 (not exactly paralleled in Taittirīya Saṃhitā, vi. 1, 1, 2 et seq.). A hymn of the Atharvaveda 3) vi. 140. celebrates the appearance of the first two teeth of a child, though its exact interpretation is doubtful. 4) Zimmer, Altindisches Leben, 321; Weber, Indische Studien, 5, 224; Grill, Hundert Lieder,^2 176; Bloomfield, Hymns of the Atharvaveda, 540, 541; Atharvaveda, 71; Whitney, Translation of the Atharvaveda, 386. In the Aitareya Brāhmaṇa 5) vii. 14; Śāṅkhāyana Srauta Sūtra, xv. 18. there is a reference to a child's first teeth falling out. The word seems in the Rigveda 6) iv. 6, 8; Pischel, Vedische Studien, 1, 99; Oldenberg, Sacred Books of the East, 46, 341, 342. once to denote an elephant's tusk. Whether dentistry was practised is doubtful. The occurrence in the Aitareya Āraṇyaka 7) ii. 1, 5. of Hiraṇya-dant, ‘gold-toothed,’ as the name of a man, is perhaps significant, especially as it is certain that the stopping of teeth with gold was known at Rome as early as the legislation of the Twelve Tables. 8) Keith, Aitareya Āraṇyaka, 206. See Wordsworth, Fragments and Specimens of Early Latin, 537.
 
 dabhiiti|दभीति
@@ -4105,7 +4108,7 @@ devaraata|देवरात
 devala|देवल
 देवल<BR> is mentioned as a Ṛṣi in the Kāṭhaka Saṃhitā (xxii. 11). See also Daivala.
 
-devavant|देववन्त्
+devavant|devavat|देववत्|देववन्त्
 देववन्त्<BR> is mentioned in a Dānastuti (‘Praise of Gifts’) in the Rigveda 1) vii. 18, 22. Cf. Ludwig, Translation of the Rigveda, 3, 171; Geldner, Vedische Studien, 2, 138. as the ancestor of Sudās, apparently his grandfather; or if Pijavana be accepted as Sudās' father, and Divodāsa as his grandfather, then his great-great-grandfather, and father of Vadhryaśva. The succession in the latter case would then be Devavant, Vadhryaśva, Divodāsa, Pijavana, Sudās. 
 
 devavaata|देववात
@@ -4135,7 +4138,7 @@ dehii|देही
 daidhiShavya|दैधिषव्य
 दैधिषव्य<BR> is mentioned in a Mantra of the Taittirīya Saṃhitā. 1) iii. 2, 4, 4; Kātyāyana Śrauta Sūtra, ii. 1, 22; Kauśika Sūtra, 3, 5; 137, 37. Apparently the word (as derived from Didhiṣū) denotes the son of a younger sister married before the elder sister, 2) American Journal of Philology, 17, 431, n. rather than the son of a woman twice married, the explanation of the St. Petersburg Dictionary. 
 
-daiyaaMpaati|दैयांपाति
+daiyaaMpaati|daiyaampaati|दैयांपाति|दैयाम्पाति
 दैयांपाति,<BR> ‘descendant of Dayāṃpāta,’ is the name of a teacher of the east, who was instructed by Śāṇḍilyāyana, according to the Śatapatha Brāhmaṇa (ix. 5, 1, 14), in the lore of the construction of the fire-altar. The same patronymic is given, in the form of Dayyāṃpāti, to Plakṣa, the contemporary of Atyaṃhas in the Taittirīya Brāhmaṇa (iii. 10, 9, 3-5).
 
 daiva|दैव
@@ -5029,7 +5032,7 @@ parashu|परशु
 parashvan|परश्वन्
 परश्वन्<BR> See Parasvant.
 
-parasvant|परस्वन्त्
+parasvant|parasvat|परस्वत्|परस्वन्त्
 परस्वन्त्<BR> denotes a large wild animal which Roth 1) St. Petersburg Dictionary, s.v. conjectures to be the wild ass. It is mentioned in the Vṛṣākapi hymn 2) x. 86, 18. of the Rigveda, twice in the Atharvaveda, 3) vi. 72, 2; xx. 131, 22. and in the list of victims at the Aśvamedha (‘horse sacrifice’) in the Yajurveda Saṃhitās, 4) Maitrāyaṇī Saṃhitā, iii. 14, 10; Vājasaneyi Saṃhitā, xxiv. 8; Taittirīya Saṃhitā, v. 5, 21, 1, where the commentator takes it to be the wild buffalo. in all of which passages the sense of ‘wild ass’ is satisfactory. More doubtful is the meaning of the word paraśvā(n) in the Kauṣītaki Upaniṣad, 5) i. 2. where the commentary explains it as ‘serpent.’ It is, of course, quite possible that the word has nothing to do with parasvant. Bühler 6) Zeitschrift der Deutschen Morgenländischen Gesellschaft, 48, 63; Keith, Śāṅkhāyana Āraṇyaka, 17, n. 1; Aitareya Āraṇyaka, 377, n. 1. Cf. Ludwig, Translation of the Rigveda, 2, 633; Zimmer, Altindisches Leben, 86, 87; Whitney, Translation of the Atharvaveda, 335; Geldner, Rigveda, Glossar, 105. suggests connexion with the Pāli palāsāda, ‘rhinoceros.’
 
 paraavRj|परावृज्
@@ -5251,10 +5254,10 @@ pastyasad|पस्त्यसद्
 pastyaa|पस्त्या
 पस्त्या<BR> (fem. pl.) is a word occurring in several passages of the Rigveda. 1) Rv. i. 25, 10; 40, 7; 164, 30; iv, 1, 11; vi, 49, 9; vii. 97, 5; ix, 65, 23; x. 46, 6. See also iv. 55, 3; viii. 27, 5, where Pastyā appears as a goddess. Roth 2) St. Petersburg Dictionary, s.v. ascribes to it the meaning of ‘house’ or ‘dwelling,’ in the wide sense of the term, as well as that of the ‘family’ living in the house; and this view is accepted by Zimmer. 3) Altindisches Leben, 149. Cf. Weber, U7ber den Rājasūya, 43, n. 4; 63. On the other hand, Pischel 4) Vedische Studien, 2, 211-22. So Geldner, Rigveda, Glossar, 107. finds in two of the passages 5) vi. 49. 9; vii. 97, 5, where the sense is ‘householder’ (gṛha-stha or gṛhin, as Sāyaṇa renders it). usually referred to Pastyā the neuter Pastya, which appears in Pastya-sad and in Pastyā-vant (where the length of the second syllable is not primitive¤), and which is certainly found in the Rigveda 6) x. 96, 10. 11. In x. 96, 10, Roth takes pastyoḥ to denote the two parts of the Soma press, but Pischel, 2, 211, accepts Sāyaṇa's rendering ‘heaven and earth.’ In the compounds tripastya of Agni, Rv. viii. 39, 8; vājapastya of Pūṣan, vi. 58, 2, of Soma, ix. 98, 12; and vīra-pastya, v. 50, 4, the primitive word may very well be pastya, not pastyā. in the metaphorical sense of ‘dwelling,’ ascribed to it in the Naighaṇṭuka. 7) iii. 4, misquoted by Sāyaṇa on Rv. i. 151, 2, as applying to pastyā, whereas it really refers to pastya. In the other passages 8) Rv. i. 25, 10 = Taittirīya Saṃhitā, i. 8, 16, 1 = Maitrāyaṇī Saṃhitā, i. 6, 2; ii. 6, 12; 7, 16; iv. 4, 6 = Vājasaneyi Saṃhitā, x. 27; Rv. i. 40, 7; 164, 30 (used of Agni's home); iv. 1, 11; ix. 65, 23; x. 46, 6; Taittirīya Saṃhitā, i. 8, 12, 1 = Maitrāyaṇī Saṃhitā, ii. 6, 8 = Vājasaneyi Saṃhitā, x. 7. he thinks the word means ‘rivers’ or ‘waters’; in particular, where Soma in the middle of the Pastyās 9) Rv. ix. 65, 23. is spoken of, the sees a reference to Kurukṣetra, with its several rivers, 10) Rv. iii. 23, 4. Āpayā, Dṛṣadvatī, and Sarasvatī (cf. 2. Pastyāvant). In some passages 11) Rv. iv. 55, 3; viii. 27, 5; and in pastyāvant in ix. 97, 18. he sees in Pastyā the proper name of a stream, just as Sindhu primarily means ‘river,’ then the ‘Indus.’
 
-pastyaavant|पस्त्यावन्त्
+pastyaavant|pastyaavat|पस्त्यावत्|पस्त्यावन्त्
 1. Pastyā-vant, explained in the Pada text as Pastya-vant, occurs in several passages of the Rigveda. In two of them 1) i. 151, 2; ix. 97, 18; but the latter passage is explained by Pischel as referring to Pastyā, the river, and by Böhtlingk, Dictionary, s.v., as ‘kept in the stall.’ a rich householder seems meant, and in the two others reference to a ‘house’ is clear. 2) Barhis, Rv. ii. 11, 16, ‘of the house’; kṣayān pastyāvataḥ, iv. 54, 5, ‘abodes having (fixed) habitations.’ Cf. Pischel, Vedische Studien, 2, 212.
 
-pastyaavant|पस्त्यावन्त्
+pastyaavant|pastyaavat|पस्त्यावत्|पस्त्यावन्त्
 2. Pastyā-vant occurs in one passage of the Rigveda 1) viii. 7, 29. in the locative parallel with Suṣoma, Śaryaṇāvant, and Ārjīka. It must apparently denote a place, as Pischel 2) Vedische Studien, 2, 209. argues, probably corresponding to the locality ‘in the middle of the streams’ (madhye pastyānām), elsewhere 3) Rv. ix. 65, 23. referred to as the home of Soma. Pischel 4) Op. cit., 2, 219. suggests that Patiāla is meant, though he does not lay any stress on the similarity of name. In the north of Patiāla there are hills where the Soma might have grown. Roth 5) St. Petersburg Dictionary, s.v. 2. Max Müller, Sacred Books of the East, 32, 260, 398, 399, takes Pastyāvant as a place-name, but thinks that pastyā denotes ‘hamlet,’ or, as an epithet of Aditi, refers to her as a ‘housewife’ (Rv. iv. 55, 3; viii. 27, 5). thought that something connected with the Soma press was meant.
 
 paaMsu|पांसु
@@ -6466,7 +6469,7 @@ baaDeyiiputra|बाडेयीपुत्र
 baaNa|बाण
 बाण<BR> denotes ‘arrow’ in the Rigveda (vi. 75, 17) and later (Av. iii. 23, 2; vi. 105, 2, etc.).
 
-baaNavant|बाणवन्त्
+baaNavant|baaNavat|बाणवत्|बाणवन्त्
 बाणवन्त्<BR> in the Bṛhadāraṇyaka Upaniṣad (iii. 8, 2) denotes an ‘arrow’ like Bāṇa. Its more normal sense is ‘quiver’ (lit., ‘containing arrows’), which is its sense in the Vājasaneyi Saṃhitā (xvi. 10) and the Śatapatha Brāhmaṇa (v. 3, 1, 11). 
 
 baadaraayaNa|बादरायण
@@ -6715,7 +6718,7 @@ bharata|भरत
 bharadvaaja|भरद्वाज
 भरद्-वाज<BR> is the name of the reputed 1) Cf. Āśvalāyana Gṛhya Sūtra, iii. 4, 2; Śāṅkhāyana Gṛhya Sūtra, iv. 10; Bṛhaddevatā, v. 102 et seq., where he is said to be a son of Bṛhaspati, and a grandson of Aṅgiras (cf. Rv. vi. 2, 10; 11, 3, etc.); Arnold, Vedic Metre, 61, 62. author of the sixth Maṇḍala of the Rigveda. The attribution is so far correct that Bharadvāja 2) Rv. vi. 15, 3; 16, 5. 33; 17, 4; 31, 4; 48, 7. 13; 63, 10; 65, 6. See also Rv. i. 112, 13; 116, 18; x. 150, 5; 181, 2. and the Bharadvājas 3) Rv. vi. 10, 6; 16, 33; 17, 14; 23, 10; 25, 9; 35, 4; 47, 25; 59, 15. See also Rv. i. 59, 7. are repeatedly mentioned as singers in that Maṇḍala. Judging by the tone of the references to Bharadvāja, he can hardly be deemed to have been a contemporary of any of the hymns. 4) Oldenberg, Zeitschrift der Deutschen Morgenländischen Gesellschaft, 42, 210 212. According to the Pañcaviṃśa Brāhmaṇa, 5) xv. 3, 7. he was the Purohita of Divodāsa. This interpretation is to be preferred to that of Roth, 6) St. Petersburg Dictionary, s.v. See Rv. i. 116, 18; vi. 16, 5; 31, 4. who suggests that he and Divodāsa were identical. His connexion with the house of Divodāsa also appears from the statement of the Kāṭhaka Saṃhitā 7) xxi. 10 (Indische Studien, 3, 478). that Bharadvāja gave Pratardana the kingdom. It is unnecessary to suppose that the same Bharadvāja was meant in both cases, and that Pratardana was a son of Divodāsa: the later Saṃhitās refer to Bharadvāja, like the other great sages, irrespective of chronology. The Bharadvājas in their poems mention Bṛbu, Bṛsaya, and the Pārāvatas. 8) vi. 61, 1-3. Hillebrandt 9) Vedische Mythologie, 1, 104. has pointed out that they are also connected with the Sṛñjayas. In particular, the Śāṅkhāyana Śrauta Sūtra 10) xvi. 11, 11. mentions that Bharadvāja gained largesse from Prastoka Sārñjaya and Bṛbu. But it is very doubtful if it is correct to place all these people and Divodāsa in Arachosia and Drangiana. Bharadvāja as an author and a seer is frequently referred to in the later Saṃhitās 11) Av. ii. 12, 2; iv. 29, 5; xviii. 3, 16; xix. 48, 6; Kāṭhaka Saṃhitā, xvi. 19; xx. 9; Maitrāyaṇī Saṃhitā, ii. 7, 19; iv. 8, 4; Vājasaneyi Saṃhitā, xiii. 55, etc. and the Brāhmaṇas. 12) Aitareya Brāhmaṇa, vi. 18; viii. 3; Taittirīya Brāhmaṇa, iii. 10, 11, 13; Aitareya Āraṇyaka, i. 2, 2; 4, 2; ii. 2, 2. 4, etc.; Kauṣītaki Brāhmaṇa, xv. 1; xxix. 3; xxx. 9. Cf. Ludwig, Translation of the Rigveda, 3, 128; Weber, Episches im vedischen Ritual, 31.
 
-bharant|भरन्त्
+bharant|bharat|भरत्|भरन्त्
 भरन्त्,<BR> ‘bearing,’ in the plural denotes in one passage of the Pañcaviṃśa Brāhmaṇa, 1) xviii. 10, 8. according to Böhtlingk, 2) Dictionary, s.v. following Sāyaṇa, ‘the warrior caste,’ but the sense is not certain. Weber 3) Indische Studien, 10, 28, n. 2. Cf. Bharata, n. 17. was inclined to see a reference to the Bharatas, though the form of the word is that of the present participle. 4) Bharatām, interpreted by Sāyaṇa as bharaṇaṃ kurvatām kṣatriyāṇām.
 
 bharuujii|भरूजी
@@ -7351,7 +7354,7 @@ maathava|माथव
 maadhuki|माधुकि
 माधुकि,<BR> ‘descendant of Madhuka, is the patronymic of a teacher mentioned with disapproval in the Śatapatha Brāhmaṇa. 1) ii. 1, 4, 27. Cf. Weber, Indische Studien, 1, 434.
 
-maadhyaMdinaayana|माध्यंदिनायन
+maadhyaMdinaayana|maadhyandinaayana|माध्यंदिनायन|माध्यन्दिनायन
 माध्यंदिनायन,<BR> ‘descendant of Madhyaṃdina,’ is the patronymic of a teacher mentioned in the Kāṇva recension of the Bṛhadāraṇyaka Upaniṣad (iv. 6, 2).
 
 maadhyama|माध्यम
@@ -7510,7 +7513,7 @@ muhuurta|मुहूर्त
 muuchiipa|मूचीप
 मूचीप<BR> or Mūvīpa is the variant in the Śāṅkhāyana Śrauta Sūtra (xv. 26, 6) of the Mūtiba of the Aitareya Brāhmaṇa as the name of a barbarian tribe. Cf. Weber, Indische Studien, 10, 67, n. 1.
 
-muujavant|मूजवन्त्
+muujavant|muujavat|मूजवत्|मूजवन्त्
 मूजवन्त्<BR> is the name of a people who, along with the Mahāvṛṣas, the Gandhāris, and the Balhikas, are mentioned in the Atharvaveda 1) v. 22, 5, 7, 8. 14. Cf. Baudhāyana Śrauta Sūtra, ii. 5. as dwelling far away, and to whom fever is to be banished. Similarly in the Yajurveda Saṃhitās 2) Taittirīya Saṃhitā, i. 8, 6, 2; Kāṭhaka Saṃhitā, ix. 7; xxxvi. 14; Maitrāyaṇī Saṃhitā, i. 4, 10. 20; Vājasaneyi Saṃhitā, iii. 61; Śatapatha Brāhmaṇa, ii. 6, 2, 17. the Mūjavants are chosen as a type of distant folk, beyond which Rudra with his bow is entreated to depart. In the Rigveda 3) x. 34, 1. Soma is described as Maujavata, ‘coming from the Mūjavants,’ or, as Yāska 4) Nirukta, ix. 8. takes it, ‘from Mount Mūjavant.’ The Indian commentators 5) Mahīdhara on Vājasaneyi Saṃhitā, loc. cit.; Sāyaṇa on Rv. i. 161, 8; Baudhāyana Śrauta Sūtra and Prayoga, cited by Hillebrandt, Vedische Mythologie, 1, 63. agree with Yāska in taking Mūjavant as the name of a mountain, and though Hillebrandt 6) Op. cit., 1, 65. is justified in saying that the identification of Mūjavant by Zimmer 7) Altindisches Leben, 29. with one of the lower hills on the south-west of Kaśmīr lacks evidence, it is not reasonable to deny that Mūjavant was a hill from which the people took their name. Yāska 8) Loc. cit. Cf. Siddhānta Kaumudī on Pāṇini, iv. 4, 110, where instead of Maujavata in Rv. x. 34, 1, Mauñjavata is read. suggests that Mūjavant is equivalent to Muñjavant, which actually occurs later, in the Epic, 9) Mahābhārata, x. 785; xiv. 180. Cf. Ludwig, Translation of the Rigveda, 3, 198. as the name of a mountain in the Himālaya.
 
 muuta|मूत
@@ -7816,7 +7819,7 @@ yodha|योध
 yoShan|योषन्
 योषन्, योषणा, योषा, योषित्<BR> all denote ‘young woman,’ ‘maiden,’ as an object of affection, and as meet for wedlock. 1) Yoṣan, Rv. iv. 5, 5; Yoṣaṇā, iii. 52, 3; 56, 5; 62, 8; vii. 95, 3. etc.; Yoṣā, i. 48, 5; 92, 11; iii. 33, 10; 38, 8, etc.; Av. xii. 3, 29; xiv. 1, 56, etc.; Yoṣit, Rv. ix. 28, 4; Av. vi. 101, 1, etc. Cf. Delbrück, Die indogermanischen Verwandtschaftsnamen, 418. So these terms are often opposed in the Brāhmaṇas to Vṛṣan, ‘male,’ in the general sense of ‘female,’ 2) Śatapatha Brāhmaṇa, i. 2, 5, 15 (yoṣā), and often in the Brāhmaṇas. but they also occur in the sense of ‘wife,’ 3) Av. xii. 3, 29 (yoṣā). or ‘daughter,’ 4) So yoṣā in Rv. i. 117, 20. Cf. Zimmer, Altindisches Leben, 310. or merely ‘girl.’ 5) Śatapatha Brāhmaṇa, i. 8, 1, 7. See Strī.
 
-yaugaMdhari|यौगंधरि
+yaugaMdhari|yaugandhari|यौगंधरि|यौगन्धरि
 यौगं-धरि,<BR> ‘descendant of Yugaṃdhara,’ is the name of a king of the Sālvas in the Mantrapāṭha (ii. 11, 12).
 
 yauvana|यौवन
@@ -8617,7 +8620,7 @@ vaatapaana|वातपान
 vaatarashana|वातरशन
 वात-रशन,<BR> ‘wind-girt,’ is applied to the Munis in the Rigveda 1) x. 136, 2. and to the Ṛṣis in the Taittirīya Āraṇyaka. 2) i. 23, 2; 24, 4; ii. 7, 1. Weber, Indische Studien, 1, 78, was inclined, though without sufficient reason, to take the word as a proper name. Naked ascetics, such as are known throughout later Indian religious history, are evidently meant
 
-vaatavant|वातवन्त्
+vaatavant|vaatavat|वातवत्|वातवन्त्
 वातवन्त्<BR> is the name of a Ṛṣi in the Pañcaviṃśa Brāhmaṇa (xxv. 3, 6). He and Dṛti performed a certain Sattra or sacrificial session, but by stopping at a particular time he came to grief, and his descendants, the Vātavatas, were less prosperous than the Dārteyas.
 
 vaatavata|वातवत
@@ -8989,10 +8992,10 @@ viShaaNakaa|विषाणका
 viShaaNin|विषाणिन्
 विषाणिन्<BR> occurs once in the Rigveda 1) vii. 18, 7. as the name of a tribe in the list of the enemies of the Tṛtsus, not as Roth 2) Zur Litteratur und Geschichte des Weda, 95; Zimmer, Altindisches Leben, 126. But Zimmer, op. cit., 430, 431, altered his view, and Hopkins' criticism, overlooking this retractation, in the Journal of the American Oriental Society, 15, 260, 261, is so far unjustified. Cf. Ludwig, Translation of the Rigveda, 3, 173. thought, of their allies. The word seems to mean ‘having horns,’ but in what sense is unknown; perhaps their helmets were horn-shaped or ornamented with horns. They may, like their allies, the Alinas, Bhalānas, Śivas, and Pakthas, be reckoned as belonging to the tribes of the north-west.
 
-viShuuvant|विषूवन्त्
+viShuuvant|viShuuvat|विषूवत्|विषूवन्त्
 1. Viṣūvant denotes in the Atharvaveda 1) xi. 7, 15. and later 2) Pañcaviṃśa Brāhmaṇa, iv. 5, 2; 7, 1; v. 9, 10; Aitareya Brāhmaṇa, iii. 41, 4; iv. 18, 1; 22, 1. 2; vi. 18, 8; Kauṣītaki Brāhmaṇa, xxv. 1; xxvi. 1; Taittirīya Brāhmaṇa, i. 2, 3, 2; Satapatha Brāhmaṇa, x. 1, 2, 2; 3, 14. 23; 4, 2; 2, 1, 8, etc. the middle day in the Sattra or sacrificial session of a year's duration. Tilak 3) Orion, 21, 22. argues that the Viṣūvant literally means the day when night and daylight are equal--i.e., the equinoctial day--and that this is the true sense of the word. But the theory is without probability. ^4 Cf. Whitney, Journal of the American Oriental Society, 16, ixxxiii. et seq.
 
-viShuuvant|विषूवन्त्
+viShuuvant|viShuuvat|विषूवत्|विषूवन्त्
 2. Viṣūvant occurs in the description of the house in the Atharvaveda. 1) ix. 3, 8. The meaning seems to be tha ‘ridge of the roof.’ 2) Cf. Zimmer. Altindisches Leben, 151 (who thinks it is a metaphor from the parting of the hair); Bloomfield, Hymns of the Atharvaveda, 598; Whitney, Translation of the Atharvaveda, 526. 
 
 viShuuchikaa|विषूचिका
@@ -9073,7 +9076,7 @@ vRxya|वृक्ष्य
 vRchayaa|वृचया
 वृचया<BR> is referred to once in the Rigveda 1) i. 51, 3. Cf. Pischel, Vedische Studien, 1, 3, 203, who distinguishes two Kakṣīvants, but without sufficient reason, since i. 116, 17, must clearly refer to Vṛcayā. as the spouse given by the Aśvins to Kakṣīvant.
 
-vRchiivant|वृचीवन्त्
+vRchiivant|vRchiivat|वृचीवत्|वृचीवन्त्
 वृचीवन्त्<BR> is the name of a tribe referred to once in the Rigveda, 1) vi. 27, 5 et seq. where it is clearly stated that the Sṛñjaya king, Daivavāta, conquered the Turvaśa king and the Vṛcīvants. Zimmer 2) Altindisches Leben, 124. thinks that the Vṛcīvants and the Turvaśa people should be identified, but this is both unnecessary and improbable; it is adequate to assume that they were allied against 3) Oldenberg, Buddha, 404; Ludwig, Translation of the Rigveda, 3, 153: Hillebrandt, Vedische Mythologie, 1, 105. the Sṛñjayas. The Vṛcīvants appear again only in the strange legend in the Pañcaviṃśa Brāhmaṇa, 4) xxi. 12, 2. according to which the Jahnus and the Vṛcīvants contended for sovereignty, Viśvāmitra, the Jahnu king, winning it by his knowledge of a certain rite. See also Hariyūpīyā. 
 
 vRjana|वृजन
@@ -9142,7 +9145,7 @@ vetasa|वेतस
 vetasu|वेतसु
 वेतसु<BR> is a name occurring in the singular in two passages of the Rigveda 1) vi. 20, 8; 26, 4. and once in the plural. 2) x. 49, 4. It seems that he was defeated by Indra, but there is no reason to assume that he was a demon. Zimmer 3) Altindisches Leben, 128. Cf. Kaegi, Die Rigveda, n. 337. Cf. Oldenberg, Zeitschrift der Deutschen Morgenländischen Gesellschaft, 55, 328. thinks that the Vetasus were probably the tribe of which Daśadyu was a member, and that they defeated the Tugras. The passages are too obscure to render any version probable. 
 
-vetasvant|वेतस्वन्त्
+vetasvant|vetasvat|वेतस्वत्|वेतस्वन्त्
 वेतस्वन्त्,<BR> ‘abounding in reeds,’ is the name of a place in the Pañcaviṃśa Brāhmaṇa, 1) xxi. 14, 20. not, as Weber 2) Indische Studien, 1, 32. Cf. Hopkins, Transactions of the Connecticut Academy of Arts and Sciences, 15, 69. once took it, a part of the name of Ekayāvan Gāṃdama.
 
 veda|वेद
@@ -9271,7 +9274,7 @@ vairuupa|वैरूप
 vaishanta|वैशन्त
 वैशन्त<BR> is the name in the Rigveda 1) vii. 33, 2. of a prince whose offering Indra is said to have deserted for that of Sudās through the aid of the Vasiṣṭhas. Ludwig 2) Translation of the Rigveda, 3, 173. thinks that the name is Veśanta, and that he was a priest of the Pṛthu-Parśus; Griffith 3) Hymns of the Rigveda, 2, 24, n. Cf. Geldner, Vedische Studien, 2, 130. says that probably a river is meant, but neither of these views is plausible.
 
-vaishaMpaayana|वैशंपायन
+vaishaMpaayana|vaishampaayana|वैशंपायन|वैशम्पायन
 वैशंपायन,<BR> ‘descendant of Viśaṃpa,’ is the name of a teacher, famous later, but in the earlier Vedic literature known only to the Taittirīya Āraṇyaka (i. 7, 5) and the Gṛhya Sūtras.
 
 vaishaaleya|वैशालेय
@@ -9436,7 +9439,7 @@ shaNGkhadhama|शङ्खधम
 shangashaaTyaayani|शङ्गशाट्यायनि
 शङ्ग शाट्यायनि<BR> (‘descendant of Śāṭyāyana’) Ātreya (‘descendant of Atri’) is the name of a teacher, a pupil of Nagarin, in the Jaiminīya Upaniṣad Brāhmaṇa (iii. 40, 1).
 
-shachiivant|शचीवन्त्
+shachiivant|shachiivat|शचीवत्|शचीवन्त्
 शचीवन्त्<BR> is apparently the name of a man in one passage of the Rigveda, 1) x. 74. 5. where the vocative Śacīvaḥ occurs. But Roth 2) St. Petersburg Dictionary, s.v. Cf. Ludwig, Translation of the Rigveda, 3, 108; Griffith, Hymns of the Rigveda, 2, 489, n. perfers to read Śacī ca instead.
 
 shaNa|शण
@@ -9577,7 +9580,7 @@ shardhya|शर्ध्य
 sharya|शर्य
 शर्य,<BR> 1) i. 119, 10, where the sense is not certain. Śaryā, 2) i. 148, 4; x. 178, 3. Cf. Nirukta v. 4; x. 29. seem in the Rigveda to denote an ‘arrow.’ 3) As derived from 1. Śara, and meaning literally ‘made from a reed.’ Perhaps, also, Śaryā 4) Rv. ix. 110, 5; x. 61, 3. and Śarya 5) Rv. ix. 14, 4; 68, 2. (neut.) mean the ‘wicker work’ in the Soma sieve, but the exact sense of the passages is doubtful. 6) Hillebrandt; Vedische Mythologie, 1, 52, takes śaryāṇi in Rv. ix. 68, 2, as denoting the outer husk of the Soma plant. See also Geldner, Vedische Studien, 2, 255, n. 1.
 
-sharyaNaavant|शर्यणावन्त्
+sharyaNaavant|sharyaNaavat|शर्यणावत्|शर्यणावन्त्
 शर्यणावन्त्<BR> occurs in several passages of the Rigveda, 1) i. 84, 14; viii. 6, 39; 7, 29; 64, 11; ix. 65, 22; 113, 1; x. 35, 2. See Jaiminīya Brāhmaṇa, iii. 64 (Journal of the American Oriental Society, 18, 17); Śāṭyāyanaka in Sāyaṇa on Rv. i. 84, 13. in all of which Sāyaṇa sees a local name. According to his account, Śaryaṇāḥ (masc. plur.) is a district in Kurukṣetra, Śaryaṇāvant being a lake not far from it in the back part (jaghanārdhe) of Kurukṣetra. The unusual consistency of his statements on this point is in favour of the word being a place name; it is also to be noted that Kurukṣetra contained the lake Anyataḥplakṣā. Roth, 2) St. Petersburg Dictionary, s.v. however, thought that in two passages 3) i. 84, 14; x. 35, 2. the word denoted merely a ‘lake,’ literally ‘(water) covered with a thicket of reeds’ (śaryaṇa), and in the others a Soma vessel. Zimmer 4) Altindisches Leben, 19, 20. inclines to this rendering. On the other hand, Pischel 5) Vedische Studien, 2, 217. So Max Müller, Sacred Books of the East, 32, 398, 399. accepts Sāyaṇa's view. Hillebrandt 6) Vedische Mythologie, 1, 126, et seq. also sees in the word a place name, but he is inclined to locate it among the ‘five tribes,’ 7) This is deduced, not with any certainty, from Rv. ix. 65, 22. which is not quite inconsistent with its being in Kurukṣetra, for the connexion of the Pūrus with the later Kurus is known; 8) Hillebrandt, op. cit., 1, 142, n. 4, Ludwig, Translation of the Rigveda, 3, 205. or perhaps, he suggests, Śaryaṇāvant is an old name for the Wular sea of Kaśmīr, which was only a reminiscence in Vedic times. This is not probable; still less so is Ludwig's hypothesis 9) Op. cit., 3, 201. that the Śaryaṇāvant is the later eastern Sarasvatī. Bergaigne 10) Religion Védique, 1, 206. regards the name as that of a celestial preparer of Soma.
 
 sharyaata|शर्यात
@@ -9913,7 +9916,7 @@ shukrajaabaala|शुक्रजाबाल
 shukla|शुक्ल
 शुक्ल<BR> See Yajus.
 
-shukladant|शुक्लदन्त्
+shukladant|shukladat|शुक्लदत्|शुक्लदन्त्
 शुक्ल-दन्त्,<BR> ‘white-tusked,’ is applied as an epithet to Mṛga, ‘wild beast,’ in the Aitareya Brāhmaṇa (viii. 23, 3). ‘Elephants’ must be meant.
 
 shucha|शुच
@@ -10291,10 +10294,10 @@ saMgava|संगव
 saMgavinii|संगविनी
 सं-गविनी<BR> is found in the Aitareya Brāhmaṇa, 1) iii. 18, 14. Cf. Geldner, Vedische Studien, 3, 112, 113; Zimmer, Altindisches Leben, 362. where it is said that the animals of the Bharatas in the evening were at the Goṣṭha, ‘pasture,’ but at midday came to the Saṃgavinī, apparently a shed or an enclosure in which during the heat of the day they were milked.
 
-saMgrahiitR|संग्रहीतृ
+saMgrahiitR|sangrahiitR|संग्रहीतृ|सङ्ग्रहीतृ
 सं-ग्रहीतृ<BR> is found in the later Saṃhitās 1) Taittirīya Saṃhitā, i. 8, 9, 2; Kāṭhaka Saṃhitā, xv. 4; Maitrāyaṇī Saṃhitā, ii. 6, 5; iv. 3, 8 (as a Ratnin) in the Śatarudriya in the plural Taittirīya Saṃhitā, iv. 5, 4, 2; Kāṭhaka Saṃhitā, xvii. 13; Maitrāyaṇī Saṃhitā, ii. 9, 4; Vājasaneyi Saṃhitā, xvi. 26. and the Brāhmaṇas. 2) Taittirīya Brāhmaṇa, i. 7, 3, 5; 9, 6; iii. 8, 5, 3; Aitareya Brāhmaṇa, ii, 25, 6. Śatapatha Brāhmaṇa, v. 3, 1, 8; 4, 3, 23. He is an official who figures among the Ratnins of the king. The sense of ‘charioteer’ seems adequate for every passage, but Sāyaṇa 3) on Taittirīya Saṃhitā, i. 8, 9, 2, and optionally on i. 8, 16; but as charioteer on i. 8, 15; Taittirīya Brāhmaṇa, i. 7, 10, 6. Cf. Eggeling, Sacred Books of the East, 41, 63, n. 1. in some passages inclines to think that the meaning is ‘treasurer’ of the king.
 
-saMgraama|संग्राम
+saMgraama|sangraama|संग्राम|सङ्ग्राम
 सं-ग्राम<BR> denotes primarily, it seems, ‘assembly’ either in peace 1) Av. xii. 1, 56, where it is joined with Samiti. We might see in this passage, and that cited in n. 2, the technical name of the village assembly as opposed to the larger assemblies of the people, but there is no good warrant for so doing. or in war, 2) Av. iv. 24, 7, where saṃgrāmān is read; but the parallel passages (Taittirīya Saṃhitā, iv. 7, 15, 2; Maitrāyaṇī Saṃhitā, iii. 16, 5) have saṃgrāmani. when it means an ‘armed band.’ Its normal sense in the Atharvaveda 3) v. 21, 7; xi. 9, 26. and later 4) Taittirīya Samhitā, ii. 1, 3, 1; 8, 4, etc. is ‘war,’ ‘battle.’ Little is known of Vedic warfare, but it seems to have been simple. A body of foot soldiers with charioteers composed every army, the two going together, 5) Rv. ii. 12, 8. and the foot soldiers being often overthrown by the charioteers, 6) Av. vii. 62, 1. Cf. Muṣṭihan who were doubtless the Kṣatriyas and their foremost retainers. Probably the foot soldiers bore little armour, and used only the bow for offence, as is suggested by the account that Herodotus gives of the Indian contingent of the army with which Xerxes invaded Greece. 7) Herodotus, vii. 65. The nobles, on the other hand, may have had cuirass (Varman), helmet (Śiprā), and hand-guard (Hastaghna) as a protection from the friction of the bowstring. On the car was the charioteer, and on his left the warrior (Sārathi, Savyaṣṭhā). Riding is never mentioned in war, 8) Zimmer, Altindisches Leben, 296, where he admits riding to be mentioned elsewhere; Whitney, Journal of the American Oriental Society, 3, 312. and would hardly have been suited to Vedic ideas, for the warrior mainly depended on his bow, which he could not have used effectively from horseback. The offensive weapon (Āyudha) was practically the bow; spear and sword and axe were very seldom used. Whether there was a strict tribal organization of the host, such as is once alluded to in the Homeric poems, 9) Ibid, ii. 362. and is also recognized in Germany by Tacitus, 10) Germania, 7. is uncertain (cf. Vrāta), but in the Epic relations (Jñāti) fight together, 11) Hopkins, Journal of the American Oriental Society, 13, 193. and this rule, no doubt, applied more or less in Vedic times also. Cities were besieged and invested (upa-sad, pra-bhid), 12) Cf. Taittirīya Saṃhitā, vi. 2, 3, 1; Śatapatha Brāhmaṇa, iii. 4, 4, 3-5; Aitareya Brāhmaṇa, i. 23, 2, etc.; Gopatha Brāhmaṇa, ii. 2, 7; Hillebrandt, Vedische Mythologie, 1, 300, n. probably as a rule by blockade, since the ineffective means of assault of the time would have rendered storming difficult and expensive. Hillebrandt 13) Op. cit. 3, 289, n. thinks that the pur cariṣṇū of the Rigveda 14) viii. 1, 2-8, where it is attributed to the demon Śuṣṇa. was a kind of chariot; it may--like the Trojan horse--have been an Indian anticipation of the Roman means of assaulting a town. Besides ordinary wars of defence and conquest, raids into neighbouring territory seem to have been frequent and normal, 15) Cf. Rv. x. 142, 4, as interpreted by Sāyaṇa and by Hillebrandt, op. cit., 2, 64, n. 5; Taittirīya Brāhmaṇa, i. 8, 4, 1 (of the model Kuru kings). no doubt because of the booty (Udāja, Nirāja) which was to be won, and which the king had to share with the people. Banners (Dhvaja) were borne in war, and musical instruments (Dundubhi, Bakura) 16) So, later, Arrian, Indica, vii. 9. The shouts of either side are shown in the word krandas (Rv. ii. 12, 8; cf. vi. 25, 6; x. 121, 6), which came to mean the ‘shouting host.’ Cf. also Tacitus, Germania, 2. Cf. Muir, Sanskrit Texts, 5, 469472; Weber, Proceedings of the Berlin Academy, 1898, 564; Zimmer, Altindisches Leben, 293-301. See also Iṣu, Dhanvan, Ratha. Hopkins, Journal of the American Oriental Society, 13, 281 et seq., gives a full account of the later Epic armour and warfare. See also his note, ibid., 15, 265, 266. For sacrifice in battle, cf. Purohita. were used by the combatants.
 
 saMghaata|संघात
@@ -10306,7 +10309,7 @@ sachiva|सचिव
 sajaata|सजात
 स-जात<BR> (‘born together’) is found once in the Rigveda, 1) i. 109, 1. and very often later. 2) Av. i. 9, 3; 19, 3; ii. 6, 4; iii. 3, 6; vi. 5, 2; 73, 1; xi. 1, 6, 7; Taittirīya Saṃhitā, ii. 1, 3, 2; 2, 1, 2; 6, 9, 7; Maitrāyaṇī Saṃhitā, ii. 1, 8; Kāṭhaka Saṃhitā, xi. 12, 13; xii. 1; Vājasaneyi Saṃhitā, v. 23; x. 29; xxvii. 5, and often in the Brāhmaṇas. The word must clearly mean a ‘relative,’ and then more widely a man of the same position or rank, but the senses cannot be distinguished, so much do they merge into each other. The Sajātas of a king are of course princes; 3) Av. iii. 3, 4. 6; Weber, Indische Studien, 17, 188. of an ordinary man, Vaiśyas; 4) Śatapatha Brāhmaṇa, v. 4, 4, 19 (the Sajātas of a Grāmaṇī). of a military man, Kṣatriyas. But there is no clear reference to caste as in the later Sajāti 5) Manu, ix. 87; x. 41, etc. The abstract sajātya (‘kinship’) is found in Rv. ii. 1, 5; iii. 54, 16; viii. 18, 19; 20, 21; 27, 10; x. 64, 13; but even it has no definite caste reference. (‘man of the same caste’). The disputes of Sajātas were notorious. 6) Cf. Taittirīya Brāhmaṇa, iii. 7, 12, 2.
 
-saMchara|संचर
+saMchara|sancara|संचर|सञ्चर
 सं-चर<BR> in the Taittirīya Saṃhitā 1) v. 4, 3, 5. has the sense of the ‘path’ of animals. Normally it is the term designating the ‘passage’ or ‘space’ on the sacrificial ground used or occupied by the several persons taking part in the rite. 2) Śatapatha Brāhmaṇa, i. 9, 2, 4; iii. 1, 3, 28; Lāṭyāyana Śrauta Sūtra, iii. 7, 11; Kātyāyana Śrauta Sūtra, i. 3, 42, etc.
 
 saMJNaana|संज्ञान
@@ -10339,7 +10342,7 @@ satyaadhivaakachaitrarathi|सत्याधिवाकचैत्ररथ�
 satvan|सत्वन्
 सत्वन्<BR> in the Rigveda, 1) i. 133, 6; 173, 5; ii. 25, 4; 30, 10; iii. 49, 2, etc. and occasionally later, 2) v. 20, 8; vi. 65, 3; Vājasaneyi Saṃhitā, xvi. 8. 20, etc. has the sense of ‘warrior.’
 
-satvant|सत्वन्त्
+satvant|satvat|सत्वत्|सत्वन्त्
 सत्वन्त्<BR> is the name of a people who are stated in the Aitareya Brāhmaṇa 1) viii. 14, 3. to belong to the south. In the Śatapatha Brāhmaṇa 2) xiii. 5, 4, 21. the defeat by Bharata of the Satvants, and his taking away the horse which they had prepared for an Aśvamedha (‘horse sacrifice’), are referred to: this reference clearly shows that in another passage of the Aitareya Brāhmaṇa 3) ii. 25, 6. the text must be altered from satvanām to Satvatām, ‘of the Satvants,’ against whom it seems the Bharatas made regular raids. The name has also been found by the St. Petersburg Dictionary, Cowell, and Max Müller in the Kauṣītaki Upaniṣad, 4) iv. 1. but it is certain 5) Oldenberg, Buddha, 393, n., correcting Max Müller, Sacred Books of the East, 1, lxxvii. Cf. Weber, Indische Studien, 1, 211, 212, 419; 9, 254; Keith, Journal of the Royal Asiatic Society, 1908, 367. that the reading there is not Satvan-Matsyeṣu, but sa-Vaśa-Matsyeṣu.
 
 sadana|सदन
@@ -10390,19 +10393,19 @@ sanaaru|सनारु
 sanisrasa|सनिस्रस
 सनिस्रस<BR> See Māsa.
 
-saMdaMsha|संदंश
+saMdaMsha|sandaMsha|संदंश|सन्दंश
 सं-दंश<BR> See Gṛha.
 
-saMdaana|संदान
+saMdaana|sandaana|संदान|सन्दान
 सं-दान<BR> in the Rigveda 1) i. 162, 8. 16. and later 2) Av. vi. 103, 1; 104, 1; xi. 9, 3; Taittirīya Saṃhitā, ii. 4, 7, 2; Sata patha Brāhmaṇa, xiv. 3, 1, 22, etc. denotes a ‘bond,’ ‘halter,’ or ‘fetter.’
 
-saMdhaa|संधा
+saMdhaa|sandhaa|संधा|सन्धा
 सं-धा<BR> denotes in the later Saṃhitās and the Brāhmaṇas 1) Av. xi. 10, 9, 15; Taittirīya Saṃhitā, i. 7, 8, 4; Taittirīya Brāhmaṇa, i. 7, 1, 6; ii. 1, 1, 3; Kauṣītaki Upaniṣad, iii. 1. an ‘agreement’ or ‘compact.’
 
 saMdhi|संधि
 सं-धि<BR> denotes the ‘juncture’ of heaven and earth, the ‘horizon,’ in the Śatapatha Brāhmaṇa. 1) iii. 2, 1, 5; x. 5, 4, 2. It also has the sense of ‘twilight’ 2) Vājasaneyi Saṃhitā, xxiv. 25; Taittirīya Brāhmaṇa, i. 4, 5, 1; ii. 2, 9, 8; dual; Śatapatha Brāhmaṇa, i. 6, 3, 55; ix. 4, 4, 13, etc. The later term is Saṃdhyā. as the juncture of light and dark.
 
-saMnahana|संनहन
+saMnahana|sannahana|संनहन|सन्नहन
 सं-नहन<BR> in the later Saṃhitās and the Brāhmaṇas 1) Taittirīya Saṃhitā, i. 1, 2, 2; Śatapatha Brāhmaṇa, i. 3, 3, 6; ii. 6, 1, 15, etc. denotes a ‘band’ or ‘rope.’ 
 
 sapatna|सपत्न
@@ -10774,7 +10777,7 @@ suchittashailana|सुचित्तशैलन
 sujaata|सुजात
 सु-जात,<BR> ‘well-born,’ is an epithet found applied to men in a few passages of the Rigveda. It would probably be a mistake to press the sense so as to denote ‘nobles’ as compared with the people. See Sabhā. ^1 ii. 2, 11; v. 6, 2; vii. 1, 4. 15; viii. 20, 8.
 
-sutaMbhara|सुतंभर
+sutaMbhara|sutambhara|सुतंभर|सुतम्भर
 सुतं-भर<BR> is credited by the Anukramaṇī (Index) with the authorship of certain hymns of the Rigveda. 1) v. 11-14. The word does not occur in those hymns, but it appears as an adjective (‘carrying away Soma’) elsewhere, 2) v. 44, 13. and may, in a second passage, 3) ix. 6, 6. by a conjecture 4) If sutaṃ-bharāya be read for sutdṃ bhárāya, as Roth suggests in the St. Petersburg Dictionary, s.v. be taken as a man's name.
 
 sutvankairishibhaargaayaNa|सुत्वन्कैरिशिभार्गायण
@@ -11416,7 +11419,7 @@ hitaa|हिता
 hima|हिम
 हिम,<BR> denoting ‘cold,’ ‘cold weather,’ is quite common in the Rigveda, 1) i. 116, 8; 119, 6; viii. 32, 26, etc. but less frequent later. 2) Av. vii. 18, 2; xiii. 1, 46; xix. 49, 5 (night as mother of coolness), etc. As ‘snow’ the word appears as a masculine in the Taittirīya Brāhmaṇa, 3) iii. 12, 7, 2. and often later as a neuter. 4) Saḍviṃśa Brāhmaṇa, vi. 9, etc. Cf. Hillebrandt, Vedische Mythologie, 3, 192-195. Cf. Hemanta.
 
-himavant|हिमवन्त्
+himavant|himavat|हिमवत्|हिमवन्त्
 हिमवन्त्,<BR> ‘snowy,’ appears as an epithet of mountains in the Atharvaveda. 1) xii. 1, 11. It is also used both there 2) vi. 95, 3. See also iv. 9, 9; v. 4, 2. 8; 25. 7; vi. 24, 1 (where reference is made to the rivers of the Himālayas); xix. 39, 1. and in the Rigveda, 3) x. 121, 4. as well as later, 4) Taittirīya Saṃhitā, v. 5, 11, 1; Vājasaneyi Saṃhitā, xxiv. 30; xxv. 12; Aitareya Brāhmaṇa, viii. 14, 3 (the Uttara Kurus and Uttara Madras live beyond it; perhaps in Kaśmīr), etc. as a noun. There seems no reasen to deny that in all the passages the word refers vaguely to the mountains now called Himālaya, though it is possible that the name may include mountains not strictly in that system, like the Suleiman hills. 5) Ludwig, Translation of the Rigveda, 3, 198. Cf. Zimmer, Altindisches Leven, 29; Weber, Indische Studien, 18, 12, who inclines to see a reminiscence of the Caucasus. See also Mūjavant and Trikakubh. 
 
 himaa|हिमा
@@ -11437,7 +11440,7 @@ hiraNyakashipu|हिरण्यकशिपु
 hiraNyakaara|हिरण्यकार
 हिरण्य-कार<BR> denotes a ‘worker in gold’ mentioned in the list of victims at the Puruṣamedha (‘human sacrifice’) in the Yajurveda. 1) Vājasaneyi Saṃhitā, xxx. 17; Taittirīya Brāhmaṇa, iii. 4, 14, 1. 
 
-hiraNyadant|हिरण्यदन्त्
+hiraNyadant|hiraNyadat|हिरण्यदत्|हिरण्यदन्त्
 हिरण्य-दन्त्<BR> (‘gold-toothed’) Vaida (‘descendant of Veda’) is the name of a teacher in the Aitareya Brāhmaṇa (iii. 6, 3) and the Aitareya Āraṇyaka (ii. 1, 5). The name presumably refers to the use of gold to stop the teeth; see Dant.
 
 hiraNyanaabha|हिरण्यनाभ

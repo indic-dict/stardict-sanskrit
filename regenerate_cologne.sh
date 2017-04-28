@@ -29,6 +29,6 @@ make DICTS='vAchaspatyam-sa'
 cd ../../en-head
 make DICTS='borooah'
 make DICTS='mw-english-sanskrit'
-cd ../../sa-kAvya
+cd ../sa-kAvya
 make DICTS='index-names-mahabharata'
 
