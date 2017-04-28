@@ -5,6 +5,7 @@ import java.io.{File, PrintWriter}
 import org.slf4j.LoggerFactory
 import sanskritnlp.dictionary.BabylonDictionary
 import sanskritnlp.transliteration.{iast, transliterator}
+import sanskritnlp.vyAkaraNa.devanAgarI
 
 import scala.collection.mutable
 import scala.io.Source
@@ -217,7 +218,8 @@ object babylonProcessor extends BatchProcessor{
 
   def getDevanagariOptitransFromIastIfIndic(file_pattern: String = ".*", baseDir: String = ".", indicWordSet: mutable.HashSet[String] = mutable.HashSet[String]()) = {
     log info "=======================Adding optitrans headwords, making final babylon file."
-    def isIndic(word: String) = indicWordSet.contains(word) || iast.isEncoding(word)
+    val indicWordSetDev = indicWordSet.filter(devanAgarI.isEncoding)
+    def isIndic(word: String) = indicWordSetDev.contains(iast.fromDevanagari(word)) || iast.isEncoding(word)
     def transliterateIfIndic(x: String, destSchema: String) = if(isIndic(x)) {
       transliterator.transliterate(x, "iast", destSchema)
     } else {
