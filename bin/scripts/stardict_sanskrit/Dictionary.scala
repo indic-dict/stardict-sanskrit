@@ -189,11 +189,13 @@ object babylonProcessor extends BatchProcessor{
     fixHeadwordsInFinalFile(file_pattern=file_pattern, baseDir=baseDir, headwordTransformer=headwordTransformer)
   }
 
-  def getWordListFromDicts(basePaths: List[String]): mutable.HashSet[String] = {
+  def getWordListFromDicts(basePaths: Seq[String], wordPattern: String = "(\\p{IsDevanagari})+"): mutable.HashSet[String] = {
     val words = mutable.HashSet[String]()
     val babylonFiles = basePaths.flatMap(basePath => getRecursiveListOfFiles(new File(basePath))).
       filter(_.getName.matches(".*\\.babylon(_final)?"))
-    val babylonDicts = babylonFiles.map(x => {
+    log info s"Got ${babylonFiles.length} babylon files."
+    val babylonFinalFiles = babylonFiles.filter(x => x.getName.matches(".*\\.babylon_final")) // || !new File(x.getParentFile.get + "_final").exists())
+    val babylonDicts = babylonFinalFiles.map(x => {
       val dict = new BabylonDictionary(name_in = x.getName, head_language = "")
       dict.fromFile(x.getCanonicalPath)
       dict
@@ -202,10 +204,23 @@ object babylonProcessor extends BatchProcessor{
 
     babylonDicts.foreach(dict => {
       dict.makeWordToLocationMap()
-      words ++= dict.getWords
+      words ++= dict.getWords.filter(_.matches(wordPattern))
     })
     log info s"Got ${words.size} words"
     return words
+  }
+
+  def dumpWordList(basePaths: Seq[String], wordPattern: String = "(\\p{IsDevanagari})+", outFilePath: String) = {
+    val words = getWordListFromDicts(basePaths, wordPattern)
+    log info s"Got ${words.size} words"
+    log info s"Dumping to ${outFilePath} "
+    val outFileObj = new File(outFilePath)
+    new File(outFileObj.getParent).mkdirs
+    val destination = new PrintWriter(outFileObj)
+    words.toList.sorted.foreach(word => {
+      destination.println(word)
+    })
+    destination.close()
   }
 
   def getDevanagariOptitransFromIast(file_pattern: String = ".*", baseDir: String = ".") = {
@@ -245,11 +260,12 @@ object babylonProcessor extends BatchProcessor{
   def main(args: Array[String]): Unit = {
     val dictPattern = ".*"
     val workingDirInit = System.getProperty("user.dir")
-    var workingDir = "/home/vvasuki/stardict-pali/pali-en-head/"
+    var workingDir = "/home/vvasuki/stardict-sanskrit/"
     System.setProperty("user.dir", workingDir)
+    dumpWordList(basePaths=List(workingDir), outFilePath=s"${workingDir}words.txt")
     // stripNonOptitransHeadwords(dictPattern, workingDir)
     // getDevanagariOptitransFromIast(dictPattern, workingDir)
-    getDevanagariOptitransFromIastIfIndic(dictPattern, workingDir, getWordListFromDicts(List("/home/vvasuki/stardict-pali/pali-head/")))
+//    getDevanagariOptitransFromIastIfIndic(dictPattern, workingDir, getWordListFromDicts(List("/home/vvasuki/stardict-pali/pali-head/")))
     // addOptitrans(dir)
     // makeStardict(dir, "/home/vvasuki/stardict/tools/src/babylon")
   }
