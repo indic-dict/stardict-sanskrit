@@ -4,6 +4,8 @@ Options:
 * Just download and extract [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)
 * `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git`
 
+## Dictionary program recommendations and download help for mobile devices
+* <https://sites.google.com/site/sanskritcode/dictionaries>
 
 # Developer instructions
 ## Initial  setup.
