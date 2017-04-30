@@ -18,6 +18,7 @@ tarlist:
 	make -C sa-kAvya tarlist
 	make -C sa-vyAkaraNa tarlist
 
+mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
 tarall:
 	bash bin/tar_all_dicts.sh $(current_dir)
