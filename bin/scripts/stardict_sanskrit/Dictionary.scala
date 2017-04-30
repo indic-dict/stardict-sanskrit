@@ -332,7 +332,7 @@ object tarProcessor extends BatchProcessor {
     targetTarFile.getParentFile.mkdirs
     //
     val filesToCompress = dictDirFiles.flatMap(_.listFiles.map(_.getCanonicalPath).filter(x => x.matches(filePatternToTar)))
-    val command = s"tar --transform s,${targetTarFile.getParent.replaceFirst("/", "")},,g -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}"
+    val command = s"tar --transform s,${basePaths.map(_.replaceFirst("/", "")).mkString("|")},,g -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}"
     log info command
     command.!
   }

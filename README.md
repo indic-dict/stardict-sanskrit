@@ -1,7 +1,9 @@
 # User instructions
-## I just want to grab latest files for stardict
+## Grab latest files to use for with my stardict compatible program.
+Options:
+* Just download and extract [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)
+* `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git`
 
-`git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git`
 
 # Developer instructions
 ## Initial  setup.
@@ -32,6 +34,9 @@ With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
   * Reason why this is preferred:
     * Helps track dictionary popularity and downloads (see [this issue](https://github.com/sanskrit-coders/stardict-dictionary-updater/issues/12) ).
     * This is likely to result in fewer download problems as downloading from release rather than "raw" might be more robust.
+* Update the all_dicts file.
+  * Compress all the necessary files with `make tarall` invoked in the root directory.
+  * Upload to archive (example: [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)).
 
 ### To force update dictionary files
 Sometimes the above may fail due to the script being fooled by the timestamps into thinking that no updates are required. To force updates in such cases (With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example):
