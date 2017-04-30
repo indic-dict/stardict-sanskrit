@@ -18,3 +18,7 @@ tarlist:
 	make -C sa-kAvya tarlist
 	make -C sa-vyAkaraNa tarlist
 
+current_dir = $(shell pwd)
+tarall:
+	bash bin/tar_all_dicts.sh $(current_dir)
+
