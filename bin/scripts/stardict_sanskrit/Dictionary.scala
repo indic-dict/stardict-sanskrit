@@ -91,14 +91,14 @@ class Dictionary(val name: String) {
     tarFile.isDefined && tarFile.get.getName.matches(s".*/?${getExpectedTarFileName(sizeMbString = ".*")}")
   }
 
-  def makeTar = {
+  def makeTar(filePatternToTar: String) = {
     if (tarFile.isDefined) {
       log info "Deleting " + tarFile.get.getAbsolutePath
       tarFile.get.delete()
     }
     val targetTarFile = new File(getTarDirFile.getCanonicalPath, getExpectedTarFileName())
     targetTarFile.getParentFile.mkdirs
-    val filesToCompress = dirFile.listFiles.map(_.getCanonicalPath).filter(x => x.matches(".*\\.ifo|.*\\.idx|.*\\.dz|.*\\.ifo|.*\\.syn"))
+    val filesToCompress = dirFile.listFiles.map(_.getCanonicalPath).filter(x => x.matches(filePatternToTar))
     val command = s"tar --transform s/.*\\///g -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}"
     log info command
     command.!
@@ -282,6 +282,7 @@ object babylonProcessor extends BatchProcessor{
 }
 
 object tarProcessor extends BatchProcessor {
+  val filePatternToTar = ".*\\.ifo|.*\\.idx|.*\\.dz|.*\\.ifo|.*\\.syn|.*LICENSE\\.*"
   def writeTarsList(tarDestination: String, urlBase: String) = {
     val outFileObj = new File(tarDestination + "/tars.MD")
     outFileObj.getParentFile.mkdirs
@@ -317,12 +318,25 @@ object tarProcessor extends BatchProcessor {
 
 
     log info(s"got ${dictionaries.length} dictionaries which need to be updated.")
-    dictionaries.foreach(_.makeTar)
+    dictionaries.foreach(_.makeTar(filePatternToTar))
 
     if (dictionaries.nonEmpty) {
       writeTarsList(dictionaries.head.getTarDirFile.getCanonicalPath, urlBase)
     }
   }
+
+  def compressAllDicts(basePaths: Seq[String], tarFilePath: String) = {
+    val dictDirFiles = basePaths.flatMap(basePath => getRecursiveListOfFiles(new File(basePath))).
+      filter(_.getName.matches(".*\\.ifo")).map(_.getParentFile)
+    val targetTarFile = new File(tarFilePath)
+    targetTarFile.getParentFile.mkdirs
+    //
+    val filesToCompress = dictDirFiles.flatMap(_.listFiles.map(_.getCanonicalPath).filter(x => x.matches(filePatternToTar)))
+    val command = s"tar --transform s,${targetTarFile.getParent.replaceFirst("/", "")},,g -czf ${targetTarFile.getCanonicalPath} ${filesToCompress.mkString(" ")}"
+    log info command
+    command.!
+  }
+
 
   def getStats() = {
     val indexIndexorum = "https://raw.githubusercontent.com/sanskrit-coders/stardict-dictionary-updater/master/dictionaryIndices.md"
@@ -340,6 +354,8 @@ object tarProcessor extends BatchProcessor {
   }
 
   def main(args: Array[String]): Unit = {
+    var workingDir = "/home/vvasuki/stardict-sanskrit/"
+    compressAllDicts(List(workingDir), workingDir + "all_dicts.tar.gz")
     //    makeTars("https://github.com/sanskrit-coders/stardict-telugu/raw/master/en-head/tars", dir)
     //    getStats
   }
