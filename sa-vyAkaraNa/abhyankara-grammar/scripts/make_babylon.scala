@@ -9,8 +9,8 @@ import scala.io.Source
 
 val log = LoggerFactory.getLogger("abhyankarabot")
 
-val infileStr = "/home/vvasuki/stardict-sanskrit/sa-vyAkaraNa/abhyankara-grammar/abhyankara-grammar.txt"
-val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-vyAkaraNa/abhyankara-grammar/abhyankara-grammar.babylon"
+val infileStr = "/home/vvasuki/stardict-sanskrit/sa-sanskritnlp.vyAkaraNa.vyAkaraNa/abhyankara-grammar/abhyankara-grammar.txt"
+val outfileStr = "/home/vvasuki/stardict-sanskrit/sa-sanskritnlp.vyAkaraNa.vyAkaraNa/abhyankara-grammar/abhyankara-grammar.babylon"
 val src = Source.fromFile(infileStr, "utf8")
 val outFileObj = new File(outfileStr)
 new File(outFileObj.getParent).mkdirs
