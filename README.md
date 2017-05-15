@@ -1,4 +1,4 @@
-# User instructions
+# Dictionary user instructions
 ## Grab latest files to use for with my stardict compatible program.
 Options:
 * Just download and extract [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)
@@ -7,11 +7,10 @@ Options:
 ## Dictionary program recommendations and download help for mobile devices
 * <https://sites.google.com/site/sanskritcode/dictionaries>
 
-# Developer instructions
+# Dictionary developer instructions
 ## Initial  setup.
 * Extract the latest stardict tools package (<https://sourceforge.net/projects/stardict-4/files/3.0.1/stardict-tools-3.0.1.tar.bz2/download>) in ~/stardict/tools directory. Then do `cd stardict/tools` and build it (Run `./configure` and `make` as described in the INSTALL file in the directory - but don't remove the compiled binaries from the src directory.).
   * A shortcut if you are running Linux on a 64 bit computer: Just `git clone --depth 1 https://github.com/sanskrit-coders/stardict` in your home directory.
-* Clone <https://github.com/sanskrit-coders/sanskritnlpjava> in your home directory.
 * Clone this repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git` to get just the latest files.)
 
 ## Update dictionary files
@@ -53,4 +52,29 @@ Recipe to convert decompiled en-head dictionaries from ajita to sa-head dictiona
 
 ## Cologne to babylon convertor
 https://github.com/sanskrit-lexicon/cologne-stardict - make_babylon.py is the workhorse.
+
+# Dictionary and packaging software developer instructions
+## Update /bin used by dictionary users
+Use intellij to generate the bin/artifacts/stardict-sanskrit.jar artifact, which is used by dictionary developers during packaging. 
+
+## Deployment
+* Regarding **maven targets**:
+  * You can set up a maven goal in intellij as well.
+  * In intellij: Don't be fooled by weird messages in the Run widget - look at the messages widget.
+
+## Releasing to maven.
+* *TODO*: This is currently not working. 
+* Note that we're using appengine-maven-plugin in <pom.xml>, and credentials stored in settings.xml (<-- not to be checked in) .
+* Deploy snapshot artifacts into repository <https://oss.sonatype.org/content/repositories/snapshots/com/github/sanskrit-coders/sanskritnlp>.
+  * Version number ends with -SNAPSHOT. Eg. 1.0-SNAPSHOT
+  * Build target: clean deploy.
+  * intellij target name: "mvn deploy".
+* Deploy release artifacts into the [staging repository](https://oss.sonatype.org/content/repositories/releases/com/github/sanskrit-coders/sanskritnlp/) and [here](http://repo1.maven.org/maven2/com/github/sanskrit-coders/sanskritnlp/) :
+  * Repeat the same with a non snapshot version number.
+* Releasing to central (if it does not automatically happen):
+  * Notes: <http://central.sonatype.org/pages/releasing-the-deployment.html>
+  * Artifacts can be examined on Sonatype [here](https://oss.sonatype.org/#nexus-search;quick~sanskrit) and released - if the staging repository is visible there. Otherwise, it may already be deployed in central!
+  * Maven target can be used: nexus-staging:release . There is an intellij target of the same name.
+  * "After you successfully release, your component will be published to Central, typically within 10 minutes, though updates to search.maven.org can take up to two hours."
+* Project was created under Sonatype:  [here](https://issues.sonatype.org/browse/OSSRH-29183) .
 
