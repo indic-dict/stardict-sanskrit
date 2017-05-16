@@ -57,24 +57,15 @@ https://github.com/sanskrit-lexicon/cologne-stardict - make_babylon.py is the wo
 ## Update /bin used by dictionary users
 Use intellij to generate the bin/artifacts/stardict-sanskrit.jar artifact, which is used by dictionary developers during packaging. 
 
-## Deployment
-* Regarding **maven targets**:
-  * You can set up a maven goal in intellij as well.
-  * In intellij: Don't be fooled by weird messages in the Run widget - look at the messages widget.
 
-## Releasing to maven.
-* *TODO*: This is currently not working. 
-* Note that we're using appengine-maven-plugin in <pom.xml>, and credentials stored in settings.xml (<-- not to be checked in) .
-* Deploy snapshot artifacts into repository <https://oss.sonatype.org/content/repositories/snapshots/com/github/sanskrit-coders/sanskritnlp>.
-  * Version number ends with -SNAPSHOT. Eg. 1.0-SNAPSHOT
-  * Build target: clean deploy.
-  * intellij target name: "mvn deploy".
-* Deploy release artifacts into the [staging repository](https://oss.sonatype.org/content/repositories/releases/com/github/sanskrit-coders/sanskritnlp/) and [here](http://repo1.maven.org/maven2/com/github/sanskrit-coders/sanskritnlp/) :
-  * Repeat the same with a non snapshot version number.
-* Releasing to central (if it does not automatically happen):
-  * Notes: <http://central.sonatype.org/pages/releasing-the-deployment.html>
-  * Artifacts can be examined on Sonatype [here](https://oss.sonatype.org/#nexus-search;quick~sanskrit) and released - if the staging repository is visible there. Otherwise, it may already be deployed in central!
-  * Maven target can be used: nexus-staging:release . There is an intellij target of the same name.
-  * "After you successfully release, your component will be published to Central, typically within 10 minutes, though updates to search.maven.org can take up to two hours."
-* Project was created under Sonatype:  [here](https://issues.sonatype.org/browse/OSSRH-29183) .
+## Links to general comments
+See [indic-transliteration/README](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md) for the following info:
+
+  - [Setup](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#setup)
+  - [Deployment](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#deployment)
+    - [Regarding **maven targets** in intellij](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#regarding-**maven-targets**-in-intellij)
+    - [Releasing to maven.](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#releasing-to-maven.)
+    - [Building a jar.](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#building-a-jar.)
+  - [Technical choices](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#technical-choices)
+    - [Scala](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#scala)
 
