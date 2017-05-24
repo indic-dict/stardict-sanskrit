@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>jar</packaging>
+    <version>1.0</version>
+    <description>
+        A collection of scala classes for some basic dictionary and wiki manipulation, contributed by the open source Sanskrit NLP project and friends.
+        Some notable facilities:
+        * Deal with babylon dictionaries.
+        * Use bots to write to wiki projects (wiktionary, wikisource etc..).
+        * Iterate through output of OCR programs such as SanskritOCR.
+        Contributions and suggestions are invited at https://github.com/sanskrit-coders/stardict-sanskrit . (Sister projects there may also be of interest.)
+    </description>
+    <name>Indic Dictionary tools</name>
+    <issueManagement>
+        <url>https://github.com/sanskrit-coders/stardict-sanskrit/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+    <url>https://github.com/sanskrit-coders/stardict-sanskrit</url>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>https://raw.githubusercontent.com/sanskrit-coders/stardict-sanskrit/master/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/sanskrit-coders/stardict-sanskrit</url>
+        <connection>scm:git:git://github.com/sanskrit-coders/stardict-sanskrit.git</connection>
+        <developerConnection>scm:git:git@github.com:sanskrit-coders/stardict-sanskrit.git</developerConnection>
+    </scm>
+
+    <developers>
+        <developer>
+            <email>sanskrit-programmers@googlegroups.com</email>
+            <name>Sanskrit coders</name>
+            <url>https://sites.google.com/site/sanskritcode/</url>
+            <id>sanskrit-coders</id>
+        </developer>
+    </developers>
+
+    <groupId>com.github.sanskrit-coders</groupId>
+    <artifactId>dict-tools</artifactId>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <prerequisites>
+        <maven>3.5</maven>
+    </prerequisites>
+
+    <repositories>
+        <repository>
+            <id>scala-tools.org</id>
+            <name>Scala-tools Maven2 Repository</name>
+            <url>http://scala-tools.org/repo-releases</url>
+        </repository>
+    </repositories>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>scala-tools.org</id>
+            <name>Scala-tools Maven2 Repository</name>
+            <url>http://scala-tools.org/repo-releases</url>
+        </pluginRepository>
+    </pluginRepositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.11.8</version>
+        </dependency>
+        <!-- Compile/runtime dependencies -->
+        <dependency>
+            <groupId>com.github.sanskrit-coders</groupId>
+            <artifactId>indic-transliteration</artifactId>
+            <version>1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>0.9.29</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+            <version>0.9.29</version>
+        </dependency>
+
+        <!--
+         Evaluation: https://www.mediawiki.org/wiki/API:Client_code/Evaluations/Java_Wiki_Bot_Framework_(JWBF)
+         Javadoc here: http://jwbf.sourceforge.net/doc/ , especially Article class.
+         Parsers (very complicated):
+         https://www.mediawiki.org/wiki/Alternative_parsers
+         http://stackoverflow.com/questions/11612118/java-wikitext-parser
+        -->
+        <dependency>
+            <groupId>net.sourceforge</groupId>
+            <artifactId>jwbf</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>jstl</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+    </dependencies>
+
+
+    <!-- For maven deployment -->
+    <distributionManagement>
+        <snapshotRepository>
+            <id>ossrh</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <build>
+        <outputDirectory>${project.build.directory}/classes</outputDirectory>
+        <plugins>
+            <!-- We have scala code..-->
+            <plugin>
+                <groupId>org.scala-tools</groupId>
+                <artifactId>maven-scala-plugin</artifactId>
+                <version>2.15.2</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>compile</goal>
+                            <goal>testCompile</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <!-- For maven deployment -->
+            <plugin>
+                <groupId>org.sonatype.plugins</groupId>
+                <artifactId>nexus-staging-maven-plugin</artifactId>
+                <version>1.6.7</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <serverId>ossrh</serverId>
+                    <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+                    <autoReleaseAfterClose>true</autoReleaseAfterClose>
+                </configuration>
+            </plugin>
+
+            <!-- For maven deployment.
+             To get Javadoc and Source jar files generated, you have to configure the javadoc and source Maven plugins.
+             -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>2.2.1</version>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar-no-fork</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <!-- For maven deployment.
+             The Maven GPG plugin is used to sign the components with the following configuration.
+             It relies on the gpg command being installed and the GPG credentials being available e.g. from ~/.m2/settings.xml. In addition you can configure the gpg command in case it is different from gpg. This is a common scenario on some operating systems.
+             -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-gpg-plugin</artifactId>
+                <version>1.5</version>
+                <executions>
+                    <execution>
+                        <id>sign-artifacts</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>sign</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <!--Produce jar with dependencies.-->
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <outputDirectory>bin/artifacts</outputDirectory>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
