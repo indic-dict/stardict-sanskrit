@@ -11,6 +11,7 @@ Options:
 ## Initial  setup.
 * Extract the latest stardict tools package (<https://sourceforge.net/projects/stardict-4/files/3.0.1/stardict-tools-3.0.1.tar.bz2/download>) in ~/stardict/tools directory. Then do `cd stardict/tools` and build it (Run `./configure` and `make` as described in the INSTALL file in the directory - but don't remove the compiled binaries from the src directory.).
   * A shortcut if you are running Linux on a 64 bit computer: Just `git clone --depth 1 https://github.com/sanskrit-coders/stardict` in your home directory.
+* Clone dict-tools repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/dict-tools.git` to get just the latest files.)
 * Clone this repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git` to get just the latest files.)
 
 ## Update dictionary files
@@ -52,20 +53,4 @@ Recipe to convert decompiled en-head dictionaries from ajita to sa-head dictiona
 
 ## Cologne to babylon convertor
 https://github.com/sanskrit-lexicon/cologne-stardict - make_babylon.py is the workhorse.
-
-# Dictionary and packaging software developer instructions
-## Update /bin used by dictionary users
-Use intellij to generate the bin/artifacts/stardict-sanskrit.jar artifact, which is used by dictionary developers during packaging. 
-
-
-## Links to general comments
-See [indic-transliteration/README](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md) for the following info:
-
-  - [Setup](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#setup)
-  - [Deployment](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#deployment)
-    - [Regarding **maven targets** in intellij](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#regarding-**maven-targets**-in-intellij)
-    - [Releasing to maven.](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#releasing-to-maven.)
-    - [Building a jar.](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#building-a-jar.)
-  - [Technical choices](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#technical-choices)
-    - [Scala](https://github.com/sanskrit-coders/indic-transliteration/blob/master/README.md#scala)
 
