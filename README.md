@@ -10,9 +10,6 @@ Table of content
    - [Dictionary popularity metrics](#dictionary-popularity-metrics)
    - [Other notes](#other-notes)
    - [Cologne to babylon convertor](#cologne-to-babylon-convertor)
-- [Dictionary and packaging software developer instructions](#dictionary-and-packaging-software-developer-instructions)
-   - [Update /bin used by dictionary users](#update-/bin-used-by-dictionary-users)
-   - [Links to general comments](#links-to-general-comments)
 
 # Dictionary user instructions
 ## Grab latest files to use for with my stardict compatible program.
