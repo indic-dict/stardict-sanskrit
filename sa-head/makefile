@@ -1,20 +1,20 @@
 .PHONY: all
 
 all:
-	make -C sa-entries all
-	make -C en-entries all
-	make -C other-indic-entries all
-	make -C other-entries all
+	make -C sa-indexFileEntries all
+	make -C en-indexFileEntries all
+	make -C other-indic-indexFileEntries all
+	make -C other-indexFileEntries all
 
 tars:
-	make -C sa-entries tars
-	make -C en-entries tars
-	make -C other-indic-entries tars
-	make -C other-entries tars
+	make -C sa-indexFileEntries tars
+	make -C en-indexFileEntries tars
+	make -C other-indic-indexFileEntries tars
+	make -C other-indexFileEntries tars
 
 tarlist:
-	make -C sa-entries tarlist
-	make -C en-entries tarlist
-	make -C other-indic-entries tarlist
-	make -C other-entries tarlist
+	make -C sa-indexFileEntries tarlist
+	make -C en-indexFileEntries tarlist
+	make -C other-indic-indexFileEntries tarlist
+	make -C other-indexFileEntries tarlist
 

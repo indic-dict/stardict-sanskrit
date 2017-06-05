@@ -28,14 +28,14 @@ Options:
 * Clone this repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git` to get just the latest files.)
 
 ## Update dictionary files
-With `sa-sanskritnlp.vyAkaraNa.vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
+With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
 * If the scripts have changed in some way (You can do this anyway - won't hurt.)
 	* do `rm -r /tmp/scala*`.
 	* Update the repositories mentioned in the Initial setup section.
 		* An easy way to do this is to run: `~/stardict-sanskrit/sync_all_repos.sh "git pull"`
 * Update the babylon file.
-* Change directory to sa-sanskritnlp.vyAkaraNa.vyAkaraNa.
-* Run: make DICTS='laghu-kaumudi'. This will run the commands listed in sa-sanskritnlp.vyAkaraNa.vyAkaraNa/makefile sequentially. All dictionaries and tars under sa-sanskritnlp.vyAkaraNa.vyAkaraNa will be rebuilt as of 20160321.
+* Change directory to sa-vyAkaraNa.
+* Run: make DICTS='laghu-kaumudi'. This will run the commands listed in sa-vyAkaraNa/makefile sequentially. All dictionaries and tars under sa-vyAkaraNa will be rebuilt as of 20160321.
 * Watch out for errors and warnings.
 * If you are satisfied with the output, add (preferably only the files you intended to change), commit and push. If not, open an issue.
 * [Optional but preferred] Create a new release, and use those files!
@@ -54,8 +54,8 @@ With `sa-sanskritnlp.vyAkaraNa.vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as
   * Upload to archive (example: [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)).
 
 ### To force update dictionary files
-Sometimes the above may fail due to the script being fooled by the timestamps into thinking that no updates are required. To force updates in such cases (With `sa-sanskritnlp.vyAkaraNa.vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example):
-* Delete these files: `sa-sanskritnlp.vyAkaraNa.vyAkaraNa/laghu-kaumudi/*.babylon sa-sanskritnlp.vyAkaraNa.vyAkaraNa/laghu-kaumudi/*.ifo sa-sanskritnlp.vyAkaraNa.vyAkaraNa/tars/laghu-kaumudi*.tar.gz`
+Sometimes the above may fail due to the script being fooled by the timestamps into thinking that no updates are required. To force updates in such cases (With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example):
+* Delete these files: `sa-vyAkaraNa/laghu-kaumudi/*.babylon sa-vyAkaraNa/laghu-kaumudi/*.ifo sa-vyAkaraNa/tars/laghu-kaumudi*.tar.gz`
 * Redo the process described above.
 
 ## Dictionary popularity metrics
