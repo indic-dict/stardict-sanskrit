@@ -1,10 +1,4 @@
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/AkhyAtachandrikA__2016-02-20_16-15-34.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A1-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A2-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A3-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A4-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-A5-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/Declension-B-heritage_du_sanskrit_san-san__2014-06-15_23-51-57.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-anuvRtti__2016-02-20_17-43-14.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/aShTAdhyAyI-english__2016-02-29_18-09-09.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/abhyankara-grammar__2017-06-05_14-22-30__0MB.tar.gz
