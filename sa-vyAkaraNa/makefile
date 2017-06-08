@@ -1,7 +1,7 @@
 # make all DICTS=xyz
 DICTS=.*
 
-URL=https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/$(shell pwd|sed -e s/.*[/]//)
+URL=https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/$(shell pwd|sed -e s/.*[/]//)/tars
 
 .PHONY: all stardict tars
 
@@ -22,5 +22,3 @@ current_dir := $(dir $(mkfile_path))
 # Let the URL not end with /.
 tarlist:
 	bash ../bin/update_tars_md.sh $(current_dir)tars $(URL)
-
-

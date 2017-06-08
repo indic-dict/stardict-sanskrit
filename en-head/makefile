@@ -10,7 +10,7 @@ all:stardict tars
 DICTS=.*
 
 # Let the URL not end with /.
-URL=https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/$(shell pwd|sed -e s/.*[/]//)
+URL=https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/$(shell pwd|sed -e s/.*[/]//)/tars
 
 stardict:
 	bash ../bin/tsv_to_stardict.sh DICTS=$(DICTS)
