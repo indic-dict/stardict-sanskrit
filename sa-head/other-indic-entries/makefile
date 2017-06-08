@@ -18,7 +18,7 @@ stardict:
 
 	
 tars:
-	bash ../../bin/make_tarballs.sh https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/$(shell pwd|sed -e s/.*[/]//) DICTS=$(DICTS)
+	bash ../../bin/make_tarballs.sh $(URL) pwd|sed -e s/.*[/]//) DICTS=$(DICTS)
 
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
