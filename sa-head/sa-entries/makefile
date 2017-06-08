@@ -4,6 +4,9 @@ STARDICT_SANSKRIT_BIN=~/stardict-sanskrit/bin
 # make all DICTS=xyz
 DICTS=.*
 
+# Let the URL not end with /.
+URL=https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/$(shell pwd|sed -e s/.*[/]//)
+
 .PHONY: all stardict tars
 
 all:final_babylon stardict tars
@@ -20,8 +23,6 @@ tars:
 
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
-# Let the URL not end with /.
-URL=error
 tarlist:
 	bash ../../bin/update_tars_md.sh $(current_dir)tars $(URL)
 
