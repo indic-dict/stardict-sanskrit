@@ -3228,7 +3228,7 @@ which otherwise cannot be had.
 
 '''अप्राप्तविभाषा''' see above अप्राप्तविकल्प.
 
-'''अप्राप्ति'' ( i ) non-occurrence for non-
+'''अप्राप्ति''' ( i ) non-occurrence for non-
 realization of a grammatical
 operation or rule- अप्रतिषेधः M.
 Bh. on I.1.56 Vārt. 8; (2) pro-
@@ -3934,7 +3934,7 @@ the sense of possession; cf अर्शति
 यम् यत्राभिन्नरूपेण शब्देन तद्वतोभिधानं तत्
 सर्वमिह द्रष्टव्यम् Kāś. on P. V.2.127.
 
-''अल्'' a प्रत्याहार or a short term signifying
+'''अल्''' a प्रत्याहार or a short term signifying
 any letter in the alphabet of Pāṇini
 which consists of 9 vowels, 4 semi-
 vowels, 25 class-consonants, and
@@ -6123,7 +6123,7 @@ words शृङ्ग and वृन्द, e.g. शृङ्गारकः,
 वृन्दारकः;cf P. शृङ्गवृन्दाभ्यामारकन्, P.V.
 2.122 Vārt. 3.
 
-''आरडे''' KRISHNASHASTRI a re-
+'''आरडे''' KRISHNASHASTRI a re-
 puted Naiyāyika of Banaras of
 the nineteenth century, who
 wrote, besides many treatises on
@@ -6783,7 +6783,7 @@ in अ ; cf. टाङसिङसामिनात्स्याः P.VII.1.
 12; (2) tad.aff इन affixed to पूर्व e.
 g. पथिभिः पूर्विणैः cf. P. IV. 4. 133.
 
-'''इनङ्'' substitute इन् for the last vowel
+'''इनङ्''' substitute इन् for the last vowel
 of the words कल्याणी, सुभगा, दुर्भगा and
 others before the affix ढ i. e. एय
 prescribed after these words in the
@@ -6918,7 +6918,7 @@ e.g. पाकिमम्, त्यागिमम्;cf. भावप्र�
 'pity'; e. g. देवियः, यज्ञियः; cf. P.IV.
 2.79.
 
-'''इयङ्'' substitute for the last इ
+'''इयङ्''' substitute for the last इ
 before a vowel generally in the
 case of monosyllabic roots end-
 ing in इ and the word स्त्री;
@@ -7256,7 +7256,7 @@ also ष्टुना ष्टुः P.VIII.4.41(7) उ added
 to न् showing the consonant न् as
 nasalized n; cf, नुः V.Pr. III.133.
 
-'''उक्'' short term (प्रत्याहार) for the vowels
+'''उक्''' short term (प्रत्याहार) for the vowels
 उ, ऋ and लृ; e.g. उगिदचां सर्वनामस्थानेऽ
 धातोः P.VII.1.80, also शल्युक्; किति P
 VII.2.11, इसुसुक्तान्तान् क्तः P.VII.3,
@@ -8249,6 +8249,7 @@ greater force in the case of a kāra-
 {{Multicol-break}}
 kavibhakti than in the case of an
 upapadavibhakti.
+
 '''उपपदसमास''' the compound of a word,
 technically termed as उपपद by
 Pāṇini according to his definition
@@ -8283,7 +8284,7 @@ commentator as: सशब्दं परश्राव्यशब्दसह
 तम् । यत्र प्रयुज्यमानः शब्दः परैरक्षरव्यञ्जनववेकवर्जे
 श्रूयते तदुपद्विमत्संज्ञं भवति ।
 
-'''उपमन्यु (1) the famous commentator on
+'''उपमन्यु''' (1) the famous commentator on
 the grammatical verses attributed
 to Nandikeśvara which are known
 by the name नन्दिकेश्वरकारिका and
@@ -8881,7 +8882,7 @@ Some of his important works are
 prātiśākhyabhāṣya, Vājasaneyīsa-
 mhitābhāṣya, Vedārthadīpika etc.
 
-'''उष्णिह्'' (उष्णिक्) name of the second of
+'''उष्णिह्''' (उष्णिक्) name of the second of
 the main seven Vedic metres
 which are known by the name
 प्रजापतिच्छन्दस्. The Uṣṇik metre con-
@@ -8937,7 +8938,7 @@ the affix तृन् or तृच् e. g. तरुतारं तरूत�
 वा रथानाम्; वरुतारं वरूतारं वरूत्रीः; cf. Kāś.
 on P.VII.2.34.
 
-'''ऊठ्'' (1) saṁprasāraṇa vowel ऊ sub-
+'''ऊठ्''' (1) saṁprasāraṇa vowel ऊ sub-
 stituted for the व् of वाह् under cer-
 tain conditions e.g., ऊढः, cf. वाह
 ऊठ्  P.VI.4.132; (2) substitute ऊ
@@ -8945,7 +8946,7 @@ for व् before certain affixes; e. g.
 द्यूतः, द्यूत्वा, जूर्तिः, तूर्तिः etc. cf. च्छ्वोः
 शूडनुनासिके च P.VI.4.19, 20.
 
-'''ऊत् (l) long vowel ऊ which cannot
+'''ऊत्''' (l) long vowel ऊ which cannot
 be combined by rules of saṁdhi
 with the following vowel when it
 comes at the end of the forms of the
@@ -9967,7 +9968,7 @@ the word briefly as follows; पादस्य वा
 स्थाने त्रिमात्रमोंकारं त्रिमात्रमोंकारं वा विदधति
 तं प्रणव इत्याचक्षते M.Bh. on VIII.2.89.
 
-'''ओत्'' the vowel ओ; cf. ओत् PI.1.15,16
+'''ओत्''' the vowel ओ; cf. ओत् PI.1.15,16
 prescribing- प्रगृह्यसंज्ञा for Nipātas
 like अहो, उताहो and others with a
 view that the wowel at their end
@@ -10068,7 +10069,7 @@ called औणादिक; a name given to
 his work by पेदुभदृ of the 18th
 century.
 
-'''औत्' (1) the letter औ included in the
+'''औत्''' (1) the letter औ included in the
 वृद्धि vowels अा, ऐ and औ, and
 hence called वृद्धि in Pāṇini's gra-
 mmar, (2) substitute for the case-
@@ -11110,7 +11111,7 @@ Cāndra Vyākaraṇa.
 '''कसुन्''' kṛt affix अस् found in Vedic
 Literature, in the sense of the
 infinitive: e. g. ईश्वरो विलिखः (विलि-
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Shubha" /></noinclude>{{RunningHeader|left='''कसेन्''|center='''I06'''|right='''
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Shubha" /></noinclude>{{RunningHeader|left='''कसेन्'''|center='''I06'''|right='''
 कातन्त्र'''}}
 {{rule}}
 {{Multicol}}     
@@ -11551,7 +11552,7 @@ P. I. 4.28. The word 'kāraka' in
 short, means 'the capacity in which
 a thing becomes instrumental in
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Shubha" /></noinclude><poem>
-{{RunningHeader|left='''कारककारिका'''|center=110'|right='''कारकवाद'''}} 
+{{RunningHeader|left='''कारककारिका'''|center=110|right='''कारकवाद'''}} 
 {{rule}}
 {{Multicol}}           
 
@@ -12449,7 +12450,7 @@ rian named मोक्षेश्वर who lived in the
 fifteenth century. The work deals
 with verbal derivatives.
 
-'''कृल्लुक्'' the elision of a kṛt affix: the
+'''कृल्लुक्''' the elision of a kṛt affix: the
 word is found used along with the
 words प्रकृतिप्रत्यापत्तिः, and प्रकृतिवत् कारकं
 भवति in the Vārttika अाख्यानात्कृतस्त-
@@ -14464,7 +14465,7 @@ or a technical term; cf. III.3. 118,
 
 '''घकार''' the consonant घ; see घ् .
 
-'''घच्'' tad. affix इय, as found in the
+'''घच्''' tad. affix इय, as found in the
 word क्षेत्रिय; cf. क्षेत्रियच् परक्षेत्रे चिाकत्स्यः
 P.V.2.92 and Kāsikā thereon.
 
@@ -14594,7 +14595,7 @@ the Mahabhasya; cf. एतदप्यस्तु  ञकारेण
 ङञो ह्र्स्वादचि ङञुण्नित्यमिति । M. Bh. on
 Mahesvara Sutras 8, 9.
 
-'''ङम्'" a short term or Pratyahara for the
+'''ङम्''' a short term or Pratyahara for the
 consonants ङ्, ण्, and न्. See ङ् (3).
 
 '''ङमुद्''' augment ङम् i. e. ङ्, ण् or न्
@@ -14713,7 +14714,7 @@ fem. affix ङी (ङीप्, ङीत्र्,  or ङीन्); cf.
 ङ्यन्तादित्येवं भविष्यति M.Bh. on P.I.
 1.89 Vart. 16.
 
-''ङ्याप्पाद्''' a popular name given by 
+'''ङ्याप्पाद्''' a popular name given by 
 grammarians to the first pada of
 the fourth adhyaya of Panini's
 Astadyayi as the pada begins 
@@ -17107,7 +17108,7 @@ sword and ornament : e. g. कात्त्रेयकः
 कौलेयक: (श्वा), कौक्षेयकः (असिः), ग्रैवेयकः
 (अलंकारः): cf.Kas. on P.IV 2.95,96.
 
-''ढ्ञ्''' tad. affix एय causing Vrddhi
+'''ढञ्''' tad. affix एय causing Vrddhi
 substituted for the first vowel of the
 base and the addition of the fem.
 affix ङीप् (इ), applied (1) to words
@@ -19249,18 +19250,18 @@ century.
 
 '''त्रैकाल्य''' all the three times, past,
 present and future; cf. त्रयः काला:
-समाहृताः त्रिकालम्, त्रिकालमेव त्रैकाल्यम् !
+समाहृताः त्रिकालम्, त्रिकालमेव त्रैकाल्यम् ।
 स्वार्थे ष्यञ् Uvvatabhasya on V. Pr.
 I. I5.
 
-'''त्रेपादिक''' a rule or an operation pres-
+'''त्रैपादिक''' a rule or an operation pres-
 cribed by Panini in the last three 
 quarters of his Astadhyayi. See
 त्रिपादी above.
 
 '''त्रैशब्द्य''' a collection of three words
 (to express the same sense); cf.
-अपि च त्रैशब्द्यं न प्रकल्पते | अस्पृक्षत् अस्पार्क्षीत्
+अपि च त्रैशब्द्यं न प्रकल्पते । अस्पृक्षत् अस्पार्क्षीत्
 अस्प्राक्षीदिति M. Bh. on III. 1.44;
 cf. also M. Bh. on P. I. 4.74, IV.
 1. 88, IV. 2.60 etc.
@@ -19269,14 +19270,14 @@ cf. also M. Bh. on P. I. 4.74, IV.
 acute, grave and circumflex at the
 time of the recital of the Veda;
 त्रयः स्वरा एव त्रैस्वर्यम्; cf. चातुर्वर्ण्यादीनां
-स्वार्थॆ उपसंख्यानम् | त्रैलोक्यम् , त्रैस्यर्यम् Kas,
+स्वार्थॆ उपसंख्यानम् । त्रैलोक्यम् , त्रैस्यर्यम् Kas,
 on P. V. 1. 124. cf. also यद्येवं त्रैस्वर्ये
 न प्रकल्पते तत्र को दोषः। त्रैस्वर्येणाधीमहॆ इत्ये-
-तन्नोपपद्यते | M. Bh. on P. I. 2.31.
+तन्नोपपद्यते । M. Bh. on P. I. 2.31.
 
 '''त्र्यक्षर''' (a word) having three vowels
 or syllables in it; त्र्यच् or त्र्यच्क; cf.
-ह्यक्षरव्यक्षरेभ्य इति वक्तव्यम् cf. M. Bh.
+द्व्यक्षरव्यक्षरेभ्य इति वक्तव्यम् cf. M. Bh.
 on VIII 4.6.
 
 '''त्र्यम्बक''' a grammarian of the nine-
@@ -19304,21 +19305,20 @@ e. g. अश्वत्वम्, गोत्वम् , अश्वता, �
 
 '''त्वत्''' krt affix त्च in the sense of the
 potential pass. part. in Vedic
-Literature; e. g. कत्व हविः । कर्तव्यम्:
+Literature; e. g. कर्त्वे हविः । कर्तव्यम्:
 also cf. Kas, on P.III. 4.14;cf also
-कृतानि या च कर्त्वा R. V. 1X. 47.2.
+कृतानि या च कर्त्वा R. V. IX. 47.2.
 
 '''त्वन्''' tad. affix त्व before which there
 is observed the caesura or ava-
 graha in the recital of the Pada-
-patha. e: g. देवत्वमिति देवsत्वम् [ cf.
+patha. e: g. देवत्वमिति देवsत्वम् । cf.
 V. Pr. V. 9.
-
-                '''थ'''
+{{C|'''थ'''}}
 '''थ्''' () second consonant of the dental
 class of consonants possessed of
 the properties श्वासानुप्रदान, अघोष, विवृत-
-कण्ठत्व and महाप्राणत्व: (2) augment
+कण्ठत्व and महाप्राणत्व; (2) augment
 थ् ( थुक् ) added to the words षष् ,
 कति, कतिपय and चतुर् before the
 Purana affix डट्. e. g. षण्णां पूरण: षष्ठ:,
@@ -19337,16 +19337,16 @@ for the ल् of the ten lakara affixes;
 (2) substitute ( थल् ) for the 2nd
 pers sing. personal ending सिप् in.
 the perfect tense: (3) unadi affix
-( थक् ) added to the roots पा, त्रु तुद्
+( थक् ) added to the roots पा, तॄ, तुद्
 etc. e. g. पीथः, तीर्थः, etc.; cf unadi
 sutra II. 7; (4) unadi affix ( क्थन् ) |
 {{Multicol-break}}
 
-added to the roots हन् कुष् ，नी etc.;
-e. g, हथः, कुष्टं, नीथ: etc. cf unadi
+added to the roots हन्, कुष् ，नी etc.;
+e. g, हथः, कुष्टं, नीथः etc. cf unadi
 sutra II. 2: (5) unadi affix (थन्)
 added to the roots उष्, कुष्, गा and
-ऋ, e. g. ओष्ठ:, कोष्ठम् etc. cf unadi
+ऋ, e. g. ओष्ठः, कोष्ठम् etc. cf unadi
 sutra_II. 4; (6) a technical term
 for the term अभ्यस्त or the redu-
 plicated wording of Panini ( cf.
@@ -19394,10 +19394,10 @@ ture; e.g. कथा देवा आसन् ; cf. Kas.
 on P.V.3.26; (2) tad. affix था (थाल्
 according to Panini) which gets
 caesura or avagraha after प्रत्न, पूर्व,
-विश्व, इम and ऋतु: e.g. प्रत्नथेतिं प्रत्नSथा,
+विश्व, इम and ऋतु; e.g. प्रत्नथेतिं प्रत्नSथा,
 
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Nirmala V A" /></noinclude>
-{{RunningHeader|left='''थाल्'''|center='''182'''|right='''द्न्तोष्ठय'''}}
+{{RunningHeader|left='''थाल्'''|center='''182'''|right='''द्न्तोष्ठ्य'''}}
 {{rule}}
 {{Multicol}}
              
@@ -19405,11 +19405,11 @@ caesura or avagraha after प्रत्न, पूर्व,
 (3) tad. affix थाल् in the sense of
 इव added to the words प्रत्न, पूर्व, विश्व
 and इम in Vedic Literature, e.g.
-तं प्रत्नथा पूर्वथा विश्वथेमथा: cf Kas, on P.
+तं प्रत्नथा पूर्वथा विश्वथेमथा; cf Kas, on P.
 V.3.111: (4) tad. affix थाल् in the
 sense of mannar ( प्रक्रार) added to
 किन् , pronouns excepting those
-headed by द्वि, and the word बहु:
+headed by द्वि, and the word बहु;
 e.g. सर्वथा, cf. P V.3.23.
 
 '''थाल्''' tad. affix थाल्. See था.
@@ -19417,6 +19417,7 @@ e.g. सर्वथा, cf. P V.3.23.
 '''थास्''' personal ending of the 2nd
 pers. sing. Atmanepada, substitut-
 ed for ल् of the lakara affixes.
+
 '''थीम''' (THIEME, PAUL) a sound
 scholar of the present day, well
 versed in Sanskrit Grammar and
@@ -19433,11 +19434,11 @@ aorist. e.g. अास्थत्: cf P.VII.4.17.
 
 '''थ्यन्''' tad. affix थ्य in the sense of
 'favourable for' ( तस्मै हितम् ) added
-to the words अज and अवि: e.g.
+to the words अज and अवि; e.g.
 -अजथ्या यूथिः। अविथ्या । cf Kas. on P.
 V.1.8.
 
-                '''द'''
+{{c|'''द'''}}
 '''द्''' third consonant of the dental class
 of consonants possessed of the pro-
 perties नादानुप्रदान, घोष, संवृतकण्ठत्व and
@@ -19452,8 +19453,8 @@ substituted for the final स् of roots
 excepting the root.अस्, before the
 {{Multicol-break}}
 
-personal ending तिपू of the third
-pers. sing.: e. g. अचकाद् भवान् ; cf.
+personal ending तिप् of the third
+pers. sing.; e. g. अचकाद् भवान् ; cf.
 P. VIII. 3.93.
 
 '''द''' (1) the consonant द्, the vowel अ
@@ -19485,7 +19486,7 @@ recitations.
 '''दण्डादि''' a class of words headed by
 the word दण्ड to which the taddhita
 affix य, is added in the sense of
-'deserving', cf. दण्डमर्हति दण्डयः Kas.
+'deserving', cf. दण्डमर्हति दण्ड्यः Kas.
 on P. V. 1.66
 
 '''दधिपयआदि''' a class of compound
@@ -19508,7 +19509,7 @@ also as दन्तमूलीय.
 '''दन्तोष्ठ्य''' also दन्त्योष्ठ्य or : दन्त्यौष्ठ्य the
 
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
-{{RunningHeader|left='''दन्त्य'''|center='''183'''|right='''द्वानीम्'''}}
+{{RunningHeader|left='''दन्त्य'''|center='''183'''|right='''दानीम्'''}}
 {{rule}}
 {{Multicol}}
              
@@ -19519,16 +19520,16 @@ dentolabial letter व्: cf. ओष्टान्ताभ्यां
 
 '''द्न्त्य''' produced at the teeth, dental;
 formed at the teeth by the tip of
-the tongue; e.g. the letters ल्रु ल् ,स्
-and तवर्ग: cf.  लृलसिता दन्ते V.Pr.I.69.
-According to Panini's grammar |
+the tongue; e.g. the letters लृ ल् ,स्
+and तवर्ग; cf.  लृलसिता दन्ते V.Pr.I.69.
+According to Panini's grammar 
 लॄ(long) does not exist. Accord-
 ing to Taittirya Prtisakhya र्
 is partly dental and partly lingual;
 cf T.Pr.II.41, while व् is partly
 dental and partly labial; cf. T.Pr.
-II.43; cf. दन्त्या जिह्वाग्रकरणा: V. Pr.I. ]
-76: cf. लुग्वा दुहदिहलिहगुहामात्मनेपदे दन्त्ये |
+II.43; cf. दन्त्या जिह्वाग्रकरणाः V. Pr.I. 
+76; cf. लुग्वा दुहदिहलिहगुहामात्मनेपदे दन्त्ये 
 P. VII. 3.73.
 
 '''दयानन्दसरस्वति''' a brilliant Vedic
@@ -19540,7 +19541,7 @@ and encouraged the study of
 Kasikavrtti. He has written many
 books on vedic studies.
 
-'''दयापाल''' a.]ain writer who wrote a
+'''दयापाल''' a.Jain writer who wrote a
 treatise named रूपसिद्धि.
 
 '''दयारत्न''' a.Jain scholar who has written
@@ -19563,7 +19564,7 @@ nineteenth century.
 
 '''दशक''' a name given to the treatise on
 grammar written by व्याघ्रपाद which
-consisted of 10 chapters; cf. दशकं ;
+consisted of 10 chapters; cf. दशकं 
 वैयाघ्रपदीयम् Kas. on P V. 1.58. The
 {{Multicol-break}}
 
@@ -19581,7 +19582,7 @@ of Panini which gives ten classes
 of roots; cf. भूवादयो दशगणीपरिपठिता
 गृह्यन्ते Nyasa on I.3.1.
 
-'''द्शधुष्करण''' the ten classes or conjuga-
+'''दशधुष्करण''' the ten classes or conjuga-
 tions of roots; धुष् was a term for
 धातु (root) in some ancient gram-
 mar works.
@@ -19605,35 +19606,35 @@ descendant of दक्ष, and, as Panini
 is called दाक्षीपुत्र, critics say
 that Panini and Vyadi were
 relatives; cf. शोभना खलु दाक्षायणस्य
-दाक्षायणेन वा संग्रहस्य कृति: M. Bh. on P.
+दाक्षायणेन वा संग्रहस्य कृतिः M. Bh. on P.
 II.3.66.
 
 '''दाक्षीपुत्र''' lit. son of a female descen-
-dant of दक्ष: name given to Panini
+dant of दक्ष; name given to Panini
 who was the son of दाक्षी a female
-descendant of दक्ष: cf.,शंकर: शांकरीं
-प्रादाद्दाक्षीपुत्राय धीमते Pan. Sik. 56: cf.
-also सर्वे सर्वपदादेशा दाक्षीपुत्रस्य पाणिने:
+descendant of दक्ष; cf. शंकरः शांकरीं
+प्रादाद्दाक्षीपुत्राय धीमते Pan. Sik. 56; cf.
+also सर्वे सर्वपदादेशा दाक्षीपुत्रस्य पाणिनेः
 M.Bh. on P. I. 1.20: VII.1.27.
 
 '''दानविजय''' a Jain grammarian, who
 wrote a small grammar treatise
 named शब्दभूषण. 
 
-दानीम् tad. affix called विभक्ति, applied
+'''दानीम्''' tad. affix called विभक्ति, applied
 
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''दामन्यादि'''|center='''184'''|right='''दुःश्लिष्ट'''}}
 {{rule}}
 {{Multicol}}
              
 to तद् and इदम् in the sense of the
-locative case e.g. तदानीम् इदानीम्;
+locative case e.g. तदानीम्, इदानीम्;
 cf. P. V.3.18, 19.
 
 '''दामन्यादि''' a class of words headed by
 the word दामनि to which the tadd-
 hita affix छ is added without any
-change of sense: e.g.दामनीय, औलपीयः
+change of sense: e.g.दामनीयः, औलपीयः
 cf. Kas. on P. V, 3.116.
 
 '''दारुण्य''' explained by the commentators
@@ -19644,7 +19645,7 @@ or उदात्त tone; cf. अायामो दारुण्यमण�
 खस्येत्युच्चैःकराणि शब्दस्य, T. Pr. XXII.9,
 quoted in the Mahabhasya on P.I.
 2.29, where दारुण्य is explained as
-स्वरस्य दारुणता रूक्षता !
+स्वरस्य दारुणता रूक्षता ।
 
 '''दासीभारादि''' a class of words headed
 by the word दासीभार which,although
@@ -19658,8 +19659,8 @@ dra Vyakarana for the term प्रगृह्य
 used by Panini.
 
 '''दिक्शब्द''' a word denoting a direction
-such as पूर्वे, उत्तर and the like, used
-as a substantive, e. g. पूर्वे ग्रामात् , or
+such as पूर्व, उत्तर and the like, used
+as a substantive, e. g. पूर्वो ग्रामात् , or
 showing the direction of another
 thing being its adjective, e. g.
 इयमस्याः पूर्वा; cf Kas, on P. II.3.29.
@@ -19667,8 +19668,8 @@ thing being its adjective, e. g.
 '''दिक्समास''' the bahuvrihi compound
 prescribed by the rule दिङ्नामान्यन्तराले,
 e.g. पूर्वोत्तरा (north-east) or उत्तरपश्चिमा
-(north-west): cf. दिक्समास: दिगुपदिष्ट:
-समास:, Kas. on P.I. 1.28.
+(north-west): cf. दिक्समासः दिगुपदिष्टः
+समासः, Kas. on P.I. 1.28.
 
 '''दिगादि''' a class of words headed by
 the word दिक् to which the tad.affix
@@ -19709,10 +19710,10 @@ XXIII. 15.
 '''दीर्घ''' long: a term used in connec-
 tion with the lengthened tone of
 a vowel described to be dvimatra
-as contrasted with हृख having one
+as contrasted with ह्रस्व having one
 matra and प्लुत having three ma-
-tras; cf. द्विस्तावान् ददीर्घः V. Pr. I. 35,
-V. Pr. I. 57, also ऊकालोज्झ्रस्वदीर्घप्लुत:
+tras; cf. द्विस्तावान् दीर्घः V. Pr. I. 35,
+V. Pr. I. 57, also ऊकालोज्झ्रस्वदीर्घप्लुतः
 P, I.2.27.
 
 '''दीर्घविधि''' a grammatical operation
@@ -19731,8 +19732,8 @@ rule वृद्धिर्यस्याचामादिस्तद् �
 affixes can be syntactically con-
 nected only with some difficulty;
 cf.बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात् षच्। स्वाङ्गवाची
-यः सक्थिशब्दः अक्षिशब्दश्च तदन्ताद् बहुघ्नीहेः
-षच् भवति | सूत्रे तु दुःश्लिष्टविभक्तीनि पदानि
+यः सक्थिशब्दः अक्षिशब्दश्च तदन्ताद् बहुव्रीहेः
+षच् भवति । सूत्रे तु दुःश्लिष्टविभक्तीनि पदानि
 Kas, on P. V. 4.I13. .
 
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''दुःस्पृष्ट'''|center='''185'''|right='''दूषण'''}}
@@ -19740,12 +19741,12 @@ Kas, on P. V. 4.I13. .
 {{Multicol}}           
              
 '''दुःस्पृष्ट''' produced by an incomplete
-contact of the करण : the term is
+contact of the करण; the term is
 applied to the phonetic element
 ळ् which is due to the incomplete
 contact of the organ at the pro-
-duction of the letter ल्: cf दु:स्पृष्ट-
-श्चेति विज्ञेयः: Pan, Siksa 5.
+duction of the letter ल्; cf दु:स्पृष्ट-
+श्चेति विज्ञेयः; Pan, Siksa 5.
 
 '''दुर्गसिंह''' the famous commentator of
 the Katantra sutras, whose Vrtti
@@ -19759,7 +19760,7 @@ on the Katantra Vyakarana
 sutras, is attributed to Durga-
 simha. It is doubtful whether
 this commentator Durgasimha is
-the same as Durgicarya, the
+the same as Durgacarya, the
 famous commentator of Yaska's
 Nirukta. There is a legend that
 Durgasimha was the brother of
@@ -19781,7 +19782,7 @@ author of the well-known work
 Amarakosa.
 
 '''दुर्गादास''' a grammarian who wrote
-(a) a gloss on Bopadevas Mug-
+(a) a gloss on Bopadeva's Mug-
 dhabodha, (b) a gloss named घातु-
 दीपिका on Kavikalpadruma and
 (c) Sabdarnavakosa.
@@ -19796,7 +19797,7 @@ explaining words which are difficult
 to derive according to rules of
 Panini. The work is written in
 the style of a running commen-
-tary on select sutras of Paini,
+tary on select sutras of Panini,
 devoted mainly to explain difficult
 formations. The author of it,
 Saranadeva, was an eastern gra-
@@ -19807,7 +19808,7 @@ work, was a great scholar of the
 
 '''दुर्घटवृत्तिसंस्करण''' a grammar work
 on the formation of difficult
-words attributed to शर्वरक्षिषत or
+words attributed to शर्वरक्षित or
 सर्वरक्षित.
 
 '''दुर्धटोद्धार''' name.of a commentary by
@@ -19821,9 +19822,9 @@ treatise, he has written commen-
 taries on Nagesa's Laghumanjusa
 and Paribhasendusekhara.
 
-'''दुस्स्पृष्ट''' see दु:स्पृष्ट
+'''दुस्स्पृष्ट''' see दुःस्पृष्ट
 
-'''दूषकरदोद्रेद्''' name of a commentary,
+'''दूषकरदोद्भेद''' name of a commentary,
 on the Paribhasendusekhara of
 Nagesa, believed to have been
 written by Gopalacārya Karhadkar,
@@ -19848,7 +19849,7 @@ make his argument well establis-
 {{rule}}
 {{Multicol}}               
 hed; cf.नित्यवादी कार्यपक्षे दूषणमाह-कार्येष्विति
-Mahव्र. Prad. on P.I. 1.44 Wart.!6.
+Maha. Prad. on P.I. 1.44 Vart.!6.
 
 '''दूस''' tad. affix prescribed after the
 word अवि in the sense of milk(दुग्ध)
@@ -19862,7 +19863,7 @@ to which the tad. affix य ( ष्यञ् )
 or इमन् ( इमनिच् ) is added in the
 sense of nature ( भाव ); त्व and तल्
 ( ता ) can, of course, be added
-optionally e.g. दाढर्यम्, द्रढिमा दृढत्वम्,
+optionally e.g. दार्ढ्यम्, द्रढिमा दृढत्वम्,
 दृढता.See also लावण्य शैत्य, औष्ण्य, जाड्य,
 पाण्डित्य, मौर्ख्य etc.; cf Kas. on
 P. V. 1. 123. 
@@ -19880,14 +19881,12 @@ tion, or application of a rule of
 grammar in accordance with the
 words seen in use. See दृष्ट.
 
-
 '''दृष्टान्त''' similar instance,generally quot-
 ed to explain effectively some rules
 or conventions laid down; cf. ननु
 चायमप्यस्ति दृष्टान्तः समुदाये वाक्यपरिसमाप्ति-
 रिति । तद्यथा गर्गाः शतं दण्ड्यन्तामिति M.Bh. 
 on P.I. 1. 7.
-
 
 '''दृष्टापचार''' discrepant, characterized
 by discrepancy; cf. यद्यपि तावदयं
@@ -19906,15 +19905,15 @@ of which it appears similar to a
 {{Multicol-break}}
 word ending in the dual number,
 and (b) that both the words retain
-their original accents.e.g. इन्द्रासोमैौ,
-सौमापूष्णा, अग्नीषोमाभ्यां, मित्रावरुणाभ्याम् : for
+their original accents.e.g. इन्द्रासोमौ,
+सौमापूषणा, अग्नीषोमाभ्यां, मित्रावरुणाभ्याम् ; for
 changes, cf. P. VI.3.25-31; for
 accent, cf. देवताद्वन्द्वानि चानामन्त्रितानि
 (द्विरुदात्तानिं) । इन्द्राबृहस्पतिभ्याम्, इन्द्राबृहस्पती
 इति त्रीणि V. Pr. II.48, 49; cf. also
 देवताद्वन्द्वे च P. VI, 2.141.
 
- देवनन्द्रिन् called also पूज्यपाद or पूयपाद-
+'''देवनन्दिन्''' called also पूज्यपाद or पूज्यपाद-
 देवनन्दिन् believed to have lived in
 the fifth century A. D. and written
 the treatise on grammar, of course
@@ -19991,13 +19990,13 @@ Samhita text, cf..T. Pr. I. 59.
 of slightly less, or almost similar,
 optionally prescribed with the
 affixes कल्प and देश्य e. g. मृदुकल्पः,
-मृदुदेश्य:. मृदुदशीयः cf.Kas, on P.V.3.67.
+मृदुदेश्यः. मृदुदशीयः cf.Kas, on P.V.3.67.
 
 '''देश्य''' (l) tad. affix in the sense of
-almost similar; see देशीयर् above:
+almost similar; see देशीयर् above;
 (2) (words) current in popular use
 or language, although not sanction-
-ed by rules of grammar: cf. देश्याः
+ed by rules of grammar; cf. देश्याः
 सूत्रनिबन्धाः क्रियन्ते M.Bh. on P. V.
 3.55: cf. देश्या देष्टव्याः साधुत्वेन प्रतिपाद्या:,
 Kaiyata on V. 3.55; probably
@@ -20007,7 +20006,7 @@ way meaning ' current in use', as
 many words called bad words,
 introduced from other languages
 were current at his time which he
-was reluctant to term देश्य
+was reluctant to term देश्य.
 {{Multicol-break}}
 '''दैव''' name of a system of grammar or
 a work on grammar the peculi-
@@ -20015,18 +20014,18 @@ arity of which is the omission of
 the एकशेष topic; cf. अनेकशेषं दैवं स्यात्
 
 '''दैवादिक''' a root belonging to the
-fourth conjugation of roots.( दिवादिगण ): 
-cf.जसु ताडेन इति चुरादौ पठ्यते
-तस्येदं ग्रेहणं, न देवादिकस्य, Kas. on P. II
+fourth conjugation of roots.( दिवा-
+दिगण ); cf.जसु ताडेन इति चुरादौ पठ्यते
+तस्येदं ग्रहणं, न देवादिकस्य, Kas. on P. II
 3.56.
 
 '''देवेन्द्र''' name given to a work on
 grammar, presumably the same as
 जैनेद्र-शब्दानुशासन written by पूज्यपाद-
-देवनान्दिन्. See जेनेन्द्रव्याकरण.
+देवनन्दिन्. See जेनेन्द्रव्याकरण.
 
-'''दोष''' (1) a fault of pronunciation; . cf
-एताः स्वरदोषभावनाः अतोन्ये व्यञ्जनदोषा:
+'''दोष''' (1) a fault of pronunciation; cf
+एताः स्वरदोषभावनाः अतोन्ये व्यञ्जनदोषाः
 M.Bh. on I. 1.1 Vart.18 (2) defect
 shown in connection with an ex-
 pression or explanation.
@@ -20036,19 +20035,19 @@ Nagesa's Paribhisendusekhara wri-
 tten by मन्नुदेव of the eighteenth
 century.
 
-'''दोशोद्धार''' name of a commentary on
+'''दोषोद्धार''' name of a commentary on
 Nagesa's Laghusabdendusekhara
 written by मन्नुदेव of the eighteenth
 century.
 
-'''द्य''' tad. affix द्य, applid to इदम् in the
+'''द्य''' tad. affix द्य, applied to इदम् in the
 sense of ' a day ', when इदम् is
 changed into अ ( अश् ) ; e. g- अद्य,
 cf. P.V. 3.22 Vart. 5.
 
 '''द्यस्''' tad. affix द्यस्, applied to the
 word समान when समान is changed
-into स: e.g. सद्यः, cf. सद्यः परुत्परायैषम: P.
+into स; e.g. सद्यः, cf. सद्यः परुत्परार्यैषमः P.
 V.3.22: cf. also समानस्य सभावो द्यश्चाहनि
 P. V. 3.22, Vart. 1
 
@@ -20059,16 +20058,16 @@ compound word ) which is used in
 Panini's grammar.
 
 '''द्युतादि''' a class of roots headed by
-the root द्युत् , the aorist sign चिल
+the root द्युत् , the aorist sign च्लि
 after which gets ( अ ) अङ् substi-
-tuted for it: e.g. अघ्युतत् , अश्वितत्: cf.
-Kas. on P. III.1.55. and I.3.91.<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''द्युस् '''|center='''188'''|right='''दुत'''}}
+tuted for it: e.g. अद्युतत् , अश्वितत्; cf.
+Kas. on P. III.1.55. and I.3.91.<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''द्युस् '''|center='''188'''|right='''द्रुत'''}}
 {{rule}}
 {{Multicol}}
 
-'''द्युस् ''' tad. affix द्युस applied to the word
+'''द्युस् ''' tad. affix द्युस् applied to the word
 उभय in the sense of a day; e.g.
-उभयद्यु: cf. P. V. 3.22 Vart. 7.
+उभयद्युः cf. P. V. 3.22 Vart. 7.
 
 '''द्योतक''' indicative, suggestive; not
 directly capable of expressing the
@@ -20076,25 +20075,25 @@ sense by denotation; the nipatas
 and upasargas are said to be 'dyo-
 taka' and not 'vacaka' by stand-
 ard grammarians headed by the
-Varttikara; cf. निपातस्यानर्थकस्यापि
+Varttikakara; cf. निपातस्यानर्थकस्यापि
 प्रातिपदिकत्वम् P.I.2.45 Varttika 12; cf.
 Kaiyata also on the above; cf also
 निपाता द्योतकाः केचित्पृथगर्थाभिधायिनः Vak-
-yapadya II.194;, गतिवाचकत्वमपि तस्य
+yapadiya II.194;, गतिवाचकत्वमपि तस्य
 ( स्थाधातोः ) व्यवस्थाप्यते, उपसर्गस्तु तद्यो-
 तक एव com. on Vakyapadiya II.
-190; cf. पश्चाच्छ्रोतुर्बोधाय द्योतकोपसर्गसंबन्द:
+190; cf. पश्चाच्छ्रोतुर्बोधाय द्योतकोपसर्गसंबन्ध:
 Par. Sek. on Pari. 50; cf also इह
-स्वरादयो वाचका: चादयो द्योतका इति भेदः
+स्वरादयो वाचकाः चादयो द्योतका इति भेदः
 Bhasa Vr. om P.I.1.37.The Karma-
 pravacaniyas are definitely laid
 down as dyotaka, cf. क्रियाया द्योतको
-नायं न संबन्धस्य वाचक: । नापि क्रियापदाक्षेपीं
-संबन्धस्य तु भेदक: Vakyapadiya II.206:
+नायं न संबन्धस्य वाचकः । नापि क्रियापदाक्षेपीं
+संबन्धस्य तु भेदकः Vakyapadiya II.206;
 the case affixes are said to be
-any way, 'vacaka' or 'dyotaka': cf.
-वाचिका द्योतिका वा स्युर्द्विकत्त्वादीनां विभक्तयः
-Wakyapadiya II. 165.
+any way, 'vacaka' or 'dyotaka'; cf.
+वाचिका द्योतिका वा स्युर्द्वित्त्वादीनां विभक्तयः
+Vakyapadiya II. 165.
 
 '''द्योतन''' conveyance of sense indirectly
 or by suggestion, and not directly.
@@ -20110,7 +20109,7 @@ P. I. 4.84.
 
 '''द्रव्य''' substance, as opposed to गुण pro-
 perty and क्रिया action which exist
-on dravya. The word सुत्व is used
+on dravya. The word सत्त्व is used
 by Yaska, Panini and other gram-
 marians in a very general sense
 as something in completed forma-
@@ -20126,22 +20125,22 @@ I. 4.57; cf. S.K. also on P. I.4.57.
 in the sense of an individual
 object, as opposed to the genus or
 generic notion ( अाकृति ); cf. द्रव्याभि-
-धानं व्याडि:, M. Bh. on P. I. 2. 64.
+धानं व्याडिः, M. Bh. on P. I. 2. 64.
 Vart. 45.(3)The word द्रव्य is found
 used in the sense of Sadhana or
 means in Tait. Prati. cf. तत्र शब्द-
-द्रव्याण्युदाहरिष्याम:| शब्दरूपाणि साधनानि वर्ण-
-यिष्याम: Tai, Pr. XXII. 8.
+द्रव्याण्युदाहरिष्यामः । शब्दरूपाणि साधनानि वर्ण-
+यिष्यामः Tai, Pr. XXII. 8.
 
 '''द्रव्यपदार्थिक''' a grammarian who main-
 tains that 'dravya' or 'individual
 object' is the sense of words; cf.
-न ह्याकृतिपदार्थिकस्य द्रव्ये न पदार्थि, द्रव्य-
-पदार्थिकस्य वाकृतिर्न पदार्थ: । M. Bh. on
+न ह्याकृतिपदार्थिकस्य द्रव्ये न पदार्थो, द्रव्य-
+पदार्थिकस्य वाकृतिर्न पदार्थः । M. Bh. on
 I.2.64 Vart. 53. See द्रव्य.
 
 '''द्रव्यवचन''' expressive of substance as
-their sense as opposed to गुणवचन:
+their sense as opposed to गुणवचन;
 cf. उभयवचना ह्येते शुक्लादयः द्रव्यं चाहुर्गुणं च। 
 M. Bh. on P. V.1.119.
 
@@ -20157,8 +20156,8 @@ vidual object as the sense of words
 as opposed to आकृत्यभिधान i, e.
 denotation of the general form
 possessed by objects of the same
-class; of द्रव्याभिधानं व्याडि: P. I.2.64
-Vart. 45. See द्रढय. 
+class; of द्रव्याभिधानं व्याडिः P. I.2.64
+Vart. 45. See द्रव्य. 
 
 '''द्रुत''' lit. rapid; the vice of rapidity in
 utterance;a fault of speech especi-
@@ -20166,32 +20165,32 @@ ally in connection with the uttera-
 nce of vowels in Vedic recital when
 on account of haste the utterance
 of letters becomes indistinct. cf.
-संदृष्टमणीकृतमर्धकं द्रुतं विकीर्णमेताः स्वरद्रोषभा-
+संदृष्टमेणीकृतमर्धकं द्रुतं विकीर्णमेताः स्वरद्रोषभा-
 वनाः । M. Bh. Ahnika 1 vart. 18.
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''द्रुतबोध'''|center='''189'''|right='''द्विकर्मक'''}}
 {{rule}}
 {{Multicol}}    
 
-'''द्रुतबोध''' name of a treatise on gram- !
+'''द्रुतबोध''' name of a treatise on gram- 
 mar written for beginners by
 Bharatasena or Bharatamalla of
 Bengal in the sixteemth century.
 
-'''दुता''' one of the three Vrttis or styles
+'''द्रुता''' one of the three Vrttis or styles
 of utterance mentioned in the
 Pratisakhya works and quoted in
-the Mahabhasya; cf.तित्रो वृत्तीरुपदिदन्ति
-वाचो विलम्बितां मध्यमां च दुतां च | अभ्यासार्थे
-दुतां वृत्तिं प्रयोगार्थे तु मध्यमाम् | शिष्याणा-
-मुपदेशार्थे कुर्याद् वृत्ति विलम्बिताम् | R. Pr.
-XIII. 18, 19;cf. य हि दुतायां वृत्तौ वर्णा-
+the Mahabhasya; cf.तित्रो वृत्तीरुपदिशन्ति
+वाचो विलम्बितां मध्यमां च दुतां च । अभ्यासार्थे
+दुतां वृत्तिं प्रयोगार्थे तु मध्यमाम् । शिष्याणा-
+मुपदेशार्थे कुर्याद् वृत्ति विलम्बिताम् । R. Pr.
+XIII. 18, 19; cf. ये हि द्रुतायां वृत्तौ वर्णा-
 स्त्रिभागाधिकास्ते मध्यमायां, ये मध्यमायां
-वर्णास्त्रिभागाधिकास्ते विलासिबतायाम् | M. Bh.
+वर्णास्त्रिभागाधिकास्ते विलाम्बितायाम् । M. Bh.
 on P. I.1.70, Vart. 4. The utte-
 rance of a letter takes ，1/3 rd time
 more in the मध्यमवृत्ति than in the
-दुतवृत्ति, while in the विलम्बितवृत्ति it
-takes ，1/3 rd more than in the
+द्रुतवृत्ति, while in the विलम्बितवृत्ति it
+takes 1/3 rd more than in the
 मध्यमवृत्ति. In short, the utterance of
 the same letter takes in the
 three vrttis, Druta, Vilambita and
@@ -20201,14 +20200,14 @@ pectively.
 
 '''द्रोणिका''' a kind of the position of the
 tongue at the time of pronounc-
-ing the letter ष्।
+ing the letter ष्.
 
 '''द्वन्द्ध''' name of a compound, formed of
 two or more words used in the
 same case, showing their collection
-together: cf. चार्थे द्वन्द्वः P. II.2.29.
+together; cf. चार्थे द्वन्द्वः P. II.2.29.
 Out of the four meanings of the
-indeclinable  च, viz.समुच्चय
+indeclinable  च, viz.  समुच्चय
 अन्वाचय, इतरेतरयोग and समाहार, the
 dvandva compound is sanctioned
 in the last two senses only called
@@ -20222,8 +20221,8 @@ several objects together i.e. when
 there is, in short, सहविवक्षा orयुगपदधि-
 करणवचनता; cf. अनुस्यूतेव मेदाभ्यां एका
 {{Multicol-break}}
-प्रख्येापजायते | यस्यां सहविवक्षां तामाहुद्वन्द्वै-
-कशेषयो:|| Sr. Pr. II. The gender of
+प्रख्योपजायते । यस्यां सहविवक्षां तामाहुर्द्वन्द्वै-
+कशेषयोः । Sr. Pr. II. The gender of
 a word in the द्वन्द्वसमास is that of the
 last word in the case of the इतरेत-
 रद्वन्द्व, while it is the neuter gender
@@ -20232,49 +20231,49 @@ in the case of the समाहारद्वन्द्व.
 '''द्वयसच्''' tad. affix द्वयस, in the sense of
 measure, prescribed optionally
 along with the affixes दघ्न and मात्र;
-cf. ऊरू: प्रमाणमस्य ऊरुद्वयसम्: Kas. on P.
-V. 2.37: fem. ऊरुद्वयसी, cf.P.IV.1.15.
+cf. ऊरू प्रमाणमस्य ऊरुद्वयसम्; Kas. on P.
+V. 2.37; fem. ऊरुद्वयसी, cf.P.IV.1.15.
 
 '''द्वारादि''' a class of words headed by
 the word द्वार् which get the aug-
-ment एच् (i.e. ऐ or औ ) placed
+ment ऐच् (i.e. ऐ or औ ) placed
 before the letter य or व in them,
 instead of the substitution of
 vrddhi, when a taddhita affix mark-
 ed with the mute letter ञ्,ण्, or क्
-is added to them: e. g. दौवारिक:
-सौवस्तिक:, शौवम्, शौवनम् etc.; cf Kas.
+is added to them; e. g. दौवारिकः
+सौवस्तिकः, शौवम्, शौवनम् etc.; cf Kas.
 on P, VII .3,4.
 
 '''द्वि''' a term used for the dual number
-in the Pratisakhya works: cf. नो नौ
+in the Pratisakhya works; cf. नो नौ
 मे मदर्थे त्रिद्व्येकेषु V. Pr. II. 3 where
 Uvvata has explained the words
 त्रि, द्वि and एक as बहुवचन, द्विवचन and
 एक्वचन respectively.
 
-'''द्वि:''' doubled; the term is used in
+'''द्विः''' doubled; the term is used in
 connection with reduplication in
 the Katantra and Haima gram-
 mars cf. Hem. IV.1.1, Kat.III 8.
 10.
 
-'''द्विःप्रयीग''' doubling, putting a word or
+'''द्विःप्रयोग''' doubling, putting a word or
 word element twice;the words द्वित्व
 and द्विर्वचन are used in the same
 sense.
 
 '''द्वि:स्पृष्ट''' a word used many times
 synonymously with दु:स्पृष्ट; the
-letters ळ्, ळ् ह्, and upadhmaniya(प्)
-are termed द्वि:स्पृष्ट or दु:स्पृष्ट.
+letters ळ्, ळ् ह्, and upadhmaniya(xप्)
+are termed द्विःस्पृष्ट or दुःस्पृष्ट.
 
 द्विकर्मक a term used in connection
 with roots governing two objects
 or two words in the accusative
 case, e.g. दुह् in, गां दोग्धि पयः; the
 term कर्म according to the strict
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''कायेयोग'''|center='''190'''|right='''द्वित्व्'''}}
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''कार्ययोग'''|center='''190'''|right='''द्वित्व'''}}
 {{rule}}
 {{Multicol}}
 
@@ -20302,10 +20301,10 @@ two grammatical operations result-
 ing into a conflict and creating a
 doubt as to which of the two
 should take place first; cf.द्विकार्ययोगो
-हि विप्रतिषेध: M.Bh. on P.I.1.3 Vart.
+हि विप्रतिषेधः M.Bh. on P.I.1.3 Vart.
 6; I.1.12; etc. The term विप्रतिषेध
 occurring in the rule विप्रतिषेधे परं
-क,र्यम् P. I.4.2 is evidently defined
+कार्यम् P. I.4.2 is evidently defined
 in this way by the word द्विकार्ययोग
 in the Mahabhsya.
 
@@ -20313,20 +20312,20 @@ in the Mahabhsya.
 word separated into two by ava-
 graha in the Padapatha; the word
 is misstated as दुखण्ड by some
-vedic rcciters.
+vedic reciters.
 
 '''द्विगु''' name of a compound with a
 numeral as the first member. The
 compound is looked upon as a
 subdivision of the Tatpurusa com-
-Pound- The dvgu compound,
+Pound- The dvigu compound,
 having collection as its general
 sense, is declined in the neuter
 gender and singular number;
 when it ends in अ the fem. affix
 ङी is added generally, e. g. पञ्चपात्रम्,
-त्रिभुवनम्, पञ्चमूली. The Dvigu com
-Pound also takes place when a ,
+त्रिभुवनम्, पञ्चमूली. The Dvigu com-
+Pound also takes place when a 
 {{Multicol-break}}
 karmadharaya compound, having
 a word denoting a direction or a
@@ -20334,29 +20333,29 @@ numeral as its first member, (a)
 has a tad. affix added to it e.g.
 पञ्चकपाळः (पुरोडाशः), or (b) has got a
 word placed after it in a com-
-pound e. g. पश्चगवधन: or (c) has a
-collective sense e.g. पञ्चपूली: cf. तद्वि-
+pound e. g. पशञ्चगवधनः or (c) has a
+collective sense e.g. पञ्चपूली; cf. तद्वि-
 तार्थोत्तरपदसमाहारे च ( P. II.1.51 ) also,
 cf Kas. and S. K. om P.II.1.51,52.
 
-'''द्विगुपाद्''' a Popular name given by
+'''द्विगुपाद''' a Popular name given by
 grammarians to the fourth quar-
 ter of the second Adhyaya of
-Panini Astadhyayi which begins
+Panini's Astadhyayi which begins
 with the sutra द्विगुरेकवचनम् II. 4.1.
 
 '''द्वितीय''' the second consonant in the
 five groups of consonants, surd
 aspirate, cf. T.Pr. I. 11: V. Pr.I. .
 54, R. Pr. VI. 15; it is called
-द्वितीयत्पर्श  also.
+द्वितीयतस्पर्श  also.
 
 '''द्वितीयद्विर्वचन''' the reduplication of a
 root beginning with a vowel
 prescribed by the rule अजादेर्द्वितीयस्य
 P. VI. 1.2.
-'''
-द्वितीया''' the second case the accusa-
+
+'''द्वितीया''' the second case; the accusa-
 tive case, mainly prescribed for a
 word which is related as a karma-
 karaka to the activity in the sen-
@@ -20370,14 +20369,14 @@ the root before the personal end-
 ing: e.g. बभूव, चकार, ऊर्णुनाव etc.
 cf P. VI. 1.1,2; (2) a root before
 the vikarana affixes सन्, यङ्, श्लु
-and चङ् e. g. बुभूषति, चेक्रीयत, चर्करीति,
+and चङ् e. g. बुभूषति, चेक्रीयते, चर्करीति,
 जुहोति, अचीकरत् etc. cf. P. VI. 1.9-
 l l ; (3) a word ending in अम् .
 ( णमुल् ) in the sense of repetition,
 e. g. स्मारं स्मारं वक्ष्ये, भोजं भोजं व्रजति cf.
-आभीक्ष्ण्ये द्वे भवत: P. VIII. 1.12 Vart.
+आभीक्ष्ण्ये द्वे भवतः P. VIII. 1.12 Vart.
 7; (4) any word (a) in the sense of
-comstant or frequent action, (b) in
+constant or frequent action, (b) in
 the sense of repetition, (c) showing
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''द्विदण्ड्यादि'''|center='''191'''|right='''द्विहृल्'''}}
 {{rule}}
@@ -20389,13 +20388,13 @@ the beginning of a sentence in some
 specified senses; reduplication is
 also prescribed for the prepositions
 परि, प्र, सम्, उप, उद्, उपरि, अधि, अघस्
-in some specified senses cf
+in some specified senses cf.
 P. VIII. 1.1 to 15. A letter ex-
 cepting हृ and र्, is also repeated,
 if so desired, when (a) it occurs
 after the letter ह् or र् ， which is pre-
 ceded by a vowel e g. अर्क्कः अर्द्धम्
-etc. cf VIII. 4.46: or when (b) it
+etc. cf VIII. 4.46; or when (b) it
 is preceded by a vowel and follow-
 ed by a consonant e. g. दद्ध्यत्र,
 म्द्धवत्र cf. P. VIII. 4.47. For
@@ -20410,27 +20409,28 @@ Literature cf. R. Pr. VI. 1.4; T.
 Pr. XIV. 1-8 V, Pr. IV. 101-118.
 
 '''द्विदण्ड्यादि''' a class of words, which
-are headed by the word द्विदण्डे 
+are headed by the word द्विदण्डि
 and which are all bahuvrihi com- 
 pounds, to which the affix इ is
 found added as a Samasanta affix
-e. g- द्विदण्डि:, सपदि etc.; cf Kas. on
+e. g- द्विदण्डिः, सपदि etc.; cf Kas. on
 P.v. 4.128.
 
-'''द्विरुक्त ''' repetition of a word, or of a
+'''द्विरुक्ति ''' repetition of a word, or of a
 letter or of a root. See द्वित्व.
 
 '''द्विरुच्चारण''' phonemic utterance a
-second time; see द्विल्व.
+second time; see द्वित्व.
 
 '''द्विरूपवत्''' phonemically repeated; see
-द्वित्व
+द्वित्व.
+
 '''द्विर्भाव''' repetition, reduplication. See
-द्वित्व
+द्वित्व.
 
 '''द्विर्वचन''' see द्वित्व and द्विरुक्ति; the word
 is very frequently used in the
-Mahabhsya instead of द्वित्व. cf.
+Mahabhasya instead of द्वित्व. cf.
 M Bh on I. 1. Ahnika 1, I. 1.7,
 10, 57, 59. etc. etc.
 {{Multicol-break}}
@@ -20441,17 +20441,17 @@ dual number; cf M. Bh. on I. -
 द्विवचनम् Kas. on P. V. 3.57.
 
 '''द्विवचस्''' a word in the dual number ;
-cf. षष्ठादयश्च द्विवचोन्तभाज: R. Pr. I. 28
+cf. षष्ठादयश्च द्विवचोन्तभाजः R. Pr. I. 28
 where the word द्विवचस् is explain- 
-ed as द्विवचनाभिधायिन: by Uvvata.
+ed as द्विवचनाभिधायिनः by Uvvata.
 
 '''द्विचत्''' a syllable consisting of two
 consonants; cf. R. T. 245.
 
-'''द्विवर्ण''' (1) a repeated consonant: cf.
+'''द्विवर्ण''' (1) a repeated consonant; cf.
 द्विवर्णमेकवर्णवत्, V. Pr. IV. 144: (2)
-doubling, repetition: cf ह्र्स्वपूर्वो
-ङकारो द्विवर्णम् T. Pr. IX. 18: cf. also
+doubling, repetition: cf ह्रस्वपूर्वो
+ङकारो द्विवर्णम् T. Pr. IX. 18; cf. also
 T. Pr. XIV. 1, R. Pr. IX. 18.
 
 '''द्विस्''' double reduplicated; the word
@@ -20461,7 +20461,7 @@ words in the PratiSakhya Litera-
 ture as also in the Katantra,
 Sakatayana and Haima grammars
 cf. R. Pr. VI. 1, XV. 5, V. Pr.
-IV. 101, R, T. 264: cf. also Kat.
+IV. 101, R, T. 264; cf. also Kat.
 III. 8.10, Sak. IV. 1.43; Hem.
 IV. 1.1.
 
@@ -20474,7 +20474,7 @@ and followed also by a vowel:
 e. g. अभूदुभा उ अंशवे, R. Pr. II. 44.
 
 '''द्विस्वर''' possessed of two vowels,dis- 
-syllabic: cf. न पदे द्विस्वरे नित्यम् T.
+syllabic; cf. न पदे द्विस्वरे नित्यम् T.
 Pr. XVI. 17.
 '''
 द्विस्स्पृष्ट''' a term used for an
@@ -20483,73 +20483,73 @@ element resulting from a visarga
 followed by the letter प्， or फ़्.
 See उपध्मांनीय.The word is also used
 sometimes for the pronunciation ळ्
-of ड्, and ळह् of ढ्. See दुःस्पृष्ट. 
+of ड्, and ळ्ह् of ढ्. See दुःस्पृष्ट. 
 
-'''द्विहल''' possessed of two consecutive
+'''द्विहल्''' possessed of two consecutive
 consonants; cf. तस्मान्नुड् द्विहलः, P. VII.
 4 71 : cf also M. Bh. on VI. 1.68.
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''द्वेधम्'''|center='''192'''|right='''धर्मकीर्ति'''}}
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''द्वैधम्'''|center='''192'''|right='''धर्मकीर्ति'''}}
 {{rule}}
 {{Multicol}}             
 
-'''द्वेधम्''' used adverbially for द्विधा
-in'the sense of *optionally' or in
-two ways': cf. द्वैधं शब्दानामप्रतिपत्तिः
+'''द्वैधम्''' used adverbially for द्विधा
+in'the sense of ’optionally' or 'in
+two ways'; cf. द्वैधं शब्दानामप्रतिपत्तिः
 M. Bh. on P. I. 1. 44 vart. 15.
 
 '''द्वैपद्''' group of two words; an express-
-ion consisting of two words; cf प्र्
+ion consisting of two words; cf प्र
 वोचं नः सुमना द्वैपदाश्च R. Pr. VIII. 2.
 10; X. 3; XI. 37 etc.
 
-'''द्यच्''' a word possessed of two
+'''द्व्यच्''' a word possessed of two
 vowels in it; dissyllabic words; the
 word is frequently used in Panini's
 Astadhyayi and Patanjali's Maha-
 bhasya, Kasika Vrtti and other
 works on Panini's grammar.
 
-'''द्यादि''' a class of pronouns headed
+'''द्व्यादि''' a class of pronouns headed
 by the pronoun द्वि to which the
 taddhita affixes called विभक्ति, as
 prescribed by the rules of Panini
-in the rule पञ्चम्यास्तासिल् and the
+in the rule पञ्चम्यास्तसिल् and the
 following ones, are not added. cf.
 P. V. 3. 2.
 
 '''द्व्यूष्मन् ''' name of a Samdhi made up
 of two spirants, or resulting in the
 presence of two spirants or Usman
-letters e.g. निष्षिध्बरी:, स्वस्साता: cf. R.
+letters e.g. निष्षिध्बरी:, स्वस्साता; cf. R.
 Pr. XI. 22.
 
-            '''ध'''
+{{c|'''ध'''}}
 '''घ्'''(I) fourth letter of the dental
 class(तवर्ग) possessed of the proper-
 ties नादानुप्रदान, घोष, कण्ठसंवृतत्व and
-महाप्रण ; (2) substitute ध् ， for the हृ of
-नह्य् before a ' jhal ' consonant or
+महाप्रण ; (2) substitute ध् ， for the ह् of
+नह् before a ' jhal ' consonant or
 at the end of a word e. g. नद्धम्,
-उपानत्, cf. P. VIII. 2. 34: (3)
+उपानत्, cf. P. VIII. 2. 34; (3)
 substitute ध् for the letters त् and थ्
 placed after a fourth letter, e. g
 लब्धुम्, दोग्धा etc. cf. P. VIII. 2. 40.
 
 '''घ''' a technical term in the Jainen-
-dra Vyakarna for the term सर्व-
+dra Vyakarana for the term सर्व-
 नामस्थान of Panini used for the first
-five case affixes सु, औ, असु, अम्, ओ
+five case affixes सु, औ, अस्, अम्, ओ
 and इ (nom. and acc. pl. neuter
 gender); cf P. I. I. 42, 43.
 {{Multicol-break}}
 '''धनजित्''' name of the author of a short
 metrical treatise on roots named
-धातुक्रल्पलतिक्रा.
+धातुक्रल्पलतिका.
 
 '''धमुञ्''' tad. affix optionally substitu-
 ted in the place of the tad. affix धा
-after the words द्वि and त्रि: e. g.
-द्विधा, द्वौधम्, त्रिधा, त्रैधम्: cf. P. V. 3.45.
+after the words द्वि and त्रि; e. g.
+द्विधा, द्वौधम्, त्रिधा, त्रैधम्; cf. P. V. 3.45.
 
 '''धरणीधर''' a grammarian of the six-
 teenth century at the court of
@@ -20560,12 +20560,12 @@ commentary on the Siksa of Panini.
 
 '''धर्म''' defined as ऋषिसंप्रदाय, the tradi-
 tional practices laid down by the
-sages for posterity; cf.केवलमृषिसेप्रदायो
-धर्म इति कृत्वा याज्ञिक्रा: शास्त्रेण अनुविदधते M.
-Bh. I. 1. Ahnika I ; cf also धर्मशत्रम्
+sages for posterity; cf.केवलमृषिसंप्रदायो
+धर्म इति कृत्वा याज्ञिक्राः शास्त्रेण अनुविदधते M.
+Bh. I. 1. Ahnika I ; cf also धर्मशास्त्रं
 in एवं च कृत्वा धर्मशास्त्रं प्रवृत्तम् M. Bh.
 on P. I. 2.64, as also धर्मसूत्रकाराः in
-नैवेश्वर् आज्ञापयति नापि धर्मसूत्रकाराः पठन्ति
+नैवेश्वर आज्ञापयति नापि धर्मसूत्रकाराः पठन्ति
 अपवादैरुत्सर्गा बाध्यन्तामिति M. Bh. on I.
 l.47; (2) religious merit, cf. धर्मोपदे-
 शनमिदं शास्त्रमस्मिन्ननवयवेन शास्त्रार्थः संप्रतीयते ,
@@ -20583,15 +20583,15 @@ in a substance; in the phrase अयं
 ted of this (इदम्) or, in other words
 the designation pot ( घटसंज्ञा ) is the
 predication; the explanation in
-short, can be given as घटत्वबान् इदं-
-पदार्थ: or घटाभिन्नः इदंपदार्थ:
+short, can be given as घटत्ववान् इदं-
+पदार्थः or घटाभिन्नः इदंपदार्थ:
 
 '''धमेकीर्ति''' a Jain scholar called by
 the name कीर्ति also, who was the
 author of धातुप्रत्ययपञ्जिक्रा and रूपावतार
 a well-known treatise on roots;
-cf. बोपदेचमह्याग्राह्यग्रस्तो वामनदिग्गज: | कीर्तेरेव
-प्रसङ्गेन माधवेन समुद्धृत:| He is believed
+cf. बोपदेवमहाग्राहग्रस्तो वामनदिग्गजः । कीर्तेरेव
+प्रसङ्गेन माधवेन समुद्धृतः । He is believed
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''धर्मिन्'''|center='''193'''|right='''धातु'''}}
 {{rule}}
 {{Multicol}}
@@ -20600,15 +20600,15 @@ to have been the first grammarian
 who arranged the sutras of Panini
 according to the subject matter.
 
-धर्मिन् (1)a thing possessed of proper-
-ties, द्रव्य: cf. धर्मशब्देन धर्मी भण्यते Kas.
+'''धर्मिन्''' (1)a thing possessed of proper-
+ties, द्रव्यः cf. धर्मशब्देन धर्मी भण्यते Kas.
 on P.III.3.77;cf also the common
-expression धर्मिग्राहक्रमानात् Par. Sek.
+expression धर्मिग्राहकमानात् Par. Sek.
 on Pari. 55, 66, 79, 82: (2) the
 same as dharma in rare cases
-according to the dictum धमेघर्मिणे-
-रभेदोपचारः e. g. वर्णैकं देहि, पुराणैकं देहृि:
-cf. Durghata Vr. om P, II. 1. 49.
+according to the dictum धर्मघर्मिणो-
+रभेदोपचारः e. g. वर्णैकं देहि, पुराणैकं देहि;
+cf. Durghata Vr. on P. II. 1. 49.
 
 धा tad.affix (l) applied to a numeral
 in the sense of a kind ( प्रकार ) or a
@@ -20620,13 +20620,13 @@ time;e.g. बहुधा दिवसस्य भुङ्क्क्ते a
 
 '''धातु''' a root; the basic word of a
 verbal form,defined by the Bhasya-
-kara as क्रियावचनो धातु: or even
+kara as क्रियावचनो धातुः or even
 as भाववचने धातु:, a word denoting
 a verbal activity. Panini has
 not defined the term as such,
 but he has given a long list of
 roots under ten groups, named
-daSagani, which includes about
+dasagani, which includes about
 2200 roots which can be called
 primary roots as contrasted with
 secondary roots. The secondary
@@ -20634,7 +20634,7 @@ roots can be divided into
 two main groups ( l ) roots
 derived from roots ( धातुजधातवः )
 and (2) roots derived from nouns
-( नामधातव: ). The roots derived
+( नामधातवः ). The roots derived
 from roots can further be classified
 into three main subdivisions : (a)
 causative roots or णिजन्त, (b) desi-
@@ -20644,17 +20644,16 @@ while roots derived from nouns or
 denominative roots can further be
 divided into क्यजन्त, काम्यजन्त, क्यङन्त,
 क्यषन्त, णिङन्त, क्विबन्त and the misce-
-
 llaneous ones ( प्रकीर्ण ) as derived
 from nouns like कण्डू( कण्ड्वादि ) by
 25
 {{Multicol-break}}
 the application of the affix यक् or
-from nouns like सत्य,वेद, पाशा, मुण्ड,मिश्र,
+from nouns like सत्य,वेद, पाश, मुण्ड,मिश्र,
 etc. by the application of the
 affix णिच्. Besides these, there are
 a few roots formed by the applica-
-tion of the affix अाय् and ईय (ईयङ्).
+tion of the affix अाय and ईय (ईयङ्).
 All these roots can further be
 classified into Parasmaipadin or
 Parasmaibhasa, Atmanepadin or
@@ -20677,7 +20676,7 @@ applied by Panini to the roots in
 his Dhatupatha for specific purpo-
 ses; e.g. ए at the end to signify
 prohibition of vrddhi to the penu-
-ltimate अ in the aorist, e.g. अक्रखीत्
+ltimate अ in the aorist, e.g. अकखीत्
 cf. P. VII.2.5; इर् to signify the
 optional substitution of अ or अङ्
 for the affix च्लि of the aorist, e.g.
@@ -20687,16 +20686,16 @@ of the augment इ ( इट् ) before क्त्वा
 e.g. शमित्वा, शान्त्वा; cf. P.VII. 2. 56;
 ऊ to signify the optional applica-
 tion of the augment इ ( इट् ) e.g.
-गोप्ता, गेीपिता, cf. P.VII.2.44: अा to
+गोप्ता, गेीपिता, cf. P.VII.2.44; अा to
 signify the prohibition of the aug-
 ment इट् in the case of the past
-pass. part. e.g. क्ष्विण्ण:, स्विन्न:, cf. P.
+pass. part. e.g. क्ष्विण्णः, स्विन्नः, cf. P.
 VII.2.16; इ to signify the addition
 of a nasal after the last vowel e. g.
 निन्दति from निदि, cf. P. VII.1.58: ऋ
-to signify the prohibition of हृस्व to
+to signify the prohibition of ह्रस्व to
 the penultimate long vowel before
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''धातुकल्पलतिका '''|center='''194'''|right='''घातुप्रदीप'''}}
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''धातुकल्पलतिका '''|center='''194'''|right='''धातुप्रदीप'''}}
 {{rule}}
 {{Multicol}}
             
@@ -20705,10 +20704,10 @@ to signify the substitution of अङ्
 for च्लि in the aorist, e.g. अगमत् cf.
 P. III.1.55: ओ to signify the substitution
 of न् for त् of the past
-pass.part. e.g. लग्न:, अापीन:, सूनः, दून:
+pass.part. e.g. लग्नः, अापीनः, सूनः, दून:
 etc.; cf. P. VIII. 2.45. Besides
 these,the mute syllables ञि, टु and डु
-are prefixed for specific purposes
+are prefixed for specific purposes;
 cf. P. III.2.187, III.3.89 and III.
 3.88. The term धातु is a sufficiently
 old one which is taken by
@@ -20719,20 +20718,20 @@ works, signifying the 'elemental
 (radical)base' for nouns which are
 all derivable from roots according
 to the writers of the Nirukta works
-and the grammarian Sktaayana;
+and the grammarian Siktaayana;
 cf. नाम च धातुजमाह निरुक्ते व्याकरणे शकटस्य
-च तोक्रम् M. Bh. on P. III.3.1. Some
+च तोकम् M. Bh. on P. III.3.1. Some
 scholars have divided roots into
 six categories; cf. तत्र धातवः षोढा
-(a) परिपठिताः भूवादयः:, (b) अपरिपठता
-अान्दोलयत्यादयः:, (c) परिपठितापरिपठिता:
-( सूत्रपठिताः ) स्कुरुकम्भस्तम्भेत्यादयः, (d)
-प्रत्ययधातव: सनाद्यन्ता:, (e) नामघातवः
-कण्ड्वादयः, (f) प्रत्ययनामधातवः होडगल्भक्लीबप्रभृतय:; 
-cf Sringara Prak. I. For
+(a) परिपठिताः भूवादयः, (b) अपरिपठता
+अान्दोलयत्यादयः, (c) परिपठितापरिपठिताः
+( सूत्रपठिताः ) स्कुस्कम्भस्तम्भेत्यादयः, (d)
+प्रत्ययधातवः सनाद्यन्ताः, (e) नामघातवः
+कण्ड्वादयः, (f) प्रत्ययनामधातवः होडगल्भक्ली.
+बप्रभृतयः; cf Sringara Prak. I. For
 details see M.Bh. on P.I.3.I as
-also pp 255, 256 Vol. VII Vyakarana-
-Mahabhasya published by
+also pp 255, 256 Vol. VII Vya-
+karana-Mahabhasya published by
 the D.E. Society, Poona.
 
 '''धातुकल्पलतिका''' a short treatise on the
@@ -20747,10 +20746,10 @@ in the 17th century, Besides
 Karikvali, Varadarja wrote
 लघुकौमुदी and मध्यकौमुदी also.
 
-'''घातुदीपिका''' (l) name of a commentary
-on the Kavikalpadruma of
+'''घातुदीपिका''' (l) name of a comment-
+ary on the Kavikalpadruma of
 {{Multicol-break}}
-Bopadeva by Ramalamkara;
+Bopadeva by Ramalamkara; (2)
 name of a commentary on the
 Kavikalpadruma by Durgadasa
 who wrote a commentary on
@@ -20765,20 +20764,20 @@ grammar. These collections are
 given as necessary appendices
 named खिल to their grammars by
 the well known grammarians of
-Sanskrit such as Panini, Sakatayana,
-and others (2) a small treatise
-on roots written by Bhimasena
+Sanskrit such as Panini, Sakata-
+yana, and others; (2) a small trea-
+tise on roots written by Bhimasena
 of the 14th century.
 
 '''धातुपाठवृत्ति''' a commentary on the
 Dhatupatha by Nagesa.
 
 '''धातुपारायण''' a grammatical treatise
-dealing with roots written as a 
-supplementary work by Jumaranandin
-to his grammar work called
-Rasavati,which itself was a thoroughly
-revised and enlarged edition
+dealing with roots written as a su-
+pplementary work by Jumaranan-
+din to his grammar work called
+Rasavati,which itself was a thorou-
+ghly revised and enlarged edition
 of the रसवती a commentary written
 by Kramadisvara on his own gram-
 mar named संक्षिप्तसार.Jumaranandin
@@ -20793,13 +20792,13 @@ own grammar named Prabodha-
 Prakasa.
 
 '''धातुप्रत्ययपञ्जिका''' a work dealing with
-verbal forms written by Dharmakirti,
-a Jain grammarian of the
+verbal forms written by Dharma-
+kirti, a Jain grammarian of the
 eighth century.
 
 '''धातुप्रदीप''' a work dealing with verbal
-forms written by Maitreya Raksita,
-a Buddhist writer and a
+forms written by Maitreya Rak-
+sita, a Buddhist writer and a
 famous grammarian belonging to
 the eastern part of India who
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''घातुमञ्जरी'''|center='''195'''|right='''धान्यपाद्'''}}
@@ -20821,7 +20820,7 @@ Durghatavrtti on P. II. 4. 52.
 ed to a grammarian namcd Kasi-
 natha.
 
-'''धातुमाल''' a work on roots in verse-
+'''धातुमाला''' a work on roots in verse-
 form attributed to a grammarian
 named Isvarakanta.
 
@@ -20833,8 +20832,8 @@ by Ramasimhavarman.
 believed to have been written by
 Narayana who was given the title
 वन्द्य. He lived in the seventeenth
-century : a work named सारावलिव्याक्ररणा 
-is also believed to have been
+century; a work named सारावलि
+व्याक्ररण is also believed to have been
 written by him.
 
 '''धातुरत्नावली''' a short list of the impor-
@@ -20843,7 +20842,7 @@ Panini, given in verse by चोक्कनाथ  a
 grammarian of the 17th century.
 
 '''धातुलोप''' an elision of a portion of a
-root: cf. न धातुलेप अार्धधातुके, P.I.1 4.
+root; cf. न धातुलेप अार्धधातुके, P.I.1 4.
 
 '''धातुवृत्ति''' a general term applied to a
 treatise discussing roots, but speci-
@@ -20853,7 +20852,7 @@ Madhavacārya, the reputed scholar
 and politician at the court of the
 Vijayanagara kings in the four-
 teenth century, on the Dhatupatha
-ot Paini. The work is generally
+ot Panini. The work is generally
 referred to as माधवीया-धातुवृति to
 distinguish it from ordinary com-
 mentary works called also धातुवृत्ति
@@ -20864,19 +20863,19 @@ Wijayananda and others.
 Verbs believed to have been written
 by Vangasena.
 
-'''घातुसबन्धपाद्''' conventional name given
+'''घातुसबन्धपाद''' conventional name given
 to the fourth pada of Panini's
 Astadhyayi which begins with the
 Sutra धातुसंबन्धे प्रत्ययाः P. III.4.1
 
-'''धातूपदेश्''' enumeration or recital of '
+'''धातूपदेश''' enumeration or recital of 
 roots in the Dhatupatha;cf. प्रकृत्युप-
 पदोपाधयश्वोपदिष्टः। क्व । धातूपदेशे प्रातिपदिको-
-पदेशे च | M. Bh. on P. III. 1 1.
+पदेशे च । M. Bh. on P. III. 1 1.
 
 '''धात्वर्थे''' lit. meaning of a root, the
-verbal activity, mamed क्रिया or भावः .
-cf. धात्वर्थः क्रियां: M. Bh. on III.2.
+verbal activity, named क्रिया or भावः .
+cf. धात्वर्थः क्रिया; M. Bh. on III.2.
 84, III.2.115. The verbal activity
 is described generally to be made
 up of a series of continuous sub-
@@ -20903,9 +20902,9 @@ stated in the Mahbhasya. For
 details see Vaiyak.Bh.Sara, where
 it is said that fruit ( फल) and effort
 ( ब्यापार ) are expressed by a root,
-cf. फलव्यापारयेर्धातुः. The five senses
+cf. फलव्यापारयोर्धातुः. The five senses
 given above are in fact conveyed
-uot by a root, but by a verb or
+not by a root, but by a verb or
 अाख्यात or तिडन्त.
 '''धान्यपाद''' a popular name given to the
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''धारण'''|center='''196'''|right='''ध्यै'''}}
@@ -21457,7 +21456,7 @@ sya ed. D. E. Society, Poona.
 
 '''नाञ्''' see ना.
 
-'''नाटच्'' tad. affix नाट applied to the
+'''नाटच्''' tad. affix नाट applied to the
 prefix अव optionally with the
 affixes टीटच् and भ्रटच्; e. g. अवनाटम्,
 अवटीटम्, अवभ्रटम्; cf Kas. on P. V.
@@ -24119,7 +24118,7 @@ Cidrupasraya, Bhimabhatta, Lak-
 Sminrsimha and a few others.
 Some of these works are named by their authors as Tikaas, others as Vyaakhyaas and still others as Tippanis or Vivrtis.
 
-''परिमल''' a work on Grammar attri-
+'''परिमल''' a work on Grammar attri-
 buted to Amaracandra.
 
 '''परिमाण''' a word used by Panini in
@@ -25701,7 +25700,7 @@ cf. किमयं प्रत्ययनियम: प्रकृतिप�
 प्ररा नेति [ M.Bh. on P.III. 1.2.
 
 '''प्रकृतिप्रत्ययविभाग''' division of a word
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="N.S.SUBRAMANYA" /></noinclude> {{RunningHeader|left='''
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude> {{RunningHeader|left='''
 प्रकृतिप्रत्यापत्ति'''|center='''242'''|right='''प्रक्रियाप्रकाश'''}}
 {{rule}}
 {{Multicol}}     
@@ -25717,7 +25716,7 @@ word; e.g. the restoration of the
 root हन् in कंसवधमाचचष्टे कंसं घातयति; cf.
 आख्याताकृदन्ताण्णिज्वक्तव्यदाचष्टे इत्येत-
 स्मिन्नर्थे | कृल्लुक् प्रकृतिप्रत्यापत्ति: प्रकृतिवच्च कारकं 
-भवतीति वक्तव्यम्, M.Bh. on III. 1 2०
+भवतीति वक्तव्यम्, M.Bh. on III. 1 26
 Vart. 6.
 
 '''प्रकृतिभावें''' phonetical maintenance of
@@ -25736,7 +25735,7 @@ the accent of the afix ( प्रत्ययस्वर )
 which (latter) is looked upon as
 more powerful; cf. (बहुव्रीहौ) पूर्वपदं
 प्रकृतिस्वरं भवति M.Bh, on II.I.24, II.
-2.29 Vart. 17, See Pahini Stutras
+2.29 Vart. 17, See Panini Stutras
 VI.2.1 to 63.
 
 '''प्रकृत्यन्तर''' difference in the radical
@@ -25760,7 +25759,6 @@ VI.4.163
 '''प्रकृष्ट''' superior, excellent; cf.मध्यमश्च शुक्ल-
 इन्दः पूर्वमपेक्ष्यप्रकृष्ट: परमपेक्ष्य न्यूनः न च न्यून:
 {{Multicol-break}}
-
 प्रवर्तते ; M.Bh. on P. V.3.55 Vart. 3.
 
 '''प्रक्रम''' (l) the place of articulation, the
@@ -25772,7 +25770,7 @@ the like; cf. प्रक्रम्यन्ते अस्मिन्व�
 recital of Veda, described as क्रमपाठ
 cf. उभयथा च प्रक्रमे दोषो भवति M.Bh.on
 P. VIII. 4.28 cf. also "अष्टसु प्रक्रमेषु
-दोषौ भवति"quoted in the Mahabha-
+दोषो भवति"quoted in the Mahabha-
 sya on P.VI. 1.172; (3) regularity
 in the position of words, regular
 order of words.
@@ -25795,14 +25793,14 @@ about a dozen viz. प्रक्रियाप्रसाद,
 प्रक्रियाप्रकाश, प्रक्रियाप्रदीप, अमृतस्तुति,
 प्रक्रियाव्याकृति,निर्मलदर्पण,तत्वचन्द्र, प्रक्रियारञ्जन,
 प्रक्रियाविवरण and others of which the
-Prasda of Vitthalesa and the
+Prasada of Vitthalesa and the
 Prakasa of Srikrsna are the well-
 known ones.
 
 '''प्रक्रियाकौमुदीवृत्ति''' called also प्रक्रियाकौ-
-मुदीव्याख्या or even कृष्णपण्डिता ( वृति )
+मुदीव्याख्या or even कृष्णपण्डिता ( वृत्ति )
 written by a learned grammarian
-named Krshapandita belonging to
+named Krsnapandita belonging to
 the famous Sesa family of gra-
 mmarians.
 
@@ -25812,12 +25810,12 @@ a grammarian named Kasinatha
 
 '''प्रक्रियाप्रकाश''' name of the learned
 commentary on the प्रक्रियाकौमुदी,
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="N.S.SUBRAMANYA" /></noinclude> {{RunningHeader|left='''प्रक्रियाप्रदीप'''|center='''243'''|right='''प्रणयन'''}}
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude> {{RunningHeader|left='''प्रक्रियाप्रदीप'''|center='''243'''|right='''प्रणयन'''}}
 {{rule}}
 {{Multicol}}     
                               
 called also प्रक्रियाक्रौमुदीप्रक्राश by
-Krnasesa, the son of Nisirnhasesa,
+Krsnasesa, the son of Nisirnhasesa,
 which is, in a way an improve-
 ment upon the commentary Pra-
 sada of Vitthalesa.
@@ -25831,7 +25829,7 @@ mentary on Ramacandra's Prakri-
 yakaumudi, written by Vitthalesa,
 the grandson of Ramachandra.
 
-'''क्रियासंग्रहृ''' a work on grammar by
+'''प्रक्रियासंग्रहृ''' a work on grammar by
 Abhayacandra in which the Sutras
 of Sakatayana's Sabdanusasana are
 arranged in the form of different
@@ -25842,13 +25840,13 @@ topics of grammar.
 the word प्रगदिन् to which the tad.
 affix य ( ञ्य ) is added in the four
 senses prescribed in P. IV.2.67-70;
-e.g. प्रागाद्यम् , शारद्यम् कौविदार्यम् etc.; cf.
+e.g. प्रागद्यम् , शारद्यम् कौविदार्यम् etc.; cf.
 KaS. on P.IV.2.80
 
-'''पगथ''' a couple of Vedic hymns
+'''पगाथ''' a couple of Vedic hymns
 divided into three hymns for pur-
 poses of singing as Saman; cf. यत्र
-द्वे ऋचौ प्रग्रथनेन तिस्रः क्रियन्तं स प्रगाथनात्
+द्वे ऋचौ प्रग्रथनेन तिस्रः क्रियन्ते स प्रगाथनात्
 प्रकर्षगानाद्वा प्रगाथ इत्युच्यते Kas. on P.IV
 2.55.
 
@@ -25858,6 +25856,7 @@ tion or recital is uttered in a tone
 proper for singing or in a manner
 suitable for singing; cf प्रगीत:
 सामवदुच्चारितः Kaiy. on M.Bh.Ahni.1.
+
 '''प्रगृहीत'''lit. held as it is, uncombin-
 . able by euphonic rules; the same
 as प्रगृह्य.
@@ -25917,13 +25916,13 @@ with many words; e.g. राज्ञो गोश्चाश्वश्च
 word प्रज्ञ to which the tad. affix अ 
 (अण् ) is added without any change
 of sense: e.g. प्राज्ञ:, वाणिज: etc:; cf.
-प्रज्ञ एय प्राज्ञ: | प्राज्ञी स्त्री । यस्यास्तु प्र
-' विद्यते सा प्राज्ञा भवति | Kas. on P.V.
+प्रज्ञ एय प्राज्ञ: | प्राज्ञी स्त्री । यस्यास्तु प्रज्ञा
+विद्यते सा प्राज्ञा भवति | Kas. on P.V.
 4. 38.
 
 '''प्रणयत''' composition ( of the original
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="N.S.SUBRAMANYA" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
                   {{RunningHeader|left='''प्रण्यस्त'''|center='''244'''|right='''प्रतिप्रसव'''}}
 {{rule}}
 {{Multicol}}        
@@ -25935,7 +25934,7 @@ V.4.21 .
 
 '''प्रण्यस्त''' silent: cf. अनादेशे प्रण्यस्ता जिह्वा T.
 Pr. II.20 explained by Uvvata as
-अनादेशे अनुपद् जिह्वा प्रण्यस्ता तूष्णींभूता भवति।
+अनादेशे अनुपदेशे जिह्वा प्रण्यस्ता तूष्णींभूता भवति।
 
 '''प्रतिकण्ठम् (1)''' vocally, pronouncedly,
 expressly without any attention to
@@ -25945,7 +25944,7 @@ tion; c.. सर्वशास्त्रार्थं प्रतिक्
 प्रतिकण्ठ is explained as निपातन by
 Uvvata; cf. प्रतिक्रण्टं निपातनम् : उत्सर्गवि-
 धिभिः   साधयितुमशक्या अपि प्रयोगविशेषा
-निपात्यन्ते ज्ञास्त्रसंपूर्तये. Uvvata on R. Pr.
+निपात्यन्ते शास्त्रसंपूर्तये. Uvvata on R. Pr.
 I.23.
 
 '''प्रतिक्रम''' recital in the reverse order as
@@ -25962,7 +25961,7 @@ Kas. on P. IV.4.99.
 
 '''प्रतिज्ञा''' प्रतिज्ञान also; hypothesis, express
 tenet in a Sastra or convention: cf.
-अाडः स्थः प्रतिज्ञान इति वक्तव्यम् | अास्ति
+अाडः स्थः प्रतिज्ञान इति वक्तव्यम् | अस्ति
 सकारमातिष्टते | आगमौ गुणवृद्धी अतिष्ठते |
 विकारौ गुणवृद्धीं आतिष्ठते Mf.Bh. on P.I.3.
 22; cf also प्रतिज्ञानुनासिक्याः पाणिनीयाः
@@ -25975,11 +25974,11 @@ Kas. on P.I.3.2,VII.1.1, प्रतिज्ञास्वरिताः
 
 '''प्रतिनिर्दिश्यमान''' predicate, as opposed
 to the subject cf. उद्देश्यप्रतिनिर्देश्यमान-
-घौरक्येमापादयत्सर्वनाम पर्यायेण  तत्तल्ल्ङ्गभाक् M.
+घौरेक्यमापादयत्सर्वनाम पर्यायेण  तत्तैल्लिङ्गभाक् M.
 Bh.Pradipa.
 
 '''प्रतिपत्ति '''knowledge, understanding;
-cf. तस्मादनम्युपायः शब्दानां प्रातिपत्तौ प्रतिपद-
+cf. तस्मादनभ्युपायः शब्दानां प्रातिपत्तौ प्रतिपद-
 प्राठः। M.Bh. on Ahn. 1 ; also cf.
 MBh. on P. I. 1. 20. Vart.5 I.1
 {{Multicol-break}}
@@ -25999,7 +25998,7 @@ derstanding the sense: cf. एवं हि प्रतिपत्तिगौ
 
 '''प्रतिपत्तिलाघव''' facility of understand-
 ing: cf. प्रातपातलाघवार्थे ज्ञाजनोर्जा इति
-दीर्घाणन्तादेशविधानम् Sira. Pari. 91.
+दीर्घान्तादेशविधानम् Sira. Pari. 91.
 
 '''प्रतिपद्पाठ (1)'''recital ofeach and every
 word; (2) enumeration of every
@@ -26036,7 +26035,7 @@ counter-exception; cf. याजकादिभिश्चति
 पुनः कारकषष्ठीसमासप्रतिप्रसवाद् ब्राह्मणयाजकादि-
 षु उत्तरपदप्रकृतिस्वर एव ।	Bhasavrtti on
 II.2.16.
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="N.S.SUBRAMANYA" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
  {{RunningHeader|left='''प्रतियेगिन्'''|center='''245'''|right='''प्रतीतार्थ'''}}
 {{rule}}
 {{Multicol}}            
@@ -26046,18 +26045,18 @@ II.2.16.
 चान्तरेण प्रतियेगिनं स्पर्धा  भवति M. Bh. on 
 II. 1.69. Vart. 6; also M.Bh.on  
 VIII. 8.4 Vart. 8; corresponding
-term; ct. प्रथमग्र्हणं च तिययोग्यपेक्षत्वान्नो-
+term; ct. प्रथमग्र्हणं च तियोग्यपेक्षत्वान्नो-
 पयुज्यते Kas. on V. 3.1.
 
 '''प्रतिरूपक''' similar in appearance: cf.
 उपसर्गविभक्तिस्वरप्रतिरूपकाश्च निपाता भवन्ति
 M. Bh. on P. II. 2.24 Vart. 22, as
 also on P. III. 4.2; cf. उपसर्गप्रतिरूपका
-निपाता:, तिडन्तप्रातरूपका निपाता:; cf also
-अस्ति च समासप्रतिरूपको रूढिशाब्दः स्वतन्त्र इति
+निपाता:, तिङन्तप्रतिरूपका निपाता:; cf also
+अस्ति च समासप्रतिरूपको रूढिशब्दः स्वतन्त्र इति
 Nyasa on P. I. 4.54.
 
-'''प्रतिलीम''' lit. regressive; a kind of
+'''प्रतिलोम''' lit. regressive; a kind of
 Sandhi or euphonic combination,
 in which the consonant precedes
 and the vowel comes after it; e. g.
@@ -26065,16 +26064,16 @@ and the vowel comes after it; e. g.
 स्वरा उत्तरे: Uvvata on R. Pr. I. 4.
 
 '''प्रतिवर्ण''' for every letter; corresponding
-to every letter; cf. अनर्थकातु वर्णाः
+to every letter; cf. अनर्थकास्तु वर्णाः
 प्रतिवर्णमर्थानुपलब्धेः M. Bh. on Ahnika
 2, Siva sutra 5.
 
 '''प्रतिविधान''' counteraction; solving a
 difficulty by taking the necessary
-action; cf. अयमिदानीं स प्रतिविंधानकालः
+action; cf. अयमिदानीं स प्रतिविधानकालः
 M. Bh. on P. VII. 4.60 Vart. 4;
 cf. also तत्र प्रातविधानं द्विर्वचननिमित्ते
-अन्वीत्युच्यते, Kas. on P. VI. 1.2; cf.  
+अचीत्युच्यते, Kas. on P. VI. 1.2; cf.  
 also the usual expression प्रतिविधेयं
 दोषेषु M. Bh. on I. 1.39, I. 3.10,
 4.1.l etc,
@@ -26102,7 +26101,7 @@ down by the use of the negative
 particle ( नञ् ) connected with a
 verbal activity, and not with a
 noun in a compound in which
-case the negation is named पयुदास;
+case the negation is named पर्युदास;
 cf. प्रसज्ज्यप्रतिषेधो य: क्रियया सह यत्र नञ् |
 पयुदासः स विज्ञेय: थत्रोत्तरपदेन नञ् |
 
@@ -26138,20 +26137,16 @@ Patanjali.
 
 '''प्रतिहार''' excessive contact with the
 sound-producing organ which is
-looked upon as a fault; cf. वगेषु
-जिह्वाप्रथनं चतुर्षु ग्रासो मुख्ये प्रतिहारश्चतुर्थ |
+looked upon as a fault; cf. वर्गेषु
+जिह्वाप्रथनं चतुर्षु ग्रासो मुख्ये प्रतिहारश्चतुर्थे । |
 चतुर्थ वर्ग ( तवर्गे ) प्रतिहारः अतिप्रयत्नो नाम
-देषो भवति| Uvvata on R. Pr.xIV.7.
+दोषो भवति| Uvvata on R. Pr.xIV.7.
 
 '''प्रतीतार्थ''' whose sense is clear and
 which hence does not require any
 further explanation; cf. यथा चापि
-प्रतीतार्थानि स्युस्तयैनान्याचक्षीरन् | Nir. I.13.
-{{Multicol-end}}
-
-
-
-             </poem><noinclude></noinclude><noinclude><pagequality level="3" user="N.S.SUBRAMANYA" /></noinclude>
+प्रतीतार्थानि स्युस्तथैनान्याचक्षीरन् | Nir. I.13.
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
  {{RunningHeader|left='''प्रतृण्ण'''|center='''246'''|right='''प्रत्ययाविधि'''}}
 {{rule}}
 {{Multicol}}     
@@ -26159,10 +26154,9 @@ further explanation; cf. यथा चापि
 
 '''प्रतृण्ण''' lit. broken or split up; the
 separated words of the Samhita of
-the Vedas i. e. the Padmapatha; the
+the Vedas i. e. the Padapatha; the
 recitation of the Padaptha.; cf.
-ज्ञौद्धाक्षरोच्चारणं
-च प्रतृण्णम् R. Pr. I. 3.
+शौद्धाक्षरोच्चारणं च प्रतृण्णम् R. Pr. I. 3.
 
 '''प्रत्यक्षक्रिय''' a word in which the verbal
 activity is actually noticed, as for
@@ -26177,21 +26171,21 @@ cf. प्रत्याय्यते अर्थ: अनेन इति �
 1.l Vart. 8; The word प्रत्यय is used
 in the Prtisakhya works in the
 sense of 'following' or 'that which
-follows', e. g. स्पर्शे चेषः प्रत्यये पूर्वपद्य:
+follows', e. g. स्पर्शे चोषः प्रत्यये पूर्वपद्य:
 R. Pr. I. 30 which is explained
-by Uvvata as उष: इत्ययं ( इाब्दः )
-पूर्वपदावयवः सन् स्पर्श प्रत्यये परभुते इति यावत्:
+by Uvvata as उष: इत्ययं (  शब्दः )
+पूर्वपदावयवः सन् स्पर्शे प्रत्यये परभूते इति यावत्:
 रेफिसंज्ञो भवति; Uvvata on R. Pr. I.30;
-cf. प्रत्यति पश्चादागच्छति इति प्रत्ययः परः T.
+cf. प्रत्येति पश्चादागच्छति इति प्रत्ययः परः T.
 Pr. V. 7; cf also V. Pr, III. 8.
 Pratyaya or the suffix is generally
 placed after the base; cf, प्रत्ययः,
 परश्च P. III. I. 1,2; but sometimes
 it is placed before the base; e. g.
-बहुपटु: cf. विभाषा सुपो बहुच् पुरस्तातु P.
+बहुपटु: cf. विभाषा सुपो बहुच् पुरस्तात्तु P.
 V. 3.68. The conjugational signs
 (शप् , श्यन् etc.), the signs of tenses
-and moods ( चिल, सिच् , स्य, ताम् etc.)
+and moods ( च्लि, सिच् , स्य, ताम् etc.)
 and the compound endings(समासान्त)
 are all called pratyayas according
 ＾ fo Panini's grammar, as they are
@@ -26202,14 +26196,14 @@ chapter ( अध्याय ). There are six
 main kinds of affixes given in
 grammar सुप्प्रत्यय, तिङ्प्रत्यय, कृत्प्रत्यय ,
 तद्धितप्रत्यय,.घातुप्रत्यय (e.g. in the roots
-चिकीषि, कण्डूय etc.) and स्त्रीप्रत्यय. The
+चिकीर्ष, कण्डूय etc.) and स्त्रीप्रत्यय. The
 word प्रत्यय is used in the sense of
 realization, in which case the root
 इ in the word त्यय means'knowing'
 {{Multicol-break}}
 
 according to the maxim सर्वे गत्यर्था
-ज्ञानार्थाः; cf. मन्त्रार्थप्रस्ययाय Nir. I.15.
+ज्ञानार्थाः; cf. मन्त्रार्थप्रत्ययाय  Nir. I.15.
 
 '''प्रत्ययग्रहणपरिभाषा''' the guiding rule
 that when an affix ( प्रत्यय ) is
@@ -26223,7 +26217,7 @@ and ends with the affix itself; cf.
 यञियोश्च, which prescribes the affix
 फक् (आयन),has the word यञ् and इञ्
 which respectively mean यञन्त and
-इञन्त; in the word परमगार्म्यायण from
+इञन्त; in the word परमगार्ग्यायण from
 परमगार्ग्य the word गार्ग्य is looked
 upon as यञन्त to which फक् (अायन) is
 affixed and hence the word परमगार्ग्या-
@@ -26233,9 +26227,9 @@ affixed and hence the word परमगार्ग्या-
 roots which are formed by adding
 affixes like णिच् , सन् , यङ् etc. to
 primary roots or by the addition
-of affixes like द्य्किप्, क्यच् , कायच् etc. 
+of affixes like क्विप्, क्यच् , कायच् etc. 
 to nouns; e. g. कामय, ह्यारय, चिकीर्ष,
-जिहीर्ष, जेघ्रीय,चकीय, गङ्गीय, राजाय, पुत्रकाम्य
+जिहीर्ष, जेघ्रीय,चेकीय, गङ्गीय, राजाय, पुत्रकाम्य
 etc.; cf. सनाद्यन्ता धातव: P.1II.. 1.32;
 cf also प्रत्ययधातु । गोपायति, धूपायति,
 ऋतीयते M. Bh. on VI. 1.162 Vrt.3.
@@ -26258,9 +26252,9 @@ elided; cf. प्रत्ययलोपे प्रत्ययलक्ष�
 
 '''प्रत्ययविधि''' a rule prescribing the addi-
 , tion of a suffix; cf. यस्मात्प्रत्ययाविधि-
-स्तदादि तययेङ्गम्, P.I.3.13.
+स्तदादि प्रत्ययेङ्गम्, P.I.3.13.
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="N.S.SUBRAMANYA" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
  {{RunningHeader|left='''प्रत्ययंस्वर'''|center='''247'''|right='''प्रत्यासत्ति'''}}
 {{rule}}
 {{Multicol}}             
@@ -26268,7 +26262,7 @@ elided; cf. प्रत्ययलोपे प्रत्ययलक्ष�
 '''प्रत्ययस्वर''' an accent caused by virtue
 of the affix which is added; cf.
 यथैव हि निपातनस्वरः प्रकृतिस्वरं बाधेत एवं
-प्रत्ययस्वरमपि बाधेत । लतिशिटत्वाप्रत्थयस्वरो
+प्रत्ययस्वरमपि बाधेत । लतिशिष्टत्वाप्रत्थयस्वरो
 भविष्यति | M. Bh. on P. I.I 56 Vart.
 23.
 
@@ -26277,12 +26271,12 @@ affix, a secondary base as opposed
 to the original base, which is des-
 cribed to be of six kinds. सुप्प्रत्ययान्ता
 (प्रकृतिः) as in अहंयुः, सायंतनम् etc.;
-तिङ्प्रत्ययान्ता as in पचातितराम् , आस्तिक:,
-पचतभृज्ञता etc.; कृत्प्रत्ययान्ता as in कृत्रिमम्
+तिङ्प्रत्ययान्ता as in पचतितराम् , आस्तिक:,
+पचतभृज्जता etc.; कृत्प्रत्ययान्ता as in कृत्रिमम्
 सांराविणम् etc.; तद्धितप्रत्ययान्ता as in
 गार्ग्यायणः, तत्रत्यः etc.: धातुसंज्ञाप्रत्ययान्ता as
 in चिकीर्षा, कण्डूया etc.: स्त्रीप्रत्ययान्ता as in
-गङ्गय:, गौरेय:, काद्रवेय: etc.
+गङ्गेय:, गौरेय:, काद्रवेय: etc.
 
 ''' प्रत्ययार्थ  ''' the meaning of an affix.
 Generally meanings are assigned
@@ -26302,7 +26296,7 @@ P.I.2.64 Vart. 5.
 thing) by a word , cf. ताभ्यामिति
 संप्रदानार्थ प्रत्यवमर्शः Kas.on P. III.4.75;
 cf.also तन्नामिकाभ्य इति सर्वनाम्ना प्रत्ययप्रकृतेः
-प्रत्यबमई: Kas. on P.IV.1.113.
+प्रत्यवमई: Kas. on P.IV.1.113.
 
 '''प्रत्याख्यान''' rejection of a rule or a
 word or words in a rule shown as
@@ -26315,10 +26309,10 @@ shown as served otherwise; cf. लुपि
 '''प्रत्याख्यानपक्ष''' an alternative which
 proposes the rejection of something
 such as a rule or its part; cf. यदि
-प्रत्याख्यान प्रक्ष: इदमपि प्रत्याख्यायते M. Bh.
+प्रत्याख्यान पक्ष: इदमपि प्रत्याख्यायते M. Bh.
 {{Multicol-break}}
 
-on Siva Stra 4; cf also अदीबयुरिति
+on Siva Stra 4; cf also अदीवयुरिति
 पदकारस्च प्रत्याख्यानपक्षे उदाहरणमुपपन्नं भवति
 Vyadi Pari. 42.
 
@@ -26342,7 +26336,7 @@ Vart.2; restoration to the previous
 nature; cf. अकारस्य प्रत्यापत्तौ दीर्घप्रातिषेध।
 खट्वा,माला । M.Bh. on P. VIII.4.68.
 
-'''मत्याम्नाय''' literally, repetition in a con-
+'''प्रत्याम्नाय''' literally, repetition in a con-
 trary way; in the Pratisakhya
 literature, the word refers to the
 repetition of a Vedic passage;
@@ -26370,7 +26364,7 @@ M. Bh. on P. VI-3.46.
 प्रत्यासाति immediate proximity; close
 contact; the same as प्रत्यासङ्ग which
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Satishkoth" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
     {{RunningHeader|left='''प्रत्यासत्तिन्याय'''|center='''248'''|right='''प्रथम'''}}
 {{rule}}
 {{Multicol}}     
@@ -26461,7 +26455,7 @@ particular rule in case that rule
 had not been stated or a word or
 more of it had been omitted; cf.
 न केवलानि चर्चापदानि व्याख्यानं वृद्धिः आत्
-ऐच् इति ， किं तर्हि । उदाहरणं प्रत्युदाहरणं
+ऐच् इति । किं तर्हि । उदाहरणं प्रत्युदाहरणं
 वाक्याध्याहारः इत्येतत् समुदितं व्याख्यानं
 भवति । M. Bh. in Ahnika 1.
 
@@ -26478,7 +26472,7 @@ consonants of the five vargas or
 groups of consonants; cf. प्रथमैर्द्विती-
 यास्तृतीयैश्चतुर्थाः V. Pr. IV. 110 cf.
 प्रथमतृतीयादीनामादेशादित्वादेत्वाभावः, M.Bh.
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Satishkoth" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
  {{RunningHeader|left='''प्रथमा'''|center='''249'''|right='''प्रधानशिष्ट'''}}
 {{rule}}
 {{Multicol}}     
@@ -26510,7 +26504,7 @@ as करण.
 
 '''प्रदीप''' popular name of the famous
 commentary on the Mahabhasya
-of Patafijali written by the reput-
+of Patanjali written by the reput-
 ed grammarian Kaiyata in the
 eleventh century A. D. The corn-
 mentary is a very scholarly and
@@ -26527,7 +26521,7 @@ by Bhartrhari, which is available
 at present only in a fragmentary
 form. The Pradipa is to this day
 looked upon as the single com-
-mentary on the Mahabhasya in |
+mentary on the Mahabhasya in 
 spite of the presence of a few other
 commentaries on it which are all
 thrown into the back-ground by it.
@@ -26701,7 +26695,7 @@ Paribhasas  are laid down by
 grammarians. For details see
 Paribhashasamgraha Introduction.
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nirmala V A" /></noinclude>{{RunningHeader|left='''प्रयेोगपळव'''|center='''251'''|right='''प्रवर्तना'''}}
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''प्रयेोगपल्ल्व'''|center='''251'''|right='''प्रवर्तना'''}}
 {{rule}}
 {{Multicol}}
              
@@ -26747,7 +26741,7 @@ ture: cf महान् हि शब्दस्य प्रयोगवि�
 सप्तद्वीपा वसुमती त्रयो लोकाः चत्वारो वेदाः
 साङ्गाः सरहस्याः बहुधा विाभन्नाः, एकशतमध्व-
 र्युशाखाः, सहस्रवर्त्मा सामवेद:, एकविंशतिधा
-बाह्व्रुच्यं, नवधाथर्वणो वेदो वाकोवाक्यामितिहासः
+बाह् वृच्यम् , नवधाथर्वणो वेदो वाकोवाक्यामितिहासः
 पुराणं वैद्यकमित्येतावाञ्शब्दस्य प्रयोगविषय: M.
 Bh. Ahnika 1. Vrt. 5
 
@@ -26794,10 +26788,11 @@ I. 2.65.
 R. Pr. XV. 16; cf also इति प्र बाभ्रव्य
 उवाच च क्रमं क्रमप्रवक्ता ( बाभ्रव्यः ) प्रथमं
 शशंस च ,R.Pr.XI 33 (2) the
-reaading of the Samhita text प्रवचनो
+reading of the Samhita text प्रावचनो
 वा यजुषि | प्रवचने भवः स्वरः प्रावचनः ;
 प्रवचनशब्देनार्षपाठ उच्यते 1 V. Pr. I. 132.
- प्रवण circumflex accent; possessed of
+
+प्रवण circumflex accent; possessed of
 svarita accent; cf. सुर्वः प्रवण इत्येके |
 प्रकर्षेण वन्येत व्युत्क्षिप्यते इति प्रवणः स्वरितस्वर:
 T. Pr. I. 47; cf. also प्रवणे यष्टव्यम् M.
@@ -26810,26 +26805,26 @@ by Kaiyatabhatta.
 प्रवर्तना incitement or inducement
 which is the sense of 'lin'
 affixes in general ;cf. प्रवर्तनायां लिङ्
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nirmala V A" /></noinclude>{{RunningHeader|left='''प्रवाद्'''|center='''252'''|right='''प्रश्श्लिष्ट'''}}
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left='''प्रवाद्'''|center='''252'''|right='''प्रश्श्लिष्ट'''}}
 {{rule}}
 {{Multicol}}        
            
 '''प्रवाद''' a grammatical explanation;
 detailed explanation by citing the
 gender, number, krt affix, tad.affix
-and the like: cf. लिङ्गसंख्यातद्धितक्रुतरूप-
+and the like: cf. लिङ्गसंख्यातद्धितकृतरूप-
 भेदाः प्रवादाः । पाण्यादिशब्दानां प्रवादेषु प्रथमो
 (original) नकारो णत्वमाप्नोति स च प्राकृतः |
 T. Pr. XIII. 9. The word is ex-
-plained as a change in the forma
+plained as a change in the form
 of a word, as for instance, by the
 substitution of स् for विसर्ग where
 विसर्ग is, in fact, expected; cf. कबन्धं
 पृथु इत्येतेषां पदानां प्रवादा रूपभेदा उदये
 परत्रावस्थिता: दिव इत्येतस्य उपचारं जनयन्ति |
-यथा दिवस्क्रबन्धम् , दिवस्पृथ्: Uvvata on
-R. Pr. IV. 22: cf. also प्रत्रादाः षडितः
-पर, R. Pr. IX. 18. In the Nirukta,
+यथा दिवस्कबन्धम् , दिवस्पृथ्: Uvvata on
+R. Pr. IV. 22: cf. also प्रवादाः षडितः
+परे, R. Pr. IX. 18. In the Nirukta,
 the word is used in the sense of
 'distinct mention'; cf. एवमन्यासामपि
 देवतानामादित्यप्रवादा: स्तुतयो भवन्ति ( dei-
@@ -26840,9 +26835,9 @@ name of Aditya) Nir II.13; cf also
 '''प्रवादिनः''' scholars who explain the
 changes ( प्रवाद ) mentioned above;
 possibly the Padakaras or writers
-of the पदपाठ;cf प्रवादिनो दूणाशदूरिवदूलभान्
+of the पदपाठ;cf प्रवादिनो दूणाशदूढ्यदूलभान्
 ... महाप्रदेशं स्वधितीव चानयेन्नुदच्च R Pr.
-KI. 20. Apparently प्रवादिनः ( nom.
+XI. 20. Apparently प्रवादिनः ( nom.
 sing.) seems to be the word in the
 explanation of Uvvata.
 
@@ -26852,17 +26847,17 @@ which are joined together by San-
 dhi rules in a compound ( समास )
 or otherwise, with a very short
 pause ( अवग्रह ) after each word.
-e. g. उद् उ एति instead of उद्वति: cf.
-प्रविग्रहेण मृद्ववग्रहेण चर्चयेयुः R. Pr. XV.10,
+e. g. उद् उ एति instead of उद्वेति: cf.
+प्रविग्रहेण मृदूवग्रहेण चर्चयेयुः R. Pr. XV.10,
 where Uvvata remarks प्रविग्रहेषु प्रश्लिष्टं
 विश्लिष्टं कुर्यात् | कालाधिक्येन कुर्यात्। तथा च
-उद् उ एति इति पठेन्न तु उद्वति.
+उद् उ एति इति पठेन्न तु उद्वेति.
 
 '''प्रविभक्त''' made separate with their
 Component parts shown clearly:
 Split up into component parts in
-such a way thattheir meaning
-also is fully stated cf तद्धितसमासं
+such a way that their meaning
+also is fully stated cf तद्धितसमासे
 {{Multicol-break}}
 
 ष्वेकपर्वसु चानेकपर्वसु च पूर्वे पूर्वे अपरं अपरं
@@ -26870,34 +26865,34 @@ also is fully stated cf तद्धितसमासं
 वा दण्डेन संपद्यते इति वा | Nir.II.2.
 
 '''प्रवृत्त ( I)''' complete: cf. अथ य प्रवृत्त अथे
-अामृताक्षरेषु ग्रन्थेषु वाक्यपूरणां आगच्छन्ति पदपू-
-रणार्ते, Nir. I. 9; (2) which has pre-
+अमिताक्षरेषु ग्रन्थेषु वाक्यपूरणा आगच्छन्ति पदपू-
+रणास्ते, Nir. I. 9; (2) which has pre-
 Sented itself, which has become
 applicable; the word is used in
 connection with a grammatical
 rule or operation : cf. एवं च कृत्वा
 धर्मशास्त्रं प्रवृत्तम् : M. Bh. on P. I. 2.64
-Vart.39; समुदाये व्राह्मणशब्दः प्रवृतेवयवष्वपि
-वर्तते जातिहीने गुणहृीने च	M.Bh. on II.
-2.6; cf. दर्विस्ये यण् हृस्व इति प्रवृत्तं, M.
+Vart.39; समुदाये व्राह्मणशब्दः प्रवृतेवयवेष्वपि
+वर्तते जातिहीने गुणहृीने च । M.Bh. on II.
+2.6; cf. दीर्घस्य यण ह्र्स्व  इति प्रवृत्तं, M.
 Bh. on P. VI.1.77; also cf. यद्यपि
-डिचल्ययमपवादः ... तातेड मन्थरं प्रवृत्त: परेण
+ङिल्येयमपवादः ... तातङि मन्थरं प्रवृत्त: परेण
 बाध्यते S. K. on P.VII.1.35.
 
 '''प्रवृत्ति''' (l) application or presentation
-ofa rule as opposed to निवृात: cf
-क्रचित्प्रवृत, कचिदप्रवृतिः कचिद्विभाषे कावद-
-न्यदवः (2) working : function; cf. नान्त-
+of a rule as opposed to निवृत्तिः cf
+क्वचित्प्रवृत्तिः, कचिदप्रवृत्तिः कचिद्विभाषा क्वचिदन्य-
+देवः  (2) working : function; cf. नान्त-
 रेण साधन क्रियायाः प्रवृत्तिर्भवति M. Bh. on
 P.II.3.7.
 
 '''प्रवृत्तिनिमित्त''' cause of the application
 of a word which is shown by the
 word when the affix त्च orता is
-added to it: cf. तस्य भावस्त्वतले | इाब्दस्य
-प्रवृत्तिनिमित्तं भावळादेनोच्यते, Kas. on P.W.
-' .119. There are given four such
-causes जाति, गुण, क्रिया and संज्ञ
+added to it: cf. तस्य भावस्त्वतलौ | इाब्दस्य
+प्रवृत्तिनिमित्तं भावशब्देनोच्यते, Kas. on P.V.
+1.119. There are given four such
+causes जाति, गुण, क्रिया and संज्ञा । 
 
 '''प्रवृत्तिभेद्''' difference regarding the
 cause of application cf. पूर्वमिति
@@ -26907,11 +26902,11 @@ cause of application cf. पूर्वमिति
 '''प्रवृद्धादि''' a class of compound words
 headed by the word प्रवृद्ध in which
 the second word, which is a past
-pass part, has its last vowel
+pass. part, has its last vowel
 accented acute; cf. प्रवृद्धं यानम्, प्रयुक्ताः
-सक्तवः, खट्वारूढः ' आकृतिगणश्च प्रवृद्धादिद्र-
-घन्यः तेन पुनरुत्स्यूतं वासे देयमित्यादि सिद्धं
-भवति Ka8. on P.VI.2. 147.
+सक्तवः, खट्वारूढः ' आकृतिगणश्च प्रवृद्धादिद्रष्टव्यः । 
+तेन पुनरुत्स्यूतं वासे देयमित्यादि सिद्धं भवति 
+Kas. on. on P.VI.2. 147.
 
 '''प्रश्श्लिष्ट''' (l) an additional letter (vowel
 or consonant) read on splitting up
@@ -27367,7 +27362,7 @@ the reverse of अा, or प्रति means the
 reverse of अभि; cf अा इत्यर्वागर्थे | प्र
 परेत्येतस्य प्रातिलोम्यम् etc. Nir. I. 4.
 
-'''प्रातिशाख्य'' a work on Vedic grammar
+'''प्रातिशाख्य''' a work on Vedic grammar
 of a specific nature, which is
 concerned mainly with the changes,
 euphonic and others, in the Pada
@@ -27881,7 +27876,7 @@ a scholar of Sanskrit Grammar,
 who has written a book 'Studies
 in Panini's Grammar'.
 
-'''ब'''
+{{c|'''ब'''}}
 
 '''ब्''' third letter of the labial class
 which is soft and inaspirate.
@@ -28523,7 +28518,7 @@ sense of 'nature' or 'duty'; e. g.
 ब्राह्मणादिराकृतिगणः अादिशव्दः प्रकारवचन:
 Kas. on P. V.1.24. 
 
-'''भ'''
+{{c|'''भ'''}}
 
 '''भ्''' fourth letter of the labial class
 which is possessed of the pro-
@@ -29201,7 +29196,7 @@ term is used in connection with
 letters that are uttered imperfect-
 
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
   {{RunningHeader|left='''भुग्न'''|center='''274'''|right='''भेद्य'''}}
 {{rule}}
 {{Multicol}}    
@@ -29313,7 +29308,7 @@ word which is qualified; cf. भेद्यं
 विशेष्यम् Kāś. on P. II. 1.57.
 
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
  {{RunningHeader|left='''भैमव्याकरण'''|center='''275'''|right='''भ्रष्टावसर'''}}
 {{rule}}
 {{Multicol}}        
@@ -29420,7 +29415,7 @@ passed; the word is used in connection
 with the application of a
 rule even though the proper time
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
 {{RunningHeader|left=
 '''भ्राज'''|center='''276'''|right='''मञ्जूषा'''}}
 {{rule}}
@@ -29529,7 +29524,7 @@ MB.h. on P. V.2.4.
 work परमलघुमञ्जूषा of Nāgeśa on अर्थप्रक्रिया 
 (science or method of interpretation) 
 in Vyākaraṇa, which is
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
 {{RunningHeader|left=
 '''मतु'''|center='''277'''|right='''मत्वर्थीय'''}}
 {{rule}}
@@ -29639,7 +29634,7 @@ word मतुप् above.
 '''मत्वर्थीय''' an affix which has got the
 sense of मतु ( मतुप् ). See the words
 मतुबर्थिक and मतुबर्थीय above. 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
 {{RunningHeader|left=
 '''मध्य'''|center='''278'''|right='''मध्योदात्त'''}}
 {{rule}}
@@ -29692,7 +29687,7 @@ in this sense as qualifying a
 mode of utterance. वृत्ति; cf.
 अभ्यासार्थे द्रुतां वृत्तिं प्रयोगार्थे तु मध्यमाम् !
 Ṟ. Pr. XIII. 19; cf also चतुष्कला
-मध्यमायाम् R. T. 32; (3) one of the
+मध्यमायार्म् R. T. 32; (3) one of the
 seven modes of speech or tones.
 {{Multicol-break}}
 
@@ -29748,8 +29743,8 @@ middle rule of exception; see
 to the मध्य vowel which is neither
 the initial ( अादि) nor the final one
 ( अन्त ) as laid down by the rule
-उपोन्तमं रिति P. VI.1.217; cf. मध्यो-
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>
+उपोत्तमं रिति P. VI.1.217; cf. मध्यो-
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>
  {{RunningHeader|left=
 '''मध्वादि'''|center='''279'''|right='''मय्'''}}
 {{rule}}
@@ -29801,7 +29796,7 @@ called कातन्त्रधातुवृत्ति also.
 
 '''मनोरमाकुचमर्दन''' name given in a bantering 
 tone to the treatise प्रौढमनोरमाखण्डन 
-written by जनन्नाथपण्डित.
+written by जगन्नाथपण्डित:
 
 '''मन्तुदेव''' known also as मन्नुदेव, a famous
 grammarian of the eighteenth
@@ -29835,7 +29830,7 @@ came to mean any sacred text or
 even any mystic formula, which
 was looked upon as sacred. Still
 later on, the word came to mean a
-secret counsel. For details see Goldsūcker's 
+secret counsel. For details see Goldstūcker's 
 Pāṇini p. 69, Thieme's
 'Pāṇini and the Veda ' p. 38.
 
@@ -29853,14 +29848,14 @@ XIII. 17; cf. also मन्द्रमध्यमताराणि
 kṛt. affix त्रि ( क्त्रि) prescribed after
 roots characterized by the mute
 syllable डु: e.g. कृत्रिमम् , पवित्रमम् etc.
-क्त्रेर्भम्नित्यम् P.IV. 4.20. 
+वत्रेर्मम्नित्यम् P.IV. 4.20. 
 
 '''मय्''' abbreviated term or pratyāhāra
 for all the consonants of the five
 classes or Vargas excepting the
 
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Rajeshvara" /></noinclude>{{RunningHeader|left=
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Narayanan V T" /></noinclude>{{RunningHeader|left=
 '''मय'''|center='''280'''|right='''महाभाष्य'''}}
 {{rule}}
 {{Multicol}}
@@ -29979,7 +29974,7 @@ Sutras of Panini, it has remained
 supremely authoritative and furnishes 
 the last and final word in
 all places of doubt: cf. the remarks
-इति भाष्ये स्थितम्, इत्युक्तं भाष्य, इत्युक्तमाकरे
+इति भाष्ये स्थितम्, इत्युक्तं भाष्ये, इत्युक्तमाकरे
 etc. scattered here and there in
 several Vyaakarana treatises forming 
 in fact, the patent words used
@@ -30013,7 +30008,7 @@ approved, some of which he has
 rejected, and a few of which he has
 supplemented. Besides the Vaarttikas
 which are referred to above, he has
-quoted stanzas which verity sum
+quoted stanzas which verily sum
 up the arguments in explanation
 of the difficult sUtras, composed
 by his predecessors. There is a
@@ -36135,7 +36130,7 @@ preposition उप when the whole
 word is used as the name of a man
 e.g. उपक:; cf. Kāś. on P. V. 3.80.
 
-'''वुञ्'' (ID tad. affix अक causing vṛddhi
+'''वुञ्''' (ID tad. affix अक causing vṛddhi
 to the vowel of the first sylla-
 ble of that word to which it
 is added, as prescribed, (a) to
@@ -37575,7 +37570,7 @@ instead of a restricted one in places
 of doubt; cf. व्याप्तिन्यायाद्वा Kas. on P.
 III. 2. 168.
 
-''व्याप्य''' lit. that which is occupied; 
+'''व्याप्य''' lit. that which is occupied; 
 the word refers to a kind of an object
 where the object is occupied by the
 verbal activity of the transitive
@@ -38251,10 +38246,10 @@ word fit for use by adding proper
 suffixes to the crude base and .
 making the necessary modifica-
 tions cf. नैव व्याकरणादृते शब्दसिद्धिः |
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nirmala V A" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>
 
 {{RunningHeader|left=
-'''इाब्द्सुधा'''|center='''358'''|right='''इामादि'''}}
+'''शब्द्सुधा'''|center='''358'''|right='''शमादि'''}}
 {{rule}}
 {{Multicol}}
              
@@ -38262,7 +38257,7 @@ tions cf. नैव व्याकरणादृते शब्दसिद�
 महादेव on the Katantra sutravrtti
 by Durgasimha.
 
-'''शब्दसुधा''' name ofa grammar work by
+'''शब्दसुधा''' name of a grammar work by
 a grammarian named अनन्तभट्ट.
 
 '''शब्दानुशासन''' lit. science of grammar
@@ -38290,7 +38285,7 @@ as a title to their treatises by later
 grammarians, or was applied to
 the authoritative treatise which
 introduced a system of grammar,
-similar to that of Panini, Hema-
+similar to that of Panini. Hema-
 candra's famous treatise, named
 सिद्धहैमचन्द्र by the author,came to be
 known as हैमशब्दानुशासन. Similarly
@@ -38327,14 +38322,14 @@ permanently established one.
 According to grammarians,words,
 their sense and their connection,
 all the three, are established for
-ever: cf. सिद्ध शव्दार्थसंबन्ध P. I.1.
+ever: cf. सिद्धे शव्दार्थसंबन्ध P. I.1.
 . Varttika 1,and the Bhasya thereon
 सिद्ध शब्द: अर्थः संबन्धश्चेति | Later gra-
 mmarians have described twelve
 kinds of शब्दार्थसंबन्ध viz. अभिधा,विवक्षा,
-तात्पर्य, प्रविभाग, व्यपेक्ष, सामथ्ये अन्वय,
+तात्पर्य, प्रविभाग, व्यपेक्ष, सामर्थ्य अन्वय,
 एकार्थीभाव, दोषहान, गुणोपादान, अलंकारयेाग
-and रसावियोग: cf. SrihgraprakSa.I.
+and रसावियोग: cf. Sringaraprakasa.I.
 
 '''शब्दार्थव्याकरण''' explanation of the
 sense of a word as arising from
@@ -38353,26 +38348,26 @@ by Nagesabhatta. See लघुशब्देन्दुशेखर.
 
 '''शब्देन्दुशेखरटीका, शाब्देन्दुशेखरव्याख्या'''
 See लघुशब्देन्दुशेखरटीका and लघुशब्देन्दुशे-
-खरव्याख्या[.
+खरव्याख्या.
 
 '''शब्दोपदेश''' scientific and authoritative
 citation or statement of a word
 as contrasted with अपशब्दोपदेशः; cf.
-किं शब्दोपदेश: कर्तव्यः आहोस्विदुभयोपदेशः
-आहोस्विदुभयोपदेश इति	M. Bh. in
+किं शब्दोपदेश: कर्तव्यः आहोस्विदपशब्दोपदेशः
+आहोस्विदुभयोपदेश इति	।M. Bh. in
 Ahnika l.
 शमादि a class of eight roots headed
 by शम् which get their vowel
 lengthened before the conjuga-
 tional sign य (श्यन्) as also before the
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nirmala V A" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>
 {{RunningHeader|left=
-'''शाम्भु'''|center='''359'''|right='''शास्'''}}
+'''शम्भु'''|center='''359'''|right='''शास्'''}}
 {{rule}}
 {{Multicol}}
              
 krt. affix इन् ( घिनुण् ) in the sense
-of habituated to': e.g. शाम्यति, शमी,
+of 'habituated to': e.g. शाम्यति, शमी,
 भ्राम्यति, भ्रमी etc.: cf. P.VII.3.74 and
 P. III.2.141.
 
@@ -38380,7 +38375,7 @@ P. III.2.141.
 have composed, or to have inspir-
 ed Panini to compose, the fourteen
 . Sutras अइउण् , ऋलृक् etc. giving the
-alphabet of the Panini system ) cf.
+alphabet of the Panini system ; cf.
 त्रिषष्टिः चतुःषष्टिर्वा वर्णाः शम्भुमते मताः Pan.
 Siksa, St. 3.
 
@@ -38389,17 +38384,17 @@ ing for the three sibilant or spi-
 rant consonants श् , ष् and स्.
 
 '''शरणदेव''' a prominent grammarian of
-the Eastern school of Paninis
+the Eastern school of Panini's
 system of grammar who lived in
 the thirteenth century and wrote
-works on Paniini's grammar. His
+works on Panini's grammar. His
 work named दुर्घटवृत्ति which ex.
 plains according to Panini's rules,
 the Varttikas thereon, and the
 Jnapakas deduced from them,the
 various words difficult to be ex-
 plained, is much appreciated by
-scholars ofgrammar. He has quot-
+scholars of grammar. He has quot-
 ed from a large number of classi-
 cal works, and referred to many
 works of the Eastern grammarians
@@ -38410,15 +38405,15 @@ who followed the Kasika school.
 उपानह् etc. which have the com-
 pound-ending अ (टच् ) added to
 them when they are at the end
-ofthe Avyayibhva compound;e.g
-प्रतिशरदम्, प्रतिविपाशम्.cf Ks. on P.V.
+of the Avyayibhava compound;e.g
+प्रतिशरदम्, प्रतिविपाशम्.cf Kas. on P.V.
 4.107.
 
 '''शरादि''' a class of words headed by the
 word शर which have the tad. affix
-मच (मयट्) added to them in the sense
+मय (मयट्) added to them in the sense
 of 'product' or 'portion': e.g.
-शरमयम् , दर्भमयम् , मृण्मयम्: cf Kas. on
+शरमयम् , दर्भमयम् , मृण्मयम्; cf Kas. on
 P. IV.3.144;(2) a class of words
 headed by शर which get their final
 vowel lengthened before the
@@ -38431,18 +38426,18 @@ forms a proper noun: e.g. शरावती,
 '''शर्करादि''' a class of words headed by
 शर्करा to which the tad. affix अ (अण्)
 is added in the sense of इव viz.
-similarity:cf शर्करेव शाकरम् ,कापालिकम्
-पौण्डरीकम् Ks on P. V. 3.107.
+similarity:cf शर्करेव शार्करम् ,कापालिकम्
+पौण्डरीकम् Kas on P. V. 3.107.
 
 '''शर्ववर्मा''' a reputed grammarian who
 is believed to have been a contem-
 porary of the poet Gunadhya in
-the court of Satavhana. He wrote
+the court of Satavahana. He wrote
 the Grammar rules which are
 named the Katantra Sutras which
 are mostly based on the Sutras of
 Panini. In the grammar treatise
-named *the Katantra Sutra*written
+named 'the Katantra Sutra' written
 by Sarvavarman the Vedic section
 and all the intricacies and difficult
 elements are carefully and scrup-
@@ -38454,13 +38449,13 @@ of average intelligence.
 '''शर्व्यवाय''' intervention by any one of
 the spirants श् , ष् and स्, which
 prevents the substitution of ण् for न्
-but allows the substitution ofष् for
+but allows the substitution of ष् for
 म्; cf. चुटुतुलशर्व्यवाये न M.Bh. on P.
 VIII.4.2 as also नुम्विसर्जनीयशर्व्यवायेपि
-P. WIII.3.58 Wart. 1.
+P. VIII.3.58 Vart. 1.
 
-'''शल्''' short term (प्रत्याहृार ) for the
-sibilantsश्,ष् , स् and ह् cf. शल
+'''शल्''' short term (प्रत्याहार ) for the
+sibilants श्,ष् , स् and ह्; cf. शलं
 इगुपधादनिटः क्स: P.III.1.44.
 
 '''शवर्ग''' class of letters beginning with श्
@@ -38470,14 +38465,14 @@ i.e the consonants श् , ष् , स् and ह् .
 mmar by शशिदेव which is mention-
 ed by Al Beruni.
 
-'''शस्''' (l) case affix ( स् ) of the accu-
-sative plural;cf. स्वौजसमौट्शास्o P.IW.
+'''शस्''' (l) case affix (अस् ) of the accu-
+sative plural;cf. स्वौजसमौट्शस्o P.IV.
 1.2; (2) tad.affix applied to words
 meaning much or little as also to
 a numeral: e.g. बहुशो ददाति, अल्पशो
 ददाति, द्विश:, त्रिश:, पादशः etc., cf.
-P. V.4.42, 43. v
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Shubha" /></noinclude>{{RunningHeader|left='''शांकरी'''|center='''360'''|right='''शाकलप्रतिषेध'''}}
+P. V.4.42, 43. 
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>{{RunningHeader|left='''शांकरी'''|center='''360'''|right='''शाकलप्रतिषेध'''}}
 {{rule}}
 {{Multicol}}
              
@@ -38486,7 +38481,7 @@ bhatta's Vaiyakaranabhusanasara
 by Samkara; (2) name of a com-
 mentary on the Paribhasendu-
 sekhara of Nagesa written by
-5ankarabhatta; (3) The Vyakarana
+Sankarabhatta; (3) The Vyakarana
 vidya or instructions in Grammar
 given by God Siva to Panini on
 which the Siksa of Panini has been
@@ -38495,7 +38490,7 @@ based.
 '''शाकट''' a tad. affix added optionally
 with शाकिन to the words इक्षु and
 others in the sense of a field pro-
-aucing the thing; e.g. इक्षुशाकटम् ;
+ducing the thing; e.g. इक्षुशाकटम् ;
 cf. P.V.2.29.
 
 '''शाकटायन'''(1) name of an ancient re-
@@ -38503,7 +38498,7 @@ puted scholar of Grammar and
 Pratisakhyas who is quoted by
 Panini. He is despisingly referred
 to by Patanjali as a traitor gra-
-mmrian sympathizing with the
+mmarian sympathizing with the
 Nairuktas or etymologists in hold-
 ing the view that all substantives
 are derivable and can be derived
@@ -38512,21 +38507,21 @@ from roots; cf तत्र नामान्याख्यातजानी�
 नाम च धातुजमाह निरुक्ते व्याकरणे शकटस्य च
 तोकम् M. Bh on P.III.3.1. Sakata-
 yana is believed to have been the
-author of the Undisutrapatha
+author of the Unadisutrapatha
 as also of the RkTantra Pratisakhya
-of the Sव्रmaveda ; (2) name of a
+of the Samaveda ; (2) name of a
 Jain grammarian named पाल्यकीर्ति
-शाकटायन who jived in the ninth
+शाकटायन who lived in the ninth
 century during the reign of the
 Rastrakuta king Amoghavarsa and
 wrote the Sabdanusana which is
-much similar to the Sutraptha of
+much similar to the Sutrapatha of
 Panini and introduced a new Syst-
 em of Grammar. His work named
-the Sabdnusasana consists of four
+the Sabdanusasana consists of four
 chapters which are arranged in the
 form of topics, which are named
-सुद्धि. The grammar work is called
+सिद्धि. The grammar work is called
 शब्दानुशासन.
 
 '''शाकटायनतरङ्गिणी''' a commentary on
@@ -38537,13 +38532,13 @@ Sakatayana's Sabdanusana.
 grammar written by sakatayana।
 See शाकटायन.
 
-'''शकटायनशब्दानुशासन''' name of the
+'''शाकटायनशब्दानुशासन''' name of the
 treatise on grammar written by
 पाल्यकीर्ति-शाकटायन.
 
 '''शाकपार्थिवादि''' a class of irregular
 samanadhikarana , Samasas, or
-Karmadhraya compound forma-
+Karmadharaya compound forma-
 tions, where according to the
 sense conveyed by the compound
 word, a word after the first word
@@ -38556,13 +38551,13 @@ M.Bh. on P.II.1.69 Vart. 8.
 
 '''शाकपूणि''' an ancient writer of Nirukta
 who is quoted by Yaska; cf. विद्युत्
-तडिद्भवतीतिं शाकपूणि; Nir. III. 1, or
+तडिद्भवतीति शाकपूणि; Nir. III. 11, or
 मानेन अन्यत् जहातीति महानिति शाकपूणिः
 Nir. III. 13 or ऋत्विक्कस्मात् । ईरणः ।
 ऋग्यष्टा भवतीति शाकपूणिः  Nir.III.19
 
-'''शाकल''' a word frequently uscd in the
-Mahabhsya for a grammatical
+'''शाकल''' a word frequently used in the
+Mahabhasya for a grammatical
 operation or injunction ( विधि )
 which forms a specific feature of
 the grammar of शाकल्य, viz. that the
@@ -38572,7 +38567,7 @@ shortening of them, if they are
 long;cf.इकोsसवर्णे शाकल्यस्य ह्रस्वश्च P.VI.
 1. 127; शाकल्यस्य इदं शाकल्यम् ।; cf. also
 M.Bh. on P.VI.1.77 VI.1.125,VI.
-1.27;VI.2.52, VI1.3.3 and VIII.
+1.27;VI.2.52, VII.3.3 and VIII.
 2.108; (2) pupils of शाकल्य; cf.
 शाकल्यस्य छात्राः शाकलाः  M. Bh. on P.
 IV.I.18;(3) a village in the Vahika
@@ -38586,9 +38581,9 @@ fically mentioned by शाकल्य. See
 
 '''शाकलप्रतिषेध''' prohibition of the
 
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nivedita2015" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>
 {{RunningHeader|left=
-'''शाकल्य'''|center='''361'''|right='''शार्दवदि'''}}
+'''शाकल्य'''|center='''361'''|right='''शार्ङ्गरवादि'''}}
 {{rule}}
 {{Multicol}}
            
@@ -38600,7 +38595,7 @@ vowel following it. See शाकल.
 mmarian and Vedic scholar who
 is supposed to have revised the
 Vedic texts and written their
-Pada-pāṭha. He is often quoted by
+Pada-pātha. He is often quoted by
 Pāṇini and the writers of the
 Prātiśākhya works: cf. शाकल्यस्य संहि-
 तामनुप्रावर्षत् M. Bh. on P.I.4.84; also
@@ -38619,7 +38614,7 @@ sense of a field producing it; e. g.
 '''शाखादि''' a class of words headed by
 the word शाखा which have the
 taddhita affix य added to them in
-the sense of इव i.e. similarity: e.g.
+the sense of इव i.e. similarity; e.g.
 शाख्य:, मुख्यः, जघन्यः etc.; cf. Kas. on
 P. V.3.103.
 
@@ -38627,9 +38622,9 @@ P. V.3.103.
 for the Atmanepada लट् affixes, to
 which म् is prefixed if the base
 before the affix ends in अ; e. g. 
-एघमान, विद्यमान, etc; cf P. III. 2.
+एधमान, विद्यमान, etc; cf P. III. 2.
 124, 125, 126; (2) Vikarana affix
-( अान ) substituted for श्रा before
+( अान ) substituted for श्ना before
 the personal ending हि of the impe-
 rative second person singular, if
 the preceding root ends in a con-
@@ -38668,7 +38663,7 @@ sentence and all the other words
 (excepting the one which expresses
 verbal activity) are subordinated
 to the verbal activity and hence
-are connected with it; cf. पदशानं तु
+are connected with it; cf. पदज्ञानं तु
 करणं द्वारे तत्र पदार्थधीः | शाब्दबोधः फलं तत्र
 शक्तिधीः सहकारिणी | मुक्तावली III.81.
 
@@ -38676,11 +38671,11 @@ are connected with it; cf. पदशानं तु
 theory of verbal import written
 by ईश्वरानन्द.
 
-'''शब्दबोधप्रकाशिका''' a treatise on the
+'''शाब्दबोधप्रकाशिका''' a treatise on the
 theory of शब्दबोघ written by रामकि-
 शोरचक्रवर्तिन्.
 
-'''शब्दबोधवाद''' theory of verbal import
+'''शाब्दबोधवाद''' theory of verbal import
 or congnition; the theories to be
 noted in this respect are those of
 the Grammarians, the Naiyayikas
@@ -38688,8 +38683,9 @@ and the Mimamsakas, according to
 whom verb-activity, agent, and
 injunction stand respectively as
 the principal factors in a sentence.
+
 '''शायच्''' Vikarana affix ( आय) substitut-
-ed for the Vikarana श्रा in Vedic
+ed for the Vikarana श्ना in Vedic
 Literature; e. g, गृभाय जिह्वया मधु; cf
 Kas. on P. III I. 84.
 
@@ -38698,9 +38694,9 @@ the word शार्ङ्गरव which take the
 feminine affix ई ( ङीन् ) making the
 initial vowel of the word (to which
 ई of the feminine is added) an
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nivedita2015" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>
 {{RunningHeader|left=
-'''शालचू'''|center='''362'''|right='''शिक्षा'''}}
+'''शालच्'''|center='''362'''|right='''शिक्षा'''}}
 {{rule}}
 {{Multicol}}
              
@@ -38711,7 +38707,7 @@ acute-accented one: e.g: शार्ङ्गरवी;cf.
 the prefix वि in the sense of the
 base itself ( स्वार्थे ). See शङ्कटच्.
 
-'''शालतुरिय''' name of the great gra-
+'''शालातुरीय''' name of the great gra-
 mmarian Panini given to him on
 account of his being an inhabitant
 of शलातुर् an old name of the
@@ -38733,10 +38729,10 @@ an individual rule; cf. शास्त्रबाध
 or अशास्त्रबाध or विप्रतिषेधशास्त्र,frequently
 used by the commentators; cf. न हि
 संदेहादलक्षणं शास्त्रामित्यर्थः Nagesa's Par.
-Sek. on Pari. 1; cf. पदान्तदिष्वेव
-विक्रारशास्त्रम् R.Pr.II.2.
+Sek. on Pari. 1; cf. पदान्तादिष्वेव
+विकारशास्त्रम् R.Pr.II.2.
 
-'''शास्त्रकृत''' the originator or the founder
+'''शास्त्रकृत्''' the originator or the founder
 of a Sastra or system of particular
 thoughts. The word was used by
 ancient grammarians for Panini,
@@ -38746,7 +38742,7 @@ ral; cf. व्यत्ययमिच्छति शास्त्रकृ�
 सिध्यति बाहुलकेन M.Bh. on P. III. 1.
 85
 
-'''शास्त्रकृत''' brought about by a rule:
+'''शास्त्रकृत''' brought about by a rule;
 brought about by the science of
 grammar; cf. शास्त्रकृतो योमश्च Nir.I.
 2; cf. also क्वचिच्च संनिपातकृतमानन्तर्यं
@@ -38769,20 +38765,20 @@ of a grammatical rule as con-
 trasted with रूपातिदेश, the actual
 restoration of the original form;
 cf. किं पुनरयं शास्त्रातिदेशः । तृचो
-यच्छास्त्रं तदातिदिश्यते । आहोस्विदूपातिदेशः
+यच्छास्त्रं तदतिदिश्यते । आहोस्विद्रूपातिदेशः
 तृचो यद्रूपं तदतिदिश्यते M. Bh. on P.
 VII.1.95.
 
-'''शास्त्राथै''' the purpose of a rule of gra-
-mmar; cf. अतोत्राप्यवयवेन शास्त्रार्थे:
+'''शास्त्रार्थ''' the purpose of a rule of gra-
+mmar; cf. अतोत्राप्यवयवेन शास्त्रार्थ:
 संप्रतीयते M.Bh. on P.VI.1.84 Vart.
 5: cf. also, तद्यथा । लोके वसन्ते ब्राह्मणो-
 ग्नीनादधीतेति सकृदाधाय कृतः शास्त्रार्थ इति
-पुनः प्रवृत्तिने भवति । M. Bh. on VI.1.
+पुनः प्रवृत्तिर्न भवति । M. Bh. on VI.1.
 84 Vart. 3; VI.4.104 Vart. 3.
 
 '''शास्त्रासिद्धत्व'''the supposed invalidity of
-a rule or a set ofrules by virtue of
+a rule or a set of rules by virtue of
 the dictum laid down by Panini in
 पूर्वत्रासिद्धम् VIII.2.1: cf. शास्त्रासिद्धत्वमनेन
 क्रियेत | एकादेशशास्त्रं तुक्शास्त्रे असिद्धं भवति |
@@ -38810,7 +38806,7 @@ however, there is a doubt
 whether it was the work of Panini
 or of somebody belonging to his
 school. The Siksa works are help-
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nivedita2015" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>
 {{RunningHeader|left=
 '''शिखा'''|center='''363'''|right='''शिष्ट'''}}
 {{rule}}
@@ -38849,7 +38845,7 @@ marked with the indicatory श्, are
 substituted for the whole of the
 Sthanin or the original and not for
 its final letter according to the
-rule अलेान्त्यस्य P. I.1.52; e. g. शि is
+rule अलोन्त्यस्य P. I.1.52; e. g. शि is
 substituted,not for the final स् of जस्
 and शस् but for the whole जस् and
 the whole शस्; cf. P.I.1.55.
@@ -38859,7 +38855,7 @@ orifice, cerebral.
 
 '''शिरोमणिभट्टाचार्य''' a grammarian who
 wrote the grammatical works
-कारक्रविवेक, तद्धिटकोश and तिडन्तशिरोमणि.
+कारकविवेक, तद्धितकोश and तिङन्तशिरोमणि.
 
 '''शिवभट्ट''' a grammarian, who wrote a
 commentary named कुङ्कुमविकास on
@@ -38877,7 +38873,7 @@ who wrote a commentary on the
 Katantraparisista called the
 Siddhantaratnankura.
 
-'''शिवरामेन्द्र ( सरस्वती ) a grammarian
+'''शिवरामेन्द्र''' ( सरस्वती ) a grammarian
 who wrote (1) a gloss on the
 sutras of Panini, (2) a commen-
 tary named सिद्धान्तरत्नाकर on the 
@@ -38897,7 +38893,7 @@ the Sivasutra given by the writer
 of the Karika is summed up in the
 stanza - नृत्तावसाने नटराजराजो ननाद
 ढक्कां नवपञ्चवारम् । उद्धर्तुकामः सनकादि-
-सिद्धानेतद् विमर्शं शिवसूत्रजालम् | Nand. 1.
+सिद्धानेतद् विमर्शे शिवसूत्रजालम् | Nand. 1.
 
 '''शिवादि''' a big class of about ninety
 words headed by the word शिव 
@@ -38920,17 +38916,17 @@ some other rule.
 '''शिष्ट'''(1) cultured and learned people
 who want to speak correctly and
 who therefore have studied gra
-{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="3" user="Nivedita2015" /></noinclude>
+{{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Usharanimahesh" /></noinclude>
 {{RunningHeader|left=
 '''शिष्टप्रयेाग'''|center='''364'''|right='''शुद्धाशुबोधसूत्रार्थव्याकरण'''}}
 {{rule}}
 {{Multicol}}
              
 mmar; cf. के पुनः शिष्टा: | वैयाकरणाः | 
-कुत एतत् | शास्त्रपूर्वका हि शिष्टिवैयाकरणाश्च
+कुत एतत् | शास्त्रपूर्विका हि शिष्टिवैयाकरणाश्च
 शास्त्रज्ञा: | M. Bh. on P. VI. 1.109;
 (2) enjoined, prescribed; cf. विपर्ययो
-ध्रुवाशिष्टेSपरेषाम् | R.Pr.VI.120.
+ध्रुवशिष्टेSपरेषाम् | R.Pr.VI.120.
 
 '''शिष्टप्रयोग''' the forms of words used by
 the learned people; the expression
@@ -38938,11 +38934,11 @@ used by such persons: cf. स चावश्यं
 शिष्टप्रयोग उपास्यः |	M. Bh. on P.I.3.
 1 Vart. 13.
 
-'''शिष्टव्यख्यान''' explanation (of doubtful
+'''शिष्टव्याख्यान''' explanation (of doubtful
 things or expressions) given by the
 learned people.
 
-'''शिष्यहिता''' (वृति) a work on grammar
+'''शिष्यहिता''' (वृत्ति) a work on grammar
 written by उग्रभूति of which a men-
 tion is made by Al Beruni in his
 work.
@@ -38954,7 +38950,7 @@ the vowel अ; e.g. सर्वे, विश्वे; cf. kas.
 on P VII.1.17; (2) case affix (ई )
 substituted for औ of the nom. and
 the acc. dual after fem. bases end-
-ing in औ, as also after bases in
+ing in आ, as also after bases in
 the neuter gender; e.g. खट्वे रमे; कुण्डे,
 वने; cf. Kas on P. VII.1.18, 19.
 
@@ -44638,4 +44634,30 @@ a unit of time measured by one
 matra for their utterance; cf.
 ऊकालोज्ङ्ररस्वदीर्घप्लुत: P. I. 2.27.  
 {{Multicol-end}}<noinclude></noinclude><noinclude><pagequality level="4" user="Yann" /></noinclude><nowiki />
+<center>॥ ग्रन्थप्रशास्ति ॥</center>
 
+<poem>
+प्रातिशाख्यमहृाभाष्यकौमुदीकाशिाकादिकान् ।
+ग्रन्थान् वाक्यपदीयादीश्चाभ्यस्य श्रमपूर्वकम् ॥ १ ॥
+
+ग्रन्थानां ग्रन्थकाराणां नामानि प्रत्ययांस्तथा ।
+विशिष्टशास्त्रीयार्थस्य वाचकान् पारिभाषिकान् ॥ २ ॥
+
+शब्दान् समीक्ष्य संज्ञादीनादेशानागमांस्तथा ।
+यदारब्धं संग्रथनं कालात् प्राक् सुबहोर्मया ॥ ३ ॥
+
+अभ्यंकरोपाहृकुले वासुदेवस्य सूनुना ।
+कादिानाथभिधेनेदं कोषरूपं समापितम् ॥ ४ ॥ 
+
+शालिवाहनशाकेस्मिन्नष्टाद्शशतोत्तरे ।
+त्र्यशीत्यधिकवर्षेस्मिञ्चैत्रस्य प्रतिपत्तिथौ ॥ ५ ॥
+
+द्राग् व्याकरणकोषाख्यं कृपया परया प्रभोः ।
+निव्यूढं कार्यमेतन्मे कुर्याद्विद्वद्धृदि स्थितिम् ॥ ६ ॥
+
+इह व्याकरण शास्त्रे ग्रन्थभूयस्त्वकारणात् । 
+कोषार्हो बहवः शब्दा दिङ्मात्रमिह दर्शितम् ॥ ७ ॥
+
+बुद्धिवैचित्र्यतः केचित् कोषानर्हाः स्थिता यादि । 
+शब्दास्तदहं गलिताः प्रार्थये क्षम्यतां बुधैः ॥ ८ ॥
+</poem><noinclude></noinclude>

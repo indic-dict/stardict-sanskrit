@@ -29,6 +29,7 @@ Range(1,10).foreach(_ => {
 outText = outText.replaceAll(" +", " ")
 
 outText = outText.replaceAll("<noinclude>.+</noinclude>", "")
+outText = outText.replaceAll("</?poem>", "")
 outText = outText.replaceAll("\\{\\{outdent\\|", "")
 outText = outText.replaceAll("(left|right|center)[ =]+[']+.+?[']+", "")
 Range(1,10).foreach(_ => {
