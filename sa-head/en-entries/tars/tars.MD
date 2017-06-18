@@ -1,5 +1,5 @@
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/Meulenbeld-Sanskrit-Names-of-Plants__2017-04-23_22-46-24__0MB.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2017-04-23_22-46-36__0MB.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/Personal-and-Geographical-Names-in-the-Gupta-Inscriptions__2017-04-28_12-23-57__0MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/Vedic-Index-of-Names-and-Subjects__2017-04-23_22-46-49__0MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/apte-1890__2017-04-23_22-45-36__3MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/apte-sa__2017-04-02_20-23-08.tar.gz
