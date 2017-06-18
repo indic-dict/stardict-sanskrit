@@ -5,4 +5,6 @@
 *.ifo
 *.babylon_final
 *.tar.gz
+/all_dicts_stardict-sanskrit.tar.gz
+local*
 

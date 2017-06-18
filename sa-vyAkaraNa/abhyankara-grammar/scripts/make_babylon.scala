@@ -29,6 +29,7 @@ Range(1,10).foreach(_ => {
 outText = outText.replaceAll(" +", " ")
 
 outText = outText.replaceAll("<noinclude>.+</noinclude>", "")
+outText = outText.replaceAll("</?poem>", "")
 outText = outText.replaceAll("\\{\\{outdent\\|", "")
 outText = outText.replaceAll("(left|right|center)[ =]+[']+.+?[']+", "")
 Range(1,10).foreach(_ => {
@@ -43,14 +44,22 @@ val entryLines = outText.split("\n").map(_.trim).filter(_.nonEmpty)
 
 var failedLineCount = 0
 entryLines.foreach(entryLine => {
-  if (entryLine.split("'''").length != 3) {
+  if (entryLine.split("'''").length < 3) {
     log warn "Could not parse: " + entryLine
     failedLineCount += 1
   } else {
     val entries = entryLine.split("'''")
-    destination.println(entries(1).trim)
-    destination.println(entries(2).trim)
+    var headwords = List(entries(1).trim)
+    var mainEntry = entries.mkString(" ").trim
+
+    // handle lines like '''मध्यमा''' or '''मध्यमवृत्ति''' See मध्यम (2).
+    if(entries(2).trim == "or") {
+      headwords = headwords :+ entries(3)
+    }
+    destination.println(headwords.mkString("|"))
+    destination.println(mainEntry)
     destination.println("")
+
   }
 })
 destination.close()
