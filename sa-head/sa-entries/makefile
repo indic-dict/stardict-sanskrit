@@ -19,7 +19,7 @@ stardict:
 
 	
 tars:
-	bash ../../bin/make_tarballs.sh $(URL)
+	bash ../../bin/make_tarballs.sh $(URL) DICTS=$(DICTS)
 
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
