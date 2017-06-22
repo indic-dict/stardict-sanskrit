@@ -1,4 +1,4 @@
-SUBDIRS := $(sa-head/. en-head/. sa-kAvya/. sa-vyAkaraNa/.)  # e.g. "foo/. bar/."
+SUBDIRS := sa-head/. en-head/. sa-kAvya/. sa-vyAkaraNa/.  # e.g. "foo/. bar/."
 TARGETS := all tars tarlist  # whatever else, but must not contain '/'
 
 # foo/.all bar/.all foo/.clean bar/.clean
