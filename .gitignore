@@ -1,10 +1,12 @@
 *.nogit
-*.dict.dz
-*.syn
-*.idx
-*.ifo
-*.babylon_final
-*.tar.gz
+# The below is dangerous. Let's keep checking them in till we have a better solution.
+#*.dict.dz
+#*.syn
+#*.idx
+#*.ifo
+#*.babylon_final
+#*.tar.gz
+
 /all_dicts_stardict-sanskrit.tar.gz
 local*
 
