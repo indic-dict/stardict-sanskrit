@@ -1,25 +1,20 @@
-.PHONY: all
+SUBDIRS := $(wildcard */.)  # e.g. "foo/. bar/."
+TARGETS := all tars tarlist  # whatever else, but must not contain '/'
 
-all:
-	make -C sa-entries all
-	make -C en-entries all
-	make -C french-entries all
-	make -C german-entries all
-	make -C other-indic-entries all
-	make -C other-entries all
+# foo/.all bar/.all foo/.clean bar/.clean
+SUBDIRS_TARGETS := $(foreach t,$(TARGETS),$(addsuffix $t,$(SUBDIRS)))
 
-tars:
-	make -C sa-entries tars
-	make -C en-entries tars
-	make -C french-entries tars
-	make -C german-entries tars
-	make -C other-indic-entries tars
-	make -C other-entries tars
+.PHONY : $(TARGETS) $(SUBDIRS_TARGETS)
 
-tarlist:
-	make -C sa-entries tarlist
-	make -C en-entries tarlist
-	make -C french-entries tarlist
-	make -C german-entries tarlist
-	make -C other-indic-entries tarlist
-	make -C other-entries tarlist
+# static pattern rule, expands into:
+# all clean : % : foo/.% bar/.%
+$(TARGETS) : % : $(addsuffix %,$(SUBDIRS))
+	@echo 'Done "$*" target'
+
+# here, for foo/.all:
+#   $(@D) is foo
+#   $(@F) is .all, with leading period
+#   $(@F:.%=%) is just all
+$(SUBDIRS_TARGETS) :
+	$(MAKE) -C $(@D) $(@F:.%=%)
+
