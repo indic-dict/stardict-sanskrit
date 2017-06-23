@@ -1,25 +1,20 @@
-.PHONY: all
+SUBDIRS := sa-head/. en-head/. sa-kAvya/. sa-vyAkaraNa/.  # e.g. "foo/. bar/."
+TARGETS := all tars tarlist  # whatever else, but must not contain '/'
 
-all:
-	make -C sa-head all
-	make -C en-head all
-	make -C sa-kAvya all
-	make -C sa-vyAkaraNa all
+# foo/.all bar/.all foo/.clean bar/.clean
+SUBDIRS_TARGETS := $(foreach t,$(TARGETS),$(addsuffix $t,$(SUBDIRS)))
 
-tars:
-	make -C sa-head tars
-	make -C en-head tars
-	make -C sa-kAvya tars
-	make -C sa-vyAkaraNa tars
+.PHONY : $(TARGETS) $(SUBDIRS_TARGETS)
 
-tarlist:
-	make -C sa-head tarlist
-	make -C en-head tarlist
-	make -C sa-kAvya tarlist
-	make -C sa-vyAkaraNa tarlist
+# static pattern rule, expands into:
+# all clean : % : foo/.% bar/.%
+$(TARGETS) : % : $(addsuffix %,$(SUBDIRS))
+	@echo 'Done "$*" target'
 
-mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
-current_dir := $(dir $(mkfile_path))
-tarall:
-	bash bin/tar_all_dicts.sh $(current_dir)
+# here, for foo/.all:
+#   $(@D) is foo
+#   $(@F) is .all, with leading period
+#   $(@F:.%=%) is just all
+$(SUBDIRS_TARGETS) :
+	$(MAKE) -C $(@D) $(@F:.%=%)
 
