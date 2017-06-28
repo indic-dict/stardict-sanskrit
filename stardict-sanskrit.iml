@@ -23,7 +23,6 @@
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:0.9.29" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:0.9.29" level="project" />
-    <orderEntry type="library" name="Maven: net.sourceforge:jwbf:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.jdom:jdom2:2.0.5" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.4.3" level="project" />
@@ -38,7 +37,6 @@
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.0" level="project" />
-    <orderEntry type="library" name="Maven: jstl:jstl:1.2" level="project" />
     <orderEntry type="library" name="Python 2.7.12+ (/usr/bin/python2.7) interpreter library" level="application" />
   </component>
 </module>
