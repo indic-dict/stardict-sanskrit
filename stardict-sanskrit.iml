@@ -2,10 +2,11 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Python" name="Python">
-      <configuration sdkName="Python 2.7.12+ (/usr/bin/python2.7)" />
+      <configuration sdkName="" />
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <perl5 />
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -37,6 +38,5 @@
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.0" level="project" />
-    <orderEntry type="library" name="Python 2.7.12+ (/usr/bin/python2.7) interpreter library" level="application" />
   </component>
 </module>
