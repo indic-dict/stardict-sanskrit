@@ -16,5 +16,6 @@ https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tar
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/mAdhavIya-dhAtu-vRtti__2016-02-20_16-15-37.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/nyasa__2016-02-20_18-36-58.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/padamanjarI__2017-02-24_10-31-15.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/puShpA-ArdhadhAtuka__2017-12-05_19-58-11__0MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/siddhAnta-kaumudI__2017-04-02_20-23-14.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/tattvabodhini__2016-02-20_17-43-39.tar.gz
