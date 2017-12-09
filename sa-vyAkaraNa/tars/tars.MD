@@ -4,7 +4,7 @@ https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tar
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/abhyankara-grammar__2017-06-22_07-03-36__0MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/balamanorama__2016-02-20_18-44-11.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/declension-inria__2017-06-06_13-58-43__44MB.tar.gz
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhAtu-pATha-kRShAchArya__2017-12-08_21-21-28__0MB.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhAtu-pATha-kRShNAchArya__2017-12-08_21-31-55__0MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhAtupATha-sa__2016-02-20_16-15-35.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhAtupradIpa__2016-02-20_16-15-35.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/dhaval-tiNanta__2016-06-27_08-52-54.tar.gz
