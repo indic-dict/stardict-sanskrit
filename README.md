@@ -14,7 +14,7 @@ Table of content
 # Dictionary user instructions
 ## Grab latest files to use for with my stardict compatible program.
 Options:
-* Just download and extract [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)
+* Just download and extract [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict-sanskrit.tar.gz)
 * `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git`
 
 ## Dictionary program recommendations and download help (esp for mobile devices)
