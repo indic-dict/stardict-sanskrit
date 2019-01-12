@@ -1,0 +1,117 @@
+skd-meta.txt
+October 4, 2013.
+Sep 25, 2014
+Nov 20, 2014
+This file describes the coding conventions of skd.txt and skd-title.txt.
+This file is encoded in utf-8 encoding.
+
+
+The original digitization is file skd_orig.txt, which is
+coded in the cp1252 (windows 1252) encoding,
+and is best viewed in a text editor which supports this encoding.
+For example, in Emacs, one may use the command
+revert-buffer-with-coding-system
+and then select cp1252 as the coding.
+The internet reference http://www.cp1252.com/ describes this coding system.
+
+The file skd_orig_utf8.txt is a conversion of skd_orig.txt to the
+more common utf-8 encoding.
+(Nov 20, 2014) skd_orig_utf8_slp1.txt uses SLP1 transliteration.
+               skd_v0.txt contains only the body of the dictionary; the
+               other lines of skd_orig_utf8_slp1.txt are in skd-preface.txt.
+               skd_v0.txt contains the dictionary body; it also removes
+               coding of 'nuktas'.
+The file skd.txt is also in the utf-8 encoding, and incorporates various
+editing changes, such as corrections of typographical errors. 
+
+There are several extended ascii codes in skd.txt.
+£  (\u00a3)    24 := POUND SIGN
+¤  (\u00a4)    12 := CURRENCY SIGN
+¯  (\u00af)     3 := MACRON
+×  (\u00d7)     4 := MULTIPLICATION SIGN
+‘  (\u2018)  1398 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  1350 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c) 53143 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d) 52825 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     3 := DOUBLE LOW-9 QUOTATION MARK
+†  (\u2020)     1 := DAGGER
+‡  (\u2021)     1 := DOUBLE DAGGER
+
+The {X...X} style of coding serves minor purposes in skd.txt:
+{%n%}  2 : italic 
+{??}  111  : unreadable text
+   Sep 25, 2014.  all but 11 of these corrected by Sampada Savardekar.
+{el2} 3 :  A two-dot ellipsis
+{el3} 259: A three-dot ellipsis
+{Picture} 4:  The text has a picture or diagram here.
+
+The following  <x> type tags are found in skd.txt:
+<HI>  42248  : At beginning of line, indicating start of headword
+<P>  1130  : At start of line, indicating a paragraph indentation
+<H>  161  : At start of line. A 'headline' (various usage)
+<>  442480  :  At beginning of other 'normal' lines
+<F>..</F>  5  : Footnotes
+<om/>     100+ : Sep 26, 2014.  This is added to skd_orig_utf8_slp1.txt,
+      and flows through to skd.txt.  It is not present in skd_orig.txt.
+      It represents the Devanagari 'OM' symbol.
+      Nov 20, 2014. Removed.  Now the OM symbol is coded as o~.
+The rest are 'Column' indicators for textual tabular arrays
+<C10>  24  : 
+<C11>  12  : 
+<C1>  921  : 
+<C2>  926  : 
+<C3>  824  : 
+<C4>  825  : 
+<C5>  789  : 
+<C6>  55  : 
+<C7>  46  : 
+<C8>  46  : 
+<C9>  42  : 
+
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[Page5-069-b+ 52] Volume 5, Page 069, column b (2nd col.), 52 lines in column.
+Some variants of the '-b' part of this occur, for example
+ [Page2-268+ 41] , where the usual 3-column form is broken by a table.
+ [Page2-048-a1+ 13] , where  again a tabular display is shown.
+
+The headwords are ordered according to Sanskrit alphabet ordering.
+However, about 2% of the identified headwords are out of alphabetical order.
+
+The introduction is not coded in skd.txt; it appears in the separate file
+skd-title.txt.  The page breaks are coded as
+[Page0-xxxETC] so that 0-xxx is as in file pdftitlefiles.txt, which
+gives the correspondence to scanned image pages in skd_title.pdf.
+
+
+Sanskrit in the text appears in Devanagari, and is coded in skd.txt
+with the KH (Kyoto-Harvard) coding, with two variants::
+ MM codes chandra-bindu
+ D2 codes the normal KH 'D' (retroflex soft unaspirated 'd') 
+    which in the devanagari of the text is printed with an under-dot (nukta). 
+    Similarly 'D2h' codes the aspirated character.  There are also many
+    occurrences of 'D' and 'Dh' without the under-dot.
+
+Headwords are also coded in HK.  
+Nov 20, 2014
+ Devanagari coded as SLP1, with two variants in skd_orig_utf8_slp1.txt:
+ oMM is coded as o~
+ Other MM is coded as M~
+ Also, nuktas are recoded as : D.h, D., l. -> Q2, q2, and l2
+ In skd_v0.txt, the 'nukta' is dropped:  
+   Q2, q2 and l2 are changed to Q, q and l. (no dot after 'l')
+   
+ Headwords also coded in SLP1.
+
+There is no Anglicized Sanskrit coding in skd.txt.
+There is no AS coding in skd.txt.
+
+
+Scanned images (in pdfs skd_title, skd1_bookmark, ..., skd5_bookmark) are
+almost all from http://archive.org downloads
+sabdakalpadrumah01devauoft.pdf, ..., sabdakalpadrumah05devauoft.pdf.
+However, a few (12) pages missing from these downloads were obtained from
+the high-resolution scans used for digitization (ejf).
+
+

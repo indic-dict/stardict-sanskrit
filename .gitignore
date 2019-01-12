@@ -1,0 +1,17 @@
+*.nogit
+# The below is dangerous. Let's keep checking them in till we have a better solution.
+*.dict.dz
+*.syn
+*.idx
+*.ifo
+*.babylon_final
+#*.tar.gz
+
+# But not these files...
+!en-head/apte-bi/*
+
+/all_dicts_stardict-sanskrit.tar.gz
+local*
+move_to_stardict.sh
+
+*.iml
