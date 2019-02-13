@@ -11,6 +11,7 @@ https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entri
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/indian-epigraphical-glossary__2019-02-09_14-40-22__0MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/macdonell__2019-02-09_14-40-17__1MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/mw-1872__2019-02-09_14-40-05__5MB.tar.gz
+https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/mw-cologne__2019-02-12_19-36-16__10MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/mw-sa__2019-02-09_14-44-10__10MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/shabda-sAgara__2019-02-09_14-47-39__3MB.tar.gz
 https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/en-entries/tars/spokensanskrit__2019-02-09_14-47-10__12MB.tar.gz
