@@ -4,7 +4,7 @@ STARDICT_SANSKRIT_BIN=~/stardict-sanskrit/bin
 # make all DICTS=xyz
 DICTS=.*
 # Let the URL not end with /.
-URL=https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-head/$(shell pwd|sed -e s/.*[/]//)/tars
+URL=https://github.com/indic-dict/stardict-sanskrit/raw/master/sa-head/$(shell pwd|sed -e s/.*[/]//)/tars
 
 .PHONY: all stardict tars
 
