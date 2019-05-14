@@ -1,19 +1,18 @@
 language: minimal
 if: branch = master
 
+install:
+  - sudo apt-get install -y stardict-tools
+  - sudo wget https://github.com/sanskrit-coders/dict-tools/raw/master/bin/artifacts/dict-tools.jar -P ~/dict-tools/bin/artifacts/
+
 git:
   depth: 1
-  
-before_install:
-  - sudo apt-get install -y stardict-tools
 
-jobs:
-  include:
-    - name: build
-      provider: script
-      script: bash bin/deploy.sh
-    - name: deploy
-      provider: pages
-      skip_cleanup: false
-      github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-      keep_history: false
+script: 
+  - make all
+
+deploy:      
+  provider: pages
+  skip_cleanup: false
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: false
