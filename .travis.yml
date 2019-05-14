@@ -1,12 +1,19 @@
 language: minimal
+if: branch = master
+
 git:
   depth: 1
   
 before_install:
-  - sudo apt-get install -y stardict
+  - sudo apt-get install -y stardict npm
 
-deploy:
-  provider: script
-  script: bash bin/deploy.sh
-  on:
-    branch: master
+jobs:
+  include:
+    - name: build
+      provider: script
+      script: bash bin/deploy.sh
+    - name: deploy
+      provider: pages
+      skip_cleanup: false
+      github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+      keep_history: false
