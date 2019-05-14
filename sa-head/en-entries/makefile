@@ -1,5 +1,5 @@
 STARDICT_TOOLS_DIR=~/stardict/tools/src/
-STARDICT_SANSKRIT_BIN=~/stardict-sanskrit/bin
+DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
 
 # make all DICTS=xyz
 DICTS=.*
@@ -12,18 +12,16 @@ URL=https://github.com/indic-dict/stardict-sanskrit/raw/master/sa-head/$(shell p
 all:final_babylon stardict tars
 
 final_babylon:
-	bash ../../bin/babylon_add_optitrans.sh DICTS=$(DICTS)
+	bash $(DICT_TOOLS_BIN_BASH)/babylon_add_optitrans.sh DICTS=$(DICTS)
 
 stardict:
-	bash ../../bin/tsv_to_stardict.sh DICTS=$(DICTS)
+	bash $(DICT_TOOLS_BIN_BASH)/tsv_to_stardict.sh DICTS=$(DICTS)
 
-	
+
 tars:
-	bash ../../bin/make_tarballs.sh $(URL) DICTS=$(DICTS)
+	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh $(URL) DICTS=$(DICTS)
 
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
 tarlist:
-	bash ../../bin/update_tars_md.sh $(current_dir)tars $(URL)
-
-
+	bash $(DICT_TOOLS_BIN_BASH)/update_tars_md.sh $(current_dir)tars $(URL)
