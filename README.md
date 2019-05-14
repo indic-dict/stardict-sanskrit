@@ -53,7 +53,6 @@ With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
     * Helps track dictionary popularity and downloads (see [this issue](https://github.com/sanskrit-coders/stardict-dictionary-updater/issues/12) ).
     * This is likely to result in fewer download problems as downloading from release rather than "raw" might be more robust.
 * Update the all_dicts file.
-  * Compress all the necessary files with `make tarall` invoked in the root directory.
   * Upload to archive (example: [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict_sanskrit.tar.gz)).
 
 ### To force update dictionary files
