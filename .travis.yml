@@ -2,7 +2,7 @@ language: minimal
 if: branch = master
 
 install:
-  - sudo apt-get install -y stardict-tools
+  - sudo apt-get install -y stardict-tools oracle-java8-set-default
   - git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
 
 git:
