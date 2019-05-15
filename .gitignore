@@ -11,6 +11,7 @@
 
 # But not these files...
 !en-head/apte-bi/*
+!sa-head/french-entries/dictionnaire-heritage_du_sanskrit_san-fra/*
 
 /all_dicts_stardict-sanskrit.tar.gz
 local*
