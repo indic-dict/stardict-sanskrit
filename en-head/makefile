@@ -18,6 +18,10 @@ stardict:
 tars:
 	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh $(URL) DICTS=$(DICTS)
 
+full:
+  bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS)
+
+
 decompile:
 	# Note: cannot usefully decompile apte-bi and mw-bi
 	bash $(DICT_TOOLS_BIN_BASH)/decompile_all.sh

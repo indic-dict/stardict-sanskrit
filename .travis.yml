@@ -9,8 +9,8 @@ git:
   depth: 1
 
 script:
-  - make all
-  - git add -A
+  - make full
+  - git add -A -v
   - git commit -m "Add auto-built files."
 
 deploy:
