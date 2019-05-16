@@ -11,7 +11,7 @@ git:
 script:
   - make full
   - git add -A -v
-  - git commit -m "Add auto-built files."
+  - git commit --allow-empty -m "Add auto-built files."
 
 deploy:
   provider: pages
