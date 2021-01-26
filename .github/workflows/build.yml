@@ -20,7 +20,7 @@ jobs:
         fetch-depth: 1
     - name: Install dependencies
       run: |
-        sudo apt-get install -y stardict-tools
+        sudo apt-get install -y stardict-tools --fix-missing
         git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
         sudo pip install pyglossary
     - name: Build dicts
