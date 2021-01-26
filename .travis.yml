@@ -10,7 +10,7 @@ git:
   depth: 1
 
 script:
-  - make full
+  - make full GITHUB_TOKEN="$GITHUB_TOKEN"
   - git add -A -v
   - git commit --allow-empty -m "Add auto-built files."
 
