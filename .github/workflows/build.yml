@@ -30,8 +30,10 @@ jobs:
     - name: Build dicts
       run: |
         make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
-        git add -A -v
-        git commit --allow-empty -m "Add auto-built files."
+#        git config --global user.email "you@example.com"
+#        git config --global user.name "Github Actions"
+#        git add -A -v
+#        git commit --allow-empty -m "Add auto-built files."
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
