@@ -1,4 +1,6 @@
 language: java
+python:
+  - "3.9"
 if: branch = master
 
 install:
