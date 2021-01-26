@@ -4,6 +4,7 @@ if: branch = master
 install:
   - sudo apt-get install -y stardict-tools
   - git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
+  - sudo pip install pyglossary
 
 git:
   depth: 1
