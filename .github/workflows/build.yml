@@ -27,10 +27,17 @@ jobs:
     - name: Build dicts
       run: |
         make full
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      if: ${{ github.event_name != 'pull_request'}}
+        git add -A -v
+        git commit --allow-empty -m "Add auto-built files."
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-#        publish_dir: ./build_github
-        publish_branch: gh-pages
+        branch: gh-pages
+#    - name: Deploy
+#      uses: peaceiris/actions-gh-pages@v3
+#      if: ${{ github.event_name != 'pull_request'}}
+#      with:
+#        github_token: ${{ secrets.GITHUB_TOKEN }}
+##        publish_dir: ./build_github
+#        publish_branch: gh-pages
