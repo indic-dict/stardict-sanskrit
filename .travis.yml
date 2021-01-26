@@ -1,6 +1,10 @@
-language: java
-python:
-  - "3.9"
+matrix:
+  include:
+    - language: python
+      python:
+        - 3.9
+    - language: java
+
 if: branch = master
 
 install:
