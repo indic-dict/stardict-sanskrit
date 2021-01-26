@@ -1,0 +1,35 @@
+name: Build
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        default: 'warning'
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+        submodules: true
+        fetch-depth: 1
+    - name: Install dependencies
+      run: |
+        sudo apt-get install -y stardict-tools
+        git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
+        sudo pip install pyglossary
+    - name: Build dicts
+      run: |
+        make full
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request'}}
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+#        publish_dir: ./build_github
+        publish_branch: gh-pages
