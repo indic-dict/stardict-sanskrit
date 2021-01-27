@@ -5,9 +5,9 @@
 *.idx
 *.ifo
 *.babylon_final
-*.slob
-# The below is problematic. Let's keep checking them in till we have a better solution.
+# The below should not be in gitignore because gh-pages branch needs to include them. Manually delete from manual branch. 
 #*.tar.gz
+# *.slob
 
 # But not these files...
 !en-head/apte-bi/*
