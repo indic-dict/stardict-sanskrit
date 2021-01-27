@@ -20,13 +20,13 @@ jobs:
         fetch-depth: 1
     - uses: actions/setup-python@v2
       with:
-        python-version: '3.7'
+        python-version: '3.9'
     - name: Install dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y stardict-tools --fix-missing
         git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
-#        sudo pip install pyglossary
+        sudo pip3 install pyglossary
     - name: Build dicts
       run: |
         make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
