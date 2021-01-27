@@ -44,5 +44,5 @@ jobs:
       if: ${{ github.event_name != 'pull_request'}}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-#        publish_dir: ./build_github
+        publish_dir: ./
         publish_branch: gh-pages
