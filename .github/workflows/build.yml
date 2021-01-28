@@ -26,7 +26,8 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y python3-setuptools stardict-tools --fix-missing
         git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
-        sudo pip3 install PyICU pyglossary
+        sudo pip3 install lxml PyICU pyglossary
+#        Requirements as per https://github.com/ilius/pyglossary
     - name: Build dicts
       run: |
         make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
