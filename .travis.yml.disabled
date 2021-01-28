@@ -1,15 +1,16 @@
-language: java
+language: python
 if: branch = master
 
 install:
   - sudo apt-get install -y stardict-tools
   - git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
+  - sudo pip install pyglossary
 
 git:
   depth: 1
 
 script:
-  - make full
+  - make full GITHUB_TOKEN="$GITHUB_TOKEN"
   - git add -A -v
   - git commit --allow-empty -m "Add auto-built files."
 
