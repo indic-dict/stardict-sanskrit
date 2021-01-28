@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y pyicu stardict-tools --fix-missing
+        sudo apt-get install -y python-pyicu stardict-tools --fix-missing
         git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
         sudo pip3 install pyglossary
     - name: Build dicts
