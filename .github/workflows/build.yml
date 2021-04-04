@@ -10,7 +10,8 @@ on:
 
 jobs:
   transform:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
+    # stardict-tools was missing on ubuntu-20.04 as of 20210403
 
     steps:
     - name: Checkout
@@ -23,6 +24,7 @@ jobs:
         python-version: '3.9'
     - name: Install dependencies
       run: |
+        lsb_release -a
         sudo apt-get update
         sudo apt-get install -y python3-setuptools stardict-tools --fix-missing
         git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
