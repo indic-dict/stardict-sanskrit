@@ -25,7 +25,7 @@ tars:
 full:
 	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN)
 
-
+ GITHUB_TOKEN=$(GITHUB_TOKEN)
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
 # Let the URL not end with /.
