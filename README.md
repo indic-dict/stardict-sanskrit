@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/indic-dict/stardict-sanskrit.svg?branch=master)](https://travis-ci.com/indic-dict/stardict-sanskrit)
-
 Table of content
 
 - [Dictionary user instructions](#dictionary-user-instructions)
@@ -23,15 +21,12 @@ Options:
 ## Dictionary program recommendations and download help (esp for mobile devices)
 * <https://sanskrit-coders.github.io/site/pages/dictionaries/offline.html>
 
-# Dictionary developer instructions
-- You can see and replicate the virtual machine setup that travis builds use - See [.travis.yml](https://github.com/indic-dict/stardict-sanskrit/blob/master/.travis.yml) .
-
 ## Organization
 - Dictionaries are stored in multiple repositories under [indic-dict](https://github.com/indic-dict/), for example: stardict-sanskrit-vyAkaraNa, stardict-kannada etc.. 
 - Some external pre-built dictionaries also on archive.org (as in the case of stardict-english).
 
 ## Builds
-- Dictionaries are built with [travis-ci](https://travis-ci.com/indic-dict) and deployed to gh-pages branch of the repository. For example:
+- Dictionaries are built with either github actions or travis-ci and deployed to gh-pages branch of the repository. For example:
   - [stardict-sanskrit/gh-pages](https://github.com/indic-dict/stardict-sanskrit/tree/gh-pages/) from [stardict-sanskrit](https://github.com/indic-dict/stardict-sanskrit)
   - [stardict-tamil/gh-pages](https://github.com/indic-dict/stardict-tamil/tree/gh-pages/) from [stardict-tamil](https://github.com/indic-dict/stardict-tamil)
 

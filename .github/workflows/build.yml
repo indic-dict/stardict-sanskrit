@@ -1,0 +1,51 @@
+name: Build
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        default: 'warning'
+
+jobs:
+  transform:
+    runs-on: ubuntu-18.04
+    # stardict-tools was missing on ubuntu-20.04 as of 20210403
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+        submodules: true
+        fetch-depth: 1
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+    - name: Install dependencies
+      run: |
+        lsb_release -a
+        sudo apt-get update
+        sudo apt-get install -y python3-setuptools stardict-tools --fix-missing
+        git clone https://github.com/indic-dict/dict-tools.git ~/dict-tools/ --depth 1
+        sudo pip3 install lxml PyICU pyglossary
+#        Requirements as per https://github.com/ilius/pyglossary
+    - name: Build dicts
+      run: |
+        make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+#        git config --global user.email "you@example.com"
+#        git config --global user.name "Github Actions"
+#        git add -A -v
+#        git commit --allow-empty -m "Add auto-built files."
+#    - name: Push changes
+#      uses: ad-m/github-push-action@master
+#      with:
+#        github_token: ${{ secrets.GITHUB_TOKEN }}
+#        branch: gh-pages
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.event_name != 'pull_request'}}
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        publish_branch: gh-pages
