@@ -21,8 +21,6 @@ tars:
 
 full:
 	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN)
-
- GITHUB_TOKEN=$(GITHUB_TOKEN)
 decompile:
 	# Note: cannot usefully decompile apte-bi and mw-bi
 	bash $(DICT_TOOLS_BIN_BASH)/decompile_all.sh
