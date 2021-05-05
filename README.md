@@ -34,6 +34,7 @@ Options:
 - Within the output branch, for each dictionary collection, the following folders are produced:
   - tars with compressed (xyz.tar.gz) dictionary files for use with stardict clients.
   - slob files for use with aard2 dictionary clients.
+  - per-headword text files for use with HTTP calls.
   
 ## Development
 ### Cologne to babylon convertor
