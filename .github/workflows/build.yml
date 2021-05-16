@@ -10,6 +10,7 @@ on:
 
 jobs:
   transform:
+    timeout-minutes: 60
     runs-on: ubuntu-18.04
     # stardict-tools was missing on ubuntu-20.04 as of 20210403
 
