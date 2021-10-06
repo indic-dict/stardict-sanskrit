@@ -1,2 +1,3 @@
 *.dict filter=lfs diff=lfs merge=lfs -text
 *.lfstest filter=lfs diff=lfs merge=lfs -text
+sa-head/en-entries/mw-cologne/mw-cologne.babylon filter=lfs diff=lfs merge=lfs -text
