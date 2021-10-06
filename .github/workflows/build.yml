@@ -20,6 +20,9 @@ jobs:
       with:
         submodules: true
         fetch-depth: 1
+         lfs: true
+    - name: Checkout LFS objects.
+      run: git lfs checkout
     - uses: actions/setup-python@v2
       with:
         python-version: '3.9'
