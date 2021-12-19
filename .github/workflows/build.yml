@@ -12,7 +12,7 @@ on:
 
 jobs:
   transform:
-    timeout-minutes: 60
+    timeout-minutes: 120
     runs-on: ubuntu-18.04
     # stardict-tools was missing on ubuntu-20.04 as of 20210403
 
@@ -22,6 +22,11 @@ jobs:
       with:
         submodules: true
         fetch-depth: 1
+        lfs: true
+    - name: Checkout LFS objects
+      run: |
+        git lfs pull
+        head sa-head/en-entries/mw-cologne/mw-cologne.babylon
     - uses: actions/setup-python@v2
       with:
         python-version: '3.9'
