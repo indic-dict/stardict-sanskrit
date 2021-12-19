@@ -4,6 +4,8 @@ DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
 # make all DICTS=xyz
 DICTS=.*
 GITHUB_TOKEN=NONE
+OVERWRITE=false
+
 # Let the URL not end with /.
 URL=https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/$(shell pwd|sed -e s/.*[/]//)/tars
 
@@ -22,7 +24,7 @@ tars:
 	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh $(URL) DICTS=$(DICTS)
 
 full:
-	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN)
+	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN) OVERWRITE=$(OVERWRITE)
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(dir $(mkfile_path))
 tarlist:
