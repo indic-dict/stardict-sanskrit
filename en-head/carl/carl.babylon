@@ -985,58 +985,58 @@ bailiff
 bankrupt|bankruptcy
 नष्टनिधिः, विपन्नार्थः, अशक्तानृण्यः 
 
-Bar
+bar (law)
 विधिज्ञ-परिषद् 
 
-Horizontal, across
+horizontal|across
 तिर्यञ्च्, तिर्यक् 
 
-Vertical, erect, upwards 
+vertical|erect, upwards 
 ऊर्ध्व 
 
-Oblique, transverse
+oblique|transverse
 जिह्म, तिरश्चीन 
 
-Crooked, sideways, askance
+crooked, sideways, askance
 साचि 
 
-Crossed, crosswise
+crossed, crosswise
 व्यत्यस्त
 
-Cone
+cone
 शङ्कु: 
 
-Conical
+conical
 शङ्क्वाकार:, शुण्डाकार: 
 
-Cylinder
+cylinder
 रम्भ: 
 
-Cylindrical
+cylindrical
 रम्भाकार: 
 
-Spiral
+spiral
 भ्रमिपथ: 
 
-Helical
+helical
 कुण्डलाकार, कम्बु- 
 
-Loop
+loop
 शक्या 
 
-Pyramid
+pyramid
 स्तूप: 
 
-Angular pyramid
+angular pyramid|pyramid (angular)
 कोणस्तूप: 
 
-Pyramidal
+pyramidal
 स्तूपाकार:
 
-Restroom
+restroom
 शौचालयः 
 
-Bathroom
+bathroom
 स्नानगृहं, स्नानागारं 
 
 bath-house
@@ -1051,28 +1051,28 @@ bath-water
 basin
 पात्री, औशीरिका 
 
-Bathtub
+bathtub
 स्नानद्रोणी 
 
-Shower
+shower
 वर्षिका 
 
-Faucet
+faucet
 नलिका 
 
-Gutter
+gutter
 प्रणालः, निर्गमः
 
-Flush
+flush
 निःसारणी 
 
-Mirror
+mirror
 दर्पणः 
 
-Soap
+soap
 फेनकं, अवनेग्यं 
 
-Shampoo
+shampoo
 केशफेनकं, केशावनेग्यं, वेणीरः (soapnut, used as shampoo) 
 
 bathing-trunks|bathing suit
@@ -1081,13 +1081,13 @@ bathing-trunks|bathing suit
 bath-robe
 स्नानौटी 
 
-Diaper
+diaper
 कटिवस्त्रं
 
-Ventilation
+ventilation
 वातायनं 
 
-Loofah
+loofah
 धामार्गवः (sponge gourd used as loofah) 
 
 pump (suction)
@@ -1096,7 +1096,7 @@ pump (suction)
 pump (blow, outward)
 न्यञ्चः 
 
-Blower
+blower
 धमनी 
 
 tooth-brush
@@ -1108,19 +1108,19 @@ tooth-paste
 tooth-pick|floss
 दन्त-शोधनी
 
-Gargle
+gargle
 गण्डूषः, कवलग्राहः 
 
-Mouthwash
+mouthwash
 गण्डूषारिष्टं
 
-Feces
+feces
 मलं, विट्, विष्ठा 
 
-Urine
+urine
 मूत्रं 
 
-Snot
+snot
 नासमलं, नसोत्थं 
 
 to defecate (v)
@@ -1132,52 +1132,52 @@ to urinate (v)
 any urethral discharge (v)
 मेहति 
 
-Sewage
+sewage
 मलजलं 
 
-Effluents
+effluents
 अवजलं
 
-War
+war
 समरः, युद्धं 
 
-Battle
+battle
 रणः 
 
 active force
 सक्रिय-बलं, क्रियाशील-बलं 
 
-Command
+command
 समादेशः 
 
-Commandant
+commandant
 समादेष्टा 
 
-Commander-in-Chief
+commander-in-Chief
 महासेनानी 
 
-Recruitment
+recruitment
 संघटनं, आप्रवेशनं 
 
-Disperse
+disperse
 विसर्जनं 
 
-Attention
+attention
 सावधानं
 
 at ease
 विश्रामः 
 
-Tent
+tent
 दूष्यं, पटगृहं 
 
-Camp
+camp
 शिबिरं 
 
 military encampment
 स्कन्धावारः 
 
-Cantonment
+cantonment
 सेनावासः, विक्षेपः 
 
 staff (mil.)
@@ -1411,124 +1411,124 @@ arm guard
 finger guard
 शस्तकं
 
-Motor
+motor
 वहित्रं 
 
-Engine
+engine
 गन्त्रं 
 
-Tyre|tire
+tyre|tire
 पविः, पव्या 
 
-Wheel
+wheel
 चक्रं 
 
-Accelerator
+accelerator
 प्रवेजकं 
 
-Brake
+brake
 आरोधः 
 
-Gear
+gear
 संयोक्तं 
 
-Truck
+truck
 भारवाहनं 
 
-Cargo
+cargo
 संभारः
 
-Merchandise
+merchandise
 वाणिज्या, पण्यजातं 
 
-Pickup truck
+pickup truck
 संभारयानं 
 
-Caravan
+caravan
 सार्थः 
 
-Trailer
+trailer
 सार्थ-वाहनं 
 
-Railway train
+railway train
 सार्थयानं 
 
-Van
+van
 संवृता 
 
-Dump truck
+dump truck
 निपातृयानं 
 
-Tractor
+tractor
 कर्षित्रं, कर्षित्र-यानं 
 
-Tow-truck
+tow-truck
 यानवाहनं 
 
-Fire engine
+fire engine
 अग्निशमनी
 
-Ambulance
+ambulance
 रुग्वाहनं, रुग्णवाहनं 
 
-Forklift
+forklift
 उद्वहनी 
 
-Road-roller
+road-roller
 वीथी-वेल्लनी 
 
-Flatbed truck
+flatbed truck
 तलवाहनं 
 
-Crane
+crane
 बकवाहिनी 
 
-Digger
+digger
 खनित्रं, खनित्रयानं 
 
-Car
+car
 यानं, कार्यानं, वहित्रयानं 
 
-Bus
+bus|public transport
 लोकयानं 
 
-Scooter
+scooter
 स्कुन्दनी 
 
 to scoot (v)
 स्कुन्दति
 
-Bicycle
+bicycle
 द्विचक्रं 
 
-Tricycle
+tricycle
 त्रिचक्रं 
 
-Motorcycle
+motorcycle
 द्विपविः, द्विचक्रयानं 
 
-Rikshaw
+rikshaw
 त्रिपविः, त्रिचक्रयानं 
 
-Taxi-cab
+taxi-cab
 भाटक-यानं 
 
-Helicopter
+helicopter
 उदग्रयानं 
 
-Cart|Carriage
+cart|Carriage
 शकटं 
 
-Spaceship
+spaceship
 अन्तरिक्षयानं
 
-Garage
+garage
 यानशाल:, यानशाला 
 
-Parking
+parking
 यानस्थानं
 
-Car maintenance
+car maintenance
 यान-परिरक्षणं
 
 apricot
@@ -1962,3 +1962,42 @@ plug
 
 charger|electric charger
 प्रभरकं
+
+steering wheel
+अरित्रा, अरित्रचक्रं
+
+horn
+बकुरं, शृङ्गः
+
+pedal
+पादकं
+
+ignition key
+प्रदीपकं, प्रदीपकुञ्जी
+
+glove compartment
+पेटी
+
+trunk (car)
+यानपूल, पूलः, कोशः
+
+carburettor
+प्राङ्गेयिता (प्राङ्गेयितृ, Raghuvira)
+
+hood (car)
+फणा
+
+chassis
+न्याधारः
+
+transmission
+पारेषणं
+
+electric car|electric vehicle
+वैवाहनं, वैयानं
+
+gasoline|fuel
+इन्धनं
+
+natural gas
+वातीन्धनं (Doordarshan Vaarta)
