@@ -85,6 +85,9 @@ coconut
 coconut kernel
 खर्बूरम्
 
+nut (fruit)
+दृढफलं (used for coconut, but may be generaized - Raghuvira)
+
 coffee
 कावा
 
@@ -760,7 +763,7 @@ viscous
 backyard|house-yard
 गृहाजिरं, अङ्गणम्
 
-screw
+screw (mechanical)
 भ्रमी
 
 screw-driver
@@ -772,25 +775,25 @@ screw thread|rifling
 clip|hair-clip|paper-clip
 स्वजं (v. स्वजते)
 
-nut
+nut (mechanical)
 नहः
 
-jack
+jack (mechanical)
 उत्थापम्
 
-bolt
+bolt (mechanical)
 नहस्रम्
 
-spanner|wrench
+spanner|wrench (implement)
 विकुञ्चः
 
 hammer|mallet
 मुद्गरः
 
-nail
+nail (mechanical)
 कीलम्
 
-saw
+saw (implement)
 क्रकचः
 
 spade
@@ -802,13 +805,13 @@ hoe
 shovel
 परावपः, कठिनम्
 
-rake
+rake (implement)
 संकिरः
 
-pliers
+pliers (implement)
 जम्भिलः
 
-shears
+shears (implement)
 कल्पनी
 
 scissors
@@ -844,14 +847,14 @@ tractor
 trash bin
 अवस्करः
 
-fork
+fork (implement)
 शूलः
 
 prune|pruning
 अधिकृन्तनम्
 
-tap
-विवरी, स्रोतः (स्रोतस्)
+tap|faucet
+विवरी, स्रोतः (स्रोतस्), नलिका
 
 pipe
 सूर्मिः, नाडः
@@ -907,7 +910,7 @@ shack|shed|stall
 shop|stall
 आवरिका, आवारिः, आसनी
 
-Water supply|Water trough
+water supply|water trough
 प्रपा
 
 garage
@@ -1059,9 +1062,6 @@ bathtub
 
 shower
 वर्षिका 
-
-faucet
-नलिका 
 
 gutter
 प्रणालः, निर्गमः
