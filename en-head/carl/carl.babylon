@@ -784,7 +784,7 @@ jack (mechanical)
 bolt (mechanical)
 नहस्रम्
 
-spanner|wrench (implement)
+spanner|wrench (tool)
 विकुञ्चः
 
 hammer|mallet
@@ -793,7 +793,7 @@ hammer|mallet
 nail (mechanical)
 कीलम्
 
-saw (implement)
+saw (tool)
 क्रकचः
 
 spade
@@ -805,13 +805,13 @@ hoe
 shovel
 परावपः, कठिनम्
 
-rake (implement)
+rake (tool)
 संकिरः
 
-pliers (implement)
+pliers (tool)
 जम्भिलः
 
-shears (implement)
+shears (tool)
 कल्पनी
 
 scissors
@@ -847,7 +847,7 @@ tractor
 trash bin
 अवस्करः
 
-fork (implement)
+fork (tool)
 शूलः
 
 prune|pruning
@@ -889,10 +889,10 @@ seeds
 fertilizer
 ऊर्वरकः
 
-file
+file (tool)
 व्रश्चनम्
 
-wedge
+wedge (tool)
 पुष्पलकः
 
 chisel
