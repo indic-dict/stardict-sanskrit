@@ -1,0 +1,229 @@
+PREFACE.
+
+When already there are some Sanskrit-English Dictionaries in the field, it becomes necessary to explain, at the outset, the necessity for the production of such a volume as the one now offered to the public. Of the Sanskrit-English Dictionaries, now in existence, none was written specially to meet the wants of Indian students and none is within the easy reach of the student of moderate means. Professor Goldstücker’s excellent but voluminous lexicon did not even reach the end of अ and is now out of print. Prof. M. Williams’ Sanskrit-English Dictionary is undoubtedly a highly useful and meritorious production in many respects. But it abounds in matter not needful to the ordinary student of classics; its plan and arrangement, though philosophical, are not practical; and it takes up much unnecessary space by the employment of Roman character in addition to the Devanāgarī, by giving insertion to unnecessary forms, and by repeating, in every instance, the leading word in the collocation of compounds. It is, besides, so highly priced as to be practically within the reach of very few indeed. Prof. Benfey’s Dictionary, not to speak of its very high price, contains much useless matter and is often singularly wanting in that which the student would naturally look for in a Dictionary. Prof. Wilson’s Dictionary gives mere synonyms, is defective in its treatment of verbs and generally fails to supply to the student the additional information he seeks. Moreover, being an old attempt, it is superseded by the performances of later writers. Of course, I do not mean to disparage these works; on the other hand, I value them highly and I have elsewhere acknowledged my obligations to them. I only wish to show that the Indian student of Sanskrit classics is thus left without any Sanskrit-English Dictionary, which, being within his easy reach, would satisfy his ordinary demands. While lecturing to Sanskrit classes at College, this want of a suitable Sanskrit-English Dictionary was often brought to my notice; and, last year, I was prevailed upon by my publisher to undertake to prepare the present work, chiefly to meet the ordinary demands of High School and College students. My chief objective, accordingly, in compiling the present Dictionary, has been to produce a volume of moderate size, as cheap and handy as possible without sacrifice of clearness and facility of reference, which the student can command at any time and place and in which he would find all that he ordinarily requires.
+
+Having pointed out the necessity for such a Dictionary, I proceed to explain the scope of the present work and to define the extent of literature which it is meant to cover. Sanskrit literature embraces two distinct periods – Vedic and post-Vedic. The first comprises the four Vedas and their auxiliaries, viz., the Brāhmaṇas, the Upanishads, and the Sūtras. The second comprises metrical law-books, the great epics, the several systems of philosophy, grammatical literature, legal digests and commentaries, rhetoric, poetry in its various branches, the dramas, the Purāṇas and Upapurāṇas and treatises on mathematics, astrology, music, medicine, and other branches of knowledge. Of these the first or Vedic period is not covered by the present Dictionary, my object being to supply an adequate help for the study of post-Vedic, more especially, of classical literature. Accordingly purely Vedic words – words which are not met with in classical works and are peculiar to the Vedic literature – will be found altogether omitted. The Vedas, being the earliest record of human progress yet known to man, unquestionably afford much food for reflection and speculation; and it is the duty of every son of India to study these sacred writings on other grounds also. But I think separate appliances ought to be in existence for the use of the Vedic student. The meanings of Vedic terms are not yet settled. Sāyaṇa’s renderings are not in harmony with the opinions of modern scholars, and the latter again differ as much from one another as they do from the great Indian scholiast. In such a state of Vedic scholarship, an independent lexicon of purely Vedic terms explained in the light of modern philological researches would be highly useful to those engaged on a study of the Vedic literature. But this task being very arduous and beside my purpose, I have strictly confined myself to the post-Vedic literature. However, it must not at all be supposed that the present Dictionary embraces the whole post-Vedic literature in all its branches. Even after the exclusion of Vedic literature, the field of Sanskrit learning remains so vast that, in order to produce a lexicon which would cover the whole of its ground and do full justice to all its branches, many years of patient and incessant labour are necessary; and the fruit of such labour it will be impossible to give in a single volume, however large. To explain and define the innumerable terms of logic, law, rhetoric, mathematics, philosophy, grammar, music, medicine and other branches of learning with accuracy and precision is a task not yet attempted by any Sanskrit-English lexicon except, perhaps, that of the late Prof. Goldstücker, which, as I have already intimated, did not reach the end of even the first vowel. This small volume is intended as an aid to the ordinary student of classical literature and cannot pretend to be in any way exhaustive on these lines; nor can it render aid to any but a mere beginner in many of the special branches of learning indicated above. However, grammar, rhetoric and law, as being more intimately connected with general literature, are more particularly attended to in the compilation of this work and most of the ordinary terms peculiar to these branches are explained as clearly as the nature of the work allowed. Of other branches of special learning such as logic, mathematics and medicine the student will find only the most ordinary terms included, while in the case of such branches as music and astrology even this has not been found, in all cases, possible. Again the names of such plants and trees only are inserted as are met with in general literature. Those peculiar to medicine, though found in Sanskrit lexicons like that of Amarasinha, have been omitted as being of very little use in making a general acquaintance with Sanskrit literature. Obscure and unimportant words never used in literature and simple compound words (e.g. अकपट, सतृष्ण) which present no difficulty of meaning are, in many cases, excluded; and so are simple derivatives from words which the student can very easily form for himself. Names of authors and works have also had to be omitted. They are of no use to the ordinary student in his studies and are too numerous to deserve insertion in a small volume, besides the fact that there now exist many catalogues of Sanskrit Mss. from which such information can be gathered if required. My object in making all these omissions was to effect as much saving of space as possible without diminishing the usefulness of the book. To recapitulate, the present Dictionary includes words occurring in the general post-Vedic literature – such as the epics, the metrical law-books, the moral tales, the prose of Danḍin and Bāṇa, poetry in its various branches, the dramas, and the Purāṇas – most of the ordinary terms of grammar, rhetoric and law, and the most ordinary terms of logic, philosophy, medicine, and some other special branches of learning. It does not include Vedic words, names of plants and trees except when they are met with in general literature, obscure and unimportant words never used in classics, extremely simple compounds, obvious and simple derivatives, names of authors and works and the more technical terms of the philosophical and scientific branches of learning.
+
+Some words are now necessary in regard to the plan and arrangement of the work. And first it must be pointed out that the head of etymology is here altogether left out of consideration. Comparative etymology, such as would be serviceable for philological purposes, however useful in itself, was of course out of the question in a volume like the present. Simple derivation, such as that given in Wilson’s Sanskrit-English Dictionary, would I believe, have much increased the bulk of the volume without practically adding to its utility. This latter also, for this reason, I have altogether omitted and confined myself to giving such derivations only as deserved attention on account of their singularity; (See जामित्र, फाल्गुन, लटभ, हंस &c.). Again I have not considered it either advisable or necessary to give all possible meanings of every word. Some which never occur in literature and are quite out-of-the-way have been omitted. For the sake of clearness, the different significations of each word have been separated and numbered by black Arabic figures; and, in doing so, meanings sufficiently distinguishable from each other, even when ultimately referrible to the same general sense, have been given separately. But mere shades of meaning and particularities of use which closely run into one another have been generally grouped under the same figure. In order to save space I have made a point of not making, in any case, the number of synonyms under each sense needlessly large. To the ordinary student, especially to a beginner, quotations are of great use as furnishing illustrations of the use of a word in a particular sense; and they also often assist in corroborating a doubtful meaning or fixing the signification of a word in a particular passage. I have, therefore, very often inserted quotations, mostly from classical writers, and have generally supplemented them by references to other places. All the works usually read in schools and colleges and a good many more have been copiously drawn upon for this purpose. In giving quotations and references generally the most suitable editions have been used; where many editions existed it has sometimes become necessary to compare some of them. In the case of Kāvyas, the chapter and verse are always given as they are almost coincident in all existing editions. But in the case of prose works such as Bāṇa’s Kādambarī the page is never cited since there is very little or no chance of the pages of the different editions coinciding with each other. To take an example, what is page 85 in Dr. Peterson’s edition of Bana’s Kadambari, is page 169 in a Calcutta edition, and, for aught one knows, may be some totally different page in a third edition. For similar reasons in making quotations from and giving references to plays, I have thought it advisable te give the Act only without citing the page. My object in following this course has been not to localize a book which may be used everywhere, by making references by page to editions which are in particular use at particular centres only. In this connection I may be allowed to observe that it is a matter for regret that, in spite of the so-called spread of Sanskrit learning, we do not yet possess accurate and trustworthy editions of some of the classical works usually read at colleges. The Mrichchhakaṭikā and the Uttararāmacharita, for instance, are undoubtedly two of our best Sanskrit plays; but unfortunately their texts are yet in a most unsatisfactory condition, aud authors have no option but to use such material as may be within their reach. In addition to quotations and references, I have noted grammatical peculiarities where necessary and have often added other information which, I hope, will be acceptable to the University student. At the end are added two appendices: the first treats of Sanskrit prosody and the second is explanatory of the names of noted mythological persons, &c. The student, it is believed, will derive much assistance from them. (For further details see ‘Directions to the student.’)
+
+In the next place, I must mention the works which I have constantly consulted in the course of the compilation of this volume. Professor Goldstücker’s Sanskrit-English Dictionary was constantly consulted to the middle of the first vowel, and I derived many happy hints from it. Professors Böhtlingk and Roth’s excellent and exhaustive Sanskrit-German Wörterbuch has been constantly by my side and has furnished me with hints for many of my quotations and references. Indeed I have made my own selection and have drawn upon sources not drawn upon by those authors. But my indebtedness to them in this matter I must frankly acknowledge. Professor Tārānāth’s Vāchaspatya I have consulted throughout for the different significations of words, for quotations, and for other information in which that work so richly abounds. Professor M. Williams’ Sanskrit-English Dictionary, so rich in synonyms, has been a constant source of aid and has supplied many excellent equivalents. The Professor’s scheme of compound words has also assisted me a great deal. These authors have been my principal guides and I most thankfully acknowledge my deep obligations to them. I have also now and then referred to the Sanskrit-English Dictionaries of Benfey and Wilson and the Sanskrit-Marathi lexicon of the late Mādhava Chandrobā. Moreover, I have had frequently to consult Sanskrit lexicons, works on grammar, rhetoric and prosody and a great many other texts – some of them very ably edited by competent scholars. To the authors or editors of all such works I tender my most hearty thanks.
+
+I shall next advert to a few particulars which call for some explanation. Though compounds are generally arranged under their first members, I have purposely deviated from this course in a few instances and treated them as leading words when such a course appeared to me to be more suitable. To effect saving in space I have also treated some words as compounds which, strictly speaking, are not so. Such are the abstract nouns in त्व and ता and the adjectives in मत्, वत् and विन्. There is one more irregularity imposed upon me by the exigencies of the press: I mean the orthography of <i>anusvāras</i> in the body of words. In a lexicon, where, in arranging the words, such <i>anusvāras</i> are treated as nasals, it was my intention to insist on the usual mode of representing them by their corresponding nasals; but owing to the extreme inconvenience of the press added to the ignorance of scribes through whose hands such a work must necessarily pass, I had no course left but to give up my intention; and, as a consequence, no one fixed rule has been followed in regard to this matter. But as this irregularity is not likely, in any way, to interfere with the usefulness of the work I hope the public will indulgently excuse me.
+
+In fine, I trust that this volume will be useful not only to High School and College students for whom it is chiefly intended, but also to the general reader of Sanskrit classics; and if I learn that this object it has fulfilled even partially I shall consider myself amply rewarded.
+
+However, in a work of this magnitude, dealing as it does with the whole stock of knowledge in a language copious in its literature, I am quite aware that many imperfections and shortcomings must have occurred from my own want of knowledge as well as from other causes. Indeed I have occasionally discovered such shortcomings even in the great works which I consulted, and I do not at all imagine that my attempt can be free from them. In partial excuse of these, I hope I shall be allowed to plead the immense labour and close application that such a work demands. The reader will also consider how errors quickly multiply when a work has to pass through several hands. I need not add that I shall be very happy to receive suggestions for the improvement of the work and shall very willingly adopt such of them as may be useful in a subsequent edition.
+
+In concluding, I tender my hearty thanks to Mr. Krishnaji Govind Oka, who, in addition to supplying several valuable hints, saw the whole work through the press and to whom alone is due the credit of whatever may be good in the execution and general get-up of the work. My thanks are also due to several other friends who have assisted me in one way or another in the compilation of the present Dictionary.
+
+BOMBAY, December, 1888.		L.R. VAIDYA.
+************************
+DIRECTIONS TO THE STUDENT.
+(TO BE STUDIED BEFORE USING THE DICTIONARY.)
+
+(1) In this Dictionary, words are arranged in the Nāgarī alphabetical order.
+(2) When words, really dissimilar owing to difference in derivation or grammar, are identical in form, the form is given once only as a leading word, and under it are treated the several words under large Roman figures like other words in the Dictionary, e.g. कंबु, कर, गुप्.
+(3) For the sake of clearness, the several meanings of each word, when sufficiently distinguishable from one another, are given separately and numbered by black Arabic figures; mere shades of meaning are not treated as separate senses; but, in such cases, generally several synonyms are given; and the student must use his discretion in finding out which of them is the most appropriate in any particular passage.
+(4) Simple derivatives from words, which the student can easily form for himself and which present no material difference of meaning are generally omitted. Thus potential passive participles in तव्य, व or अनीय, the less important past passive participles, abstract nouns regularly derived from adjectives, present participles and adverbs formed from adjectives are, except in special cases (See जहत्), left out. These, it is believed, the student will be able very easily to make up by the ordinary rules of grammar.
+(5) Names of authors and works are omitted, except in some notable instances.
+(6) Some words which are used as indeclinables, but are clearly derivable from nouns or adjectives, are given within brackets under the nouns or adjectives from which they are derived and are not treated as separate words, e.g. दक्षिणेन under दक्षिण.
+(7) The meanings of past passive participles and other similar derivatives are not given in full as they may be very readily got at by a reference to the roots from which they are derived.
+(8) Quotations are given in small Nāgarī type after the meanings which they are meant to illustrate.
+(9) All remarks upon meanings, explanatory and grammatical statements, and notes of information are enclosed within brackets.
+(10) (a) Compound words, except in a few cases where another course appeared advisable, are grouped under the first word in the compounds which is denoted by a hyphen; thus -करण under अंश means अंशकरण.
+(b) But where the formation of a compound is irregular and cannot be obtained by substituting the leading word for the hyphen and applying the ordinary rules of Sandhi, the compound is given in full, e.g. अष्टादशन्, अंसेभारिक, अहर्बांधव, अहोरात्र, गेहेशूर.
+(c) In every case, compounds are arranged in the Nāgarī alphabetical order of the words, which, in combination, are to be added on to the leading word.
+(d) When a compound itself forms the first member of other compounds, the latter are given immediately below it, the first compound, in such cases, being represented by a (°) preceding the word which forms the last member of the new compound. Thus °नाभ under पंक means not पंकनाभ but पंकजनाभ.
+(e) For the sake of convenience, some words formed by <i>Taddhita pratyayas</i>, are treated as compounds.
+(11) In the case of nouns, feminine forms, when of sufficient importance, have been, as a rule, treated as separate leading words. In a few cases, however, in which the feminine form makes no difference in meaning beyond that of sex, it is indicated under the masculine word.
+(12) Every leading adjective has its feminine form given after it within brackets; but this course has not been followed in the case of compounds.
+(13) (a) In the case of roots, the Arabic figure, preceding A, P and U, denotes the conjugation to which the root belongs.
+(b) Under each root, some of its important forms are usually given.
+(c) Verbs formed by prefixing, prepositions and other words to roots are given under those roots in Nāgarī alphabetical order. Thus अंगीकृ and अतिकृ must be looked for under कृ. The hyphen which follows prepositions indicates that they are to be prefixed to the leading root in order that it may give the senses that follow.
+(d) Sometimes, roots change their form or <i>pada</i> (voice) or both under the influence of certain prepositions or when used in certain senses. These changes have been noted within brackets in their proper places.
+(14) A few words and meanings, inadvertently omitted in the body of the Dictionary, have been given in the form of a Supplement at the end.
+(15) App. I gives, in an intelligible form, the definitions and illustrations of such metres as the student is likely to meet with in Sanskrit classics. As regards names of mythological persons, those most generally in use have been shown in App. II, for the sake of easy reference, and all synonyms and epithets in the nature of synonyms are included in the body of the work. Thus the word अर्जुन will be found in App. II, where a short account of the hero is given; but the synonyms (गांडीविन्, जिष्णु and फाल्गुन) will be found in the body of the work in their proper places.
+(16) In a few cases the rules of <i>Sandhi</i> are not strictly observed for the sake of intelligibility.
+(17) The system of transliteration followed is, in no item, a new one and will easily be understood by the student without any explanation.
+*************************
+I
+LIST OF ABBREVIATIONS
+of Grammatical terms &c.
+
+A, Atm.	<i>Ātmanepada.</i>
+a.	Adjective.
+abl.	Ablative.
+acc.	Accusative.
+App.	Appendix.
+Avyay.	<i>Avyayībhāva.</i>
+Bah., Bahu.	<i>Bahuvrīhi.</i>
+caus.	Causal.
+Cf.	Compare.
+Comp.	Compound.
+compar.	Comparative.
+Dat.	Dative.
+denom.	Denominative.
+desid.	Desiderative.
+du.	Dual.
+e.g.	(<i>exempli gratia</i>) for example.
+Ex.	Example.
+f.	Feminine (of adjectives).
+fem.	Feminine (of nouns).
+fig.	Figurative or figuratively.
+freq.	Frequentative.
+gen.	Genitive.
+gram.	Grammar.
+i.e.	(<i>id est.</i>) that is.
+ind.	Indeclinable.
+inf.	Infinitive.
+inst.	Instrumental.
+intr.	Introduction.
+lit.	Literal or literally.
+loc.	Locative.
+m.	Masculine.
+Math.	Mathematics.
+misc.	Miscellaneous.
+n.	Neuter.
+nom.	Nominative.
+num.	Numeral.
+op.	Opposed.
+P, Par.	<i>Parasmaipada.</i>
+pass.	Passive (present third person singular).
+phil.	Philosophy.
+pl.	Plural.
+pp.	Past passive participle.
+pres.	Present (third person singular).
+pron.	Pronoun.
+q.v.	(<i>quod vide</i>) which see.
+Sch.	Scheme.
+sing.	Singular.
+super.	Superlative.
+Tat., Tatpur.	<i>Tatpurusha.</i>
+U	<i>Ubhayapada</i> (Atm. and Par.)
+vi.	Verb intransitive.
+voc.	Vocative.
+vt.	Verb transitive.
+**********************
+II
+LIST OF ABBREVIATIONS
+of the Names of Works
+
+Am.	Amarakośa (in three kānḍas, Bombay edition, 1882).
+Am.S.	Amaruśataka (published in Kāvyasangraha, Calcutta, 1872).
+Ananda L.	Ānandalaharī (published in Kāvyasangraha, Calcutta, 1872).
+A.R.	Anargharāghava (in seven acts).
+Asv.	Aśvadhāṭī (published in Subhāshitaratnākara, Bombay, 1872).
+Bg.	Bhagavadgītā (in eighteen <i>adhyāyas</i>, Calcutta, 1879).
+Bh.	Bhārata (in eighteen <i>parvans</i>).
+Bhag.	Bhāgavata (in twelve <i>skandhas</i>).
+Bhartr.	Bhartṛihaṛiśataka [(i.) Sṛingāraśataka, published in Kāvyasangraha, Calcutta, 1872, (ii.) Nītiśataka, (iii.) Vairāgyaśataka, Telāng’s edition, 1885].
+Bh.P.	Bhāshāparichchheda.
+Bh.V.	Bhāminīivilāsa (in four <i>vilāsas</i>, Vaidya’s edition, 1887).
+B.R.	Bālarāmayaṇa (in ten acts).
+Br.A.	Bṛihadāraṇyaka.
+Bt.	Bhaṭṭikāvya (in twenty-two <i>sargas</i>, Majumdār’s series, Calcutta, 1878).
+Chando.U.	Chhāndogyopanishad.
+Chat.	Chātakāshṭaka (in two parts, published in Kāvyasangraha, Calcutta, 1872).
+Ch.K.	Chaṇḍakauśika (in five acts).
+Ch.L.	Chandrāloka (in ten Mayukhas, Calcutta, 1874.)
+Ch.M.	Chhandomanjarī (in six stabakas, Calcutta edition).
+Ch.P.	Chaurapanchaśika (published in Kāvyasangraha, Calcutta, 1872).
+D.B., D.Bh.	Dāyabhāga.
+D.K.	Daśakumāracharita (in two parts).
+D.R.	Daśarūpa (in four parichchhedas, Hall’s edition.)
+Gaut.S.	Gautamasūtra.
+Ghat.	Ghaṭakarpara (published in Kāvyasangraha, Calcutta, 1872).
+Git.G.	Gītagovinda (in twelve sargas, published in Kāvyasangraha, Calcutta, 1872.)
+G.L.	Gangālaharī (published in Kāvyasangraha, Calcutta, 1872).
+G.M.	Gaṇaratnamahodadhi.
+Har.Ch.	Harshacharita (in eight uchchhvāsas).
+Has.	Hāsyārṇava.
+Hit.	Hitopadeśa (in four parts).
+Jaim.N.M.	Jaiminīyanyāyaratnamālā.
+Jaim.S., Jaimini S.	Jaiminisūtra.
+Kad.	Kādambarī.
+Kalika.P.	Kalikāpuraṇa.
+Katho.	Kaṭhopanishad.
+K.D. 	Kāvyadarśa (in three parichchhedas, Bibliotheca Indica series, Calcutta, 1863).
+Kir.	Kirātārjunīya (in eighteen sargas, Calcutta, 1875).
+K.Pr.	Kāvyaprakāśa (in ten ullāsas).
+K.S.	Kumārasambhava (in seventeen sargas, Nirṇayasāgara edition, 1886).
+K.S.S. 	Kathāsaritsāgara.
+Kus.	Kusumānjali.
+M.	Manusmṛiti (in twelve adyāyas, Māndlik’s edition, 1886).
+Mal.	Mālavikāgnimitra (in five acts).
+Mar.P.	Mārkandeyapuraṇa.
+Megh.	Meghadūta (in two parts, Nirṇayasāgara edition, 1883).
+Mit.	Mitākshara (Bombay edition, 1882).
+M. Karika.	Mimānsakārika.
+M.M.	Mālatīmādhava (in ten acts, Bhandārkar’s edition, 1876).
+M.Mud.	Mohamudgara (published in Kāvyasangraha, Calcutta, 1872).
+Mrich.	Mṛichchhakaṭikā (in ten acts).
+M.S.	Mahishaśataka (manuscript).
+Mud.	Mudrārākshasa (in seven acts, Telāng’s edition, 1884).
+Mug.	Mugdhabodha.
+Mv.	Mahāvīracharita (in seven acts, Borooah’s edition, 1877).
+Na.	Naishadhacharita (in twenty-two sargas, Calcutta edition, 1876).
+Nag.	Nāgānanda (in five acts).
+Nal.	Nalodaya (in four sargas, published in Kāvyasangraha, Calcutta, 1872).
+Niti.Pr.	Nītipradīpa (published in Kāvyasangraha, Calcutta, 1872).
+Panch.	Panchatantra (in five tantras).
+Par.P.	Pārvatīpariṇaya (in five acts).
+P.Bh.	Patanjalamahābhāshya.
+Pr.B.	Prāṇābharaṇa (published in Kāvyamālā, Bombay).
+Pr.Ch.	Prabodhachandrodaya (in six acts).
+Pr.R.	Prasannarāghava (in seven acts).
+P.Y.	Patanjali’s Yogasūtra.
+R.	Raghuvanśa (in nineteen sargas, Nirṇayasāgara edition, 1886).
+Rajat.	Rājatarangiṇi.
+Ram.	Rāmāyaṇa (in seven kandas).
+Rat.	Ratnāvalī (in four acts).
+R.G.	Rasangangādhara (manuscript).
+Rt.	Ṛitusanhāra (in six parts, published in Kāvyasangraha, Calcutta, 1872).
+R.V.	Ṛigveda (in ten mandalas, Max Muller’s edition).
+Sak.	Śakuntalā (in seven acts).
+Sank.K., Sankhya K.	Sānkhyakārika.
+Sank.S.	Sānkhyasūtra.
+Sant.S.	Śāntiśataka (in four parichchhedas, published in Kāvyasangaha, Calcutta, 1872).
+Sar.D.	Sarvadarśanasangraha.
+Sat.Br.	Śatapathabrāhmaṇa.
+S.Bh.	Śārīrabhāshya (in four adhyāyas, Calcutta edition, 1874).
+S.D.	Sāhityadarpaṇa (in ten parichchhedas, Calcutta edition, 1878).
+Sid.M.	Siddhāntamuktāvali.
+Sik.	Śikshā.
+Sis.	Śiśupālavadha (in twenty sargas, Calcutta edition).
+S.K.	Siddhāntakaumudi.
+S.Kant.	Sarasvatīkaṇṭhābharaṇa.
+S.L.	Sudhālaharī (published in Kāvyamala, Bombay).
+Sr.B.	Śrutabodha (published in Kāvyasangraha, Calcutta, 1872).
+Sr.T.	Śṛingāratilaka (published in Kāvyasangraha, Calcutta, 1872).
+T.K.	Tarkakaumudī.
+Trik.	Trikāṇḍaśesha.
+T.S.	Tarkasangraha.
+Udd.	Uddhavadūta (published in Kāvyasangraha, Calcutta, 1872).
+Ut.	Uttararāmacharita (in seven acts).
+Ut.M.	Utpalamālā.
+Vaj.S.	Vājasaneyisanhitā.
+Vas.D.	Vāsavadatta (Hall’s edition).
+Ve.	Veṇīsanhāra (in six acts).
+Vid.Bh.	Viddhasālabhanjikā (in four acts).
+Vikr. 	Vikramorvaśīya (in five acts, Paṇḍit’s edition, 1879).
+Vikr.Ch.	Vikramānkadevacharita (in eighteen sargas, Buhler’s edition, 1875).
+Vir.M.	Vīramitrodaya.
+V.P.	Vākyapadīya.
+Yaj.	Yājnyavalkyasmṛiti (in three adhyāyas, Bombay edition, 1872).
+
+Note. The small Roman figure following the name of the work indicates the canto, chapter, act &c. and the Arabic figure the verse.
+-----------------
+III
+LIST OF ABBREVIATIONS
+of the Names of Authors.
+
+Chan.	Chāṇakya
+Hal.	Halāyudha
+Jag.	Jagannātha
+Kat.	Katyāyana
+Kull.	Kullūka
+Mall.	Mallinātha
+Pan.	Pāṇini
+Ud.	Udbhata
