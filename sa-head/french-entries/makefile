@@ -3,6 +3,7 @@ DICT_TOOLS_BIN_BASH=~/dict-tools/bin/bash
 
 # make all DICTS=xyz
 DICTS=.*
+OVERWRITE=false
 GITHUB_TOKEN=NONE
 OVERWRITE=false
 

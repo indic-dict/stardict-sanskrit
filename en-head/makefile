@@ -8,6 +8,7 @@ all:stardict tars
 
 # make all DICTS=xyz
 DICTS=.*
+OVERWRITE=false
 GITHUB_TOKEN=NONE
 
 # Let the URL not end with /.
@@ -20,7 +21,7 @@ tars:
 	bash $(DICT_TOOLS_BIN_BASH)/make_tarballs.sh $(URL) DICTS=$(DICTS)
 
 full:
-	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN)
+	bash $(DICT_TOOLS_BIN_BASH)/full_build.sh $(URL) DICTS=$(DICTS) GITHUB_TOKEN=$(GITHUB_TOKEN) overwrite=$(OVERWRITE)
 decompile:
 	# Note: cannot usefully decompile apte-bi and mw-bi
 	bash $(DICT_TOOLS_BIN_BASH)/decompile_all.sh
