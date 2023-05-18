@@ -39,13 +39,8 @@ jobs:
         sudo pip3 install lxml PyICU pyglossary
 #        Requirements as per https://github.com/ilius/pyglossary
     - name: Build dicts
-      if: ${{ github.event_name != 'workflow_dispatch' }}
       run: |
-        make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
-    - name: Build dicts (workflow_dispatch)
-      if: ${{ github.event_name == 'workflow_dispatch' }}
-      run: |
-        make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" OVERWRITE="${{ github.event.inputs.overwrite }}"
+        make full GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"  OVERWRITE="${{ github.event.inputs.overwrite||'false' }}"
 #        git config --global user.email "you@example.com"
 #        git config --global user.name "Github Actions"
 #        git add -A -v
