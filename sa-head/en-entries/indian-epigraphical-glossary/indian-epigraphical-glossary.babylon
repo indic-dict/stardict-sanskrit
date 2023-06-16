@@ -2,6 +2,7 @@
 #bookname=indian-epigraphical-glossary (sa-en)
 #stripmethod=keep
 #sametypesequence=h
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2023-06-16
 
 आबाध
 ābādha (CII 1), illness.<BR><a href="https://yaahi.github.io/?cp=001&d=IEG" target="_blank">PDF</a><BR><a href="https://yaahi.github.io/?d=ieg&e=1" target="_blank">Correction</a>
@@ -9345,7 +9346,7 @@ Mahākartaka (LL), epithet of an artisan.<BR><a href="https://yaahi.github.io/?c
 महाकार्ताकृतिक
 Mahākārtākṛtika (IE 8-2; EI 29, 30; CII 3; HD), official<BR>designation of uncertain import; probably, a reporter who<BR>informed the king about the progress of big undertakings; some-<BR>times explained as ‘the royal agent or judge’; one of the desig-<BR>nations sometimes included in the pañca-mahāśabda; cf. the case<BR>of Maitraka Dhruvasena I. Cf. Ind. Ant., Vol. XV, p. 306.<BR>See Kārtākṛtika.<BR><a href="https://yaahi.github.io/?cp=177&d=IEG" target="_blank">PDF</a><BR><a href="https://yaahi.github.io/?d=ieg&e=3114" target="_blank">Correction</a>
 
-महाकार्त्तिकी
+महाकार्तिकी|महाकार्त्तिकी
 Mahākārttikī (EI 11; CII 4), full-moon day of the month<BR>of Kārttika.<BR><a href="https://yaahi.github.io/?cp=177&d=IEG" target="_blank">PDF</a><BR><a href="https://yaahi.github.io/?d=ieg&e=3115" target="_blank">Correction</a>
 
 महाकटुक
@@ -13200,10 +13201,10 @@ Poduvāl13 (EI 18), Tamil-Malayalam; an officer super-<BR>vising charitable endo
 पोलाच्य
 polācya, cf. sa-khila-polācya (IE 8-5); cultivated land; same<BR>as nāla; Hindī polach, ‘land constantly under cultivation.’<BR><a href="https://yaahi.github.io/?cp=252&d=IEG" target="_blank">PDF</a><BR><a href="https://yaahi.github.io/?d=ieg&e=4399" target="_blank">Correction</a>
 
-प्ॐद
+पोंद
 poṃda (Chamba), name of a tax.<BR><a href="https://yaahi.github.io/?cp=252&d=IEG" target="_blank">PDF</a><BR><a href="https://yaahi.github.io/?d=ieg&e=4400" target="_blank">Correction</a>
 
-प्ॐदी
+पोंदी
 poṃdī (Chamba), bottom; foot of a hill.<BR><a href="https://yaahi.github.io/?cp=252&d=IEG" target="_blank">PDF</a><BR><a href="https://yaahi.github.io/?d=ieg&e=4401" target="_blank">Correction</a>
 
 पोन्

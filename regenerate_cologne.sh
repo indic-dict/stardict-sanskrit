@@ -14,6 +14,8 @@ make DICTS='shabda-sAgara'
 make DICTS='Vedic-Index-of-Names-and-Subjects'
 make DICTS='wilson'
 make DICTS='yates'
+make DICTS='lanman'
+make DICTS='vaidya'
 cd ../../sa-head/german-entries
 make DICTS='Bohtlingk-and-Roth-Grosses-Petersburger-Worterbuch'
 make DICTS='Bohtlingk-Sanskrit-Worterbuch-in-kurzerer-Fassung'
