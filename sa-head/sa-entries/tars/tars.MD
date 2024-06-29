@@ -1,0 +1,17 @@
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/abhidhAnachintAmaNi__2023-12-06_13-57-22Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/abhidhAnachintAmaNiparishiShTa__2023-12-06_13-57-22Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/abhidhAnachintAmaNishilonCha__2023-12-09_03-31-51Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/abhidhAnaratnamAlA__2024-01-17_03-14-56Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/amara-onto__2022-09-08_03-28-28Z__1MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/amara-sudhA__2024-06-11_04-21-30Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/anekArthadhvanimanjarI__2022-01-22_15-15-47Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/bhUtasankhyA_kp_shukla__2022-12-22_16-26-50Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/e-bhAratI-sampat__2022-01-22_15-15-47Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/ekAkSharanAmamAlA__2022-01-22_15-15-47Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/jhaLkI-bhIma-nyAya-koshaH__2024-01-18_01-48-35Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/kalpadruma-sa__2024-01-17_03-14-56Z__12MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/laxaNa-sangraha__2023-06-15_10-56-05Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/shaiva-kosha__2023-09-01_12-31-41Z__0MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/upasargArthachandrikA__2023-12-03_02-09-13Z__1MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/vAchaspatyam-sa__2024-01-17_03-14-56Z__13MB.tar.gz  
+https://github.com/indic-dict/stardict-sanskrit/raw/gh-pages/sa-head/sa-entries/tars/vaiShNava-koshaH__2024-05-23_01-35-05Z__0MB.tar.gz  
