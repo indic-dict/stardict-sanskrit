@@ -1,0 +1,20 @@
+*.nogit
+
+*.dict.dz
+*.syn
+*.idx
+*.ifo
+*.babylon_final
+# The below should not be in gitignore because gh-pages branch needs to include them. Manually delete from manual branch. 
+#*.tar.gz
+# *.slob
+
+# But not these files...
+!en-head/apte-bi/*
+!sa-head/french-entries/dictionnaire-heritage_du_sanskrit_san-fra/*
+
+/all_dicts_stardict-sanskrit.tar.gz
+local*
+move_to_stardict.sh
+
+*.iml
