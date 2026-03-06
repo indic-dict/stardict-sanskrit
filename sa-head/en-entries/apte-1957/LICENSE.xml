@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="//www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="//www.tei-c.org/ns/1.0" xmlns:xi="//www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Revised and enlarged edition of Prin. V. S. Apte's The practical Sanskrit-English dictionary</title>
+    <title type="key">Apte 1957 Chicago</title>
+    <title type="short"><name>Apte, Vaman Shivaram</name>. <title rend="italic">Revised and enlarged edition of Prin. V. S. Apte's The practical Sanskrit-English dictionary</title>. <date>1957-1959</date>.</title>
+    <editor>James H. Nye</editor>
+    <editor>David S. Magier</editor>
+   </titleStmt>
+   <editionStmt>
+    <edition>See <ptr target="//dsal.uchicago.edu/dictionaries/apte/"/>.</edition>
+   </editionStmt>
+   <extent></extent>
+   <publicationStmt>
+    <authority>James H. Nye</authority>
+    <publisher>Digital Dictionaries of South Asia</publisher>
+    <pubPlace>
+     <address>
+      <addrLine>Chicago, IL</addrLine>
+      <addrLine>USA</addrLine>
+    </address>
+    </pubPlace>
+    <date when="2008-06">June 2008</date>
+    <availability>
+     <p>Copyright © 1957-1959 Prasad Prakashan</p>
+     <p>Copyright © 2014 The Sanskrit Library and Thomas Malten</p>
+     <p>No part of this publication may be stored, transmitted, retransmitted, lent, or reproduced in any form or medium without the permission of Prasad Prakashan.</p>
+    </availability>
+    <distributor>
+     <ptr target="xxxxxpatternxxxxx"/>
+    </distributor>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s">Digital Dictionaries of South Asia</title>
+   </seriesStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="apte.revised">
+     <monogr>
+      <author>Vaman Shivaram Apte</author>
+      <author>Parshuram Krishna Gode</author>
+      <author>Cintamana Ganesa Karve</author>
+      <title type="main" level="m">Revised and enlarged edition of Prin. V. S. Apte's The practical Sanskrit-English dictionary</title>
+      <imprint>
+       <pubPlace>Pune</pubPlace>
+       <publisher>Prasad Prakashan</publisher>
+       <date>1957-1959</date>
+      </imprint>
+      <extent>
+       <measure unit="volumes" quantity="3">3 vols.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The data conversion and presentation of this dictionary was sponsored by the former Dharam Hinduja Indic Research Center, Columbia University and the University of Chicago.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p></p>
+   </editorialDecl>
+   <tagsDecl>
+   </tagsDecl>
+   <classDecl>
+    <taxonomy xml:id="lcsh">
+     <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation></creation>
+   <langUsage>
+    <language ident="en-Latn">English</language>
+    <language ident="sa">Sanskrit</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- English.</item>
+     </list>
+    </keywords>
+    <!-- Library of congress call number. -->
+    <classCode scheme="#lccn">PK933 .A65 1957</classCode>
+    <!--Sanskrit Library Indic Subject Classification-->
+    <!--referenced items by a catRef-->
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change></change>
+  </revisionDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url=""/>
+ </facsimile>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart> xxxxx Transcript of the title page of the book.</titlePart>
+    </docTitle>
+    <docImprint>
+     <publisher>
+     </publisher>
+     <pubPlace>
+      <address>
+       <addrLine></addrLine>
+      </address>
+     </pubPlace>
+    </docImprint>
+    <docDate>xxxxx</docDate>
+   </titlePage>
+  </front>
+  <body>
+   <xi:include href="xxxxx.xml"><!-- The file that has the xml data -->
+    <xi:fallback>
+     <p>See the file xxxxx.xml</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>
