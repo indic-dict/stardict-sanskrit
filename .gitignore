@@ -18,3 +18,4 @@ local*
 move_to_stardict.sh
 
 *.iml
+*DS_Store
