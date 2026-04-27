@@ -2,7 +2,7 @@
 #bookname=abhidhAnachintAmaNishiloNcha (sa-sa)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-03
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 सर्वीय|सम्भव|सर्व्वीय|सर्व्वीयः|संभव|संभवः|सम्भवः
 सर्वीय-पुं (१)<BR>सम्भव-पुं (४)<BR>अर्हं बीजं नमस्कृत्य गुरूणामुपदेशतः ।<BR>श्रीहैमनाममालायाः शिलोञ्छः क्रियते मया ॥ १ ॥<BR>सर्वीय इत्यपि जिने शम्भवे सम्भवोऽपि च (२) ।<BR>देवाधिदेवकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=1" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
@@ -64,7 +64,7 @@
 अन्तरीक्ष|सांसृष्टिक|अंतरीक्षं|अन्तरीक्षं
 अन्तरीक्ष-क्ली (५५८)<BR>सांसृष्टिक-क्ली (६००१)<BR>खेऽन्तरीक्षं सांसृष्टिकमपि तत्कालजे फले ॥ १२ ॥<BR>देवकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=1" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कालिका|वार्दल|वार्द्दल|वार्द्दलं|वार्द्दलः
+कालिका|वार्दल|वार्दलः|वार्द्दल|वार्द्दलं|वार्द्दलः
 कालिका-स्त्री (५६०)<BR>वार्दल-क्ली (५६१)<BR>मेघमाला कालिकाऽपि वार्दलं चापि दुर्दिनम् (१३) ।<BR>देवकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=1" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 सूत्रामन्|शतार|शतधार|शतारं|शतधारं
@@ -190,7 +190,7 @@
 आयुष्मत्|आक्षपाटलिक|पारिषद्य|आयुष्मन्त्|पारिषद्यः
 आयुष्मत्-पुं (१४८२)<BR>आक्षपाटलिक-पुं (१४८५)<BR>पारिषद्य-पुं (१४८८)<BR>आयुष्मानपि दीर्घायुः कथ्यतेऽथ परीक्षकः ।<BR>स्यादाक्षपाटलिकोऽपि पारिषद्योऽपि सभ्यवत् ॥ ३५ ॥<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-नैमित्तिक|नैमित्त|मौहूर्त|लिखिता|मेला|कुलक|नैमित्तिकं|मौहूर्तः|मौहूर्त्त|मौहूर्त्तः|कुलकं|कुलकः
+नैमित्तिक|नैमित्त|मौहूर्त|लिखिता|मेला|कुलक|नैमित्तिकं|नैमित्तिकः|नैमित्तः|मौहूर्तः|मौहूर्त्त|मौहूर्त्तः|कुलकं|कुलकः
 नैमित्तिक-पुं, नैमित्त-पुं, मौहूर्त-पुं (१४९०)<BR>लिखिता-स्त्री (१४९३)<BR>मेला-स्त्री (१४९५)<BR>कुलक-पुं (१४९६)<BR>स्युर्नैमित्तिकनैमित्तमौहूर्ता गणके लिपौ ।<BR>लिखिताऽपि मषी मेला कुलिके कुलकोऽपि च ॥ ३६ ॥<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 शारिफलक|शारिफलकः
@@ -226,7 +226,7 @@
 रण्डा|पुष्पिता
 रण्डा-स्त्री (१६५२)<BR>पुष्पिता-स्त्री (१६६६)<BR>रण्डाऽपि विधवा पुष्पवती स्यात्पुष्पिताऽपि च ॥ ४३ ॥<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कुसुम|पशुधर्म|कुसुमं|पशुधर्मः|पशुधर्म्म
+कुसुम|पशुधर्म|कुसुमं|कुसुमः|पशुधर्मः|पशुधर्म्म
 कुसुम-क्ली (१६६९)<BR>पशुधर्म-पुं (१६७१)<BR>पुष्पे कुसुममप्युक्तं पशुधर्मोऽपि मोहने (४४) ।<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 सगर्भ|अग्रिम|सगर्भः|अग्रिमः
@@ -247,7 +247,7 @@
 कुर्पर|संहतल|कुर्परः|संहतलः
 कुर्पर-पुं (१८१२)<BR>संहतल-पुं (१८३१)<BR>कूर्परे कुर्परः सिंहतलः संहतलोऽपि च (४७) ।<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-चलुक|आण्ड|पिलक|चलुकः|आंड
+चलुक|आण्ड|पिलक|चलुकः|आंड|आण्डः
 चलुक-पुं (१८३६)<BR>आण्ड-पुं, पिलक-पुं (१८७२)<BR>चलुकोऽपि चलुः मुष्के स्यादाण्डः पिलकोऽपि च ॥ ४७ ॥<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 पद्|पाद्|अङ्घ्रि|हड्ड|अंघ्रि|अङ्घ्रिः|हड्डं
@@ -262,7 +262,7 @@
 शिङ्घाणक|सृणिका|शिंघाणक|शिंघाणकं|शिंघाणकः|शिङ्घाणकः
 शिङ्घाणक-पुं (१९३२)<BR>सृणिका-स्त्री (१९३३)<BR>शिङ्घाणकोऽपि शिङ्घाणः सृणीका सृणिकापि च ॥ ४९ ॥<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=2" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-विश्|विष्|अशुचि|वेश|वेशः
+विश्|विष्|अशुचि|वेश|अशुचिः|वेशः
 विश्-स्त्री, विष्-स्त्री, अशुचि-क्ली (१९३६)<BR>वेश-पुं (१९३७)<BR>शान्तः षान्तश्च विड्गूथेऽशुचि वेशोऽपि वेषवत् (५०) ।<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=3" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 उच्छादन|आप्लाव|उच्छादनं|आप्लावः
@@ -280,7 +280,7 @@
 वतंस|पत्रवल्लरी|पत्रमञ्जरी|वतंसः
 वतंस-पुं (१९८३)<BR>पत्रवल्लरी-स्त्री, पत्रमञ्जरी-स्त्री (१९८४)<BR>वतंसोऽप्यवतंसे स्यात्पत्त्रभङ्ग्यां तु पण्डितैः ।<BR>पत्राद्वल्लरी तत्र मञ्जरी च तथोदिता ॥ ५३ ॥<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=3" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कर्णान्दू|परिहार्य|कर्णांदू|परिहार्य्य|परिहार्य्यः
+कर्णान्दू|परिहार्य|कर्णांदू|परिहार्यः|परिहार्य्य|परिहार्य्यः
 कर्णान्दू-स्त्री (१९८९)<BR>परिहार्य-पुं (२०१३)<BR>कर्णान्दूरपि कर्णान्दुः परिहार्योऽपि कङ्कणम् (५४) ।<BR>मर्त्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=3" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 कङ्कणी|आच्छादन|कंकणी|आच्छादनं|आछादन
@@ -454,7 +454,7 @@
 सन्धि|धाम|संधि|संधिः|सन्धिः
 सन्धि-पुं (३००७)<BR>धाम-क्ली (३०१८)<BR>सुरुङ्गायां सन्धिरपि गृहे धाममपि स्मृतम् (८६) ।<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-उपकर्या|प्रसादन|प्रसादनं
+उपकर्या|प्रसादन|प्रसादनं|प्रसादनः
 उपकर्या-स्त्री (३०२२)<BR>प्रसादन-पुं (३०२४)<BR>उपकार्योपकर्याऽपि प्रासादे च प्रसादनः ॥ ८६ ॥<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 शान्तीगृह|अङ्गण|अंगण|अंगणं|अङ्गणं
@@ -469,7 +469,7 @@
 पेटक|पेडा|पेटकं|पेटकः
 पेटक-पुंक्ली, पेडा-स्त्री (३०९९)<BR>पेटायां स्यात्पेटकोऽपि पेडाऽपि कृतिनां मते ॥ ८८ ॥<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-पवनी|अयोनि
+पवनी|अयोनि|अयोनिः
 पवनी-स्त्री (३१००)<BR>अयोनि-पुंक्ली (३१०६)<BR>पवन्यपि समूहन्यामयोनिं मुसलं विदुः (८९) ।<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 पिटक|अन्ती|अन्तिन्|पिटकं|पिटकः|अंती
@@ -481,7 +481,7 @@
 अग|क्रौञ्च|अगः|क्रौंच|क्रौंचः|क्रौञ्चः
 अग-पुं (३१३५)<BR>क्रौञ्च-पुं (३१४१)<BR>अगोऽपि पर्वते कौञ्जः क्रोञ्चवन्मन्यते बुधैः ॥ ९० ॥<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-कक्खटी|औदुम्बर|औदुंबर
+कक्खटी|औदुम्बर|औदुंबर|औदुम्बरः
 कक्खटी-स्त्री (३१६७)<BR>औदुम्बर-क्ली (३१७२)<BR>कक्खट्यपि खटिन्यां स्यात्ताम्रमौदुम्बरं विदुः (९१) ।<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 शातकौम्भ|चपल|शातकौंभ|शातकौंभं|शातकौम्भं|चपलं|चपलः
@@ -586,7 +586,7 @@
 भसल|मधुकर|अलिन्|पिक्क|करि|मधुकरः|पिक्कः
 भसल-पुंस्त्री, मधुकर-पुंस्त्री, अलिन्-पुंस्त्री (३६६६)<BR>पिक्क-पुं (३६९०)<BR>करि-पुं (३६८०)<BR>भसलो मधुकरोऽली च पिक्को विक्कः करिः करी ॥ १०९ ॥<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-व्याड|औपवाह्य|अवरा|व्याडः
+व्याड|औपवाह्य|अवरा|व्याडः|औपवाह्यः
 व्याड-पुं (३६९६)<BR>औपवाह्य-पुं (३७००)<BR>अवरा-स्त्रीक्ली (३७२६)<BR>व्यालो व्याडोऽपवाह्योऽप्यौपवाह्येऽपराऽवरा (११०) ।<BR>तिर्यक्काण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=4" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 निगल|अन्दू|कक्षा|वाल्हिक|वाल्हीक|वल्ग|वागा|खलिन|निगलः|खलिनं|खलिनः
@@ -679,7 +679,7 @@
 कल्मष|याव्य|रेपस्|कल्मषं|कल्मषः|याव्यं
 कल्मष-क्ली (४३००)<BR>याव्य-क्ली, रेपस्-क्ली (४३२२)<BR>मलीमसे कल्मषं च निकृष्टे याव्यरेपसी (१२९) ।<BR>सामान्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=5" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-लडह|रमणीय|सदातन|शाश्वतिक|नेदीयस्|लडहः|रमणीयं
+लडह|रमणीय|सदातन|शाश्वतिक|नेदीयस्|लडहः|रमणीयं|सदातनः
 लडह-क्ली, रमणीय-क्ली (४३२४)<BR>सदातन-क्ली, शाश्वतिक-क्ली (४३४०)<BR>नेदीयस्-क्ली (४३३७)<BR>लडहं रमणीयं च रम्ये नित्ये सदातनम् ॥ १२९ ॥<BR>शाश्वतिकं च नेदीय इत्यन्तिकतमे स्मृतम् (१३०) ।<BR>सामान्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=5" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 अवगण|प्राञ्च्|प्रांच्
@@ -712,7 +712,7 @@
 परीरम्भ|उद्घात|परीरंभ|परीरंभः|परीरम्भः|उद्घातः
 परीरम्भ-पुं (४४७१)<BR>उद्घात-पुं (४४७८)<BR>परीरम्भोऽपि संश्लेषे स्यादुद्घातोऽप्युपक्रमे (१३६) ।<BR>सामान्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=5" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
-जात|सङ्घर्ष|विकार|विकृति|समर्पण|जातं|संघर्ष|संघर्षः|सङ्घर्षः|विकारः|विकृतिः|समर्पणं|समर्प्पण
+जात|सङ्घर्ष|विकार|विकृति|समर्पण|जातं|जातः|संघर्ष|संघर्षः|सङ्घर्षः|विकारः|विकृतिः|समर्पणं|समर्प्पण
 जात-क्ली (४४९२)<BR>सङ्घर्ष-पुं (४४९५)<BR>विकार-पुं, विकृति-स्त्री (४५०८)<BR>समर्पण-क्ली (४५११)<BR>जातौ जातमपि स्पर्धा सङ्घर्षोऽप्यथ विक्रिया ॥ १३६ ॥<BR>विकारो विकृतिश्चापि विलम्भस्तु समर्पणम् (१३७) ।<BR>सामान्यकाण्डः<BR><a href="https://dub.sh/cslp?dict=ACSJ&page=5" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=acsj" target="_blank">Correction</a>
 
 समुपजोषम्|सर्वदा|सनत्|सनात्|सर्व्वदा

@@ -2,7 +2,7 @@
 #bookname=bopp (sa-la)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-03
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-27
 
 अ|अं|अः
 1. अ stirps demonstrativa; v. gr. 270.<BR><a href="https://dub.sh/cslp?dict=BOP&page=001-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
@@ -64,13 +64,13 @@
 अकाम
 अकाम (BAH. ex अ priv. et काम) invitus. N. 20.22.<BR><a href="https://dub.sh/cslp?dict=BOP&page=001-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अकार
+अकार|अकारः
 अकार m. (ex अ sonus a et कार faciens) littera a. BH. 10.33.<BR>(v. gr. 4.).<BR><a href="https://dub.sh/cslp?dict=BOP&page=001-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अकाल|अकालः
 अकाल (BAH. ex अ priv. et काल tempus) intempestivus.<BR>SU. 1.31.<BR><a href="https://dub.sh/cslp?dict=BOP&page=001-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अकूपार
+अकूपार|अकूपारः
 अकूपार m. (cujus ripa ulterior non vilis i. e. non propinqua<BR>sed remota est, latus; BAH. ex अ priv. et कूपार<BR>quod ipsum est BAH. ex कू, producto ex कु q. v., et<BR>पार; cf. दूरपार) mare. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=001-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अकृतबुद्धि
@@ -187,7 +187,7 @@
 अघ्
 अघ् 10. P. (पापकरणे K. तत्कृतौ V.) peccare. (non vera<BR>radix, sed verbum denominativum a sq. अघ).<BR><a href="https://dub.sh/cslp?dict=BOP&page=003-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अघ|अघं
+अघ|अघं|अघः
 अघ n. (r. अङ्घ् ire s. अ) peccatum. V. अनघ et cf. अंहस्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=003-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अङ्क्|अंक्
@@ -310,7 +310,7 @@
 अजिन|अजिनं
 अजिन n. (ut mihi videtur, ab अज caper s. इन sicut gr.<BR>αἰγίς ab ἌΙΓ) pellis, nebris. BH. 6.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=004-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अजिह्म|अजिह्मं
+अजिह्म|अजिह्मं|अजिह्मः
 अजिह्म (KARM. ex अ priv. et जिह्म) non curvus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=004-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अजिह्मग|अजिह्मगः
@@ -490,7 +490,7 @@
 अत्यर्थम्
 अत्यर्थम् (AVY. ex अति et अर्थ m. res) ultra modum. SU. 3.25.<BR>N. 11.20.<BR><a href="https://dub.sh/cslp?dict=BOP&page=006-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अत्र
+अत्र|अत्रः
 अत्र (a stirpe pronominali अ - gr. 270. - s. त्र) hic, illic.<BR>In lingua scenica saepe praefigitur voci भवत् et ejus<BR>fem. भवती.<BR><a href="https://dub.sh/cslp?dict=BOP&page=006-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अत्रि|अत्रिः
@@ -715,7 +715,7 @@
 अनर्घ्यत्व
 अनर्घ्यत्व n. (a praec. s. त्व) Abstractum praecedentis,<BR>Untödtbarkeit. HIT. 1.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=009-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अनर्थ
+अनर्थ|अनर्थः
 अनर्थ m. (ex अन् priv. et अर्थ q. v.) res adversa, infortunium.<BR>HIT. 2.11. 42.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=009-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अनर्थक|अनर्थकं
@@ -772,7 +772,7 @@
 अनाप्लुताङ्ग
 अनाप्लुताङ्ग (BAH. ex अनाप्लुत non lautus, et अङ्ग n.) non<BR>lautum corpus, non lauta membra habens. IN. 2.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=009-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अनामय|अनामयं
+अनामय|अनामयं|अनामयः
 अनामय (BAH. ex अन् priv. et आमय m. morbus)<BR>1) Adj.<BR>sanus, salvus, valens. DR. 4.10.<BR>2) Subst. n. sanitas, salus,<BR>valetudo. BR. 1.19. N. 2.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=009-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अनायुष्य
@@ -889,7 +889,7 @@
 अनुभाव|अनुभावः
 अनुभाव m. (r. भू praef. अनु videre, s. अ) auctoritas, dignitas.<BR>BH. 2.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=010-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अनुमत
+अनुमत|अनुमतः
 अनुमत n. (part. pass. a r. मन् cogitare, s. त) assensus,<BR>consensus, permissio. N. 17.22. SA. 5.80.<BR><a href="https://dub.sh/cslp?dict=BOP&page=010-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अनुमन्तृ|अनुमंतृ
@@ -940,7 +940,7 @@
 अनुवृत्ति|अनुवृत्तिः
 अनुवृत्ति f. (r. वृत् praef. अनु sequi s. ति) obsequium.<BR>Wils. «complaisance, obliging or serving another». DEV. 1.13.<BR>स्नेहानुवृत्ति - ex स्नेह amor vel potius स्नेहन्<BR>amicus et अनुवृत्ति - amicitia. HIT. 20.20. 33.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=011-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अनुव्रत
+अनुव्रत|अनुव्रतः
 अनुव्रत (BAH. ex अनु et व्रत n. votum) deditus, addictus,<BR>c. acc. N. 2.27. 13.56.<BR><a href="https://dub.sh/cslp?dict=BOP&page=011-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अनुशासन|अनुशासनं
@@ -1051,7 +1051,7 @@
 अन्तवत्|अंतवत्|अन्तवन्त्
 अन्तवत् (ab अन्त s. वत्) finem habens, caducus. BH. 2.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=012-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अन्तिक|अंतिक|अन्तिकं
+अन्तिक|अंतिक|अन्तिकं|अन्तिकः
 अन्तिक n. (fortasse a perdita voce अन्ति = gr. αντί, lat.<BR>ante, vel ab अति inserto न् s. क; secundum Wils. ab<BR>अन्त finis s. इक) propinquitas. IN. 2.20. 5.31. H. 2.12.<BR>N. 1.23. 13.49.<BR><a href="https://dub.sh/cslp?dict=BOP&page=012-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अन्तिकात्
@@ -1267,7 +1267,7 @@
 अप्राप्तवयस्
 अप्राप्तवयस् (BAH. ex अप्राप्त non contactus - a r. आप्<BR>praef. प्र et अ priv. - et वयस् aetas, hic: adulta aetas)<BR>non contactam adultam aetatem habens, qui ad adultam<BR>aetatem nondum pervenit. BR. 1.28.<BR><a href="https://dub.sh/cslp?dict=BOP&page=014-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अप्रिय|अप्रियं
+अप्रिय|अप्रियं|अप्रियः
 अप्रिय (KARM. ex अ priv. et प्रिय q. v.) injucundus, ingratus,<BR>insuavis.<BR><a href="https://dub.sh/cslp?dict=BOP&page=014-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अप्रियंवद
@@ -1282,7 +1282,7 @@
 अप्सरा
 अप्सरा f. i. q. praec.<BR><a href="https://dub.sh/cslp?dict=BOP&page=014-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अबद्ध|अबद्धं
+अबद्ध|अबद्धं|अबद्धः
 अबद्ध (ex अ priv. et बद्ध ligatus, a r. बन्ध् s. त)<BR>1) non<BR>ligatus.<BR>2) insanus, stultus. N. 26.16.<BR><a href="https://dub.sh/cslp?dict=BOP&page=014-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अबल|अबलं|अबलः
@@ -1297,7 +1297,7 @@
 अब्धि|अब्धिः
 अब्धि m. (aquam tenens, ex अप् aqua et धि tenens a r.<BR>धा s. इ) mare. HIT. 105.9.<BR><a href="https://dub.sh/cslp?dict=BOP&page=014-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अभय|अभयं
+अभय|अभयं|अभयः
 अभय (ex अ priv. et भय timor)<BR>1) KARM. securitas. HIT. 59.3.<BR>2) BAH. intrepidus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=014-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अभव|अभवः
@@ -1363,7 +1363,7 @@
 अभिमान|अभिमानः
 अभिमान m. (aut a r. मन् aut a मान् s. अ) superbia, insolentia,<BR>honoris, gloriae cupiditas. BH. 16.4.<BR><a href="https://dub.sh/cslp?dict=BOP&page=015-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अभिमुख|अभिमुखं
+अभिमुख|अभिमुखं|अभिमुखः
 अभिमुख (BAH. ex अभि et मुख os, vultus) adversum vultum<BR>habens. N. 12.32. 20.43. DR. 8.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=015-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अभिमुखम्
@@ -1528,7 +1528,7 @@
 अमात्य|अमात्यः
 अमात्य m. (a praec. s. त्य) qui est a consiliis, Wils. «a<BR>minister, a counsellor».<BR><a href="https://dub.sh/cslp?dict=BOP&page=016-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अमानुष
+अमानुष|अमानुषः
 अमानुष (KARM. ex अ priv. et मानुष humanus) quod est<BR>supra hominem (übermenschlich). N. 23.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=016-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अमित्र|अमित्रः
@@ -1588,7 +1588,7 @@
 अम्भस्|अंभस्
 अम्भस् n. (r. अम्भ् s. अस्) aqua. A. 6.6. BH. 2.67. (v.<BR>अभ्र).<BR><a href="https://dub.sh/cslp?dict=BOP&page=017-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अम्भोज|अम्भोजं
+अम्भोज|अम्भोजं|अम्भोजः
 अम्भोज n. (in aqua natus ex praec. et ज) lotus flos.<BR>HIT. 107.13.<BR><a href="https://dub.sh/cslp?dict=BOP&page=017-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अम्मय|अम्मयं
@@ -1654,7 +1654,7 @@
 अरम्
 अरम् (Acc. τᴕ̃ अर) celeriter, cito. AM. (fortasse gr. ἄϱα,<BR>cf. Hartung I. p. 423.).<BR><a href="https://dub.sh/cslp?dict=BOP&page=017-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अरविन्द|अरविंदं|अरविन्दं
+अरविन्द|अरविंदं|अरविन्दं|अरविन्दः
 अरविन्द m. lotus flos. HIT. 59.1. SAK. 45.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=017-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अराजक|अराजकः
@@ -1690,7 +1690,7 @@
 अरे
 अरे Interj. HIT. 22.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=018-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अरोग
+अरोग|अरोगः
 अरोग (BAH. ex अ priv. et रोग m. morbus) liber a morbo,<BR>sanus, salvus. BR. 3.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=018-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अर्क्
@@ -1870,7 +1870,7 @@
 अलु|अलुः
 अलु f. parva hydria. HIT. 90.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=020-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अल्प|अल्पं
+अल्प|अल्पं|अल्पः
 अल्प Adj. (v. gr. 251 et 280.) parum, paulum, exiguus. IN. 5.13.<BR>N. 25.13. (Huc retulerim lith. alpstù, ap-alpstù<BR>animus me liquit ich falle in Ohnmacht; praet. alp-aù,<BR>fut. alp-su, v. gr. comp. 498.; alkstù, praet. alk-aù, fut.<BR>alk-su fame uri ejusdem originis esse videtur, permutatâ<BR>labiali cum gutturali. Fortasse etiam gr. ὀλίγος huc<BR>pertinet, mutatâ tenui in mediam et inserto i sicut in<BR>δολιχός contra दीर्घ longus.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=020-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अल्पक|अल्पकः
@@ -2092,7 +2092,7 @@
 अवाकिशरस्
 अवाकिशरस् (BAH. e praec. et शिरस् n. caput) deorsum<BR>caput habens, demisso capite. M. 4. DR. 8.22.<BR><a href="https://dub.sh/cslp?dict=BOP&page=022-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अवाङ्मुख|अवाङ्मुखं
+अवाङ्मुख|अवाङ्मुखं|अवाङ्मुखः
 अवाङ्मुख (BAH. ex अवाक्, v. gr. 58., et मुख n. vultus)<BR>deorsum habens vultum, demisso vultu. DR. 9.24.<BR><a href="https://dub.sh/cslp?dict=BOP&page=022-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अवाच्
@@ -2125,7 +2125,7 @@
 अविरतम्
 अविरतम् Adv. (acc. neut. praec.) sine intermissione, assidue,<BR>perpetuo. P. 17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=022-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अविषय
+अविषय|अविषयः
 अविषय m. (KARM. ex अ priv. et विषय q. v.) absentia.<BR>HIT. 56.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=022-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अविशेषम्
@@ -2179,7 +2179,7 @@
 अशून्यम्
 अशून्यम् Adv. (Accus. neut. praec.) omnino, plane, accurate.<BR>SAK. 33.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=023-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अशेष|अशेषं
+अशेष|अशेषं|अशेषः
 अशेष (BAH. ex अ priv. et शेष n. residuum, reliquum) totus,<BR>universus. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=023-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अशेषतस्
@@ -2200,7 +2200,7 @@
 अश्मन्
 अश्मन् m. (ut videtur, a r. अश् sg. 2. s. मन्) lapis (lith.<BR>akmů Th. akmen, slav. kamy Th. kamen, v. gr. comp. 139.<BR>et p. 364.; fortasse etiam huc referenda est prima<BR>syllaba graeci σμά-ϱαγδος et lat. sma-ragdus, ita ut<BR>σμα, sma sit pro asma, et ϱαγδος ragdus sit lapidis<BR>epitheton, quod retulerim ad rad. रञ्ज् colorare, unde<BR>रक्त ruber; cf. अश्मगर्भ. Quod attinet ad sibilantem<BR>in voce graeca et latina, pro gutturali, quae plerumque<BR>sanscriti श् locum tenet in utraque lingua: respiciendum<BR>est, litteram श् etiam in sanscrita lingua non raro cum<BR>स् permutari, et vice versa स् cum श्, e. c. in श्वशुर<BR>quod lat. est socer, gr. ἑϰυϱός).<BR><a href="https://dub.sh/cslp?dict=BOP&page=023-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अश्मन्त|अश्मंत|अश्मन्तं
+अश्मन्त|अश्मंत|अश्मन्तं|अश्मन्तः
 अश्मन्त m. (ab अश्मन् s. त) focus, fornax. AM. (fortasse<BR>gr. ϰάμινος et lat. caminus, - nisi haec sunt a ϰαίω, - per<BR>metathesin ex ἄϰμινος sicut slav. KAMEN opponitur<BR>lithuanico AKMEN et scr. अश्मन्).<BR><a href="https://dub.sh/cslp?dict=BOP&page=023-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अश्मसार|अश्मसारः
@@ -2284,7 +2284,7 @@
 असकृत्
 असकृत् (ex अ priv. et सकृत् semel) non semel, saepius.<BR>H. 1.14. 4.11. BR. 1.21. A. 8.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=024-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-असङ्ख्येय|असंख्येय
+असङ्ख्येय|असंख्येय|असंख्येयः
 असङ्ख्येय (KARM. ex अ priv. et सङ्ख्येय a r. ख्या praef.<BR>सम् s. य. v. gr. 626.) innumerabilis. N. 13.56.<BR><a href="https://dub.sh/cslp?dict=BOP&page=024-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 असज्जन|असज्जनः
@@ -2296,7 +2296,7 @@
 असत्कृत
 असत्कृत n. (KARM. ex अ priv. et सत्कृत e सत् bonus et<BR>कृत n. factum) peccatum, delictum. N. 24.31.<BR><a href="https://dub.sh/cslp?dict=BOP&page=024-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-असत्य
+असत्य|असत्यः
 असत्य (KARM. ex अ priv. et सत्य verus) non verus, falsus.<BR>N. 19.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=024-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 असन्
@@ -2452,7 +2452,7 @@
 अहह
 अहह Interj. HIT. 12.3.<BR><a href="https://dub.sh/cslp?dict=BOP&page=027-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-अहार्य|अहार्य्य|अहार्य्यं|अहार्य्यः
+अहार्य|अहार्यः|अहार्य्य|अहार्य्यं|अहार्य्यः
 अहार्य m. (non capiendus, non abripiendus, ex अ<BR>priv. et हार्य a r. हृ s. य) mons. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=027-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 अहि|अहिः
@@ -2614,7 +2614,7 @@
 आज्ञा
 आज्ञा f. (r. ज्ञा scire praef. आ) jussus, praeceptum. IN. 2.12.<BR>N. 19.11. (hibern. agna sapientia, prudentia. Pikt.<BR>p. 87.).<BR><a href="https://dub.sh/cslp?dict=BOP&page=028-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आज्ञाकर
+आज्ञाकर|आज्ञाकरः
 आज्ञाकर (e praec. et कर faciens)<BR>1) Adj. obediens, subjectus.<BR>2) m. servus, famulus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=028-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आज्ञाकरत्व
@@ -2839,7 +2839,7 @@
 आप्तदक्षिण
 आप्तदक्षिण (BAH. ex आप्त aptus aut impetratus et दक्षिणा<BR>f. donum quod Brahmanis in solemnibus sacrificiis impertitur)<BR>apto sacrificali dono instructus. N. 5.46. 26.37.<BR><a href="https://dub.sh/cslp?dict=BOP&page=031-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आप्य|आप्यं
+आप्य|आप्यं|आप्यः
 आप्य Adj. (ab अप् aqua s. य) aquosus, aquaticus, humidus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=031-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आप्यायित|आप्यायितः
@@ -2956,7 +2956,7 @@
 आरक्त
 आरक्त (ex praep. आ et रक्त ruber) subruber. UR. 60.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=032-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आरण्यक
+आरण्यक|आरण्यकः
 आरण्यक (ab अरण्य silva s. क)<BR>1) Adj. silvester.<BR>2) m.<BR>silvicola, eremita.<BR><a href="https://dub.sh/cslp?dict=BOP&page=033-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आरति|आरतिः
@@ -3004,7 +3004,7 @@
 आर्त|आर्त्त|आर्त्तः
 आर्त aut आर्त्त (r. अर्द् vexare q. v. praef. आ s. त) vexatus,<BR>afflictus, praecipue in fine comp. H. 1.4. 2.5. Extra<BR>compositionem, afflictus, tristis, miser. N. 12.108. 13.64.<BR>BH. 7.16.<BR><a href="https://dub.sh/cslp?dict=BOP&page=033-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आर्तव|आर्त्तव|आर्त्तवं|आर्त्तवः
+आर्तव|आर्तवः|आर्त्तव|आर्त्तवं|आर्त्तवः
 आर्तव (a ऋतु s. अ, v. gr. 650.) anni tempori consentaneus.<BR>H. 1.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=033-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आर्ति|आर्तिः|आर्त्ति|आर्त्तिः
@@ -3019,7 +3019,7 @@
 आर्द्र|आर्द्रं
 आर्द्र madidus, uvidus, humidus. H. 4.55. (sequitur ex hoc<BR>vocabulo, radicem अर्द् vel आर्द् extitisse, quae irrigare<BR>vel simile quid significaverit et accurate cum gr. ἄϱδω<BR>convenit).<BR><a href="https://dub.sh/cslp?dict=BOP&page=033-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आर्य|आर्य्य|आर्य्यः
+आर्य|आर्यः|आर्य्य|आर्य्यः
 आर्य (ut videtur, a r. ऋ vel simpl. vel cum praep. आ comp.<BR>s. य, nisi corruptum est ex आर्च्य vel अर्च्य a r. अर्च्<BR>q. v.) venerandus, nobilis, generosus. H. 4.30. BH. 2.2.<BR>HIT. 117.1. 4. (Cf. germ. vet. êra, nostrum Ehre).<BR><a href="https://dub.sh/cslp?dict=BOP&page=033-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आर्यपुत्र|आर्यपुत्रः|आर्य्यपुत्त्रः|आर्य्यपुत्र
@@ -3124,7 +3124,7 @@
 आवेग|आवेगः
 आवेग m. (r. विज् s. अ) sollicitudo, consternatio, perturbatio.<BR>UR. 31.2.infr.<BR><a href="https://dub.sh/cslp?dict=BOP&page=034-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आश
+आश|आशः
 आश m. (r. अश् s. अ) cibus, in comp. c. प्रातर् q. v. (Hib.<BR>es, nisi hoc a lat. esca, v. Pikt. p. 64.).<BR><a href="https://dub.sh/cslp?dict=BOP&page=034-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आशंसा
@@ -3199,7 +3199,7 @@
 आसक्त|आसक्तं|आसक्तः
 आसक्त v. सज्ज्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=035-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आसङ्ग|आसंग|आसङ्गं
+आसङ्ग|आसंग|आसङ्गं|आसङ्गः
 आसङ्ग m. (r. सञ्ज् s. अ) Subst. abstr. adhaesio, trop. addictum,<BR>deditum, studiosum esse. BH. 4.20. (cf. सङ्ग).<BR><a href="https://dub.sh/cslp?dict=BOP&page=035-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आसञ्जन|आसंजनं
@@ -3253,7 +3253,7 @@
 आस्य|आस्यं
 आस्य n.<BR>1) os.<BR>2) vultus, facies. A. 10.53. ubi आस्यैश्<BR>pro आष्ट्रैश् legendum. (Lat. ôs).<BR><a href="https://dub.sh/cslp?dict=BOP&page=036-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-आस्वाद
+आस्वाद|आस्वादः
 आस्वाद m. (r. स्वाद् praef. आ gustare, s. अ) sapor. H. 1.20.<BR>HIT. 125.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=036-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 आस्वादन|आस्वादनं
@@ -3430,10 +3430,10 @@
 इन्द्राणी|इंद्राणी
 इन्द्राणी f. (ex इन्द्र s. आनी, v. gr. min. 218.) nomen Indri<BR>uxoris.<BR><a href="https://dub.sh/cslp?dict=BOP&page=040-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-इन्द्रायुध|इन्द्रायुधं
+इन्द्रायुध|इन्द्रायुधं|इन्द्रायुधः
 इन्द्रायुध m. (ex इन्द्र et आयुध telum, arma) arcus coelestis.<BR>AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=040-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-इन्द्रिय|इंद्रिय|इन्द्रियं
+इन्द्रिय|इंद्रिय|इन्द्रियं|इन्द्रियः
 इन्द्रिय n. (ut videtur, ex इन्द्र s. इय) sensus (videndi, audiendi<BR>etc.). BH. 3.40. 10.22.<BR><a href="https://dub.sh/cslp?dict=BOP&page=040-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 इन्ध्|इंध्
@@ -3583,7 +3583,7 @@
 ईर्क्ष्य्
 ईर्क्ष्य् 1. P. (ईर्षायाम्, equidem syllabam य hujus radicis,<BR>quae in temp. gen. nondum inventa est, pro charactere<BR>4^tae cl. habuerim, ita ut ईर्क्ष् sit radix, quae varietas<BR>est simplicioris formae ईर्ष्, unde ईर्षित q. v., porro<BR>Substant. ईर्षा et Adject. ईर्षु. ईर्ष् autem ex ईर् adjecto<BR>ष् ortum esse videtur, quum sibilantes saepe simplicioribus<BR>radicibus adjungantur; cf. e. c. मास्, भास्<BR>c. मा, भा, et मोक्ष् cum मुच्) invidere.<BR><a href="https://dub.sh/cslp?dict=BOP&page=043-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-ईर्म|ईर्म्म
+ईर्म|ईर्मः|ईर्म्म
 ईर्म n. vulnus. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=043-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 ईर्षा
@@ -3694,7 +3694,7 @@
 उचित|उचितं
 उचित (a praec. s. त)<BR>1) congruus, conveniens. HIT. 14.13. 18.14. 24.3. 43.22.<BR>2) dignus, merens. N. 16.16.<BR>H. 1.33.a. et b.<BR>3) expertus. N. 23.22.<BR><a href="https://dub.sh/cslp?dict=BOP&page=045-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-उच्च|उच्चं
+उच्च|उच्चं|उच्चः
 उच्च (a praep. उत् s. च) altus. AM. (Hib. uchdan «a hillock»,<BR>cambro-brit. uched «élevé». Pikt. p. 21.).<BR><a href="https://dub.sh/cslp?dict=BOP&page=045-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 उच्चण्ड|उच्चंड|उच्चण्डः
@@ -3799,7 +3799,7 @@
 उत्कण्ठित|उत्कंठित|उत्कण्ठितं
 उत्कण्ठित (a praec. s. इत nisi directe a r. कण्ठ् s. त)<BR>moerore afflictus, animo demissus. RAM. III.55.39.:<BR>पश्यामि जनम् उत्कण्ठितम् पुरे; III.49.5.: {#utkaRWitA<BR>te mAte 'yam#}.<BR><a href="https://dub.sh/cslp?dict=BOP&page=046-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-उत्कम्प|उत्कंप
+उत्कम्प|उत्कंप|उत्कम्पः
 उत्कम्प m. (r. कम्प् s. अ) tremor. PAT. 20.<BR><a href="https://dub.sh/cslp?dict=BOP&page=046-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 उत्कर|उत्करः
@@ -4048,7 +4048,7 @@
 उद्भव|उद्भवः
 उद्भव m. (r. भू esse, existere, praef. उत् s. अ) ortus, origo.<BR>N. 13.10. A. 5.24.<BR><a href="https://dub.sh/cslp?dict=BOP&page=048-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-उद्भिज्ज|उद्भिज्जं
+उद्भिज्ज|उद्भिज्जं|उद्भिज्जः
 उद्भिज्ज (ex उद्भिद् germinatio et ज natus) progerminando<BR>natus. MAN. 1.46. V. sq.<BR><a href="https://dub.sh/cslp?dict=BOP&page=048-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 उद्भिद्
@@ -4147,7 +4147,7 @@
 उन्माथ|उन्माथः
 उन्माथ m. (r. मथ् vel मन्थ् praef. उत् s. अ) laqueus. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=049-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-उन्मार्ग
+उन्मार्ग|उन्मार्गः
 उन्मार्ग (ex उत् et मार्ग) deverticulum, iter devium, Abweg.<BR>HIT. 4.12. 115.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=049-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 उन्मुख|उन्मुखः
@@ -4357,7 +4357,7 @@
 उपशम|उपशमः
 उपशम m. (r. शम् s. अ)<BR>1) quies. SAK. 53.3.infr.<BR>2) placatio,<BR>sedatio. HIT. 57.11.: भयोपशमम् प्रतिज्ञाय.<BR>3) cessatio. HIT. 80.21.: वृष्टेर् उपशमः<BR><a href="https://dub.sh/cslp?dict=BOP&page=051-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-उपशल्य|उपशल्यं
+उपशल्य|उपशल्यं|उपशल्यः
 उपशल्य n. (उप + शल्य a r. शल् s. य) finis, terminus<BR>vici, Colebr. «space near a village». AM.: {#grAmAnta<BR>upaSalyaM syAt#}.<BR><a href="https://dub.sh/cslp?dict=BOP&page=051-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 उपशान्ति|उपशांति|उपशांतिः|उपशान्तिः
@@ -4381,7 +4381,7 @@
 उपसुन्द|उपसुंदः|उपसुन्दः
 उपसुन्द m. (ex उप et सुन्द) n. pr. SU. 1.3.<BR><a href="https://dub.sh/cslp?dict=BOP&page=051-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-उपसूर्यक|उपसूर्यकं|उपसूर्य्यक|उपसूर्य्यकं
+उपसूर्यक|उपसूर्यकं|उपसूर्यकः|उपसूर्य्यक|उपसूर्य्यकं
 उपसूर्यक m. (ex उप et सूर्य s. क) discus solis. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=051-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 उपस्कर|उपस्करः
@@ -4888,7 +4888,7 @@
 ॠ
 ॠ 9. P.: ऋणामि gr. 385. (गतौ) ire. (Haec radix origine eadem est atque ऋ q. v.) (*)<BR>(*) De adulterinâ vocali ṝ v. librum meum „Vocalismus”<BR>p. 181.<BR><a href="https://dub.sh/cslp?dict=BOP&page=057-1a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-एक|एकं
+एक|एकं|एकः
 एक (ut equidem puto, ex stirpe pronom. ए et interrog.<BR>क, v. gr. comp. 308.) unus, singulus, solus (gr. 255.).<BR>N. 12.17. H. 1.8. 40.4. 7. DR. 3.3.a.b.; idem, unus idemque.<BR>N. 3.7. (Lith. ni-ékas nullus, hib. each «any»,<BR>neach «any one, one, some one, he», neach-tar «neither»,<BR>neachdarach «neutral»; gr. ἑϰά-τεϱος, ἕϰα-στος<BR>v. एकतर; lat. aequus, c̕-ocles ex êc-ocles, ita caecus =<BR>ca-icus primitive unoculus; goth. ha abjecto ए, in<BR>compositis: haihs unoculus Th. haiha, ha-iha, cujus<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=057-2b" target="_blank">Page057-2b+ 6</a>]<BR>pars posterior respondet sanscrito अक्ष abjecto ष्, totum<BR>convenit, quod etiam Grimmius vidit, cum lat.<BR>caecus; ha-nfs Th. ha-nfa unimanus, cujus partem posteriorem<BR>per metathesin explicaverim ex पानि; ha-lts<BR>Th. ha-lta claudus, proprie, ut mihi videtur, unum pedem<BR>habens, cf. rad. LITH ire, unde lithus membrum,<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=058-a" target="_blank">Page058-a+ 37</a>]<BR>nostrum Glied (Ge-lied); ha-lbs Th. ha-lba dimidius,<BR>proprie unam partem habens, cf. laiba reliquum et v.<BR>gr. comp. 308. annot.).<BR><a href="https://dub.sh/cslp?dict=BOP&page=057-2a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 एकक|एककः
@@ -4918,7 +4918,7 @@
 एकदा
 एकदा (ab एक s. दा) aliquando. UP. 27.<BR><a href="https://dub.sh/cslp?dict=BOP&page=058-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-एकनिश्चय
+एकनिश्चय|एकनिश्चयः
 एकनिश्चय (ex एक et निश्चय consilium, propositum).<BR>1) KARM. unum et idem consilium. SU. 1.7.<BR>2) BAH.<BR>unum et idem consilium habens. SU. 1.4.<BR><a href="https://dub.sh/cslp?dict=BOP&page=058-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 एकपिङ्ग|एकपिंग|एकपिङ्गः
@@ -4948,7 +4948,7 @@
 एकाग्र|एकाग्रः
 एकाग्र (a praec. s. य) id. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=058-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-एकान्त|एकान्तं
+एकान्त|एकान्तं|एकान्तः
 एकान्त (BAH. ex एक et अन्त m. n. finis)<BR>1) totus.<BR>2) solitarius.<BR>N. 16.33. UP. 42.<BR><a href="https://dub.sh/cslp?dict=BOP&page=058-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 एकान्ततस्
@@ -5035,7 +5035,7 @@
 एरण्ड|एरंडः|एरण्डः
 एरण्ड n. nomen arboris cujusdam, «Palma Christi or<BR>ricinnus communis». AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=059-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-एव|एवं
+एव|एवं|एवः
 एव (e stirpe pronom. ए + व sicut अव, इव ex अ, इ;<BR>videtur esse Instrumentalis analogiam sequens linguae<BR>Zendicae - gr. comp. 158. - ita ut correptum sit ex एवा,<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=059-b" target="_blank">Page059-b+ 36</a>]<BR>a stirpe demonstrativâ एव, quae in ligua Zend. plenam<BR>conservavit declinationem, sub formâ aêva, quod unus<BR>significat - v. gr. comp. 308. - sicut Praepos. अव in<BR>Zend. est Demonstrativum cum integrâ declinatione.<BR>In Sanscrito autem Th. एव, praeter correptam Instrumentalis<BR>formam, solum Accusativum retinuit एवम्,<BR>quod sic, hoc modo significat.)<BR>1) sic. N. 11.10. 12.114. 17.43.<BR>2) solum, tantummodo. HIT. 11.4. 30.15. 35.15.<BR>N. 19.19.a.b. 22.16. BR. 2.30. H. 4.7.15. (cf.<BR>Zend. 𐬀𐬈𐬎𐬎𐬀 aêva unus, gr. οἶος ex οἶϜος, nisi<BR>ortum est ex οἶνος = एन, q. v., oinos).<BR>3) jam. SA. 4.32.:<BR>मृतम् एव हि तम् मेने; SAK. 27.3.infr.: {#mahaty<BR>eva pratyUze…praboDye#}.<BR>4) adhuc, noch. N. 23.21.<BR>5) quidem, zwar. BH. 7.18.: {#udArAH sarva evE'te jYAnI<BR>tv AtmE'va me matam#}.<BR>6) post pronomina interdum<BR>significat ipse vel valet particulam dem in compositione<BR>cum is, e. c. N. 2.13.: एतस्मिन्न् एव काले तु hoc ipso<BR>tempore vero, vel eodem…; N. 19.19.: {#yAn (aSvAn)<BR>manyase samarTAMs tvaN kzipran tAn eva yojaya#}; 4.28.:<BR>माम् एव…वृणोति; 5.19. 20.21.: {#tam eva pradiSantu<BR>me#}.<BR>7) nempe. N. 4.26. 18.20. 23.14. 17.<BR>8) saepissime<BR>etiam, non raro antecedente च; de चैऽव vero, autem v.<BR>च. (Goth. aiv Th. aiva, germ. vet. eo, io, nostrum je, v.<BR>gr. comp. 381.; lat. aevum a similitudine dictum esse videtur,<BR>sicut scr. समा annus; fortasse etiam goth. ibus<BR>aequalis, germ. vet. ebanêr, nostrum ebener huc pertinet,<BR>mutato व् in b, v. p. 21. s. v. अवर.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=059-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 एवंरूप
@@ -5074,10 +5074,10 @@
 ऐक्य|ऐक्यं
 ऐक्य n. (ab एक s. य) unitas. DEV. 2.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=060-1a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-ऐणेय|ऐणेयं
+ऐणेय|ऐणेयं|ऐणेयः
 ऐणेय m. (ab एण s. एय) fortasse idem atque एण q. v. DR. 4.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=060-1a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-ऐन्द्र|ऐंद्र|ऐन्द्रं
+ऐन्द्र|ऐंद्र|ऐन्द्रं|ऐन्द्रः
 ऐन्द्र Adj. (ab इन्द्र s. अ) quod Indri Dei est, aut ad eum<BR>spectat. A. 4.32.<BR><a href="https://dub.sh/cslp?dict=BOP&page=060-1a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 ऐन्द्री
@@ -5191,7 +5191,7 @@
 और्द्ध्वदेहिका
 और्द्ध्वदेहिका f. (ab. ऊर्द्ध्वदेह defunctus - ex ऊर्द्ध्वम् sursum et<BR>देह corpus - s. इका) funus, exsequiae, funebria. SA. 5.19.<BR><a href="https://dub.sh/cslp?dict=BOP&page=061-1b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-और्व|और्व्व|और्व्वं|और्व्वः
+और्व|और्वः|और्व्व|और्व्वं|और्व्वः
 और्व m. (ab उर्व nomen sancti cujusdam, s. अ) ignis marinus,<BR>Colebr. «submarine fire, a being, consisting of<BR>flame, but with a mare's head, sprung from the thigh of<BR>Urva and was received by the ocean». AM.; SAK. 44.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=061-1b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 और्वशेय|और्वशेयः|और्व्वशेय|और्व्वशेयः
@@ -5353,7 +5353,7 @@
 कठ्
 कठ् 1. P. (तङ्कने) in miseriâ vivere, v. कट्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=063-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कठिन|कठिनं
+कठिन|कठिनं|कठिनः
 कठिन (r. कठ् s. इन)<BR>1) durus, firmus, solidus. SAK. 11.1. 59.14.<BR>UR. 24.4; v. कठोर.<BR>2) n. vas fictile. SA. 5.1.<BR>ubi corbem significare videtur. (Lat. catinum, gr.<BR>ϰόϕινος.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=063-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कठिनी
@@ -5428,7 +5428,7 @@
 कण्डूयन|कंडूयन|कण्डूयनं
 कण्डूयन n. (a praec. s. अन) actio scabendi, radendi. UR. 88.13.<BR><a href="https://dub.sh/cslp?dict=BOP&page=063-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कण्डूयनक|कंडूयनक
+कण्डूयनक|कंडूयनक|कण्डूयनकः
 कण्डूयनक m. (a praec. s. क) fricator.<BR><a href="https://dub.sh/cslp?dict=BOP&page=063-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कत्|कंत्
@@ -5581,7 +5581,7 @@
 कन्धर|कंधर|कंधरः|कन्धरः
 कन्धर m. (e क caput et धर ferens) cervix. RAGH. 3.34.<BR><a href="https://dub.sh/cslp?dict=BOP&page=065-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कन्धरा
+कन्धरा|कंधरा
 कन्धरा f. (Fem. praec.) id. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=065-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कन्यका
@@ -5809,7 +5809,7 @@
 कर्ब्
 कर्ब् 1. P. ire. (Cf. खर्ब्, गर्ब्, घर्ब्, चर्ब्, चर्.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=067-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कर्बुर|कर्ब्बुरं|कर्ब्बुरः
+कर्बुर|कर्बुरः|कर्ब्बुरं|कर्ब्बुरः
 कर्बुर<BR>1) varius, versicolor. HIT. 29.11.<BR>2) n. aurum. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=067-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कर्मन्|कर्म्मन्
@@ -5947,7 +5947,7 @@
 कल्यम्
 कल्यम् Adv. (a praec. signo accus. म्) cras. N. 24.48.<BR><a href="https://dub.sh/cslp?dict=BOP&page=069-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कल्याण|कल्याणं
+कल्याण|कल्याणं|कल्याणः
 कल्याण (e कल्य s. आण, cf. suff. fem. आनी, आणी in<BR>nom. pr. velut इन्द्राणी, gr. min. 218.)<BR>1) Adj. (f. णी)<BR>faustus, bonus, justus, eximius. BH. 6.40. IN. 4.14.<BR>BR. 1.5. 2.34. N. 12.15. 92.<BR>2) n. felicitas. RAGH. 2.50. 17.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=069-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कल्ल्
@@ -5980,7 +5980,7 @@
 कवोष्ण|कवोष्णं
 कवोष्ण (ex उष्ण praefixo कव quod ex कु q. v. ortum<BR>esse videtur) tepidus. RAGH. 1.67.<BR><a href="https://dub.sh/cslp?dict=BOP&page=069-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कव्य|कव्यं
+कव्य|कव्यं|कव्यः
 कव्य n. (ut videtur a r. कु s. य, sicut हव्य q. v. ab हु) cibus,<BR>qui Manibus offertur. SU. 2.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=069-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कश्
@@ -6043,7 +6043,7 @@
 का
 का in initio compositorum eodem modo usurpatur ac कत्,<BR>unde ortum esse videtur abjecto त् et productâ vocali ad<BR>compensandum omissum त्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=069-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कांस्य|कांस्यं
+कांस्य|कांस्यं|कांस्यः
 कांस्य m. n.<BR>1) cuprum album. Wils. «White copper, Queen's<BR>metal, any amalgam of zinc and copper».<BR>2) poculum.<BR>3) mensura quaedam. R. Schl. I.72.23.<BR><a href="https://dub.sh/cslp?dict=BOP&page=069-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 काक|काकं|काकः
@@ -6448,7 +6448,7 @@
 किरीटिन्
 किरीटिन् (a praec. s. इन्)<BR>1) diadematus, tiaratus. A. 1.3.<BR>BH. 11.17.<BR>2) cognomen Arjuni. DR. 5.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=074-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-किर्मीर|किर्म्मीर|किर्म्मीरः
+किर्मीर|किर्मीरः|किर्म्मीर|किर्म्मीरः
 किर्मीर (ut videtur, a r. कॄ)<BR>1) varius, versicolor. AM.<BR>2) m.<BR>malus aurantia. (Cf. gr. ϰιϱϱός.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=074-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 किल्
@@ -6919,7 +6919,7 @@
 कुश|कुशं|कुशः
 कुश<BR>1) m. n. graminis species (Poa cynosuroides)<BR>quam Indi venerantur et in multis sacris ritibus adhibent.<BR>2) n. aqua. AM.; v. कुशेशय.<BR><a href="https://dub.sh/cslp?dict=BOP&page=078-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कुशल|कुशलं
+कुशल|कुशलं|कुशलः
 कुशल<BR>1) salvus, felix, prosper. N. 16.29. BH. 18.10.<BR>2) habilis,<BR>dexter, peritus, gnarus. IN. 2.28. N. 12.83. 19.18. 22.12.<BR>3) Subst. n. salus, fortuna, prosperitas. N. 2.16. 12.71. 13.31. 22.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=078-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कुशलिन्
@@ -6943,7 +6943,7 @@
 कुसरित्
 कुसरित् f. (e कु et सरित् fluvius) fluvius tenui aquâ. HIT. 30.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=078-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कुसुम|कुसुमं
+कुसुम|कुसुमं|कुसुमः
 कुसुम n. flos.<BR><a href="https://dub.sh/cslp?dict=BOP&page=078-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कुसुमाकर|कुसुमाकरः
@@ -7051,7 +7051,7 @@
 कृकवाकु|कृकवाकुः
 कृकवाकु m. (e कृक et वाकु a rad. वच् s. उ)<BR>1) gallus.<BR>AM.<BR>2) pavo. (Cum prima hujus comp. parte convenit<BR>hib. cearc gallina, v. कृकण).<BR><a href="https://dub.sh/cslp?dict=BOP&page=080-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कृच्छ्र|कृच्छ्रं|कृछ्र
+कृच्छ्र|कृच्छ्रं|कृच्छ्रः|कृछ्र
 कृच्छ्र (ut mihi videtur, e कृत् vel कृत abjecto अ et zra e<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=081-a" target="_blank">Page081-a+ 37</a>]<BR>श्रम abjectâ syllabâ finali)<BR>1) difficilis, molestus, aerumnosus.<BR>2) n. difficultas, onus, molestia, miseria. H. 1.15.<BR>BR. 3.11. N. 15.16. 24.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=080-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कृज्
@@ -7216,7 +7216,7 @@
 केत्
 केत् 10. P. advocare, invitare; consilium dare (proprie<BR>facere ut aliquis sciat, Caus. radicis कित् scire).<BR><a href="https://dub.sh/cslp?dict=BOP&page=084-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-केत
+केत|केतः
 केत m. (r. कित् s. अ)<BR>1) domus, habitatio.<BR>2) in dial.<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=085-a" target="_blank">Page085-a+ 36</a>]<BR>Vêdicâ mens. Ros. L. 14. {#divyo ganDarvo ketapUH ketan<BR>naH punAtu#}.<BR><a href="https://dub.sh/cslp?dict=BOP&page=084-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 केतक|केतकः
@@ -7282,7 +7282,7 @@
 कैकय|कैकयः
 कैकय m. (a केकय s. अ) a Kêkayo descendens. DR. 5.16.<BR><a href="https://dub.sh/cslp?dict=BOP&page=085-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कैतव|कैतवं
+कैतव|कैतवं|कैतवः
 कैतव n. (a कितव m. lusor, s. अ) lusus. N. 26.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=085-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कैरव|कैरवं|कैरवः
@@ -8422,7 +8422,7 @@
 गाध|गाधः
 गाध (r. गाध् s. अ) vadosus, non profundus. RAGH. 4.24.:<BR>सरितः कुर्वती गाधाः.<BR><a href="https://dub.sh/cslp?dict=BOP&page=104-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-गान्धर्व|गांधर्व|गान्धर्व्वं|गान्धर्व्वः
+गान्धर्व|गांधर्व|गान्धर्वः|गान्धर्व्वं|गान्धर्व्वः
 गान्धर्व (a गन्धर्व s. अ)<BR>1) Adj. gandharvicus. IN. 3.10.<BR>2) n. ars, scientia gandharvica. A. 4.58.<BR><a href="https://dub.sh/cslp?dict=BOP&page=104-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 गान्धार|गांधार|गान्धारं|गांधारः|गान्धारः
@@ -8443,7 +8443,7 @@
 गायन|गायनः
 गायन m. (r. गै s. अन) cantor.<BR><a href="https://dub.sh/cslp?dict=BOP&page=104-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-गारुड|गारुडं
+गारुड|गारुडं|गारुडः
 गारुड m. (a गरुड s. अ) smaragdus. RAGH. 13.53.<BR><a href="https://dub.sh/cslp?dict=BOP&page=104-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 गाह्
@@ -8653,7 +8653,7 @@
 गृह्
 गृह् 10. A. i. q. ग्रह्, unde ortum est correpto र in ऋ.<BR><a href="https://dub.sh/cslp?dict=BOP&page=107-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-गृह|गृहं
+गृह|गृहं|गृहः
 गृह m. (r. ग्रह् s. अ)<BR>1) domus. SU. 1.32.<BR>2) plur. uxor.<BR>AM.; cf. दार. (गृह e ग्रह (v. ऋ), quo fortasse nititur<BR>nostrum Kirche, germ. vet. kiricha, island. kyrkia, anglo-sax.<BR>ciric, inserto i, pro circ; v. Graff III.481.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=107-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 गृहमेधिन्
@@ -8704,7 +8704,7 @@
 गै
 गै 1. P. A. canere. IN. 2.28.: गाथा गायन्ति; N. 15.15.; SU. 1.32.:<BR>पीयताङ् गीयताञ्च, v. gr. 501.; गीत n. cantus.<BR>IN. 3.6. (Cf. कै; fortasse lith. źáidziu «ich spiele<BR>scherzend oder auf Saitenspielen», praet. źaidau, adjecto<BR>d, v. gr. comp. 109^b).<BR>1); de ź pro g v. s. v. गण्ड;<BR>de giedmi cano v. गद्.)<BR>c. अधि decantare, recitare. MAN. 1.59.: {#etad Di matto<BR>'Dijage#}.<BR>c. अनु cantum alicujus sequi. GITA-GOV. 1.8.<BR>c. अभि i. q. simpl. RAM. I.4.77.: रामायणम् अभ्यगायताम्.<BR>c. उत् id. RAGH. 2.12.: {#SuSrAva kuYjezu yaSaH svam<BR>uccEr udgIyamAnam#}.<BR>c. उप id. RAGH. 10.22.: {#saptasAmopagItan tvAm…<BR>AcAKyuH#}.<BR><a href="https://dub.sh/cslp?dict=BOP&page=108-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-गैरिक|गैरिकं
+गैरिक|गैरिकं|गैरिकः
 गैरिक n. (a गिरि s. क vel इक) aurum. RAGH. 5.72.<BR><a href="https://dub.sh/cslp?dict=BOP&page=108-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 गो
@@ -9082,7 +9082,7 @@
 घ्रा
 घ्रा 1. P. जिघ्रामि (proprie cl. 3. correpto आ in अ, et in<BR>syllabâ redupl. attenuato अ in इ, ob duas sequentes consonantes,<BR>sicut in तिष्ठामि pro तस्थामि, a r. स्था) odorari.<BR>RAM. I.12.42.: धूमगन्धङ् जिघ्रति; HIT.: {#jiGrann<BR>api BujaNgamo hanti#}. (Pottius ingeniose confert lat.<BR>fra-gra-re, ita ut fra sit syllaba reduplicativa pro ghra;<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=116-a" target="_blank">Page116-a+ 8</a>]<BR>hib. gros «a snout»; nisi hoc pertinet ad ग्रस्; fortasse<BR>nostrum riechen, cujus radix est ruch, germ. vet. riuhu,<BR>rouh, ruhumês, litteris transpositis ortum est e HRU, attenuato<BR>â in u; huc etiam traxerim lith. kwếpju oleo,<BR>kwápas odor, quae conveniunt cum formâ caus. घ्रापयामि,<BR>cum k pro g et w pro r. Pottius apte confert gr. ἄϱω-μα,<BR>ita ut ad आघ्रा pertineat, ejectâ gutturali, sicut in<BR>ϱ̔ίς, ϱ̔ῑν-ός, quod cum घ्राण convenit.)<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=116-b" target="_blank">Page116-b+ 7</a>]<BR>c. अव<BR>1) id. MAN. 3.218.: अवजिघ्रेच्च तान् पिण्डान्.<BR>2) osculari. R. Schl. II.20.21.: अवघ्रातश्च मूर्धनि.<BR>c. आ id. H. 2.8.: आघ्राय मानुषङ् गन्धम्.<BR>c. आ praef. उप osculari. IN. 2.21.: मूर्द्ध्निचै ऽनम् उपाघ्राय.<BR><a href="https://dub.sh/cslp?dict=BOP&page=115-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-घ्राण|घ्राणं
+घ्राण|घ्राणं|घ्राणः
 घ्राण n. (r. घ्रा s. अन)<BR>1) odoratus, odoratio.<BR>2) nasus. H. 2.12.<BR>(Gr. ϱ̔ῑν, abjectâ gutturali, attenuato â in î.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=116-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 ङु
@@ -9154,7 +9154,7 @@
 चञ्चल्
 चञ्चल् Intens. radicis चल्, gr. 569. (V. sq. et cf. gall.<BR>chanceler.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=117-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-चञ्चल|चंचल|चञ्चलं
+चञ्चल|चंचल|चञ्चलं|चञ्चलः
 चञ्चल (a praec. s. अ) se movens, vacillans, mobilis. BH. 6.26. 34.<BR>RAGH. 9.51. R. Schl. I.44.23.<BR><a href="https://dub.sh/cslp?dict=BOP&page=117-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 चञ्चलत्व
@@ -9427,7 +9427,7 @@
 चातुर्वर्ण्य|चातुर्व्वर्ण्यं
 चातुर्वर्ण्य n. (Collectivum a चतुर्वर्ण s. य) quatuor tribus.<BR>N. 12.44.<BR><a href="https://dub.sh/cslp?dict=BOP&page=122-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-चान्द्रमस|चांद्रमस|चान्द्रमसं
+चान्द्रमस|चांद्रमस|चान्द्रमसं|चान्द्रमसः
 चान्द्रमस (f. ई, a चन्द्रमस् s. अ) lunaris. BH. 8.25. RAGH. 2.39.<BR><a href="https://dub.sh/cslp?dict=BOP&page=122-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 चान्द्रायण|चांद्रायण|चांद्रायणं|चान्द्रायणं
@@ -9928,7 +9928,7 @@
 छाग|छागः
 छाग m. caper, capra. HIT. 120.20. (v. छग et voces ibi<BR>comparatas.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=131-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-छाय
+छाय|छायः
 छाय v. sq.<BR><a href="https://dub.sh/cslp?dict=BOP&page=131-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 छाया
@@ -10297,7 +10297,7 @@
 जाड्य|जाड्यं
 जाड्य n. (a जड s. य)<BR>1) frigus.<BR>2) stultitia. BHAR. 2.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=137-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-जात|जातं
+जात|जातं|जातः
 जात (Part. pass. r. जन् s. त)<BR>1) natus.<BR>2) n. species, genus,<BR>classis, tribus. RAGH. 5.1. 11.71. (Huc trahimus<BR>nostrum Kin-d, ratione habitâ, scr. जात mutilatum esse<BR>e जन्त; lith. gentis cognatus, attenuato a in i.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=137-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 जातपुत्र
@@ -10405,7 +10405,7 @@
 जित्
 जित् (r. जि s. त्, gr. 643.) vincens, expugnans; in fine<BR>compp. DR. 9.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=139-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-जितक्रोध
+जितक्रोध|जितक्रोधः
 जितक्रोध (BAH. e जित et क्रोध iracundia) victam iracundiam<BR>habens, expers iracundiae. SA. 3.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=139-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 जितक्लम
@@ -11005,7 +11005,7 @@
 तमस्विनी
 तमस्विनी f. (a praec. s. विन् in fem.) nox. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=150-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-तमिस्र|तमिस्रं
+तमिस्र|तमिस्रं|तमिस्रः
 तमिस्र n. (a तमस् s. र attenuato penultimo अ in इ) i. q.<BR>तमस्. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=150-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 तमिस्रा
@@ -11014,7 +11014,7 @@
 तमोनुद्
 तमोनुद् m. (e तमस् et नुद् mittens)<BR>1) ignis.<BR>2) sol.<BR>3) luna. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=151-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-तमोमय
+तमोमय|तमोमयः
 तमोमय (a तमस् s. मय) caliginosus, obscurus. SA. 6.43.<BR><a href="https://dub.sh/cslp?dict=BOP&page=151-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 तम्ब्
@@ -11302,7 +11302,7 @@
 तीर्ण|तीर्णः
 तीर्ण v. तॄ.<BR><a href="https://dub.sh/cslp?dict=BOP&page=154-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-तीर्थ|तीर्थं
+तीर्थ|तीर्थं|तीर्थः
 तीर्थ m. n. (r. तॄ s. थ)<BR>1) locus sacer, lavationi destinatus.<BR>SA. 1.38. 2.2.<BR>2) magister. RAGH. 17.88.<BR><a href="https://dub.sh/cslp?dict=BOP&page=154-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 तीव्
@@ -11347,7 +11347,7 @@
 तुण्ड्|तुंड्
 तुण्ड् 1. A. (scribitur तुड्, gr. 110^a).) id.<BR><a href="https://dub.sh/cslp?dict=BOP&page=154-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-तुण्ड|तुंड|तुंडं|तुण्डं
+तुण्ड|तुंड|तुंडं|तुण्डं|तुण्डः
 तुण्ड m. rostrum. M. 1.1474.<BR><a href="https://dub.sh/cslp?dict=BOP&page=154-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 तुत्थ्
@@ -11359,7 +11359,7 @@
 तुन्द्
 तुन्द् 1. P. (चेष्टायाम् K.; scribitur तुद्, gr. 110^a).) se movere,<BR>ire; operam dare, anniti. K.: तुन्दति सुखाय.<BR>Cf. त्रन्द्.<BR>c. नि discedere? RIGV. 58.1.: सहोजा अमृतो नितुन्दते<BR>«robore genitus immortalis discedit».<BR><a href="https://dub.sh/cslp?dict=BOP&page=155-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-तुन्द|तुंद|तुंदं|तुन्दं
+तुन्द|तुंद|तुंदं|तुन्दं|तुन्दः
 तुन्द n. venter. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=155-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 तुप्
@@ -11710,13 +11710,13 @@
 त्रिपिष्टप|त्रिपिष्टपं
 त्रिपिष्टप n. (DVIGU. gr. 674. e त्रि et पिष्टप mundus, tres<BR>mundi) Indri coelum, v. त्रिदिव.<BR><a href="https://dub.sh/cslp?dict=BOP&page=160-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-त्रिपुर|त्रिपुरं
+त्रिपुर|त्रिपुरं|त्रिपुरः
 त्रिपुर (e त्रि et पुर n. urbs)<BR>1) n. nomen regionis (Wils.:<BR>the modern Tipperah).<BR>2) m. nomen unius Asurorum,<BR>Tripuri regis.<BR><a href="https://dub.sh/cslp?dict=BOP&page=160-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 त्रिपुरघ्न
 त्रिपुरघ्न m. (e praec. et घ्न q. v. occidens) cognomen Sivi.<BR><a href="https://dub.sh/cslp?dict=BOP&page=160-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-त्रिरात्र|त्रिरात्रं
+त्रिरात्र|त्रिरात्रं|त्रिरात्रः
 त्रिरात्र n. (DVIGU, gr. 674., e त्रि et रात्र pro रात्रि, gr. 681.)<BR>tres noctes. N. 9.7. 10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=160-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 त्रिविक्रम|त्रिविक्रमः
@@ -11764,7 +11764,7 @@
 त्रैविद्य|त्रैविद्यं|त्रैविद्यः
 त्रैविद्य (a त्रिविद्य n. - gr. 674. - tres scientiae, tres libri<BR>sacri - Vêdi - s. य) trium Vêdorum peritus. BH. 9.20.<BR><a href="https://dub.sh/cslp?dict=BOP&page=161-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-त्रोटक|त्रोटकं
+त्रोटक|त्रोटकं|त्रोटकः
 त्रोटक n. (r. त्रुट् s. अक) genus fabulae (Wils. «a minor<BR>drama, such as the Vikramôrvasi»).<BR><a href="https://dub.sh/cslp?dict=BOP&page=161-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 त्रौक्
@@ -12112,7 +12112,7 @@
 दातृ
 दातृ m. (r. दा s. तृ) dator. (Them. primit. दातार्, gr.<BR>δοτήϱ, lat. datôr.) SA. 1.3. N. 6.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=167-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-दान|दानं
+दान|दानं|दानः
 दान n. (ut videtur, obsoletum part. pass. a rad. दा s. न,<BR>v. gr. 607.) donum. (Lat. donum.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=167-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 दानतस्
@@ -12394,7 +12394,7 @@
 दुःशला
 दुःशला f. (BAH. e दुस् et शल) n. pr. DR. 9.6.<BR><a href="https://dub.sh/cslp?dict=BOP&page=171-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-दुःशासन
+दुःशासन|दुःशासनः
 दुःशासन m. (BAH. e दुस् et शासन) nom. pr. IN. 3.9.<BR><a href="https://dub.sh/cslp?dict=BOP&page=171-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 दुःसह
@@ -12538,7 +12538,7 @@
 दूरतस्
 दूरतस् (a praec. s. तस्) procul, e longinquo. HIT. 48.21.<BR><a href="https://dub.sh/cslp?dict=BOP&page=173-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-दूरपार
+दूरपार|दूरपारः
 दूरपार m. (ulteriorem ripam remotam habens, i. e.<BR>latus, BAH. e praec. et पार ulterior ripa) cognomen<BR>Gangis fluminis. H. 1.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=173-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 दूष्
@@ -12679,7 +12679,7 @@
 दैन्य|दैन्यं
 दैन्य n. (a दीन s. य) animi demissio, tristitia, animus afflictus,<BR>demissus. A. 4.48.<BR><a href="https://dub.sh/cslp?dict=BOP&page=176-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-दैव|दैवं
+दैव|दैवं|दैवः
 दैव (a देव s. अ)<BR>1) Adj. (fem. ई) divinus. BH. 9.13. 16.3.<BR>2) Subst. n. fatum. N. 13.15. BH. 18.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=176-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 दैवज्ञ|दैवज्ञः
@@ -12949,7 +12949,7 @@
 द्वैध|द्वैधं
 द्वैध n. (a द्विध bipartitus, s. अ) duplicitas. BH. 5.25.<BR><a href="https://dub.sh/cslp?dict=BOP&page=179-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-द्वैरथ|द्वैरथं
+द्वैरथ|द्वैरथं|द्वैरथः
 द्वैरथ n. (a द्विरथ - pl. द्विरथास् - duo heroes, duo pugnatores,<BR>s. अ) singulare certamen, duorum inter se certamen.<BR>N. 26.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=179-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 धक्क्
@@ -12988,7 +12988,7 @@
 धन्व्
 धन्व् 1. P. (व्रजे; scribitur धव्, gr. 110^a).) ire; cf. धाव्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=180-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-धन्व|धन्वं
+धन्व|धन्वं|धन्वः
 धन्व n. (a धन् s. व; v. धनुस्) arcus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=180-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 धन्वन्
@@ -13108,7 +13108,7 @@
 धार्तराष्ट्र|धार्तराष्ट्रः|धार्त्तराष्ट्र|धार्त्तराष्ट्रः
 धार्तराष्ट्र m. (a धृतराष्ट्र s. अ) Dhritarâschtri filius. H. 1.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=183-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-धार्मिक|धार्म्मिक|धार्म्मिकः
+धार्मिक|धार्मिकः|धार्म्मिक|धार्म्मिकः
 धार्मिक Adj. (a धर्म s. इक) juri, officio deditus, probus,<BR>honestus. SA. 1.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=183-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 धाव्
@@ -13132,7 +13132,7 @@
 धिष्
 धिष् 3. P. (शब्दे K. रवे V.) sonare.<BR><a href="https://dub.sh/cslp?dict=BOP&page=184-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-धिष्ण्य|धिष्ण्यं
+धिष्ण्य|धिष्ण्यं|धिष्ण्यः
 धिष्ण्य n. locus, regio. IN. 1.34. RAGH. 15.59.<BR><a href="https://dub.sh/cslp?dict=BOP&page=184-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 धी
@@ -13171,7 +13171,7 @@
 धुरीण|धुरीणः
 धुरीण m. (ut videtur, forma anom. part. praes. ATM. radicis<BR>धृ, mutato suffixo आन in ईन, cf. आसीन, gr. 599.) jumentum.<BR>HIT. 27.6.<BR><a href="https://dub.sh/cslp?dict=BOP&page=184-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-धुर्य|धुर्य्य|धुर्य्यः
+धुर्य|धुर्यः|धुर्य्य|धुर्य्यः
 धुर्य (a धुर् s. य) jumentum, equus. RAGH. 6.78. 1.54.<BR><a href="https://dub.sh/cslp?dict=BOP&page=184-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 धू
@@ -13201,7 +13201,7 @@
 धूर्जटि|धूर्जटिः|धूर्ज्जटि
 धूर्जटि m. (e धुर् onus, v. euph. r. 73^a). et जटि i. q. जटा<BR>q. v.) cognomen Sivi. HIT. 3.1.<BR><a href="https://dub.sh/cslp?dict=BOP&page=185-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-धूर्त|धूर्त्त|धूर्त्तं|धूर्त्तः
+धूर्त|धूर्तः|धूर्त्त|धूर्त्तं|धूर्त्तः
 धूर्त (ut videtur, a r. धूर् vel धुर्व् vel ध्वृ s. त) fraudulentus.<BR>HIT. 76.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=185-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 धूलि|धूलिः
@@ -13603,7 +13603,7 @@
 नागरिक
 नागरिक m. (a नगर s. इक) oppidanus, civis. UR. 82.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=193-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-नाट्य|नाट्यं
+नाट्य|नाट्यं|नाट्यः
 नाट्य n. (a नट s. य) repraesentatio, actio scenica. UR. 4.17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=193-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 नाडी
@@ -13675,7 +13675,7 @@
 नारी
 नारी f. (a नर vir, productâ mediâ vocali et adjecto signo<BR>fem. ई) femina.<BR><a href="https://dub.sh/cslp?dict=BOP&page=194-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-नाल|नालं
+नाल|नालं|नालः
 नाल m. n. caulis, praesertim loti. RAGH. 6.13. 15.52. (V.<BR>नाली et cf. नाडी.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=194-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 नालिकेर|नालिकेरः
@@ -13744,7 +13744,7 @@
 निःसार|निःसारः
 निःसार m. (r. सृ praef. निस् s. अ) exitio, egressus. HIT. 124.19.<BR><a href="https://dub.sh/cslp?dict=BOP&page=194-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-निकट|निकटं
+निकट|निकटं|निकटः
 निकट (a नि s. कट, cf. उत्कट) propinquus. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=194-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 निकर|निकरः
@@ -13855,7 +13855,7 @@
 निद्रा
 निद्रा f. (a r. द्रै dormire, praef. नि, mutato ऐ in आ) somnus.<BR>H. 1.4.<BR><a href="https://dub.sh/cslp?dict=BOP&page=196-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-निधन|निधनं
+निधन|निधनं|निधनः
 निधन m. (r. हन्, cujus forma primitiva est धन् = gr.<BR>ΘΑΝ, s. अ; v. gr. 104.) mors, exitium. BR. 2.2. N. 2.17.<BR>BH. 3.35. (Hib. nidh, nith «manslaughter, homicide, a<BR>battle»; v. r. हन्.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=196-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 निधान|निधानं
@@ -14026,7 +14026,7 @@
 निर्बन्ध|निर्बंध|निर्बंधः|निर्बन्धः|निर्ब्बन्ध
 निर्बन्ध m. (e निस् et बन्ध) pertinacia, importunitas.<BR>RAGH. 5.21. 14.32. SAK. 48.4.infr.<BR><a href="https://dub.sh/cslp?dict=BOP&page=197-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-निर्भर|निर्भरं
+निर्भर|निर्भरं|निर्भरः
 निर्भर (BAH. e निस् et भर q. v.) immodicus. निर्भरम् Adv.<BR>ultra modum. HIT. 29.13.: निर्भरम् आलिङ्ग्य; 50.2.:<BR>निर्भरम् प्रसुप्तः.<BR><a href="https://dub.sh/cslp?dict=BOP&page=197-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 निर्मम|निर्म्मम
@@ -14173,7 +14173,7 @@
 निषादिन्
 निषादिन् (r. सद् praef. नि s. इन्) sedens. RAGH. 1.52. 4.20.<BR><a href="https://dub.sh/cslp?dict=BOP&page=199-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-निषूदन|निषूदनं
+निषूदन|निषूदनं|निषूदनः
 निषूदन n. (r. सूद् occidere, praef. नि - v. gr. 80. - suff.<BR>अन) occisor, in fine compp. N. 2.23.<BR><a href="https://dub.sh/cslp?dict=BOP&page=199-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 निष्क्
@@ -14200,7 +14200,7 @@
 निष्णात|निष्णातः
 निष्णात v. स्ना praef. नि.<BR><a href="https://dub.sh/cslp?dict=BOP&page=199-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-निष्पन्द|निष्पंद
+निष्पन्द|निष्पंद|निष्पन्दः
 निष्पन्द (ut mihi videtur, BAH. e निस् et obsoleto subst.<BR>स्पन्द, abjectâ praepositionis sibilante et mutato radicis<BR>स् in ष्, quanquam vulgo haec radix litteram स् immutatam<BR>retinet. Scribitur etiam निस्पन्द, quod Wils.<BR>sicut निष्पन्द a rad. पद् praefixo निस् deducit; {#nis<BR>+ pad#} autem proprie egredi significaret et r. पद् insertam<BR>nasalem non admittit) immotus. RAGH. 6.40. 15.37.<BR>R. Schl. I.55.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=199-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 निष्पन्न|निष्पन्नः
@@ -14461,7 +14461,7 @@
 पङ्क|पंक|पंकं|पंकः|पङ्कः
 पङ्क m. n. (r. पञ्च् s. अ)<BR>1) lutum.<BR>2) pulvis. RITU-S. 1.6.<BR>(Goth. fani lutum.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=203-1b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पङ्कज|पंकज|पङ्कजं
+पङ्कज|पंकज|पङ्कजं|पङ्कजः
 पङ्कज m. (in luto natus, TATP. e praec. et ज) nymphaea,<BR>lotus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=203-1b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पङ्क्ति|पंक्ति|पंक्तिः|पङ्क्तिः
@@ -14635,7 +14635,7 @@
 पद्
 4. पद् m. (r. पद् ire) pes. SA. 3.3. N. 13.12. (Gr. ΠΟΔ, πούς,<BR>lat. PED, pes; v. पद, पाद.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=208-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पद|पदं
+पद|पदं|पदः
 पद n. (r. पद् ire s. अ)<BR>1) pes. A. 9.6.<BR>2) gradus, gressus,<BR>passus. IN. 5.9.<BR>3) versuum sectio, articulus. BH. 13.4.<BR>4) locus, regio, provincia. SA. 7.7. BH. 15.5.<BR>(Gr. πέδον.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=208-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पदवी
@@ -14713,7 +14713,7 @@
 परत्र|परत्रं
 परत्र (a पर s. त्र) alibi, praesertim in illo, futuro mundo,<BR>opp. τῷ इह (cf. अमुत्र). HIT. 32.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=209-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-परन्तप|परंतप|परन्तपः
+परन्तप|परंतप|परंतपः|परन्तपः
 परन्तप Adj. vel Subst. m. (e पर hostis in Acc. v. gr. 645.<BR>suff. अ, et तप qui urit, vexat) qui hostem urit, hostium<BR>vexator. H. 3.6. BH. 4.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=209-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 परपुष्ट|परपुष्टः
@@ -14743,7 +14743,7 @@
 परमेष्ठिन्
 परमेष्ठिन् m. (e Loc. परमे in altissimo et स्थिन्, qui est,<BR>mutato स् in ष् ad analogiam r. 80., v. etiam euph. r.<BR>101^a).) nomen dei Brahmae.<BR><a href="https://dub.sh/cslp?dict=BOP&page=209-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-परम्पर|परंपर|परम्परः
+परम्पर|परंपर|परंपरः|परम्परः
 परम्पर (e पर alius in Acc. et पर) successivus, ab alio ad<BR>alium progrediens.<BR><a href="https://dub.sh/cslp?dict=BOP&page=210-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 परम्परा|परंपरा
@@ -14857,7 +14857,7 @@
 परिज्ञान|परिज्ञानं
 परिज्ञान n. (r. ज्ञा praef. परि s. अन) cognitio. SAK. 15.16.<BR><a href="https://dub.sh/cslp?dict=BOP&page=211-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-परिणत|परिणतं
+परिणत|परिणतं|परिणतः
 परिणत v. नम् praef. परि.<BR><a href="https://dub.sh/cslp?dict=BOP&page=211-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 परिणति|परिणतिः
@@ -15037,7 +15037,7 @@
 पर्यङ्क|पर्यंक|पर्यंकः|पर्यङ्कः|पर्य्यङ्क|पर्य्यङ्कः
 पर्यङ्क m. (ut videtur, e परि et अङ्क) lectus, cubile. HIT. 42.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=212-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पर्यन्त|पर्यंत|पर्य्यन्त|पर्य्यन्तः
+पर्यन्त|पर्यंत|पर्यन्तः|पर्य्यन्त|पर्य्यन्तः
 पर्यन्त m. n. (e परि et अन्त) finis, terminus. HIT. 116.20.<BR>BH. 8.17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=212-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पर्यय|पर्ययः|पर्य्यय|पर्य्ययः
@@ -15235,10 +15235,10 @@
 पान्थ|पांथ|पांथः|पान्थः
 पान्थ m. (a पन्थन् - v. पथिन - s. अ, v. gr. 223.) viator.<BR>HIT. 10.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पाप|पापं
+पाप|पापं|पापः
 पाप<BR>1) Adj. improbus, scelestus. H. 1.6.<BR>2) n. peccatum,<BR>crimen. BH. 2.33. (Cf. lat. peccare; gr. ϰάϰος, mutatis<BR>labb. in gutturales; lith. pykiù iratus sum, paika-s, pikta-s<BR>iracundus, iratus.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पापक|पापकं
+पापक|पापकं|पापकः
 पापक (a पाप s. क) improbus. IN. 5.61.<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पापकृत
@@ -15259,7 +15259,7 @@
 पार|पारं|पारः
 पार m. (fortasse a पर alius s. अ cum Vriddhi, nisi a पॄ trajicere)<BR>ripa opposita, ulterior. (V. पर, पार् et cf.<BR>gr. πόϱος, πέϱα, πέϱαν, πέϱας, πεϱαίνω, πείϱω etc.;<BR>lat. per; lith. per trans, ultra, per; slav. pere v. पर.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पारक्य|पारक्यं
+पारक्य|पारक्यं|पारक्यः
 पारक्य (a परक, quod ipsum a पर alius, alienus, hostis,<BR>suff. य) hostilis, inimicus. HIT. 109.6.<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पारग|पारगः
@@ -15286,7 +15286,7 @@
 पार्थिव|पार्थिवं|पार्थिवः
 पार्थिव (a पृथिवी terra s. अ)<BR>1) Adj. (fem. ई) terrenus,<BR>terrester. SA. 6.18.<BR>2) m. princeps, rex. H. 4.39.<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पार्वतीय|पार्व्वतीय
+पार्वतीय|पार्वतीयः|पार्व्वतीय
 पार्वतीय (a पर्वत mons s. ईय) montanus. DR. 8.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=215-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पार्श्व|पार्श्वं|पार्श्वः
@@ -15781,7 +15781,7 @@
 पूर्ण|पूर्णः
 पूर्ण v. पॄ.<BR><a href="https://dub.sh/cslp?dict=BOP&page=222-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पूर्व|पूर्व्व|पूर्व्वः
+पूर्व|पूर्वः|पूर्व्व|पूर्व्वः
 पूर्व (de declin. v. gr. 279.)<BR>1) prior. BR. 2.34. H. 3.18.<BR>BH. 4.15.<BR>2) orientalis. SU. 2.12. De पूर्व in fine compp.<BR>v. gr. 680. (Cf. पर, पुरस्, पुरा, प्रथम; zend. 𐬞𐬀𐬋𐬌𐬭𐬌𐬌𐬀<BR>paôirya primus; russ. pervyĭ id.; hib. foirfe «old, ancient,<BR>perfect, worthy».)<BR><a href="https://dub.sh/cslp?dict=BOP&page=222-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पूर्वचित्ति
@@ -15955,13 +15955,13 @@
 पौत्र|पौत्त्रः|पौत्रः
 पौत्र m. (a पुत्र s. अ) filii filius, nepos.<BR><a href="https://dub.sh/cslp?dict=BOP&page=224-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पौर|पौरं
+पौर|पौरं|पौरः
 पौर m. (a पुर urbs s. अ) oppidanus. N. 25.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=224-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पौरव|पौरवः
 पौरव (a पुरु s. अ, v. gr. 650.) ad Purum pertinens, Purûs<BR>proprius, a Puru oriundus. IN. 5.40.<BR><a href="https://dub.sh/cslp?dict=BOP&page=224-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पौरुष|पौरुषं
+पौरुष|पौरुषं|पौरुषः
 पौरुष n. (a पुरुष s. अ)<BR>1) virilitas.<BR>2) actio hominum.<BR>HIT. 6.14.<BR>3) semen virile.<BR><a href="https://dub.sh/cslp?dict=BOP&page=224-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पौर्णमास|पौर्णमासः
@@ -15973,7 +15973,7 @@
 पौर्वाह्निक
 पौर्वाह्निक (a पूर्वाह्न q. v. s. इक) antemeridianus. SA. 4.10. 7.1.<BR><a href="https://dub.sh/cslp?dict=BOP&page=224-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पौलोम
+पौलोम|पौलोमः
 पौलोम (a पुलोमन् s. अ) a Pulômano oriundus. A. 10.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=224-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पौलोमी
@@ -16042,7 +16042,7 @@
 प्रचण्ड|प्रचंड|प्रचण्डः
 प्रचण्ड (r. चण्ड् praef. प्र s. अ) Adj. calidus, fervidus,<BR>aestuosus, ardens; transl. iracundus, irâ incensus. RITU-S. 1.1.<BR>Lass. 85.1. DR. 7.7. — Subst. m. nomen plantae,<BR>Wils. «a sort of Nerium with white flowers».<BR><a href="https://dub.sh/cslp?dict=BOP&page=225-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्रचुर|प्रचुरं
+प्रचुर|प्रचुरं|प्रचुरः
 प्रचुर Adj. (r. चुर् praef. प्र s. अ) multus. HIT. 50.21. 77.20.<BR>Lass. 44.3.<BR><a href="https://dub.sh/cslp?dict=BOP&page=225-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 प्रच्छन्न|प्रच्छन्नं
@@ -16330,7 +16330,7 @@
 प्रद|प्रदः
 प्रद (r. दा praef. प्र s. अ) dans. BH. 2.43.<BR><a href="https://dub.sh/cslp?dict=BOP&page=228-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्रदक्षिण|प्रदक्षिणं
+प्रदक्षिण|प्रदक्षिणं|प्रदक्षिणः
 प्रदक्षिण (e प्र et दक्षिण dexter)<BR>1) Adj. dextrorsus, praesertim<BR>de salutatione. SU. 3.22. 24.<BR>2) Subst. n. honorifica<BR>salutatio, quae praestatur circumgrediendo aliquem,<BR>ita ut dexterum latus ei advertatur). A. 1.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=228-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 प्रदातृ
@@ -16429,7 +16429,7 @@
 प्रमदावन|प्रमदावनं
 प्रमदावन n. (ex praec. et वन sylva) nemus voluptarium<BR>regium. N. 1.25.<BR><a href="https://dub.sh/cslp?dict=BOP&page=229-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्रमाण|प्रमाणं
+प्रमाण|प्रमाणं|प्रमाणः
 प्रमाण n. (r. मा metiri praef. प्र s. अन, v. gr. min. 94^b).<BR>annot.)<BR>1) mensura, modus. RAGH. 18.37. 41.<BR>2) dijudicatio,<BR>arbitrium, auctoritas. BH. 3.21. 16.24. SA. 2.28.<BR>N. 4.31. 18.13. 19.32. 33. — Plur. masc. id. DR. 9.17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=229-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 प्रमाथ|प्रमाथः
@@ -16558,10 +16558,10 @@
 प्रसाद|प्रसादः
 प्रसाद m. (r. सद् ire praef. प्र s. अ)<BR>1) favor, gratia, benevolentia<BR>c. Loc. SA. 5.21. 49.<BR>2) serenitas animi. BH. 2.64. 65.<BR>UR. 84.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=231-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्रसादन|प्रसादनं
+प्रसादन|प्रसादनं|प्रसादनः
 प्रसादन n. (a प्रसादय् Caus. r. सद् praef. प्र) actio conciliandi<BR>sibi aliquem. IN. 2.31.<BR><a href="https://dub.sh/cslp?dict=BOP&page=231-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्रसाधन|प्रसाधनं
+प्रसाधन|प्रसाधनं|प्रसाधनः
 प्रसाधन n. (r. साध् praef. प्र s. अन) vestis splendida,<BR>pretiosa. UR. 17.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=231-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 प्रसिद्धि|प्रसिद्धिः
@@ -16627,7 +16627,7 @@
 प्रह्व|प्रह्वः
 प्रह्व (e प्र et ह्व, quod corruptum esse videtur e ह्वर a r.<BR>ह्वृ curvum esse; v. Benfey II.320.) inclinatus. A. 2.5.<BR>(Pottius I.265. confert lat. pravus.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=231-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्रांशु
+प्रांशु|प्रांशुः
 प्रांशु (BAH. e प्र et अंशु) altus, magnus. RAGH. 15.19. SAK. 38.9.<BR><a href="https://dub.sh/cslp?dict=BOP&page=231-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 प्राक्
@@ -16906,7 +16906,7 @@
 फलसंस्थ
 फलसंस्थ (TATP. ex फल et संस्थ qui stat cum aliquo) cum<BR>fructu conjunctus, scopum consecutus. BR. 3.13.<BR><a href="https://dub.sh/cslp?dict=BOP&page=236-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-फलित|फलितं
+फलित|फलितं|फलितः
 फलित (a फल s. इत, v. gr. 652.) fructibus praeditus. H. 1.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=236-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 फलिन्
@@ -17248,13 +17248,13 @@
 बॄ
 बॄ v. वॄ.<BR><a href="https://dub.sh/cslp?dict=BOP&page=240-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-बोधन|बोधनं
+बोधन|बोधनं|बोधनः
 बोधन n. (r. बुध् s. अन) notio, cognitio, scientia. RAGH. 9.49.<BR><a href="https://dub.sh/cslp?dict=BOP&page=240-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 ब्युस्
 ब्युस् 4. P. (हाने) relinquere. Cf. बुस्, व्युस्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=240-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
+ब्रह्मचर्य|ब्रह्मचर्यं|ब्रह्मचर्यः|ब्रह्मचर्य्य|ब्रह्मचर्य्यं
 ब्रह्मचर्य n. (e ब्रह्मन् et चर्य, quod seorsum non invenitur<BR>et vitae rationem significare videtur, a चर् ire, facere<BR>suff. य) castimoniae vel coelibatus votum, castimonia.<BR>IN. 4.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=240-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 ब्रह्मचारिन्
@@ -17380,10 +17380,10 @@
 भन्द्|भंद्
 भन्द् 1. A. 10. P. gaudere, felicem esse, praestantem esse.<BR>V. भद्र.<BR><a href="https://dub.sh/cslp?dict=BOP&page=243-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-भय|भयं
+भय|भयं|भयः
 भय n. (r. भी s. अ) timor. H. 1.7. 2.13. (v. भी.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=243-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-भयङ्कर|भयंकर|भयङ्करं
+भयङ्कर|भयंकर|भयङ्करं|भयंकरः
 भयङ्कर (timorem faciens ex Accus. vocis भय et कर<BR>faciens, v. gr. 645. suff. अ)<BR>1) timendus, terribilis.<BR>2) m.<BR>nom. pr. DR. 2.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=243-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 भयानक|भयानकः
@@ -17431,7 +17431,7 @@
 भवत्|भवन्त्
 भवत्<BR>1) (nom. masc. भवन्, part. praes. a r. भू s. अत्)<BR>qui est.<BR>2) (nom. भवान्, a भा splendor, correpto आ<BR>s. वत्, cf. भाविन्) splendens, excellens, praeclarus;<BR>reverentiae causâ ponitur pro pronom. 2^dae pers. cum tertiâ<BR>verbi personâ. IN. 1.11. SU. 1.24.<BR><a href="https://dub.sh/cslp?dict=BOP&page=244-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-भवन|भवनं
+भवन|भवनं|भवनः
 भवन n. (r. भू s. अन) domus, palatium. IN. 3.3. 5.5. SU. 1.28.<BR><a href="https://dub.sh/cslp?dict=BOP&page=244-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 भवादृश्
@@ -17530,7 +17530,7 @@
 भाव|भावः
 भाव m. (r. भू s. अ)<BR>1) existentia. N. 5.39. BH. 2.16.<BR>2) substantia.<BR>BH. 4.10. 8.5.<BR>3) status, conditio. HIT. 6.5.<BR>4) natura, indoles. N. 10.15. BH. 7.12. 13.24. 9.11.<BR>5) proprietas.<BR>BH. 10.5.<BR>6) animus. M. 11. H. 4.32.<BR><a href="https://dub.sh/cslp?dict=BOP&page=245-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-भावन|भावनं
+भावन|भावनं|भावनः
 भावन m. (a भावय् Caus. r. भू s. अन) qui facit ut aliquis<BR>existat, auctor, effector, creator, servator. SU. 3.32. BH. 9.5.<BR>SA. 1.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=245-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 भावना
@@ -17599,7 +17599,7 @@
 भीम|भीमं|भीमः
 भीम (r. भी s. म)<BR>1) Adj. timendus, terribilis. IN. 1.4. SU. 4.17.<BR>2) m. nom. pr.<BR><a href="https://dub.sh/cslp?dict=BOP&page=247-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-भीमपराक्रम
+भीमपराक्रम|भीमपराक्रमः
 भीमपराक्रम (BAH. ex praec. et पराक्रम vis, fortitudo) terribilem<BR>fortitudinem habens. H. 4.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=247-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 भीमरूप
@@ -17818,7 +17818,7 @@
 भोगिन्
 भोगिन् (a 1. भोग s. इन्)<BR>1) Adj. fructibus, perceptionibus,<BR>voluptatibus, cibis praeditus. BH. 16.14.<BR>2) Subst.<BR>m. dominus, rex.<BR><a href="https://dub.sh/cslp?dict=BOP&page=252-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-भोजन|भोजनं
+भोजन|भोजनं|भोजनः
 भोजन n. (r. भुज् s. अन)<BR>1) actio edendi, fruendi. SA. 4.18.<BR>2) cibus. N. 18.6. 22.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=252-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 भोजनीय
@@ -18040,7 +18040,7 @@
 मण्ड|मंडं|मण्डं|मंडः|मण्डः
 मण्ड m. (r. मण्ड् s. अ) ornamentum.<BR><a href="https://dub.sh/cslp?dict=BOP&page=255-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मण्डन|मंडन|मण्डनं
+मण्डन|मंडन|मण्डनं|मण्डनः
 मण्डन n. (r. मण्ड् s. अन) id. N. 16.17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=255-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मण्डप|मंडपः|मण्डपः
@@ -18304,7 +18304,7 @@
 मर्मन्|मर्म्मन्
 मर्मन् n. (r. मृ s. मन्)<BR>1) articulus corporis. BHATT. 16.15.<BR>2) sensus secretus, secretum. HIT. 84.13.<BR><a href="https://dub.sh/cslp?dict=BOP&page=260-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मर्मर|मर्म्मर|मर्म्मरः
+मर्मर|मर्मरः|मर्म्मर|मर्म्मरः
 मर्मर m. (a sono dictum) susurrum, murmur. RAGH. 6.57.:<BR>तीरेषु तालीवनमर्मरेषु. (Cf. lat. murmur, gr.<BR>μοϱμύϱω, germ. vet. murmurôn murmurare.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=260-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मर्या|मर्य्या
@@ -18427,7 +18427,7 @@
 महानन
 महानन (BAH. e महा et आनन os) magnum os habens.<BR>H. 3.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=261-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-महानस|महानसं
+महानस|महानसं|महानसः
 महानस m. n. culina (ut videtur, e महा et अनस् cocta<BR>oryza adjecto अ). N. 23.20.<BR><a href="https://dub.sh/cslp?dict=BOP&page=261-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 महानाद|महानादः
@@ -18439,7 +18439,7 @@
 महाबल|महाबलं|महाबलः
 महाबल (BAH. e महा et बल) magnam vim habens. H. 1.1.<BR><a href="https://dub.sh/cslp?dict=BOP&page=261-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-महाबाहु
+महाबाहु|महाबाहुः
 महाबाहु (e महा et बाहु brachium) magna brachia habens.<BR><a href="https://dub.sh/cslp?dict=BOP&page=261-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 महाभाग
@@ -18472,7 +18472,7 @@
 महावक्त्र
 महावक्त्र (e महा et वक्त्र) magnum os habens. H. 2.6.<BR><a href="https://dub.sh/cslp?dict=BOP&page=261-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-महावीर्य|महावीर्य्य|महावीर्य्यः
+महावीर्य|महावीर्यः|महावीर्य्य|महावीर्य्यः
 महावीर्य (e महा et वीर्य vis, virtus, fortitudo) magnam<BR>fortitudinem habens. SU. 1.3.<BR><a href="https://dub.sh/cslp?dict=BOP&page=261-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 महावीर्यपराक्रम
@@ -18553,7 +18553,7 @@
 मातृषष्ठ
 मातृषष्ठ (BAH. e मातृ et षष्ठ sextus, v. gr. 666.) matrem<BR>tanquam sextam habens. H. 1.1.<BR><a href="https://dub.sh/cslp?dict=BOP&page=262-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मात्र|मात्रं
+मात्र|मात्रं|मात्रः
 मात्र n. (r. मा s. त्र)<BR>1) mensura. A. 8.1.<BR>2) materies, elementum,<BR>res. BH. 2.14.<BR>3) in fine compositorum, ubi a<BR>grammaticis pro suffixo Taddhitico habetur (v. gr. 652.)<BR>solus, solum, tantummodo. N. 9.10. 11.39. DR. 5.12. 14.<BR>A. 10.46. (Gr. μέ-τϱον.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=262-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मात्रक
@@ -18589,7 +18589,7 @@
 मान|मानं|मानः
 मान n. (r. मान् vel. मन् s. अ) honor. IN. 5.50. SA. 5.49.<BR>BH. 6.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=263-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मानद
+मानद|मानदः
 मानद m. (e praec. et द qui dat) qui honorem tribuit, in<BR>Vocativo fere solum invenitur, ad venerationem erga áliquem<BR>exprimendam. IN. 5.44. N. 4.4. SA. 5.51.<BR><a href="https://dub.sh/cslp?dict=BOP&page=263-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मानयितृ
@@ -18598,7 +18598,7 @@
 मानव|मानवः
 मानव m. (a Manu oriundus, e मनु s. अ, v. gr. 650.)<BR>homo. IN. 5.6. BR. 2.2. (Goth. manna id., them. mannan,<BR>quod fortasse per assimil. e manvan; nostrum<BR>Mann.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=263-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मानस|मानसं
+मानस|मानसं|मानसः
 मानस n. (a मनस् s. अ)<BR>1) animus, mens. N. 13.19. 19.9.<BR>DR. 1.11. in fine compp. BAH.<BR>2) lacus hujus nominis<BR>in Himâlayo. MEGH. 11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=263-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मानिन्
@@ -18694,7 +18694,7 @@
 मिथ्
 मिथ् 1. P. A. (वधे K. वधे मेधायाम् V.)<BR>1) ferire, laedere,<BR>occidere. RIGV. V. (v. Westerg.): {#saM yan mahI miTatI<BR>sparDamAne#} (Schol. {#mahatyO parasparaM hiMsantyO<BR>sene#}.)<BR>2) intelligere. Cf. मेथ्, 1. मिद्, मेद्, मेध्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=264-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मिथुन|मिथुनं
+मिथुन|मिथुनं|मिथुनः
 मिथुन n. (r. मिथ्, v. मेथ्, suff. उन) par animantium diversi<BR>sexus, ut puer et puella. BR. 2.10. N. 5.39. 23.24.<BR><a href="https://dub.sh/cslp?dict=BOP&page=264-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मिथ्या
@@ -18745,7 +18745,7 @@
 मी
 4. मी 10. P. (गतौ मत्याम्) ire; intelligere. (V. 3. मी et<BR>cf. lat. meare.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=265-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मीढ|मीढं
+मीढ|मीढं|मीढः
 मीढ v. मिह्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=265-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मीन|मीनः
@@ -19210,7 +19210,7 @@
 मौलिन्
 मौलिन् (a praec. s. इन्) cincinnatus. SU. 1.30.<BR><a href="https://dub.sh/cslp?dict=BOP&page=273-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मौहूर्तिक|मौहूर्त्तिक|मौहूर्त्तिकः
+मौहूर्तिक|मौहूर्तिकः|मौहूर्त्तिक|मौहूर्त्तिकः
 मौहूर्तिक m. (a मुहूर्त s. इक) astrologus. HIT. 94.9.<BR><a href="https://dub.sh/cslp?dict=BOP&page=273-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 म्ना
@@ -19507,7 +19507,7 @@
 यादृश|यादृशः
 यादृश (fem. ई, v. gr. 287.) id. MAH. 3.1370. (Gr. ἡλίϰος,<BR>v. gr. comp. 415.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=278-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-यान|यानं
+यान|यानं|यानः
 यान n. (r. या s. अन)<BR>1) itio, incessus, ingressus, cursus.<BR>DR. 8.18. N. 18.6.<BR>2) vehiculum, currus. N. 7.9. 17.21. 23.<BR>(Cf. lat. janua.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=278-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 यापन|यापनं
@@ -19600,7 +19600,7 @@
 युयुत्सा
 युयुत्सा (a युयुत्स् Desid. r. युध् s. आ) pugnandi desiderium.<BR>A. 5.25.<BR><a href="https://dub.sh/cslp?dict=BOP&page=282-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-युयुत्सु
+युयुत्सु|युयुत्सुः
 युयुत्सु (a युयुत्स् Desid. r. युध् s. उ) pugnandi cupidus. A. 10.33.<BR><a href="https://dub.sh/cslp?dict=BOP&page=282-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 युव
@@ -19735,7 +19735,7 @@
 रक्षक|रक्षकः
 रक्षक m. (r. रक्ष् s. अक) custos. HIT. 79.11.<BR><a href="https://dub.sh/cslp?dict=BOP&page=284-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-रक्षण|रक्षणं
+रक्षण|रक्षणं|रक्षणः
 रक्षण n. (r. रक्ष् s. अन, v. euph. r. 94^a).)<BR>1) servatio, conservatio,<BR>custodia, tutela. BR. 2.8.<BR>2) rectio, gubernatio,<BR>imperium. HIT. 79.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=284-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 रक्षस्
@@ -19942,7 +19942,7 @@
 रस|रसं|रसः
 रस m. (r. 2. रस् s. अ)<BR>1) sapor, gustus. N. 5.38.<BR>2) succus,<BR>liquidum, aqua.<BR>3) animi affectus. UR. 28.9. (Cf.<BR>lith. rassà ros; russ. rosa id.; lat. ros, ror-is e ros-is; gr.<BR>δϱόσος praefixo δ, sicut in ἀνδϱός etc.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=287-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-रसन|रसनं
+रसन|रसनं|रसनः
 रसन n. (r. 2. रस् s. अन) sapor, gustus. BH. 15.9.<BR><a href="https://dub.sh/cslp?dict=BOP&page=287-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 रसना
@@ -20053,7 +20053,7 @@
 राशि|राशिः
 राशि m. cumulus. N. 13.17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=289-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-राष्ट्र|राष्ट्रं
+राष्ट्र|राष्ट्रं|राष्ट्रः
 राष्ट्र n. (r. राज् s. त्र, v. euph. r. 89.b.) regnum. BR. 1.1.<BR><a href="https://dub.sh/cslp?dict=BOP&page=289-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 रास्
@@ -20509,7 +20509,7 @@
 ललाट|ललाटं
 ललाट n. frons, frontis. N. 19.16.<BR><a href="https://dub.sh/cslp?dict=BOP&page=299-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-ललाम|ललामं
+ललाम|ललामं|ललामः
 ललाम n. decus, ornamentum. SAK. 34.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=299-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 ललित|ललितं|ललितः
@@ -20584,7 +20584,7 @@
 लाभ|लाभः
 लाभ m. (r. लभ् s. अ)<BR>1) adeptio, impetratio. HIT. 4.3.<BR>2) lucrum. N. 12.132. BH. 2.38. (V. लभ्.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=300-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-लालस
+लालस|लालसः
 लालस (a लालस् - INTENS. rad. लस् - s. अ) desiderans.<BR>IN. 5.1. N. 12.84. 124. 13.1.<BR><a href="https://dub.sh/cslp?dict=BOP&page=300-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 लाला
@@ -21142,16 +21142,16 @@
 वर्णना
 वर्णना f. (r. वर्ण् s. अन in fem.) descriptio. UR. 17.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-वर्तक|वर्त्तक|वर्त्तकं|वर्त्तकः
+वर्तक|वर्तकः|वर्त्तक|वर्त्तकं|वर्त्तकः
 वर्तक m. (r. वृत् s. अक) corturnicis genus. HIT. 85.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-वर्तन|वर्त्तन|वर्त्तनं|वर्त्तनः
+वर्तन|वर्तनः|वर्त्तन|वर्त्तनं|वर्त्तनः
 वर्तन n. (Caus. r. वृत् s. अन)<BR>1) victus, alimentum. HIT. 116.3.<BR>2) merces. HIT. 98.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 वर्तिन्|वर्त्तिन्
 वर्तिन् (r. वृत् ire s. इन्) iens, in fine comp. N. 8.15.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-वर्तुल|वर्त्तुल|वर्त्तुलं|वर्त्तुलः
+वर्तुल|वर्तुलः|वर्त्तुल|वर्त्तुलं|वर्त्तुलः
 वर्तुल (r. वृत् s. उल) rotundus. Lass. 5.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 वर्त्मन्
@@ -21160,10 +21160,10 @@
 वर्ध्
 वर्ध् 10. P. (पूर्तिच्छिदोः)<BR>1) implere (i. e. Caus. radicis<BR>वृध् crescere).<BR>2) findere.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-वर्धन|वर्द्धनं|वर्द्धनः
+वर्धन|वर्द्धनं|वर्द्धनः|वर्धनः
 1. वर्धन vel वर्धन n. (r. वृध् crescere s. अन) incrementum.<BR>BR. 2.27.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-वर्धन|वर्द्धनं|वर्द्धनः
+वर्धन|वर्द्धनं|वर्द्धनः|वर्धनः
 2. वर्धन vel वर्धन m. (Caus. radicis वृध् s. अन) qui auget.<BR>N. 3.20.<BR><a href="https://dub.sh/cslp?dict=BOP&page=310-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 वर्ष|वर्षं|वर्षः
@@ -21691,7 +21691,7 @@
 विचारित|विचारितः
 विचारित n. v. rad. 2. चर् praef. वि.<BR><a href="https://dub.sh/cslp?dict=BOP&page=318-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-विचित्र|विचित्रं
+विचित्र|विचित्रं|विचित्रः
 विचित्र (KARM. e वि et चित्र varius)<BR>1) varius. N. 2.11.<BR>SA. 4.30. A. 6.14.<BR>2) admirabilis, stupendus. A. 4.39.<BR><a href="https://dub.sh/cslp?dict=BOP&page=318-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 विचेतन
@@ -21922,7 +21922,7 @@
 विनाश|विनाशः
 विनाश m. (r. नश् praef. वि perire s. अ) occasus, exitium,<BR>ruina. BR. 1.24. BH. 2.17.<BR><a href="https://dub.sh/cslp?dict=BOP&page=322-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-विनाशन|विनाशनं
+विनाशन|विनाशनं|विनाशनः
 विनाशन m. (a Caus. r. नश् praef. वि perire s. अन) occisor,<BR>destructor. N. 12.30.<BR><a href="https://dub.sh/cslp?dict=BOP&page=322-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 विनाशिन्
@@ -22120,7 +22120,7 @@
 विमुख|विमुखः
 विमुख (BAH. e वि et मुख os, vultus) aversum vultum habens.<BR>DR. 8.26.<BR><a href="https://dub.sh/cslp?dict=BOP&page=323-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-विमूढ
+विमूढ|विमूढः
 विमूढ v. मुह् praef. वि.<BR><a href="https://dub.sh/cslp?dict=BOP&page=323-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 विमोक्ष|विमोक्षः
@@ -22213,7 +22213,7 @@
 विल्व|विल्वं|विल्वः
 विल्व m. nomen arboris (Wils.: Aegle marmelos).<BR>N. 12.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=324-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-विवर|विवरं
+विवर|विवरं|विवरः
 विवर m. (a वृ tegere praef. वि) foramen, specus, spelunca.<BR>N. 23.10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=324-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 विवर्ण|विवर्णः
@@ -23146,7 +23146,7 @@
 शङ्क्|शंक्
 शङ्क् 1. A. (scribitur शक्, gr. 110^a).)<BR>1) suspicari, opinari.<BR>N. 23.1.: शङ्कमाना नलन् तम्; 23.28.: {#tvAY<BR>janaH SaNketa dozataH#}; H. 3.15.: ताम्…पुंस्कामां शङ्कमानः.<BR>2) timere. N. 9.31.: किमर्थम् भीरु शङ्कसे. - शङ्कित<BR>suspicans, timens. N. 12.32. IN. 5.18. (शङ्क्<BR>primitive possibile habere significaverit; a शक् posse<BR>insertâ nasali; cf. goth. hugjan cogitare, opinari, putare,<BR>germ. vet. hugu animus, intellectus, sensus, hugjan<BR>cogitare, recordari, considerare.)<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=342-b" target="_blank">Page342-b+ 37</a>]<BR>c. अभि dubitare. M. 34.: ना ऽभिशङ्क्यम् इदञ्चा ऽपि वचनम्.<BR>c. आ P. A. timere. MAN. 7.188.: {#yataSca Bayam ASaNket<BR>tato vistArayed balam#}; R. Schl. I.90.15.: {#matto<BR>na dozam ASaNkIH#}; I.1.39.: आशङ्कमानश्च पुनः पौरजानपदागमम्;<BR>N. 13.30.: आशङ्कमाना तत् पापम्.<BR>— आशङ्कित metutus. R. Schl. I.65.15.: {#yat tad ASaNkitam<BR>pApam#}.<BR>c. परि suspicari. N. 24.26.: {#na mAm arhasi kalyAna<BR>dozeRa pariSaNkitum#}.<BR>c. वि dubitare. MAH. 1.2966.: {#gAnDarvarAkzasO (vivAhO)<BR>kzatre DarmyO tO mA viSaNkiTAH#} (pro विशङ्किष्ठास् praet.<BR>mltf. 3., sic. MAH. 3. 10356: पर्यशाङ्किथाम् - sic legendum<BR>pro ॰था - pro ॰ष्ठाम्.)<BR>c. सम् suspicari. MAH. 4.568.<BR><a href="https://dub.sh/cslp?dict=BOP&page=342-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-शङ्कर|शंकर|शङ्करः
+शङ्कर|शंकर|शंकरः|शङ्करः
 शङ्कर m. cognomen Sivi.<BR><a href="https://dub.sh/cslp?dict=BOP&page=342-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 शङ्का|शंका
@@ -23503,10 +23503,10 @@
 शारद|शारदं|शारदः
 शारद (f. ई, a शरद् s. अ)<BR>1) autumnalis. N. 13.44.: {#candraleKA<BR>SAradI#}; Lass. 91.15.: सम्पूर्णशारदकलानिधिकान्तवक्त्रा.<BR>2) recens.<BR>3) non sibi confidens, modestus,<BR>pudibundus. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=347-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-शारीर|शारीरं
+शारीर|शारीरं|शारीरः
 शारीर (a शरीर corpus s. अ) corporalis. BH. 17.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=347-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-शार्ङ्ग|शार्ंग|शार्ङ्गं
+शार्ङ्ग|शार्ंग|शार्ङ्गं|शार्ङ्गः
 शार्ङ्ग (a शृङ्ग s. अ)<BR>1) corneus.<BR>2) n. arcus, praesertim<BR>Sivi arcus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=347-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 शार्ङ्गिन्|शार्ंगिन्
@@ -24355,7 +24355,7 @@
 संयम|संयमः
 संयम m. (r. यम् praef. सम् coërcere s. अ) domitus, refrenatio,<BR>sedatio. BH. 4.27.<BR><a href="https://dub.sh/cslp?dict=BOP&page=361-1b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-संयमन|संयमनं
+संयमन|संयमनं|संयमनः
 संयमन (r. यम् praef. सम् coërcere s. अन)<BR>1) n. id. SA. 3.20.<BR>2) m. domitor. SA. 5.65.<BR><a href="https://dub.sh/cslp?dict=BOP&page=361-1b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 संयमिन्
@@ -24532,10 +24532,10 @@
 सङ्कल्प|संकल्प|संकल्पः|सङ्कल्पः
 सङ्कल्प m. (r. कॣप् fieri praef. सम् s. अ)<BR>1) consilium, propositum. [<a href="https://dub.sh/cslp?dict=BOP&page=363-b" target="_blank">Page363-b+ 37</a>]<BR>N. 9.26. SA. 4.17. BH. 4.19. 6.2. 4.<BR>2) mens,<BR>animus. N. 24.50.<BR><a href="https://dub.sh/cslp?dict=BOP&page=363-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सङ्काश|संकाश|सङ्काशः
+सङ्काश|संकाश|संकाशः|सङ्काशः
 सङ्काश (r. काश् splendere praef. सम् s. अ) similis. H. 3.9.<BR>A. 10.28.<BR><a href="https://dub.sh/cslp?dict=BOP&page=363-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सङ्कीर्ण|संकीर्ण|सङ्कीर्णं|सङ्कीर्णः
+सङ्कीर्ण|संकीर्ण|सङ्कीर्णं|संकीर्णः|सङ्कीर्णः
 सङ्कीर्ण v. कॄ c. सम्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=363-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सङ्कुल|संकुल|सङ्कुलं
@@ -24580,7 +24580,7 @@
 सङ्गम|संगम|संगमः|सङ्गमः
 सङ्गम m. (r. गम् ire praef. सम् s. अ) congressus, conventus.<BR>N. 1.31. SA. 5.46.<BR><a href="https://dub.sh/cslp?dict=BOP&page=363-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सङ्गमन|संगमनं
+सङ्गमन|संगमनं|संगमनः
 सङ्गमन n. (r. गम् praef. सम् s. अन) congressus, conventus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=363-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सङ्गमनीय
@@ -24634,7 +24634,7 @@
 सञ्चय|संचय|संचयः|सञ्चयः
 सञ्चय m. (r. चि colligere praef. सम् s. अ) cumulus, acervus,<BR>multitudo. BH. 16.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=364-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सञ्चारक|संचारक
+सञ्चारक|संचारक|संचारकः
 सञ्चारक m. (Caus. r. चर् praef. सम् s. अक) dux, ductor.<BR>HIT. 69.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=364-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सञ्ज्|संज्
@@ -24715,7 +24715,7 @@
 सदागति|सदागतिः
 सदागति f. (semper itionem habens BAH. e सदा<BR>semper et गति itio) ventus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=367-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सदातन
+सदातन|सदातनः
 सदातन (f. ई, a सदा s. तन) sempiternus. AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=367-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सदृश|सदृशः
@@ -25006,7 +25006,7 @@
 सम्पद्|संपद्
 सम्पद् f. (r. पद् ire praef. सम्)<BR>1) perfectio, felicitas.<BR>H. 1.38. 4.26. SU. 3.16. in compos. c. रूप (रूपसम्पद्).<BR>2) sors. BH. 16.3. 4.<BR><a href="https://dub.sh/cslp?dict=BOP&page=370-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सम्पन्न|संपन्न|सम्पन्नः
+सम्पन्न|संपन्न|संपन्नः|सम्पन्नः
 सम्पन्न v. पद् c. सम्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=370-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सम्पर्क|संपर्क|संपर्कः|सम्पर्कः
@@ -25048,7 +25048,7 @@
 सम्ब्|संब्
 2. सम्ब् 10. P. (सम्बन्धे) colligare. Cf. शम्ब् cl. 10.<BR><a href="https://dub.sh/cslp?dict=BOP&page=370-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सम्बन्ध|संबन्ध|संबंध|सम्बन्धः
+सम्बन्ध|संबन्ध|संबंध|संबन्धः|सम्बन्धः
 सम्बन्ध m. (r. बन्ध् ligare praef. सम् s. अ) conjunctio,<BR>cognatio, affinitas. SA. 3.13.<BR><a href="https://dub.sh/cslp?dict=BOP&page=370-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सम्बन्धिन्|संबन्धिन्|संबंधिन्
@@ -25117,7 +25117,7 @@
 सर्ब्|सर्ब्ब्
 सर्ब् 1. P. (सर्पणे) ire. Cf. सृप् i. e. सर्प्, 1. {#samb, Sarb,<BR>Samb#}.<BR><a href="https://dub.sh/cslp?dict=BOP&page=371-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सर्व|सर्व्व|सर्व्वः
+सर्व|सर्वः|सर्व्व|सर्व्वः
 सर्व (v. gr. 275.) quivis, omnis. BR. 2.27. N. 17.50. (Osc.<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=371-b" target="_blank">Page371-b+ 37</a>]<BR>sollus totus, per assim. e solvus, lat. soll-ennis quotannis,<BR>debilitato a in e sicut in perennis, biennis cet., v. gr.<BR>comp. 6.; soll-ers, salvus e sarvus; gr. ὅλος, nisi pertinet<BR>ad सकल ejectâ syllabâ mediâ; osset. ali quivis, omnis,<BR>abjecto स्. Huc etiam retulerim goth. alls, Them. alla<BR>omnis, totus, per assim. ex alva, et hib. uile «all, every,<BR>whole». Cf. Pott. I.130. Ag. Benary 265. 281.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=371-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सर्वकामिन्
@@ -25132,7 +25132,7 @@
 सर्वतोदिशम्
 सर्वतोदिशम् Adv. (AVY. e praec. et दिश् plaga, vid. gr. 676.)<BR>quoquoversus, omnes plagas versus. N. 16.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=371-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सर्वतोमुख|सर्व्वतोमुख|सर्व्वतोमुखं|सर्व्वतोमुखः
+सर्वतोमुख|सर्वतोमुखः|सर्व्वतोमुख|सर्व्वतोमुखं|सर्व्वतोमुखः
 सर्वतोमुख (BAH. e सर्वतस् et मुख vultus) quoquoversus<BR>vultum habens, i. e. iter dirigens. SU. 2.12.<BR><a href="https://dub.sh/cslp?dict=BOP&page=371-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सर्वथा|सर्व्वथा
@@ -25234,10 +25234,10 @@
 सागर|सागरः
 सागर m. mare, oceanus.<BR><a href="https://dub.sh/cslp?dict=BOP&page=373-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-साग्निक
+साग्निक|साग्निकः
 साग्निक (BAH. e स) cum et अग्नि Agnis s. क, v. gr. 665.)<BR>cum Agni conjunctus. N. 2.24.<BR><a href="https://dub.sh/cslp?dict=BOP&page=373-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-साङ्ख्य|सांख्य|सांख्यं|साङ्ख्यः
+साङ्ख्य|सांख्य|सांख्यं|सांख्यः|साङ्ख्यः
 साङ्ख्य (a सङ्ख्या s. अ) Adj. cogitans, ratiocinans. BH. 3.3. 5.5. 13.24.<BR>Subst. n.<BR>1) doctrina rationalis, ratiocinatio.<BR>BH. 2.39. 5.4.<BR>2) systema philosophicum, Kapilo<BR>adscriptum.<BR><a href="https://dub.sh/cslp?dict=BOP&page=373-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 साट्
@@ -25333,7 +25333,7 @@
 सामि
 सामि Indecl. (ut mihi videtur, a सम similis, aequalis) semi,<BR>in initio comp. (Germ. vet. sâmi id., e. c. sâmiquek semivivus<BR>= सामिजीव; anglo-sax. sâm, e. c. sâmboren<BR>seminatus, abortivus, sâmworht semifactus; lat. sêmi, gr.<BR>ἡμι.<BR><a href="https://dub.sh/cslp?dict=BOP&page=374-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सामीप्य|सामीप्यं
+सामीप्य|सामीप्यं|सामीप्यः
 सामीप्य (a समीप s. य) vicinus. SA. 2.8.<BR><a href="https://dub.sh/cslp?dict=BOP&page=374-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 साम्प्रतम्|सांप्रतम्
@@ -25771,7 +25771,7 @@
 सैन्धव|सैंधव|सैन्धवं|सैन्धवः
 सैन्धव m. (a सिन्धु nom. regionis s. अ) Sindhuensis. DR. 6.6.<BR><a href="https://dub.sh/cslp?dict=BOP&page=382-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-सैन्धवक|सैंधवक
+सैन्धवक|सैंधवक|सैन्धवकः
 सैन्धवक m. (a praec. s. क vel अक) id. DR. 8.42.<BR><a href="https://dub.sh/cslp?dict=BOP&page=382-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 सैन्य|सैन्यं|सैन्यः
@@ -26290,7 +26290,7 @@
 स्व|स्वं|स्वः
 स्व<BR>1) pron. pers. tertiae pers. in initio compositorum, ipse,<BR>sui, sibi cet. Vid. स्वगतम्, स्वभू, स्वस्थ. Etiam ad<BR>primam et secundam pers. refertur, v. स्वाधीन. (Huc<BR>pertinet prâcrit. से sui, ejus, ipsius in anal. cum ते pro<BR>त्वे tui, मे mei; zend. 𐬵𐬉 hê, 𐬵𐬋𐬌 hôi; v. स्वतस् et gr.<BR>comp. 341.<BR>2) suus. IN. 1.32. 34. 5.29. SU. 1.28. Etiam<BR>meus, tuus, noster, vester. UR. 39.13.: {#kaTayAmi svAm<BR>avasTAm#} conditionem meam; N. 14.15.: {#padAni<BR>gaRayan svAni gacCa#} passus tuos; 24.: {#svam aMSaM<BR>vitarAmi te#} partem tuam; UR. 26.3.: {#DAryatAm ayaM<BR>svahaste nikzepaH#} in manu tuà. — Subst. n. proprium,<BR>peculium. N. 18.3. 26.7. (Cum स्व pron. pers. cf. lat.<BR>sui, gr. οὗ, σϕέ, σϕεῖς e σϜέ, σϜεῖς; lith. saw sibi, saweṅs<BR>sui cet.; slav. sebje sibi, sebe sui cet.; goth. sei-na<BR>sui e svei-na; svê sicut, instrument. a Them. sva; svi in<BR>svi-kunths manifestus, debilitato a in i. Cum स्व possess.<BR>cf. lat. suus, gr. σϕός, ὅς; lith. sáwa-s suus, sáwa<BR>sua; slav. svoĭ, svaja, svoe suus, a, um; svo-bodj liber,<BR>svo-boda libertas, ubi svo = स्व in initio comp.; goth.<BR>svês n., Them. svêsa proprium; germ. vet. suâs proprius,<BR>Graff 6.903.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=394-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-स्वक|स्वकं
+स्वक|स्वकं|स्वकः
 स्वक (a praec. s. क) suus, proprius. N. 5.43. 16.3. 24.42. 25.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=394-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 स्वक्क्
@@ -26644,7 +26644,7 @@
 हिण्ड्|हिंड्
 हिण्ड् 1. A. (अनादरे K. अनादरे गतौ V.; scribitur हिड्)<BR>vilipendere, ire. Cf. हेड्.<BR><a href="https://dub.sh/cslp?dict=BOP&page=401-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-हित|हितं
+हित|हितं|हितः
 हित v. धा et हिं.<BR><a href="https://dub.sh/cslp?dict=BOP&page=401-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 हित्वा
