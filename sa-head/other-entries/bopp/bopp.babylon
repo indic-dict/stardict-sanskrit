@@ -2,7 +2,7 @@
 #bookname=bopp (sa-la)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-28
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 अ|अं|अः
 1. अ stirps demonstrativa; v. gr. 270.<BR><a href="https://dub.sh/cslp?dict=BOP&page=001-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
@@ -5491,13 +5491,13 @@
 कदम्बक|कदंबक|कदम्बकं|कदंबकः|कदम्बकः
 कदम्बक m. n. (a praec. s. क) id.<BR><a href="https://dub.sh/cslp?dict=BOP&page=064-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कदर्थ
+कदर्थ|कदर्थः
 कदर्थ m. (e कत् et अर्थ) malum, miseria, infortunium,<BR>v. sq.<BR><a href="https://dub.sh/cslp?dict=BOP&page=064-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कदर्थित
 कदर्थित (a praec. s. इत, vel a verbo denomin. कदर्थय्<BR>vexare s. त) miser, infortunatus, vexatus. BHARTRIHARI<BR>ed. Bohl. 2.75. HIT. 55.9. UP. 43.: खेदामर्षकदर्थित.<BR><a href="https://dub.sh/cslp?dict=BOP&page=064-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कदर्य|कदर्य्य|कदर्य्यः
+कदर्य|कदर्यः|कदर्य्य|कदर्य्यः
 कदर्य (e कत् q. v. et अर्य dominus, possessor) avarus, miser.<BR>AM.<BR><a href="https://dub.sh/cslp?dict=BOP&page=064-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कदली
@@ -5818,7 +5818,7 @@
 कर्मवज्र|कर्मवज्रः|कर्म्मवज्र|कर्म्मवज्रः
 कर्मवज्र m. (e praec. et वज्र) i. q. शूद्र. MAH. 1.6487.<BR><a href="https://dub.sh/cslp?dict=BOP&page=067-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-कर्मान्तिक|कर्मांतिक|कर्म्मान्तिक
+कर्मान्तिक|कर्मांतिक|कर्मान्तिकः|कर्म्मान्तिक
 कर्मान्तिक m. (e कर्मान्त operis finis - कर्मन् + अन्त-<BR>s. इक) opifex. R. Schl. I.12.7.<BR><a href="https://dub.sh/cslp?dict=BOP&page=067-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 कर्मिन्|कर्म्मिन्
@@ -7912,7 +7912,7 @@
 खग|खगः
 खग (e ख aër et ग iens)<BR>1) in aëre, iens, se movens. A. 10.61.<BR>2) m. avis.<BR><a href="https://dub.sh/cslp?dict=BOP&page=096-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-खगम
+खगम|खगमः
 खगम m. (e ख et गम iens) avis. N. 1.24.<BR><a href="https://dub.sh/cslp?dict=BOP&page=096-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 खच्
@@ -15133,7 +15133,7 @@
 पश्चात्ताप|पश्चात्तापः
 पश्चात्ताप m. (e पश्चात् et ताप) poenitentia. AM.; HIT. 33.19.<BR><a href="https://dub.sh/cslp?dict=BOP&page=214-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-पश्चिम|पश्चिमं|पश्चिमः
+पश्चिम|पश्चिमं
 पश्चिम Adj. (a पश्च - v. पश्चात् - suff. इम)<BR>1) posticus,<BR>posterior.<BR>2) occidentalis. SU. 3.26. N. 13.5.<BR><a href="https://dub.sh/cslp?dict=BOP&page=214-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 पा
@@ -16657,7 +16657,7 @@
 प्राज्ञ|प्राज्ञः
 प्राज्ञ (a प्रज्ञा sapientia s. अ) sapiens, doctus. DR. 4.19. N. 17.42.<BR>BH. 17.14.<BR><a href="https://dub.sh/cslp?dict=BOP&page=231-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-प्राञ्जलि|प्रांजलि|प्राञ्जलिः
+प्राञ्जलि|प्रांजलि
 प्राञ्जलि (BAH. ex प्र et अञ्जलि q. v.) implicatas manus habens.<BR>SU. 1.19.<BR><a href="https://dub.sh/cslp?dict=BOP&page=232-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 प्राण|प्राणः
@@ -18181,7 +18181,7 @@
 मनुष्य|मनुष्यः
 मनुष्य m. (a मनु Manus s. ष्य pro स्य, v. gr. 101^a).) homo.<BR>[<a href="https://dub.sh/cslp?dict=BOP&page=258-a" target="_blank">Page258-a+ 37</a>]<BR>SA. 5.35. (V. मानव et cf. germ. vet. mannisco, nostrum<BR>Mensch.)<BR><a href="https://dub.sh/cslp?dict=BOP&page=257-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मनोज्ञ|मनोज्ञं
+मनोज्ञ|मनोज्ञं|मनोज्ञः
 मनोज्ञ (e मनस् cor et ज्ञ noscens) pulcher, suavis, amoenus.<BR>Lass. 53.2.<BR><a href="https://dub.sh/cslp?dict=BOP&page=258-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मनोभव|मनोभवः
@@ -18196,7 +18196,7 @@
 मनोरम|मनोरमं
 मनोरम (e मनस् et रम exhilarans) cor exhilarans, pulcher,<BR>suavis, amoenus. IN. 5.27.<BR><a href="https://dub.sh/cslp?dict=BOP&page=258-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
-मनोहर|मनोहरं
+मनोहर|मनोहरं|मनोहरः
 मनोहर (e मनस् et हर capiens, rapiens) cor rapiens, pulcher,<BR>suavis, amoenus. IN. 5.18.<BR><a href="https://dub.sh/cslp?dict=BOP&page=258-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=bop" target="_blank">Correction</a>
 
 मनोहारिन्

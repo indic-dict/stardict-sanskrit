@@ -2,7 +2,7 @@
 #bookname=indian-epigraphical-glossary (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-05
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 आबाध|आबाधः
 ābādha (CII 1), illness.<BR><a href="https://dub.sh/cslp?dict=IEG&page=001" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
@@ -460,7 +460,7 @@ aghoṣa (IE 7-1-2), ‘thirteen’ [being the number of surds<BR>in the Sanskri
 अग्नि|अग्निः
 agni (IE 7-1-2), ‘three’.<BR><a href="https://dub.sh/cslp?dict=IEG&page=009" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-अग्निचयन
+अग्निचयन|अग्निचयनः
 agni-cayana (EI 32; IA 19), a sacrificial rite.<BR><a href="https://dub.sh/cslp?dict=IEG&page=010" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
 अग्निचित्
@@ -7318,7 +7318,7 @@ kāla (IE 7-1-2), ‘three’.<BR>(CII 3, etc.), time, a period of time; used in
 कलभशालाकरण
 kalabhaśālā-karaṇa, cf. karaṇa (LP); explained as ‘the camel<BR>department’.<BR><a href="https://dub.sh/cslp?dict=IEG&page=139" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-कालचक्र|कालचक्रं
+कालचक्र|कालचक्रं|कालचक्रः
 kāla-cakra, a mechanical weapon placed at the gate of<BR>forts according to the Vasudevahiṇḍī (Journ. Or. Inst., Vol. X, No.<BR>1, p. 15). See śataghnī.<BR><a href="https://dub.sh/cslp?dict=IEG&page=139" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
 कालाक्षरित
@@ -7795,7 +7795,7 @@ karmānta (EI 13), cf. paśukul-āvadāra-karmānta-konakalika-<BR>gaṅgā-grā
 कर्मान्तक
 karmāntaka (EI 15), cf. Khaliṣa-karmāntaka-prabhu-Bhaṭṭa-<BR>Jayasomasvāmin in the description of a donee Brāhmaṇa who was<BR>the master of a karmānta at Khaliṣa.<BR><a href="https://dub.sh/cslp?dict=IEG&page=148" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-कर्मान्तिक|कर्मांतिक|कर्म्मान्तिक
+कर्मान्तिक|कर्मांतिक|कर्मान्तिकः|कर्म्मान्तिक
 Karmāntika (IA 14; LL), ‘the superintendent of a work’.<BR>Cf. Kārmāntika.<BR><a href="https://dub.sh/cslp?dict=IEG&page=148" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
 कार्मान्तिक|कार्मान्तिकः
@@ -7900,7 +7900,7 @@ karvaṭaka (EI 13), a market town; cf. Sanskrit kharvaṭa.<BR><a href="https:/
 कार्य|कार्य्य|कार्य्यं
 kārya, cf. Tamil kāriyavārāycci (EI 24), name of a tax.<BR>Cf. Vāśal-kāriyam (SITI), the officer in charge of the<BR>palace gate; also known as Vāśal-mudali or Vāśal-nirvāham.<BR><a href="https://dub.sh/cslp?dict=IEG&page=150" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
-कार्यचिन्तक|कार्यचिंतक|कार्य्यचिन्तक
+कार्यचिन्तक|कार्यचिंतक|कार्यचिन्तकः|कार्य्यचिन्तक
 Kārya-cintaka (CII 4), a member of the executive commi-<BR>ttee of a corporation.<BR><a href="https://dub.sh/cslp?dict=IEG&page=150" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=ieg" target="_blank">Correction</a>
 
 कार्यदर्शिन्

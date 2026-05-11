@@ -2,7 +2,7 @@
 #bookname=frish (sa-ru)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-05
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 अ|अं|अः
 I a- pron., cf. a-tas, a-tra &c.<BR><a href="https://dub.sh/cslp?dict=FRI&page=011" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
@@ -4267,7 +4267,7 @@ eka num.<BR>1 jeden, jednotlivý, jediný, jedinečný, vynikající<BR>2 оди
 एकदा
 ekadā adv.<BR>1 jednou, najednou<BR>2 однажды, сразу<BR>3 once, at one time, at the same time<BR><a href="https://dub.sh/cslp?dict=FRI&page=064" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-एकदेश
+एकदेश|एकदेशः
 ekadeśa m.<BR>1 jedno místo, jakési místo; část<BR>2 одно место, какое-то место; часть<BR>3 one spot, some place; a part<BR><a href="https://dub.sh/cslp?dict=FRI&page=064" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 एकपद्
@@ -10405,7 +10405,7 @@ nabhastala n.<BR>1 obloha, klenba<BR>2 небо, небесный свод<BR>3 
 प्रनम्
  +pra (pranam)<BR>1 ohýbati se, skláněti se před kým, vzdávati poctu<BR>2 изгибаться, склоняться перед кем, отдавать честь<BR>3 to bend, bend down before, make obeisance to<BR><a href="https://dub.sh/cslp?dict=FRI&page=147" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-संनम्
+संनम्|सन्नम्
  +sam (saṃnam)<BR>1 kloniti (se), podrobiti (se), upravovati, zařizovati<BR>2 склонять (ся), подчинять (ся), приводить в порядок, устраивать<BR>3 to bend down, submit to, make ready, arrange<BR><a href="https://dub.sh/cslp?dict=FRI&page=147" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 नमस्
@@ -15178,7 +15178,7 @@ manorama<BR>1 potěšující mysl, krásný; m. jméno vesnice<BR>2 радующ
 मनोराज्य
 manorājya n.<BR>1 říše fantasie<BR>2 царство фантазии<BR>3 the realm of fancy<BR><a href="https://dub.sh/cslp?dict=FRI&page=215" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
-मनोहर|मनोहरं
+मनोहर|मनोहरं|मनोहरः
 manohara, -harin<BR>1 dost. "uchvacující mysl"; půvabný<BR>2 букв. "захватывающий мысль"; прелестный<BR>3 lit. "heart-taking"; rapturous, charming<BR><a href="https://dub.sh/cslp?dict=FRI&page=215" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 मन्तव्य|मंतव्य|मन्तव्यं

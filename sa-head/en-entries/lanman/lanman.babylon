@@ -2,7 +2,7 @@
 #bookname=lanman (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-05
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 अ|अं|अः
 1a, pron. root, see idam and 502.<BR><a href="https://dub.sh/cslp?dict=LAN&page=111-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
@@ -2818,7 +2818,7 @@ ekatra, adv. in one place. [eka, 1099.]<BR><a href="https://dub.sh/cslp?dict=LAN
 एकदा
 ekadā, adv. at one time, simultaneously,<BR>at 37^9; elsewhere, at a certain time, i. e.<BR>once upon a time. [eka, 1103.]<BR><a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-एकदेश
+एकदेश|एकदेशः
 eka-deśa, m. a certain place, and so, a<BR>place or spot or part.<BR><a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
 एकनक्षत्र
@@ -2836,7 +2836,7 @@ eka-bhakṣa, m. sole food; at end of<BR>cpds [1298], having…as sole food, eat
 एकमति
 eka-mati, a. having one mind, unanimous.<BR><a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-एकवर्ण
+एकवर्ण|एकवर्णः
 eka-varṇa, a. having one color, not<BR>brindled.<BR><a href="https://dub.sh/cslp?dict=LAN&page=136-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
 एकाकिन्
@@ -3910,7 +3910,7 @@ khá, n.<BR>	—1. hole; hollow;<BR>	—2. opening;<BR>	—3. hole in the hub of
 खग|खगः
 kha-ga,<BR>	—1. a. moving in the sky, flying;<BR>	—2. as m. bird. [for mg 2, cf. antarikṣaga<BR>and kha-gama, ‘bird,’ ura-ga and<BR>bhujaṃ-gama, ‘snake,’ and turaṃ-ga,<BR>‘horse.’]<BR><a href="https://dub.sh/cslp?dict=LAN&page=147-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-खगम
+खगम|खगमः
 kha-gama, the same.<BR><a href="https://dub.sh/cslp?dict=LAN&page=147-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
 खण्ड|खंड|खण्डं|खण्डः
@@ -9376,7 +9376,7 @@ mánus, m. man. [cf. mánu and 1154.]<BR><a href="https://dub.sh/cslp?dict=LAN&p
 मनोरथ|मनोरथः
 mano-ratha, m. wish. [lit. ‘heart's<BR>joy,’ manas + 2 ratha.]<BR><a href="https://dub.sh/cslp?dict=LAN&page=212-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-मनोहर|मनोहरं
+मनोहर|मनोहरं|मनोहरः
 mano-hara, a. (heart-taking, i. e.) captivating.<BR><a href="https://dub.sh/cslp?dict=LAN&page=212-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
 मन्तु|मंतु|मंतुः|मन्तुः
@@ -9481,7 +9481,7 @@ mártya, m. like Eng. a mortal, i. e. a<BR>man; as a. mortal.<BR><a href="https:
 मर्दन|मर्द्दन|मर्द्दनं
 mardana, m. crusher; fig., as in Eng.,<BR>subduer. [√mṛd, 1150. 1a.]<BR><a href="https://dub.sh/cslp?dict=LAN&page=213-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
-मर्मज्ञ|मर्म्मज्ञ|मर्म्मज्ञः
+मर्मज्ञ|मर्मज्ञः|मर्म्मज्ञ|मर्म्मज्ञः
 marma-jña, a. knowing the weak spots.<BR>[marman.]<BR><a href="https://dub.sh/cslp?dict=LAN&page=213-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lan" target="_blank">Correction</a>
 
 मर्मन्|मर्म्मन्

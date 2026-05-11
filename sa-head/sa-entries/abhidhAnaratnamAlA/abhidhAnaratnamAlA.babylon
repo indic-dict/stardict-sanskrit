@@ -2,7 +2,7 @@
 #bookname=abhidhAnaratnamAlA (sa-sa)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-04-28
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
 
 स्वर्
 स्वर्;<BR>स्वः स्वर्गः सुरसद्म त्रिदशावासस्त्रिविष्टपं त्रिदिवम् ।<BR>द्यौर्गौरमर्त्यभुवनं नाकः स्यादूर्ध्वलोकश्च ॥ ३ ॥<BR>१।१।१।३<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0001" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
@@ -55,7 +55,7 @@
 देवता
 देवता;<BR>आदित्यास्त्रिदशाः सुराः सुमनसः स्वर्गौकसो देवता,<BR>गीर्वाणा ऋभवोऽमराश्च मरुतो वृन्दारका निर्जराः ।<BR>अस्वप्ना विबुधास्त्रिविष्टपसदो लेखाः सुपर्वाण इ-,<BR>त्याख्याता अमृताशना अनिमिषा देवास्तथा दैवतम् ॥ ४ ॥<BR>१।१।१।४<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0001" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-गीर्वाण|गीर्व्वाण|गीर्व्वाणः
+गीर्वाण|गीर्वाणः|गीर्व्वाण|गीर्व्वाणः
 गीर्वाण;<BR>आदित्यास्त्रिदशाः सुराः सुमनसः स्वर्गौकसो देवता,<BR>गीर्वाणा ऋभवोऽमराश्च मरुतो वृन्दारका निर्जराः ।<BR>अस्वप्ना विबुधास्त्रिविष्टपसदो लेखाः सुपर्वाण इ-,<BR>त्याख्याता अमृताशना अनिमिषा देवास्तथा दैवतम् ॥ ४ ॥<BR>१।१।१।४<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0001" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
 ऋभु|ऋभुः
@@ -8623,7 +8623,7 @@
 शूल्य|शूल्यं
 शूल्य;<BR>उख्यमुखासंसिद्धं शूले शूल्यं भटित्रं च ॥ ३२३ ॥<BR>२।१।१।३२३<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0038" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-भटित्र|भटित्रं|भटित्रः
+भटित्र|भटित्रं
 भटित्र;<BR>उख्यमुखासंसिद्धं शूले शूल्यं भटित्रं च ॥ ३२३ ॥<BR>२।१।१।३२३<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0038" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
 किलाट|किलाटः
@@ -9316,7 +9316,7 @@
 मत्सरिन्
 मत्सरिन्;<BR>दुर्जनः पिशुनः क्षुद्रो नीचः कर्णेजपः खलः ।<BR>दोषग्राही पुरोभागी द्विजिह्वो मत्सरी मतः ॥ ३४६ ॥<BR>२।१।१।३४६<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0041" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-कदर्य|कदर्य्य|कदर्य्यः
+कदर्य|कदर्यः|कदर्य्य|कदर्य्यः
 कदर्य;<BR>कदर्यहीनकीनाशकिम्पचानमितम्पचाः ।<BR>कृपणक्षुल्लकक्लीवक्षुद्रा एकार्थवाचकाः ॥ ३४७ ॥<BR>२।१।१।३४७<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0041" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
 हीन|हीनः
@@ -18271,7 +18271,7 @@
 हारि|हारिः
 हारि;<BR>प्राग्र्यं प्राग्रहरं प्रवेकमपरं वर्यं वरेण्यं वरं,<BR>श्रेष्ठं प्रेष्ठमनुत्तमं च मधुरं मञ्जु प्रियं मञ्जुलम् ।<BR>हृद्यं हारि मनोहरं च रुचिरं कान्तं परं सुन्दरं,<BR>सौम्यं साधु च वल्गु चारु सुषमं वामं शुभं पेशलम् ॥ ६८९ ॥<BR>अग्र्यं प्रधानं प्रमुखं पुरोगं,<BR>मुख्यं परार्ध्यं प्रवरं प्रवर्हम् ।<BR>अग्रेसरं सत्तममुत्तमं च,<BR>ग्रामण्यमग्रण्यमुदाहरन्ति ॥ ६९० ॥<BR>४।१।१।६८९<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-मनोहर|मनोहरं
+मनोहर|मनोहरं|मनोहरः
 मनोहर;<BR>प्राग्र्यं प्राग्रहरं प्रवेकमपरं वर्यं वरेण्यं वरं,<BR>श्रेष्ठं प्रेष्ठमनुत्तमं च मधुरं मञ्जु प्रियं मञ्जुलम् ।<BR>हृद्यं हारि मनोहरं च रुचिरं कान्तं परं सुन्दरं,<BR>सौम्यं साधु च वल्गु चारु सुषमं वामं शुभं पेशलम् ॥ ६८९ ॥<BR>अग्र्यं प्रधानं प्रमुखं पुरोगं,<BR>मुख्यं परार्ध्यं प्रवरं प्रवर्हम् ।<BR>अग्रेसरं सत्तममुत्तमं च,<BR>ग्रामण्यमग्रण्यमुदाहरन्ति ॥ ६९० ॥<BR>४।१।१।६८९<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0080" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
 रुचिर|रुचिरं
@@ -19918,7 +19918,7 @@
 अङ्ग|अंग|अंगं|अङ्गं|अङ्गः
 अङ्ग;<BR>आहुः प्रतीकमवयवमपघनमङ्गं तथैकदेशं च ।<BR>४।१।१।७४४<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0085" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
-एकदेश
+एकदेश|एकदेशः
 एकदेश;<BR>आहुः प्रतीकमवयवमपघनमङ्गं तथैकदेशं च ।<BR>४।१।१।७४४<BR><a href="https://dub.sh/cslp?dict=ARMH&page=0085" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=armh" target="_blank">Correction</a>
 
 उल्वण|उल्वणं
