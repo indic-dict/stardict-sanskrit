@@ -2,7 +2,7 @@
 #bookname=frish (sa-ru)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-11
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-05-15
 
 अ|अं|अः
 I a- pron., cf. a-tas, a-tra &c.<BR><a href="https://dub.sh/cslp?dict=FRI&page=011" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
@@ -2648,7 +2648,7 @@ II ā pcl., adv.<BR>1 tu, sem, tam; dále, dokonce, zajisté<BR>2 тут, сюд
 ādi m.<BR>1 počátek<BR>2 начало<BR>3 beginning, commencement<BR><a href="https://dub.sh/cslp?dict=FRI&page=042" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 आदि|आदिः
-ādi, ādika (-˚) a.<BR>1 počínající; atd.<BR>2 начинающий; и m. д.<BR>3 beginning with; et caetera<BR><a href="https://dub.sh/cslp?dict=FRI&page=042" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
+ādi, ādika (-˚) a.<BR>1 počínající; atd.<BR>2 начинающий; и m. д.<BR>3 beginning with; {{et caetera->et cætera||20260515|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/csl-orig/pull/2845}}<BR><a href="https://dub.sh/cslp?dict=FRI&page=042" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 आदित्य|आदित्यः
 I āditya m.<BR>1 syn Aditi, bůh slunce, slunce, bůh (obecně)<BR>2 сын Адити, бог солнца, солнце, бог (в общем значении)<BR>3 son of Aditi, the sun and its deity, god (in general)<BR><a href="https://dub.sh/cslp?dict=FRI&page=042" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
@@ -3290,7 +3290,7 @@ ittham, itthā adv.<BR>1 tak<BR>2 так<BR>3 thus<BR><a href="https://dub.sh/cs
 ityartham adv.<BR>1 za tím účelem, proto<BR>2 с этой целью, потому<BR>3 for this purpose<BR><a href="https://dub.sh/cslp?dict=FRI&page=051" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 इत्यादि
-ityādi adv.<BR>1 tak počínající, atd., na př.<BR>2 так начинающийся, и т. д., на пр.<BR>3 thus beginning, et caetera, e. g.<BR><a href="https://dub.sh/cslp?dict=FRI&page=051" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
+ityādi adv.<BR>1 tak počínající, atd., na př.<BR>2 так начинающийся, и т. д., на пр.<BR>3 thus beginning, {{et caetera->et cætera||20260515|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/csl-orig/pull/2845}}, e. g.<BR><a href="https://dub.sh/cslp?dict=FRI&page=051" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
 
 इत्याशङ्क्य
 ityāśaṅkya absol.<BR>1 proti této námitce<BR>2 против этого возражения<BR>3 against this objection<BR><a href="https://dub.sh/cslp?dict=FRI&page=051" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=fri" target="_blank">Correction</a>
