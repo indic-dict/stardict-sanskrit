@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Böhtlingk's Sanskrit-Wörterbuch in Kürzerer Fassung</title>
+    <title type="desc">XML edition</title>
+    <title type="key">Böhtlingk 1879-1889</title>
+    <title type="short"><name>Böhtlingk, Otto</name>. <title rend="italic">Sanskrit-Wörterbuch in Kürzerer Fassung</title>. <date>1879-1889</date>.</title>
+    <editor>Jim Funderburk</editor>
+    <editor>Thomas Malten</editor>
+    <principal>Thomas Malten</principal>
+    <funder>Helmuth von Glasenapp-Stiftung</funder>
+    <principal>Thomas Malten</principal>
+    <funder>Deutsche Forschungsgemeinschaft</funder>
+    <principal>Peter M. Scharf</principal>
+    <funder>United States National Endowment for the Humanities</funder>
+   </titleStmt>
+   <editionStmt>
+    <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition>
+   </editionStmt>
+   <extent>18 MB</extent>
+   <publicationStmt>
+    <publisher>The Sanskrit Library</publisher>
+    <pubPlace>Providence, RI</pubPlace>
+    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher>
+    <pubPlace>Köln</pubPlace>
+    <date when="2014-06-30">30 June 2014</date>
+    <availability>
+     <p>Copyright © 2014 The Sanskrit Library and Thomas Malten</p>
+     <p>All rights reserved other than those granted under the Creative Commons Attribution Non-Commercial Share Alike license available in full at <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode</ref>, and summarized at <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>.  Permission is granted to build upon this work non-commercially, as long as credit is explicitly acknowledged exactly as described herein, and derivative work is distributed under the same license.</p>
+    </availability>
+    <distributor>
+     <ptr target="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/web/index.php"/>
+    </distributor>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s">Sanskrit Library Lexical Sources</title>
+    <respStmt>
+     <resp>edited by</resp>
+     <name>Peter M. Scharf</name>
+    </respStmt>
+    <idno>xxxxx</idno>
+   </seriesStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="PW1">
+     <monogr>
+      <author>Otto Böhtlingk</author>
+      <title type="main" level="m">Sanskrit-Wörterbuch in kürzerer Fassung</title>
+      <edition></edition>
+      <imprint>
+       <pubPlace>St. Petersburg</pubPlace>
+       <publisher>Buchdruckerei der Kaiserlichen Akademie der Wissenschaften</publisher>
+       <date>1879-1889</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Graz</pubPlace>
+       <publisher>Akademische Druck- U. Verlagsanstalt</publisher>
+       <date>1959</date>
+      </imprint>
+      <extent>
+       <measure unit="volumes" quantity="7">7 vols.</measure>
+       <measure unit="pages" quantity="2141">2141 p.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+    <biblStruct type="original" xml:id="PW2">
+     <monogr>
+      <editor>Thomas Malten</editor>
+      <title type="main" level="m">Sanskrit-Wörterbuch in kürzerer Fassung</title>
+      <edition>First digital edition</edition>
+      <imprint>
+       <pubPlace>Köln</pubPlace>
+       <publisher>Universität Köln</publisher>
+       <date when="2007-08-24">24 August 2007</date>
+      </imprint>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+   <projectDesc>
+    <p>See <ptr target="http://sanskritlibrary.org/NEHDFG2009.html"/>.</p>
+   </projectDesc>
+   <projectDesc>
+    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p>
+    <p>See <ptr target="http://www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p>
+   </projectDesc>
+   <projectDesc>
+    <p>This material is based upon work supported by the <ref target="http://www.neh.gov">National Endowment for the Humanities</ref> under Grant No. HG-50022-10. Any views, findings, conclusions, or recommendations expressed in this material do not necessarily represent those of the National Endowment for the Humanities.</p>
+   </projectDesc>
+   <editorialDecl>
+    <interpretation>
+     <p>Data-entry in Kyoto-Harvard (KH). Transcoded programmatically to Devanagari and Roman Unicode.</p>
+    </interpretation>
+   </editorialDecl>
+   <tagsDecl>
+    <!--"http://www.sanskrit-lexicon.uni-koeln.de" documentation-->
+   </tagsDecl>
+   <classDecl>
+    <taxonomy xml:id="lcsh">
+     <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <p>Data-entry in Kyoto-Harvard encoding by typists in <placeName>Azhivaikkal</placeName> in <placeName>Thanjavur district</placeName>, <placeName>Tamilnadu</placeName> under the direction of Thomas Malten, with character codes partially marking divisions in the text.  <persName>Funderburk</persName> transformed it to xml.  Corrections were evaluated by <persName>Malten</persName>, <persName>Scharf</persName>, and implemented by <persName>Funderburk</persName>.</p>
+    <p>XML generated programmatically from pw.txt</p>
+   </creation>
+   <langUsage>
+    <language ident="de-Latn">German</language>
+    <language ident="sa-Latn-x-AS">Sanskrit</language>
+    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- German.</item>
+     </list>
+    </keywords>
+    <!-- Library of congress call number. -->
+    <classCode scheme="#lccn">xxxxx</classCode>
+    <!--Sanskrit Library Indic Subject Classification-->
+    <!--referenced items by a catRef-->
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-11-01" who="Peter M. Scharf">Created skeleton of TEI Header.</change>
+   <change when="2012-07-22" who="Peter M. Scharf">Inserted bibliographic information.</change>
+   <change>Revisions documented by Jim Funderburk.  See <ptr target="http://www.sanskrit-lexicon.uni-koeln.de"/></change>
+  </revisionDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw1_bookmark.pdf"/>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw2_bookmark.pdf"/>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw3_bookmark.pdf"/>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw4_bookmark.pdf"/>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw5_bookmark.pdf"/>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw6_bookmark.pdf"/>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/PWScan/2014/downloads/pw7_bookmark.pdf"/>
+ </facsimile>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>Sanskrit-wörterbuch in kürzerer fassung bearbeitet</titlePart>
+    </docTitle>
+    <docImprint>
+     <publisher>
+     </publisher>
+     <pubPlace>
+      <address>
+       <addrLine></addrLine>
+      </address>
+     </pubPlace>
+    </docImprint>
+    <docDate>1879-1889</docDate>
+   </titlePage>
+  </front>
+  <body>
+   <xi:include href="pw.xml">
+    <xi:fallback>
+     <p>See the file pw.xml downloadable from <ref target="http://www.sanskrit-lexicon.uni-koeln.de">http://www.sanskrit-lexicon.uni-koeln.de</ref>.</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>
