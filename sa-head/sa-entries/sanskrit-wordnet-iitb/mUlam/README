@@ -1,0 +1,20 @@
+----------
+README
+----------
+
+This file contains information on how to use the sanskrit wordnet database downloaded from Sanskrit WordNet Website (http://www.cfilt.iitb.ac.in/wordnet/webswn/).
+
+Step 1: You will need MySQL to use this database. Please install MySQL on your system. We do not support any other format currently.
+Step 2: Create an empty database named 'sanskrit_wordnet' in MySQL using "CREATE DATABASE sanskrit_wordnet".
+Step 3: To import the database, you can enter the command:
+
+mysql -u<username> -p<password> sanskrit_wordnet < sanskrit.sql
+
+OR
+ 
+you can use PHPMyAdmin to import the database into MySQL, or any other compatible data import tools available on the internet.
+
+This imports the table 'synset_data' in sanskrit_wordnet database.
+
+For any other queries:
+Please contact Diptesh Kanojia at dipteshkanojia [at] gmail [dot] com
