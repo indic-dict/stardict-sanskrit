@@ -2,7 +2,7 @@
 #bookname=L-R-Vaidya (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-08-04
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-09-26
 
 अ|अं|अः
 अ <i>(I) ind.</i> An interjection- (1) of pity; (2) of calling, e.g. अ अनंत; (3) of blame or reproach, e.g. अ पचसि त्वं जाल्म.<BR><a href="https://dub.sh/cslp?dict=LRV&page=001-01" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
@@ -34331,7 +34331,7 @@
 काशी-यात्रा <i>f.</i> pilgrimage to Benares.<BR><a href="https://dub.sh/cslp?dict=LRV&page=187-06" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
 काश्मरी
-काश्मरी <i>f.</i> A plant commonly called गांभरी, काश्मर्याः कृतमालमुद्गतदलं कोयष्टिकष्टीकत M.M.ix.<BR><a href="https://dub.sh/cslp?dict=LRV&page=187-07" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
+काश्मरी <i>f.</i> A plant commonly called गांभारी^1, काश्मर्याः कृतमालमुद्गतदलं कोयष्टिकष्टीकत M.M.ix.<BR>[1] Correction submitted by Scott Rhodes on 20260721. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/313.<BR><a href="https://dub.sh/cslp?dict=LRV&page=187-07" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
 काश्मीर|काश्मीरं|काश्मीरः
 काश्मीर <i>(I) a. (f. री)</i> Born in or coming from Kāśmīra.<BR><a href="https://dub.sh/cslp?dict=LRV&page=187-08" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
@@ -36013,7 +36013,7 @@
 कुंभयोनि|कुम्भयोनि|कुम्भयोनिः
 कुंभ-ज, -जन्मन्, -योनि, -संभव <i>m.</i> 1. an epithet of Agastya, प्रससादोदयादंभः कुंभयोनेर्महौजसः R.iv.22, xv.55; 2. an epithet of Droṇa, the military preceptor of the Kauravas and Pāṇḍavas; 3. epithet of Vasiṣṭha.<BR><a href="https://dub.sh/cslp?dict=LRV&page=195-23" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
-कुंभसंभव|कुम्भसम्भव|कुम्भसंभव|कुम्भसम्भवः
+कुंभसंभव|कुम्भसम्भव|कुम्भसंभव|कुम्भसंभवः|कुम्भसम्भवः
 कुंभ-ज, -जन्मन्, -योनि, -संभव <i>m.</i> 1. an epithet of Agastya, प्रससादोदयादंभः कुंभयोनेर्महौजसः R.iv.22, xv.55; 2. an epithet of Droṇa, the military preceptor of the Kauravas and Pāṇḍavas; 3. epithet of Vasiṣṭha.<BR><a href="https://dub.sh/cslp?dict=LRV&page=195-23" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=lrv" target="_blank">Correction</a>
 
 कुंभदासी|कुम्भदासी

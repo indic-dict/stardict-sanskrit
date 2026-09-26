@@ -2,7 +2,7 @@
 #bookname=shabda-sAgara (sa-en)
 #stripmethod=keep
 #sametypesequence=h
-#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-08-04
+#description=Data from https://www.sanskrit-lexicon.uni-koeln.de/ as on 2026-09-26
 
 अ|अं|अः
 अ The first letter of the alphabet, and inherent short vowel.<BR><a href="https://dub.sh/cslp?dict=SHS&page=001-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
@@ -30796,10 +30796,10 @@
 कालान्तर|कालांतर
 कालान्तर n. (-रं)<BR>	 1. Interval, intermediate time.<BR>	 2. Period, process of<BR>time.<BR>	 3. A former or another time.<BR> E. काल and अन्तर between &c.<BR><a href="https://dub.sh/cslp?dict=SHS&page=179-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
-कालान्तरविष
+कालान्तरविष|कालांतरविष|कालान्तरविषः
 कालान्तरविष m. (-षः) A poisonous animal, venomous only when enraged<BR>or alarmed, as a rat, &c.<BR> E. काल time, अन्तर after or at, and विष<BR>poison; having venom only at times.<BR><a href="https://dub.sh/cslp?dict=SHS&page=179-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
-कालान्तरावृत
+कालान्तरावृत|कालांतरावृत
 कालान्तरावृत^1 mfn. (-तः-ता-तं) Hidden or concealed by times.<BR> E. कालान्तर,<BR>and आवृत्त covered.<BR>[1] Correction submitted by Scott Rhodes on 20260716. Reference: https://github.com/sanskrit-lexicon/csl-corrections/issues/305.<BR><a href="https://dub.sh/cslp?dict=SHS&page=179-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
 कालाप|कालापः
@@ -32521,7 +32521,7 @@
 कुम्भसन्धि|कुम्भसंधि|कुंभसंधि|कुम्भसन्धिः
 कुम्भसन्धि m. (-न्धिः) The hollow on the top of an elephant's head, be-<BR>tween the frontal globes.<BR> E. कुम्भ the frontal globe, and सन्धि<BR>junction.<BR><a href="https://dub.sh/cslp?dict=SHS&page=190-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
-कुम्भसम्भव|कुम्भसंभव|कुंभसंभव|कुम्भसम्भवः
+कुम्भसम्भव|कुम्भसंभव|कुंभसंभव|कुम्भसंभवः|कुम्भसम्भवः
 कुम्भसम्भव m. (-वः) The saint AGASTYA: see अगस्थ<BR> E. कुम्भ a jar, and<BR>सम्भव born.<BR><a href="https://dub.sh/cslp?dict=SHS&page=190-b" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
 कुम्भाण्ड|कुम्भाण्डः
@@ -67457,7 +67457,7 @@
 नीलाञ्जसा f. (-सा)<BR>	 1. One of the Apsarās or courtezans of Svarga.<BR>2. The name of a river.<BR>	 3. Lightning.<BR> E. नील dark, अञ्जस quickly,<BR>affs. अच् and टाप्. अन्जि-णिच्-असच् ।<BR><a href="https://dub.sh/cslp?dict=SHS&page=406-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
 नीलाम्बर|नीलांबर|नीलाम्बरं|नीलाम्बरः
-नीलाम्बर mfn. (-रः-रा-रं) Dressed in dark blue cloth.<BR>	 m. (-रः)<BR>	 1. A<BR>name of BLARĀMA.<BR>	 2. A demon, A goblin.<BR>	 3. A name of SANI<BR>or Saturn.<BR>	 n. (-रं) Black or dark blue raiment.<BR> E. नील, and अम्बर<BR>clothing &c. तालीश पत्रे ।<BR><a href="https://dub.sh/cslp?dict=SHS&page=406-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
+नीलाम्बर mfn. (-रः-रा-रं) Dressed in dark blue cloth.<BR>	 m. (-रः)<BR>	 1. A<BR>name of BALARĀMA.<BR>	 2. A demon, A goblin.<BR>	 3. A name of SANI<BR>or Saturn.<BR>	 n. (-रं) Black or dark blue raiment.<BR> E. नील, and अम्बर<BR>clothing &c. तालीश पत्रे ।<BR><a href="https://dub.sh/cslp?dict=SHS&page=406-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
 
 नीलाम्बुजन्मन्|नीलांबुजन्मन्
 नीलाम्बुजन्मन् n. (-न्म) The blue lotus.<BR> E. नील, and अम्बुजन्मन् a lotus.<BR><a href="https://dub.sh/cslp?dict=SHS&page=406-a" target="_blank">PDF</a><BR><a href="https://dub.sh/cslc?dict=shs" target="_blank">Correction</a>
