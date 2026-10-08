@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="//www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="//www.tei-c.org/ns/1.0" xmlns:xi="//www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Lanman's Sanskrit Reader</title>
+    <title type="desc">XML edition</title>
+    <title type="key">Lanman Reader 1906</title>
+    <title type="short"><name>Charles Rockwell Lanman</name>. <title rend="italic">A Sanskrit Reader with Vocabulary and Notes</title>. <date>1906</date>.</title>
+    <editor>Jim Funderburk</editor>
+    <editor>Thomas Malten</editor>
+    <principal>Thomas Malten</principal>
+    <!-- <funder>Deutsche Forschungsgemeinschaft</funder> -->
+   </titleStmt>
+   <editionStmt>
+    <edition>digital edition<date when="2019">2019</date></edition>
+    <respStmt>
+     <resp>Primary digitization</resp>
+     <name>Thomas Malten</name>
+    </respStmt>
+    <respStmt>
+     <resp>Greek text digitization</resp>
+     <name>Jonathan Migliori</name>
+    </respStmt>
+    <respStmt>
+     <resp>Programming, integration of dictionary into Sanskrit-lexicon</resp>
+     <name>Jim Funderburk</name>
+    </respStmt>
+    <respStmt>
+     <resp>Correction analysis</resp>
+     <name>Dr. Sampada Savardekar Thomas</name>
+    </respStmt>
+   </editionStmt>
+   <extent>1.7 MB (for lan.xml dictionary at Cologne)</extent>
+   <publicationStmt>
+    <publisher>University of Cologne</publisher>
+    <pubPlace>Cologne, Germany</pubPlace>
+    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher>
+    <pubPlace>Köln</pubPlace>
+    <date when="2020">2020</date>
+    <availability>
+      <p>Copyright © 2019 Thomas Malten</p>
+     <p>All rights reserved other than those granted under the Creative Commons Attribution 4.0 International License available in full at <ref target="https://creativecommons.org/licenses/by/4.0/"></ref>.  Permission is granted to build upon this work, as long as credit is explicitly acknowledged exactly as described herein, and derivative work is distributed under the same license.</p>
+      <!--
+     <p>All rights reserved other than those granted under the Creative Commons Attribution Non-Commercial Share Alike license available in full at <ref target="//creativecommons.org/licenses/by-nc-sa/3.0/legalcode">//creativecommons.org/licenses/by-nc-sa/3.0/legalcode</ref>, and summarized at <ref target="//creativecommons.org/licenses/by-nc-sa/3.0/">//creativecommons.org/licenses/by-nc-sa/3.0/</ref>.  Permission is granted to build upon this work non-commercially, as long as credit is explicitly acknowledged exactly as described herein, and derivative work is distributed under the same license.</p>
+-->
+    </availability>
+    <distributor>
+     <ptr target="//www.sanskrit-lexicon.uni-koeln.de/scans/LANScan/2020/web/index.php"/>
+    </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="LAN">
+     <monogr>
+      <author>Charles Rockwell Lanman</author>
+      <title type="main" level="m">A Sanskrit Reader</title>
+      <title type="subordinate" level="m">with vocabulary and notes</title>
+      <edition>first edition, Fifth Issue</edition>
+      <imprint>
+       <pubPlace>Boston</pubPlace>
+       <publisher>Ginn and Company</publisher>
+       <date>1906</date>
+      </imprint>
+      <extent>
+       <measure unit="pages" quantity="405">405 p.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+   <projectDesc>
+    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p>
+    <p>See <ptr target="//www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p></p>
+   </editorialDecl>
+   <tagsDecl>
+    <!--"//www.sanskrit-lexicon.uni-koeln.de" documentation-->
+   </tagsDecl>
+   <!--
+   <classDecl>
+    <taxonomy xml:id="lcsh">
+     <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+   </classDecl>
+  -->
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+     <p>Data-entry in Kyoto-Harvard and Anglicized Sanskrit encoding by typists in <placeName>Azhivaikkal</placeName> in <placeName>Thanjavur district</placeName>, <placeName>Tamilnadu</placeName> under the direction of Thomas Malten, with character codes partially marking divisions in the text.
+     <persName>Funderburk</persName> transformed it to Unicode and SLP1 transcoding of Sanskrit, with markup of abbreviations and reference links.
+     <persName>Migliori</persName> entered the Greek text.
+     Corrections were evaluated by <persName>Malten</persName>, <persName>Funderburk</persName> and <persName>Savardekar</persName>, and implemented by <persName>Funderburk</persName>.</p>
+    <p>XML generated programmatically from the dictionary digitization, lan.txt</p>
+   </creation>
+   <langUsage>
+    <language ident="en-Latn">English</language>
+    <language ident="sa-Latn-x-AS">Sanskrit</language>
+    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- English.</item>
+     </list>
+    </keywords>
+    <!-- Library of congress call number. -->
+    <!-- <classCode scheme="#lccn">PK933 .A65</classCode>--><!-- University of Missouri -->
+    <!--Sanskrit Library Indic Subject Classification-->
+    <!--referenced items by a catRef-->
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>Revisions documented by Jim Funderburk.
+    See <ptr target="https://github.com/sanskrit-lexicon/csl-corrections/issues?q=is%3Aissue+lanman"/>
+    See <ptr target="https://github.com/funderburkjim/lanman/"/>
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://github.com/funderburkjim/lanman/tree/master/pdfs"/>
+ </facsimile>
+ <text>
+  
+  <body>
+   <xi:include href="lan.xml"><!-- The file that has the xml data -->
+    <xi:fallback>
+     <p>See the file lan.xml downloadable from <ref target="//www.sanskrit-lexicon.uni-koeln.de">//www.sanskrit-lexicon.uni-koeln.de</ref>.</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>

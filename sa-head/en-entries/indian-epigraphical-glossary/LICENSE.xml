@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Sircar's Indian Epigraphical Glossary</title>
+    <title type="desc">XML edition</title>
+    <title type="key">Sircar</title>
+    <title type="short"><name>Sircar, D. C.</name>. <title rend="italic">Indian Epigraphical Glossary</title>. <date>1966</date>.</title>
+    <editor>Jim Funderburk</editor>
+    <editor>Thomas Malten</editor>
+    <editor>Peter M. Scharf</editor>
+    <principal>Thomas Malten</principal>
+    <funder>Deutsche Forschungsgemeinschaft</funder>
+    <principal>Peter M. Scharf</principal>
+    <funder>United States National Endowment for the Humanities</funder>
+   </titleStmt>
+   <editionStmt>
+    <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition>
+   </editionStmt>
+   <extent>1.2 MB</extent>
+   <publicationStmt>
+    <publisher>The Sanskrit Library</publisher>
+    <pubPlace>Providence, RI</pubPlace>
+    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher>
+    <pubPlace>Köln</pubPlace>
+    <date when="2014-06-30">30 June 2014</date>
+    <availability>
+     <p>Copyright © 2014 The Sanskrit Library and Thomas Malten</p>
+     <p>All rights reserved other than those granted under the Creative Commons Attribution Non-Commercial Share Alike license available in full at <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode</ref>, and summarized at <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</ref>.  Permission is granted to build upon this work non-commercially, as long as credit is explicitly acknowledged exactly as described herein, and derivative work is distributed under the same license.</p>
+    </availability>
+    <distributor>
+     <ptr target="http://www.sanskrit-lexicon.uni-koeln.de/scans/IEGScan/2014/web/index.php"/>
+    </distributor>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s">Sanskrit Library Lexical Sources</title>
+    <respStmt>
+     <resp>edited by</resp>
+     <name>Peter M. Scharf</name>
+    </respStmt>
+    <idno>xxxxx</idno>
+   </seriesStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="IEG">
+     <monogr>
+      <author>D. C. Sircar</author>
+      <title type="main" level="m">Indian Epigraphical Glossary</title>
+      <edition>1st edition</edition>
+      <imprint>
+       <pubPlace>Delhi</pubPlace>
+       <publisher>Motilal Banarsidass</publisher>
+       <date>1966</date>
+      </imprint>
+      <extent>
+       <measure unit="pages" quantity="574">xiv, 560 p.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+   <projectDesc>
+    <p>See <ptr target="http://sanskritlibrary.org/NEHDFG2009.html"/>.</p>
+   </projectDesc>
+   <projectDesc>
+    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p>
+    <p>See <ptr target="http://www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p>
+   </projectDesc>
+   <projectDesc>
+    <p>This material is based upon work supported by the <ref target="http://www.neh.gov">National Endowment for the Humanities</ref> under Grant No. HG-50022-10. Any views, findings, conclusions, or recommendations expressed in this material do not necessarily represent those of the National Endowment for the Humanities.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p></p>
+   </editorialDecl>
+   <tagsDecl>
+    <!--"http://www.sanskrit-lexicon.uni-koeln.de" documentation-->
+   </tagsDecl>
+   <classDecl>
+    <taxonomy xml:id="lcsh">
+     <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <p>Data-entry in Kyoto-Harvard encoding by typists in <placeName>Azhivaikkal</placeName> in <placeName>Thanjavur district</placeName>, <placeName>Tamilnadu</placeName> under the direction of Thomas Malten, with character codes partially marking divisions in the text.  <persName>Funderburk</persName> transformed it to xml.  Corrections were evaluated by <persName>Malten</persName>, <persName>Scharf</persName>, and implemented by <persName>Funderburk</persName>.</p>
+    <p>XML generated programmatically from ieg.txt</p>
+   </creation>
+   <langUsage>
+    <language ident="en-Latn">English</language>
+    <language ident="sa-Latn-x-AS">Sanskrit</language>
+    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- English.</item>
+     </list>
+    </keywords>
+    <!-- Library of congress call number. -->
+    <classCode scheme="#lccn">417 SI78.2</classCode><!-- University of Pennsylvania -->
+    <!--Sanskrit Library Indic Subject Classification-->
+    <!--referenced items by a catRef-->
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change>Revisions documented by Jim Funderburk.  See <ptr target="http://www.sanskrit-lexicon.uni-koeln.de"/></change>
+  </revisionDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="http://www.sanskrit-lexicon.uni-koeln.de/scans/IEGScan/2014/downloads/ieg_bookmark.pdf"/>
+ </facsimile>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart>Indian Epigraphical Glossary</titlePart>
+    </docTitle>
+    <docImprint>
+     <publisher>
+     </publisher>
+     <pubPlace>
+      <address>
+       <addrLine></addrLine>
+      </address>
+     </pubPlace>
+    </docImprint>
+    <docDate>1966</docDate>
+   </titlePage>
+  </front>
+  <body>
+   <xi:include href="ieg.xml">
+    <xi:fallback>
+     <p>See the file ieg.xml downloadable from <ref target="http://www.sanskrit-lexicon.uni-koeln.de">http://www.sanskrit-lexicon.uni-koeln.de</ref>.</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>
