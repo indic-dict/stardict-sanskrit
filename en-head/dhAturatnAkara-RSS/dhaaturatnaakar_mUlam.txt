@@ -1,0 +1,423 @@
+dhaatva~NkaH	dhaatunaama	saMskRRitabhaaShaarthaH	Meaning	hindii bhaaShaartha	gaNaH (padaH)	dhaatuH	laT (pra eka)	laT (pra bahu)	lRRi (pra eka)	luT (pra eka)	shatranta-shaanajanta	tvaa-pratyaya
+1	bhuu	sattaayaam	To be	honaa	bhvaadi (pa)	bhuu	bhavati	bhavanti	bhaviShyati	bhavitaa	bhavat	bhavitvaa
+2	paaM	paane	To drink	piinaa	bhvaadi (pa)	paa	pibati	pibanti	paasyati	paataa	pibat	paatvaa
+3	ghraaM	gandhopaadaane	To smell	suu.Nghanaa	bhvaadi (pa)	ghraa	jighrati	jighranti	ghraasyati	ghraataa	jighrat	ghraatvaa
+4	dhmaaM	shabdaagnisaMyogayoH	To blow	"shabda karanaa, agni prajvalita karane ke liye phuu.Nkanaa"	bhvaadi (pa)	dhmaa	dhamati	dhamanti	dhmaasyati	dhmaataa	dhamat	dhmaatvaa
+5	shaM	gatinivRRittau	To stand	ruka jaanaa	bhvaadi (pa)	ShThaa	tiShThati	tiShThanti	sthaasyati	sthaataa	tiShThat	sthaatvaa
+6	mnaaM	abhyaase (abhyaasaH paaramparyeNa vRRittiH)	To behave like ancestors	"abhyaasa karanaa, puurvajoM ke anukuula vRRitti rakhanaa"	bhvaadi (pa)	mnaa	manati	mananti	mnaasyati	mnaataa	manat	mnaatvaa
+7	daam	daane	To give	denaa	bhvaadi (pa)	daa	yacchhati	yacchhanti	daasyati	daataa	yacchhat	daatvaa
+8	jiM	abhibhave	To conquer	jiitanaa	bhvaadi (pa)	ji	jayati	jayanti	jeShyati	jetaa	jayat	jetvaa
+9	jriM	abhibhave	To conquer	jiitanaa	bhvaadi (pa)	ji	jayati	jayanti	jeShyati	jetaa	jayat	jetvaa
+10	xiM	xaye	To decay	naShTa honaa	bhvaadi (pa)	xi	xayati	xayanti	xeShyati	xetaa	xayat	xetvaa
+11	iM (itaH paraM ShaDudantaaH)	gatau	To go	jaanaa	bhvaadi (pa)	i	ayati	ayanti	eShyati	etaa	ayat	etvaa
+12	duM	gatau	To go	jaanaa	bhvaadi (pa)	du	davati	davanti	doShyati	dotaa	davat	dotvaa
+13	druM	gatau	To go	jaanaa	bhvaadi (pa)	dru	dravati	dravanti	droShyati	drotaa	dravat	drotvaa
+14	shuM	gatau	To go	jaanaa	bhvaadi (pa)	shu	shavati	shavanti	shoShyati	shotaa	shavat	shotvaa
+15	sruM	gatau	To go	jaanaa	bhvaadi (pa)	sru	sravati	sravanti	sroShyati	srotaa	sravat	srotvaa
+16	dhruM	"sthairye ca| cakaaraadgatau, gatyarthaH kuTaadirayamityanye|"	"To be firm, to move"	"sthira honaa, jaanaa"	bhvaadi (pa)	dhru	dhravati	dhravanti	dhroShyati	dhrotaa	dhravat	dhrotvaa
+17	suM	prasavaishvaryayoH| prasavo.abhyanuGYaanam| aishvaryamiishanakriiyaa|	To have power to consent	"jaananaa, sammati denaa, aishvarya prakaTa karanaa"	bhvaadi (pa)	su	savati	savanti	soShyati	sotaa	savat	sotvaa
+18	smRRiM	cintaayaam	To remember	smaraNa karanaa	bhvaadi (pa)	smRRi	smarati	smaranti	smariShyati	smarttaa	smarat	smarttvaa
+19	gRRiM	secane	To sprinkle	chhi.Dakana	bhvaadi (pa)	gRRi	garati	garanti	gariShyati	garttaa	garat	garttvaa
+20	ghRRiM	secane	To sprinkle	chhi.Dakana	bhvaadi (pa)	ghRRi	gharati	gharanti	ghariShyati	gharttaa	gharat	gharttvaa
+21	ausvRRi	shabdo pataapayoH	"To sound, to pain"	"shabda karanaa, kaShTa denaa"	bhvaadi (pa)	ausvRRi	svarati	svaranti	svariShyati	svarttaa/svaritaa	svarat	svarttaa/svaritvaa
+22	dvRRiM	varaNe| varaNaM sthaganam	To cover	Dha.Nkanaa	bhvaadi (pa)	dvRRi	dvarati	dvaranti	dvariShyati	dvarttaa	dvarat	dvarttvaa
+23	dhvRRiM	kauTilye	To behave contrary	galata vyavahaara karanaa	bhvaadi (pa)	dhvRRi	dhvarati	dhvaranti	dhvariShyati	dhvarttaa	dhvarat	dhvarttvaa
+24	hvRRiM	kauTilye	To behave contrary	galata vyavahaara karanaa	bhvaadi (pa)	hvRRi	hvarati	hvaranti	hvariShyati	hvarttaa	hvarat	hvarttvaa
+25	sRRiM	gatau|	To go	jaanaa	bhvaadi (pa)	sRRi	sarati	saranti	sariShyati	sarattaa	sarat	sarattvaa
+26	RRiM	praapaNe ca| cakaaraadgatau	"To go, to carry"	"jaanaa, le jaanaa"	bhvaadi (pa)	RRi	RRicchhati	RRicchhanti	ariShyati	arttaa	RRicchhat	arttvaa
+27	tRRI	plavanataraNayoH| plavanaM ma~njanam taraNamulla~Nghanam	"To swim, to bath in water"	"tairanaa, paanii me snaana karanaa"	bhvaadi (pa)	tRRi	tarati	taranti	tariiShyati	taritaa	tarat	taritvaa
+28	TuudheM	paane	To drink	piinaa	bhvaadi (pa)	dhe	dhayati	dhayanti	dhaasyati	dhaataa	dhayat	dhaatvaa
+29	daiMv	shodhane	To purify	shuddha karanaa	bhvaadi (pa)	dai	daayati	daayanti	daasyati	daataa	daayat	daatvaa
+30	dhyaiM	cintaayaam|	To meditate upon	dhyaana lagaanaa	bhvaadi (pa)	dhyai	dhyaayati	dhyaayanti	dhyaasyati	dhyaataa	dhyaayat	dhyaatvaa
+31	glaiM	harShaxaye| iha harShaxayo dhaatva pacayaH|	To be weak	xiiNa honaa	bhvaadi (pa)	glai	glaayati	glaayanti	glaasyati	glaataa	glaayat	glaatvaa
+32	mlaiM	gaatravinaame| vinaaH kaantixayaH 	To grow weary	mlaana honaa	bhvaadi (pa)	mlai	mlaayati	mlaayanti	mlaasyati	mlaataa	mlaayat	mlaatvaa
+33	dyaiM	iya~NgakaraNe	To disfigure	kharaaba karanaa	bhvaadi (pa)	dyai	dyaayati	dyaayanti	dyaasyati	dyaataa	dyaayat	dyaatvaa
+34	draiM	svapne	To sleep	sonaa	bhvaadi (pa)	drai	draayati	draayanti	draasyati	draataa	draayat	draatvaa
+35	dhraiM	tRRiptau	To be satisfied	tRRipta honaa	bhvaadi (pa)	dhrai	dhraayati	dhraayanti	dhraasyati	dhraataa	dhraayat	dhraatvaa
+36	kaiM	shabde	"To sound, to pain"	shabda karanaa	bhvaadi (pa)	kai	kaayati	kaayanti	kaasyati	kaataa	kaayat	kaatvaa
+37	gaiM	shabde	"To sound, to pain"	shabda karanaa	bhvaadi (pa)	gai	gaayati	gaayanti	gaasyati	gaataa	gaayat	gaatvaa
+38	raiM	shabde	"To sound, to pain"	shabda karanaa	bhvaadi (pa)	rai	raayati	raayanti	raasyati	raataa	raayat	raatvaa
+39	ShTyaiM	saMghaate	To be collected in a heap	ikaTThaa honaa	bhvaadi (pa)	ShTyai	ShTyaayati	ShTyaayanti	ShTayaasyati	ShTyaataa	ShTyaayat	ShTyaatvaa
+40	styaiM	saMghaate	To be collected in a heap	ikaTThaa honaa	bhvaadi (pa)	styai	styaayati	styaayanti	styaasyati	styaataa	styaayat	styaatvaa
+41	khaiM	"khadane, khadanaM hiMsaa stherya~nca"	"To strike, to be steady"	"hiMsaa karanaa, sthira honaa"	bhvaadi (pa)	khai	khaayati	khaayanti	khaasyati	khaataa	khaayat	khaatvaa
+42	xaiM	xaye	To decrease	xiiNa honaa	bhvaadi (pa)	xai	xaayati	xaayanti	xaasyati	xaataa	xaayat	xaatvaa
+43	jaiM	xaye	To decrease	xiiNa honaa	bhvaadi (pa)	jai	jaayati	jaayanti	jaasyati	jaataa	jaayat	jaatvaa
+44	saiM	xaye	To decrease	xiiNa honaa	bhvaadi (pa)	sai	saayati	saayanti	saasyati	saataa	saayat	saatvaa
+45	sraiM	paake	To boil	pakaanaa	bhvaadi (pa)	srai	sraayati	sraayanti	sraasyati	straataa	sraayat	straatvaa
+46	shraiM	paake	To boil	pakaanaa	bhvaadi (pa)	shrai	shraayati	shraayanti	shraasyati	shraataa	shraayat	shraatvaa
+47	paiM	shoShaNe	To wither	sukhaanaa	bhvaadi (pa)	pai	paayati	paayanti	paasyati	paataa	paayat	paatvaa
+48	auvaiM	shoShaNe	To wither	sukhaanaa	bhvaadi (pa)	vai	vaayati	vaayanti	vaasyati	vaataa	vaayat	vaatvaa
+49	ShNaM	viShTane	To coil around	lapeTanaa	bhvaadi (pa)	snai	snaayati	snaayanti	snaasyati	snaataa	snaayat	snaatvaa
+50	phakka	niicergatau| niicairgatirmandagamanamasadvyavahaara	"To walk slowly, to behave falsely"	galata vyavahaara karanaa	bhvaadi (pa)	phakk	phakkati	phakkanti	phakkiShyati	phakkitaa	phakkat	phakkitvaa
+51	taka	hasane	To laugh	ha.Nsanaa	bhvaadi (pa)	taka	takati	takanti	takiShyati	takitaa	takat	takitvaa
+52	taku	kRRicchhrajiivane	To live in distress	dukhada avasthaa meM jiinaa	bhvaadi (pa)	ta~Nka	ta~Nkati	ta~Nkanti	ta~NkiShyati	ta~Nkitaa	ta~Nkat	ta~Nkitvaa
+53	shuka	gatau	To go	jaanaa	bhvaadi (pa)	shuk	shokati	shokanti	shokiShyati	shokitaa	shokat	shokitvaa
+54	bukka	bhaaShaNe	To speak	bolanaa	bhvaadi (pa)	bukaa	bukkati	bukkanti	bukkkiShyati	bukkitaa	bukkat	bukkitvaa
+55	okhRRi	shoShaNaalamarthayoH	"To be dry, to be able"	"sukhaanaa, samartha honaa"	bhvaadi (pa)	okha	okhati	okhanti	okhiShyati	okhitaa	okhat	okhitvaa
+56	raakhRRi	shoShaNaalamarthayoH	"To be dry, to be able"	"sukhaanaa, samartha honaa"	bhvaadi (pa)	raakh	raakhati	raakhanti	raakhiShyati	raakhitaa	raakhat	raakhitvaa
+57	laakhRRi	shoShaNaalamarthayoH	"To be dry, to be able"	"sukhaanaa, samartha honaa"	bhvaadi (pa)	laakh	laakhati	laakhanti	laakhiShyati	laakhitaa	laakhat	laakhitvaa
+58	draakhRRi	shoShaNaalamarthayoH	"To be dry, to be able"	"sukhaanaa, samartha honaa"	bhvaadi (pa)	draakh	draakhati	draakhanti	draakhiShyati	draakhitaa	draakhat	draakhitvaa
+59	dhraakhRRi	shoShaNaalamarthayoH	"To be dry, to be able"	"sukhaanaa, samartha honaa"	bhvaadi (pa)	dhraakh	dhraakhati	dhraakhanti	dhraakhiShyati	dhraakhitaa	dhraakhat	dhraakhitvaa
+60	shaakhRRi	vyaaptau	To pervade	vyaapta karanaa	bhvaadi (pa)	shaakh	shaakhati	shaakhanti	shaakhiShyati	shaakhitaa	shaakhat	shaakhitvaa
+61	shlaakhRRi	vyaaptau	To pervade	vyaapta karanaa	bhvaadi (pa)	shlaakh	shlaakhati	shlaakhanti	shlaakhiShyati	shlaakhitaa	shlaakhat	shlaakhitvaa
+62	kakkha	hasane	To laugh	ha.Nsanaa	bhvaadi (pa)	kakkh	kakkhati	kakkhanti	kakkhiShyati	kakkhitaa	kakkhat	kakkhitvaa
+63	ukha	gatau	To go	jaanaa	bhvaadi (pa)	ukh	okhati	okhanti	okhiShyati	okhitaa	okhat	okhitvaa
+64	nakha	gatau	To go	jaanaa	bhvaadi (pa)	nakh	nakhati	nakhanti	nakhiShyati	nakhitaa	nakhat	nakhitvaa
+65	Nakha	gatau	To go	jaanaa	bhvaadi (pa)	nakh	nakhati	nakhanti	nakhiShyati	nakhitaa	nakhat	nakhitvaa
+66	vakha	gatau	To go	jaanaa	bhvaadi (pa)	vakh	vakhati	vakhanti	vakhiShyati	vakhitaa	vakhat	vakhitvaa
+67	makha	gatau	To go	jaanaa	bhvaadi (pa)	makh	makhati	makhanti	makhiShyati	makhitaa	makhat	makhitvaa
+68	rakha	gatau	To go	jaanaa	bhvaadi (pa)	rakh	rakhati	rakhanti	rakhiShyati	rakhitaa	rakhat	rakhitvaa
+69	lakha	gatau	To go	jaanaa	bhvaadi (pa)	lakh	lakhati	lakhanti	lakhiShyati	lakhitaa	lakhat	lakhitvaa
+70	makhu	gatau	To go	jaanaa	bhvaadi (pa)	ma~Nkh	ma~Nkhati	ma~Nkhanti	ma~NkhiShyati	ma~Nkhitaa	ma~Nkhat	ma~Nkhitvaa
+71	rakhu	gatau	To go	jaanaa	bhvaadi (pa)	ra~Nkh	ra~Nkhati	ra~Nkhanti	ra~NkhiShyati	ra~Nkhitaa	ra~Nkhat	ra~Nkhitvaa
+72	lakhu	gatau	To go	jaanaa	bhvaadi (pa)	la~Nkh	la~Nkhati	la~Nkhanti	la~NkhiShyati	la~Nkhitaa	la~Nkhat	la~Nkhitvaa
+73	rikhu	gatau	To go	jaanaa	bhvaadi (pa)	ri~Nkh	ri~Nkhati	ri~Nkhanti	ri~NkhiShyati	ri~Nkhitaa	ri~Nkhat	ri~Nkhitvaa
+74	ikha	gatau	To go	jaanaa	bhvaadi (pa)	ikh	ekhati	ekhanti	ekhiShyati	ekhitaa	ekhat	ekhitvaa
+75	ikhu	gatau	To go	jaanaa	bhvaadi (pa)	i~Nkh	i~Nkhati	i~Nkhanti	i~NkhiShyati	i~Nkhitaa	i~Nkhat	i~Nkhitvaa
+76	iikhu	gatau	To go	jaanaa	bhvaadi (pa)	ii~Nkh	ii~Nkhati	ii~Nkhanti	ii~NkhiShyati	ii~Nkhitaa	ii~Nkhat	ii~Nkhitvaa
+77	valga	gatau	To go	jaanaa	bhvaadi (pa)	valg	valgati	valganti	valgiShyati	valgitaa	valgat	valgitvaa
+78	regu	gatau	To go	jaanaa	bhvaadi (pa)	ra~Ng	ra~Ngati	ra~Nganti	ra~NgiShyati	ra~Ngitaa	ra~Ngat	ra~Ngitvaa
+79	lagu	gatau	To go	jaanaa	bhvaadi (pa)	la~Ng	la~Ngati	la~Nganti	la~NgiShyati	la~Ngitaa	la~Ngat	la~Ngitvaa
+80	tagu	gatau	To go	jaanaa	bhvaadi (pa)	ta~Ng	ta~Ngati	ta~Nganti	ta~NgiShyati	ta~Ngitaa	ta~Ngat	ta~Ngitvaa
+81	shragu	gatau	To go	jaanaa	bhvaadi (pa)	shra~Ng	shra~Ngati	shra~Nganti	shra~NgiShyati	shra~Ngitaa	shra~Ngat	shra~Ngitvaa
+82	shlagu	gatau	To go	jaanaa	bhvaadi (pa)	shla~Ng	shla~Ngati	shla~Nganti	shla~NgiShyati	shla~Ngitaa	shla~Ngat	shla~Ngitvaa
+83	agu	gatau	To go	jaanaa	bhvaadi (pa)	a~Ng	a~Ngati	a~Nganti	a~NgiShyati	a~Ngitaa	a~Ngat	a~Ngitvaa
+84	vagu	gatau	To go	jaanaa	bhvaadi (pa)	va~Ng	va~Ngati	va~Nganti	va~NgiShyati	va~Ngitaa	va~Ngat	va~Ngitvaa
+85	magu	gatau	To go	jaanaa	bhvaadi (pa)	ma~Ng	ma~Ngati	ma~Nganti	ma~NgiShyati	ma~Ngitaa	ma~Ngat	ma~Ngitvaa
+86	svagu	gatau	To go	jaanaa	bhvaadi (pa)	sva~Ng	sva~Ngati	sva~Nganti	sva~NgiShyati	sva~Ngitaa	sva~Ngat	sva~Ngitvaa
+87	iguu	gatau	To go	jaanaa	bhvaadi (pa)	i~Ng	i~Ngati	i~Nganti	i~NgiShyati	i~Ngitaa	i~Ngat	i~Ngitvaa
+88	uguu	gatau	To go	jaanaa	bhvaadi (pa)	u~Ng	u~Ngati	u~Nganti	u~NgiShyati	u~Ngitaa	u~Ngat	u~Ngitvaa
+89	riguu	gatau	To go	jaanaa	bhvaadi (pa)	ri~Ng	ri~Ngati	ri~Nganti	ri~NgiShyati	ri~Ngitaa	ri~Ngat	ri~Ngitvaa
+90	ligu	gatau	To go	jaanaa	bhvaadi (pa)	li~Ng	li~Ngati	li~Nganti	li~NgiShyati	li~Ngitaa	li~Ngat	li~Ngitvaa
+91	tvagu	kampane ca| cakaaraadgatau sthitasyaiva calanaM kampanam| gatirdeshaantara praaptihetuH kiryaa	"To tremble, to go"	"kampita honaa, jaanaa"	bhvaadi (pa)	tva~Ng	tva~Ngati	tva~Nganti	tva~NgiShyati	tva~Ngitaa	tva~Ngat	tva~Ngitvaa
+92	yugu	varjane	To avoid	chhoDa denaa	bhvaadi (pa)	yu~Ng	yu~Ngati	yu~Nganti	yu~NgiShyati	yu~Ngitaa	yu~Ngat	yu~Ngitvaa
+93	jagu	varjane	To avoid	chhoDa denaa	bhvaadi (pa)	ju~Ng	ju~Ngati	ju~Nganti	ju~NgiShyati	ju~Ngitaa	ju~Ngat	ju~Ngitvaa
+94	vugu	varjane	To avoid	chhoDa denaa	bhvaadi (pa)	vu~Ng	vu~Ngati	vu~Nganti	vu~NgiShyati	vu~Ngitaa	vu~Ngat	vu~Ngitvaa
+95	gaggha	hasane	To laugh	ha.Nsanaa	bhvaadi (pa)	gaggh	gagghati	gagghanti	gagghiShyati	gagghitaa	gagghat	gagghitvaa
+96	dadhu	paalane	To protect	raxaa karanaa	bhvaadi (pa)	da~Ngh	da~Nghati	da~Nghanti	da~NghiShyati	da~Nghitaa	da~Nghat	da~Nghitvaa
+97	shighu	aaghraaNe| aaghraaNaM gandhopaadaanaam|	To smell	suu.Nghanaa	bhvaadi (pa)	shi~Ngh	shi~Nghati	shi~Nghanti	shi~NghiShyati	shi~Nghitaa	shi~Nghat	shi~Nghitvaa
+98	laghu	shoShaNe	To dry	sukhaanaa	bhvaadi (pa)	la~Ngh	la~Nghati	la~Nghanti	la~NghiShyati	la~Nghitaa	la~Nghat	la~Nghitvaa
+99	shuca	shoke	To regret	shoka jataanaa	bhvaadi (pa)	shuc	shocati	shocanti	shociShyati	shocitaa	shocat	shocitvaa
+100	kuca	shabde taare| taara ucca ityarthaH	"To cry out, behave contrary"	jora se aavaaja karanaa	bhvaadi (pa)	kuc	kocati	kocanti	kociShyati	kocitaa	kocat	kocitvaa
+101	kru~nca	gatau	"To go, to become small"	"jaanaa, laghutaa prakaTa karanaa"	bhvaadi (pa)	kru~nc	kru~ncati	kru~ncanti	kru~nciShyati	kru~ncitaa	kru~ncat	kru~ncitvaa
+102	ku~nca	kauTilyaalpiibhaavayoH	"To become small, to behave contrary"	"vakrataa karanaa, chhoTaa honaa"	bhvaadi (pa)	ku~nc	ku~ncati	ku~ncanti	ku~nciShyati	ku~ncitaa	ku~ncat	ku~ncitvaa
+103	lu~nca	apanayane| anupayuktaapaasane	"To throw off, useless"	anupayukta ko pheMka denaa	bhvaadi (pa)	lu~nc	lu~ncita	lu~ncitanti	lu~nciShyati	lu~ncitaa	lu~ncitat	lu~ncitvaa
+104	arca	puujaayaam	To worship	puujaa karanaa	bhvaadi (pa)	arc	arcati	arcanti	arciShyati	arcitaa	arcat	arcitvaa
+105	a~ncuu	gatau ca| cakaaraatpuujaayaam	"To go, to worship"	"jaanaa, puujaa karanaa"	bhvaadi (pa)	a~nc	a~ncati	a~ncanti	a~nciShyati	a~ncitaa	a~ncat	a~ncitvaa
+106	va~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	va~nc	va~ncati	va~ncanti	va~nciShyati	va~ncitaa	va~ncat	va~ncitvaa
+107	ca~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	ca~nc	ca~ncati	ca~ncanti	ca~nciShyati	ca~ncitaa	ca~ncat	ca~ncitvaa
+108	ta~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	ta~nc	ta~ncati	ta~ncanti	ta~nciShyati	ta~ncitaa	ta~ncat	ta~ncitvaa
+109	tva~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	tva~nc	tva~ncati	tva~ncanti	tva~nciShyati	tva~ncitaa	tva~ncat	tva~ncitvaa
+110	ma~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	ma~nc	ma~ncati	ma~ncanti	ma~nciShyati	ma~ncitaa	ma~ncat	ma~ncitvaa
+111	mu~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	mu~nc	mu~ncati	mu~ncanti	mu~nciShyati	mu~ncitaa	mu~ncat	mu~ncitvaa
+112	mru~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	mru~nc	mru~ncati	mru~ncanti	mru~nciShyati	mru~ncitaa	mru~ncat	mru~ncitvaa
+113	mrucuu	gatau	To go	jaanaa	bhvaadi (pa)	mruc	mrocati	mrocanti	mrociShyati	mrocitaa	mrocat	mrocitvaa
+114	mlucuu	gatau	To go	jaanaa	bhvaadi (pa)	mluc	mlocati	mlocanti	mlociShyati	mlocitaa	mlocit	mlocitvaa
+115	glu~ncuu	gatau	To go	jaanaa	bhvaadi (pa)	glu~nc	glu~ncati	glu~ncanti	glu~nciShyati	glu~ncitaa	glu~ncat	glu~ncitvaa
+116	Shasca	gatau	To go	jaanaa	bhvaadi (pa)	sashc	sashcati	sashcanti	sashciShyati	sashcitaa	sashcat	sashcitvaa
+117	grucuu	steye	To steal	corii karanaa	bhvaadi (pa)	gruc	grocati	grocanti	grociShyati	grocitaa	grocat	grocitvaa
+118	glucuu	steye	To steal	corii karanaa	bhvaadi (pa)	gluc	glocati	glocanti	glociShyati	glocitaa	glocat	glocitvaa
+119	mlachha	avyaktaayaaM vaaci	To speak confusedly	anarthaka bolanaa	bhvaadi (pa)	mlecchh	mlecchhati	mlecchhanti	mlecchhiShyati	mlecchhitaa	mlecchhat	mlecchhitvaa
+120	lachha	laxaNe	To mark	cihnita karanaa	bhvaadi (pa)	lacchh	lacchhati	lacchhanti	lacchhiShyati	lacchhitaa	lacchhat	lacchhitvaa
+121	laachhu	laxaNe	To mark	cihnita karanaa	bhvaadi (pa)	laa~nchh	laa~nchhati	laa~nchhanti	laa~nchhiShyati	laa~nchhitaa	laa~nchhat	laa~nchhitvaa
+122	vaachhu	icchhaayaam	To wish	icchhaa karanaa	bhvaadi (pa)	vaa~nchh	vaa~nchhati	vaa~nchhanti	vaa~nchhiShyati	vaa~nchhitaa	vaa~nchhat	vaa~nchhitvaa
+123	aachhu	aayaame	To extend	laMbaa karmaa	bhvaadi (pa)	aa~nchh	aa~nchhati	aa~nchhanti	aa~nchhiShyati	aa~nchhitaa	aa~nchhat	aa~nchhitaa
+124	hriichha	lajjaayaam	To be ashamed	sharma karanaa	bhvaadi (pa)	hriicchh	hriicchhati	hriicchhanti	hriicchhiShyati	hriicchhitaa	hriicchhat	hriicchhitvaa
+125	hurchhaa	kauTilye	To be crooked	"vakrataa karanaa, chhoTaa honaa"	bhvaadi (pa)	huurcchh	huurchhati	huurchhanti	huurchhiShyati	huurchhitaa	huurchhat	huurchhitvaa
+126	murchhaa	moha samucchhraayayoH	To faint	"muurchhita honaa, ba.Daa honaa"	bhvaadi (pa)	muurcchh	muurchhati	muurchhanti	muurchhiShyati	muurchhitaa	muurchhat	muurchhitvaa
+127	sphurchhaa	vismRRitau	To forget	bhuula jaanaa	bhvaadi (pa)	sphuurcchh	sphuurchhati	sphuurchhanti	sphuurchhiShyati	sphuurchhitaa	sphuurchhat	sphuurchhitvaa
+128	smurchhaa	vismRRitau	To forget	bhuula jaanaa	bhvaadi (pa)	smuurcchh	smuurchhati	smuurchhanti	smuurchhiShyati	smuurchhitaa	smuurchhat	smuurchhitvaa
+129	yucchhaa	pramaade	To be idle	aalasa karanaa	bhvaadi (pa)	yucchh	yucchhati	yucchhanti	yucchhiShyati	yucchhitaa	yucchhat	yucchhitvaa
+atha jaantaashcatushcatvaariMshat tyajaSh~njavarjaaH seTashca||												
+130	dhRRija	gatau	To go	jaanaa	bhvaadi (pa)	dhRRij	dharjati	dharjanti	dharjiShyati	dharjitaa	dharjat	dharjitvaa
+131	dhRRiju	gatau	To go	jaanaa	bhvaadi (pa)	dhRRi~nj	dhRRi~njati	dhRRi~njanti	dhRRi~njiShyati	dhRRi~njitaa	dhRRi~njat	dhRRi~njitvaa
+132	dhvaja	gatau	To go	jaanaa	bhvaadi (pa)	dhvaj	dhvajati	dhvajanti	dhvajiShyati	dhvajitaa	dhvajat	dhvajitvaa
+133	dhvaju	gatau	To go	jaanaa	bhvaadi (pa)	dhva~nj	dhva~njati	dhva~njanti	dhva~njiShyati	dhva~njitaa	dhva~njat	dhva~njitvaa
+134	dhraja	gatau	To go	jaanaa	bhvaadi (pa)	dhraj	dhrajati	dhrajanti	dhrajiShyati	dhrajitaa	dhrajat	dhrajitvaa
+135	dhraju	gatau	To go	jaanaa	bhvaadi (pa)	dhra~nj	dhra~njati	dhra~njanti	dhra~njiShyati	dhra~njitaa	dhra~njat	dhra~njitvaa
+136	vaj	gatau	To go	jaanaa	bhvaadi (pa)	vaj	vajati	vajanti	vajiShyati	vajitaa	vajat	vajitvaa
+137	vraja	gatau	To go	jaanaa	bhvaadi (pa)	vraj	vrajati	vrajanti	vrajiShyati	vrajitaa	vrajat	vrajitvaa
+138	Shasja	gatau	To go	jaanaa	bhvaadi (pa)	sajj	sajjati	sajjanti	sajjiShyati	sajjitaa	sajjat	sajjitvaa
+139	aja	xepaNe ca| cakaaraadgatau	"To go, to throw"	"jaanaa, pheMkanaa"	bhvaadi (pa)	aj	ajati	ajanti	veShyati	vetaa	ajat	vetvaa
+140	kujuu	steye	To steal	corii karanaa	bhvaadi (pa)	kuj	kojati	kojanti	kojiShyati	kojitaa	kojat	kojitvaa
+141	khujuu	steye	To steal	corii karanaa	bhvaadi (pa)	khuj	khojati	khojanti	khojiShyati	khojitaa	khojat	khojitvaa
+142	arja	arjane	"To procure, to earn"	"saMgraha karanaa, kamaanaa"	bhvaadi (pa)	arj	arjati	arjanti	arjiShyati	arjitaa	arjat	arjitvaa
+143	sarja	sarjane	"To procure, to earn"	"saMgraha karanaa, kamaanaa"	bhvaadi (pa)	sarj	sarjati	sarjanti	sarjiShyati	sarjitaa	sarjat	sarjitvaa
+144	karja	vyathane	To distress	piiDaa denaa	bhvaadi (pa)	karj	karjati	karjanti	karjiShyati	karjitaa	karjat	karjitvaa
+145	kharja	maarjane ca| cakaaraad vyathane	"To cleanse, to distress"	"saapha karanaa, piiDaa denaa"	bhvaadi (pa)	kharj	kharjati	kharjanti	kharjiShyati	kharjitaa	kharjat	kharjitvaa
+146	khaja	manthe| mantho viloDanam	To churn	maMthana karanaa	bhvaadi (pa)	khaj	khajati	khajanti	khajiShyati	khajitaa	khajat	khajitvaa
+147	khaju	gativaikalye| gatervaikalyaM vikRRitatvam|	To walk lame	laMgaDaa hokara calanaa	bhvaadi (pa)	khRRi~nj	kha~njati	kha~njanti	kha~njiShyati	kha~njitaa	kha~njat	kha~njitvaa
+148	ejRRi	kampane	To tremble	kampita honaa	bhvaadi (pa)	ej	ejati	ejanti	ejiShyati	ejitaa	ejat	ejitvaa
+149	Tvosphuurjaa	vajranirghoShe	To tremble	kampita honaa	bhvaadi (pa)	sphuurj	sphuurjati	sphuurjanti	sphuurajiShyati	sphuurjitaa	sphuurjat	sphuurjitvaa
+150	xiija	avyakte shabde	To speak indistinctly	arthahiina aaspaShTa bolanaa	bhvaadi (pa)	xiij	xiijati	xiijanti	xiijiShyati	xiijitaa	xiijat	xiijitvaa
+151	kuuja	avyakte shabde	To speak indistinctly	arthahiina aaspaShTa bolanaa	bhvaadi (pa)	kuuj	kuujati	kuujanti	kuujiShyati	kuujitaa	kuujat	kuujitvaa
+152	guja	avyakte shabde	To speak indistinctly	arthahiina aaspaShTa bolanaa	bhvaadi (pa)	guj	gojati	gojanti	gojiShyati	gojitaa	gojat	gojitvaa
+153	guju	avyakte shabde	To speak indistinctly	arthahiina aaspaShTa bolanaa	bhvaadi (pa)	gu~nj	gu~njati	gu~njanti	gu~njiShyati	gu~njitaa	gu~njat	gu~njitvaa
+154	laja	bhartsane	To blame	doSha denaa	bhvaadi (pa)	laj	lajati	lajanti	lajiShyati	lajitaa	lajat	lajitvaa
+155	laju	bhartsane	To blame	doSha denaa	bhvaadi (pa)	la~nj	la~njati	la~njanti	la~njiShyati	la~njitaa	la~njat	la~njitvaa
+156	tarja	bhartsane	To blame	doSha denaa	bhvaadi (pa)	tarj	tarjati	tarjanti	tarjiShyati	tarjitaa	tarjat	tarjitvaa
+157	laaja	bharjane ca| cakaaraad bhartsane	"To blame, to fry"	"doSha denaa, chhoMka lagaanaa"	bhvaadi (pa)	laaj	laajati	laajanti	laajiShyati	laajitaa	laajat	laajitvaa
+158	laaju	bharjane ca| cakaaraad bhartsane	"To blame, to fry"	"doSha denaa, chhoMka lagaanaa"	bhvaadi (pa)	laa~nj	laa~njati	laa~njanti	laa~njiShyati	laa~njitaa	laa~njat	laa~njitvaa
+159	jaja	yuddhe	To fight	yuddha karanaa	bhvaadi (pa)	jaj	jajati	jajanti	jajiShyanti	jajitaa	jajat	jajitvaa
+160	jaju	yuddhe	To fight	yuddha karanaa	bhvaadi (pa)	ja~nj	ja~njati	ja~njanti	ja~njiShyanti	ja~njitaa	ja~njat	ja~njitvaa
+161	tuja	hiMsaayaam	To kill	hiMsaa karanaa	bhvaadi (pa)	tuj	tojati	tojanti	tojiShyati	tojitaa	tojat	tojitvaa
+162	tuju	"balane ca, cakaaraaMddhiMsaayaam"	"To kill, to breathe"	"hiMsaa karanaa, shvaasa lenaa"	bhvaadi (pa)	tu~nj	tu~njati	tu~njanti	tu~njiShyati	tu~njitvaa	tu~njat	tu~njitvaa
+163	garja	shabde	To sound	shabda karanaa	bhvaadi (pa)	garj	garjati	garjanti	garjiShyanti	garjitaa	garjat	garjitvaa
+164	gaju	shabde	To sound	shabda karanaa	bhvaadi (pa)	ga~nj	ga~njati	ga~njanti	ga~njiShyanti	ga~njitaa	ga~njat	ga~njitvaa
+165	gRRija	shabde	To sound	shabda karanaa	bhvaadi (pa)	gRRij	garjati	garjanti	garjiShyanti	garjitaa	garjat	garjitvaa
+166	gRRiju	shabde	To sound	shabda karanaa	bhvaadi (pa)	gRRi~nj	ga~njati	ga~njanti	ga~njiShyanti	ga~njitaa	ga~njat	ga~njitvaa
+167	muja	shabde	To sound	shabda karanaa	bhvaadi (pa)	muj	mojati	mojanti	mojiShyanti	mojitaa	mojat	garjitvaa
+168	muju	shabde	To sound	shabda karanaa	bhvaadi (pa)	mu~nj	mu~njati	mu~njanti	mu~njiShyanti	mu~njitaa	mu~njat	mu~njitvaa
+168.2	mRRija	shabde	To sound	shabda karanaa	bhvaadi (pa)	mRRij	marjati	marjanti	marjiShyanti	marjitaa	marjat	marjitvaa
+169	mRRiju	shabde	To sound	shabda karanaa	bhvaadi (pa)	mRRi~nj	mu~njati	mu~njanti	mu~njiShyanti	mu~njitaa	mu~njat	mu~njitvaa
+170	maja	shabde	To sound	shabda karanaa	bhvaadi (pa)	maj	marjati	marjanti	marjiShyanti	marjitaa	marjat	marjitvaa
+171	gaja	madaneva| cakaaraacchhabde|	"To sound, to be intoxicated"	"shabda karanaa, madonmatta honaa"	bhvaadi (pa)	gaj	gajati	gajanti	gajiShyati	gajitaa	gajat	gajitvaa
+172	tyajam	hanau| haanistyaagamaH	To abandon	tyaaga karanaa	bhvaadi (pa)	tyaj	tyajati	tyajanti	tyajiShyati	tyajitaa	tyajat	tyajitvaa
+173	Sha~njam	sa~Nge	To accompany	mitrataa karanaa	bhvaadi (pa)	sa~nj	sajati	sajanti	sa~Nxyati	sa~Nktaa	sajat	sa~Nktvaa
+||atha Taantaa aShTaatriMshatseTashca||												
+174	kaTe	varShaavaraNayoH| vRRiShTaavaavaraNe caarthe|	"To cover, to rain"	"Dha.Nkanaa, barasanaa"	bhvaadi (pa)	kaT	kaTati	kaTanti	kaTiShyati	kaTitaa	kaTat	kaTitvaa
+175	ShaTa	rujaavisharaNagatyavashaa taneShu| caturShvartheShu|	"To be sick, to disunite"	"rogii honaa, saDa jaanaa, patalaa honaa"	bhvaadi (pa)	shaT	shaTati	shaTanti	shaTiShyati	shaTitaa	shaTat	shaTitvaa
+176	vaTa	veShTane	To surround	lapeTanaa	bhvaadi (pa)	vaT	vaTati	vaTanti	vaTiShyati	vaTitaa	vaTat	vaTitvaa
+177	kiTa	uttraase| uttraaso bhyodgatirutsaahana~nca	"To fear, to give pain"	"bhaya karanaa, duHkha denaa"	bhvaadi (pa)	kiT	keTati	keTanti	keTiShyati	keTitaa	keTat	keTitvaa
+178	khiT	uttraase| uttraaso bhyodgatirutsaahana~nca	"To fear, to give pain"	"bhaya karanaa, duHkha denaa"	bhvaadi (pa)	khiT	kheTati	kheTanti	kheTiShyati	kheTitaa	kheTat	kheTitvaa
+179	shiT	anaadare	To despise	avahelanaa karanaa	bhvaadi (pa)	shiT	sheTati	sheTanti	sheTiShyati	sheTitaa	sheTat	sheTitvaa
+180	ShiT	anaadare	To despise	avahelanaa karanaa	bhvaadi (pa)	ShiT	SheTati	SheTanti	SheTiShyati	SheTitaa	SheTat	SheTitvaa
+181	jaTa	saMghaate	To combine	milaanaa	bhvaadi (pa)	jaT	jaTati	jaTanti	jatiShyati	jaTitaa	jaTat	jaTitvaa
+182	jhaT	saMghaate	To combine	milaanaa	bhvaadi (pa)	jhaT	jhaTati	jhaTanti	jhaTiShyati	jhaTitaa	jhaTat	jhaTitvaa
+183	piTa	shabde ce| cakaaraatsaMghaate	"To sound, to combine"	"milaanaa, shabda karanaa"	bhvaadi (pa)	piT	peTati	peTanti	peTiShyati	peTitaa	peTat	peTitvaa
+184	bhaTa	bhRRitau| bhRRitirvetanaM bhraNa~nca|	"To feed, to serve"	"poShaNa karanaa, seva karanaa"	bhvaadi (pa)	bhaT	bhaTati	bhaTanti	bhaTiShyati	bhaTitaa	bhaTat	bhaTitvaa
+185	taTa	ucchhaye	To rise	aage ba.Dhanaa	bhvaadi (pa)	taT	taTati	taTanti	taTiShyati	taTitaa	taTat	taTitvaa
+186	khaTa	kaa~Nxe| kaa~Nxaasyaastiitya bhraaditvaadaH kaa~NxaH| kaa~NxaavishiShTo dhaatvarthaH|	To wish	icchhaa karanaa	bhvaadi (pa)	khaT	khaTati	khaTanti	khaTiShyati	khaTitaa	khaTat	khaTitvaa
+187	NaTa	nRRitau	To dance	nRRitya karanaa	bhvaadi (pa)	naT	naTati	naTanti	naTiShyati	naTitaa	naTat	naTitvaa
+188	haTa	diiptau	To shine	camakanaa	bhvaadi (pa)	haT	haTati	haTanti	haTiShyati	haTitaa	haTat	haTitvaa
+189	ShaTa	avayave	To form a part	bhaaga karanaa	bhvaadi (pa)	saT	saTati	saTanti	saTiShyati	saTitaa	saTat	saTitvaa
+190	luTa	viloTane	To wallow	loTanaa	bhvaadi (pa)	luT	loTati	loTanti	loTiShyati	loTitaa	loTat	loTitvaa
+191	ciTa	praiShye| praiShyaM daasatvam|	To be slave	sevaka honaa	bhvaadi (pa)	ciT	ceTati	ceTanti	ceTiShyati	ceTitaa	ceTat	ceTitvaa
+192	viTa	shabde	To sound	shabda karanaa	bhvaadi (pa)	viT	veTati	veTanti	veTiShyati	veTitaa	veTat	veTitvaa
+193	heTa	vibaadhaayaam	To injure	coTa pahu.Ncaanaa	bhvaadi (pa)	heT	heTati	heTanti	heTiShyati	heTitaa	heTat	heTitvaa
+194	aTa	gatau	To go	jaanaa	bhvaadi (pa)	aT	aTati	aTanti	aTiShyati	aTitaa	aTat	aTitvaa
+195	paTa	gatau	To go	jaanaa	bhvaadi (pa)	paT	paTati	paTanti	paTiShyati	paTitaa	paTat	paTitvaa
+196	iTa	gatau	To go	jaanaa	bhvaadi (pa)	iT	eTati	eTanti	eTiShyati	eTitaa	eTat	eTitvaa
+197	kiTa	gatau	To go	jaanaa	bhvaadi (pa)	kiT	keTati	keTanti	keTiShyati	keTitaa	keTat	keTitvaa
+198	kaTa	gatau	To go	jaanaa	bhvaadi (pa)	kaT	kaTati	kaTanti	kaTiShyati	kaTitaa	kaTat	kaTitvaa
+199	kaTu	gatau	To go	jaanaa	bhvaadi (pa)	kaNT	kaNTati	kaNTanti	kaNTiShyati	kaNTitaa	kaNTat	kaNTitvaa
+200	kaTe	gatau	To go	jaanaa	bhvaadi (pa)	kaT	kaTati	kaTanti	kaTiShyati	kaTitaa	kaTat	kaTitvaa
+201	kuTu	vaikalye	To have a defect	vikalaaMga honaa	bhvaadi (pa)	kuNT	kuNTati	kuNTanti	kuNTiShyati	kuNTitaa	kuNTat	kuNTitvaa
+202	muTa	pramardane	To turn forcibly	maro.Danaa	bhvaadi (pa)	muT	moTati	moTanti	moTiShyati	moTitaa	moTat	moTitvaa
+203	cuTa	alpiibhaave	To become small 	chhoTaa honaa	bhvaadi (pa)	cuT	coTati	coTanti	coTiShyati	coTitaa	coTat	coTitvaa
+204	cuTu	alpiibhaave	To become small 	chhoTaa honaa	bhvaadi (pa)	cuNT	cuNTati	cuNTanti	cuNTiShyati	cuNTitaa	cuNTat	kaTitvaa
+205	vaTu	vibhaajane| vibhaajanaM vibhaagiikaraNam	To part	vibhaajita karanaa	bhvaadi (pa)	vaNT	vaNTati	vaNTanti	vaNTiShyati	vaNTitaa	vaNTat	vaNTitvaa
+206	ruTu	steye	To steal	corii karanaa	bhvaadi (pa)	ruNT	ruNTati	ruNTanti	ruNTiShyati	ruNTitaa	ruNTat	ruNTitvaa
+207	luTu	steye	To steal	corii karanaa	bhvaadi (pa)	luNT	luNTati	luNTanti	luNTiShyati	luNTitaa	luNTat	luNTitvaa
+208	sphaTa	visaraNe	To break	to.Danaa	bhvaadi (pa)	sphaT	sphaTati	sphaTanti	sphaTiShyati	sphaTitaa	sphaTat	sphaTitvaa
+209	sphuTRRI	visaraNe	To break	to.Danaa	bhvaadi (pa)	sphuT	sphoTati	sphoTanti	sphoTiShyati	sphoTitaa	sphoTat	sphoTitvaa
+210	laTa	baalye| baalyaM baalakriyaa	To be childish	baalaceShTaa karanaa	bhvaadi (pa)	laT	laTati	laTanti	laTiShyati	laTitaa	laTat	laTitvaa
+211	raTa	paribhaaShaNe	To speak	bolanaa	bhvaadi (pa)	raT	raTati	raTanti	raTiShyati	raTitaa	raTat	raTitvaa
+||atha ThaantaaH saptadasha seTashca||												
+212	raTha	cakaarolaTaanukarShaNaaryastena laTe rarthadvayaM siddham	To speak	bolanaa	bhvaadi (pa)	raTh	raThati	raThanti	raThiShyati	raThitaa	raThat	raThitvaa
+213	paTha	vyakttaayaaM vaaci	To read	spaShTa uccaaraNa karanaa	bhvaadi (pa)	paTh	paThati	paThanti	paThiShyati	paThitaa	paThat	paThitvaa
+214	vaTha	sthaulye	To be fat	moTaa honaa	bhvaadi (pa)	vaTh	vaThati	vaThanti	vaThiShyati	vaThitaa	vaThat	vaThitvaa
+215	maTha	madanivaasayoshca	"To be fat, to dwell, to be proud of"	"moTaa honaa, nivaasa karanaa, garvita honaa"	bhvaadi (pa)	maTh	maThati	maThanti	maThiShyati	maThitaa	maThat	maThitvaa
+216	kaTha	kRRicchhrajiivane	To live in distress	kaShTamaya jiivana bitaanaa	bhvaadi (pa)	kaTh	kaThati	kaThanti	kaThiShyati	kaThitaa	kaThat	kaThitvaa
+217	haTha	balaatkaare	To be ravish	haTha karanaa	bhvaadi (pa)	haTh	haThati	haThanti	haThiShyati	haThitaa	haThat	haThitvaa
+218	uTha	upaghaate	To strike 	kaShTa denaa	bhvaadi (pa)	uTh	oThati	oThanti	oThiShyati	oThitaa	oThat	oThitvaa
+219	ruTha	upaghaate	To strike 	kaShTa denaa	bhvaadi (pa)	ruTh	roThati	roThanti	roThiShyati	roThitaa	roThat	roThitvaa
+220	luTha	upaghaate	To strike 	kaShTa denaa	bhvaadi (pa)	luTh	loThati	loThanti	loThiShyati	loThitaa	loThat	loThitvaa
+221	piTha	hiMsaasaMkleshanayoH	"To kill, to quarrel"	"maaranaa, la.Daaii karanaa"	bhvaadi (pa)	piTh	peThati	peThanti	peThiShyati	peThitaa	peThat	peThitvaa
+222	shaTha	kaitave ca| cakaaraad hiMsaasaMkleshanayoH	"To deceive, to kill"	"muurkha banaanaa, maaranaa"	bhvaadi (pa)	shaTh	shaThati	shaThanti	shaThiShyati	shaThitaa	shaThat	shaThitvaa
+223	shuTha	gatipratiighaate	To strike	kaShTa denaa	bhvaadi (pa)	shuTh	shoThati	shoThanti	shoThiShyati	shoThitaa	shoThat	shoThitvaa
+224	kuThu	aalasye ca| cakaaraad gatipratighaate|	"To be idle, to strike"	"aalasa karanaa, maaranaa"	bhvaadi (pa)	kuNTh	kuNThati	kuNThanti	kuNThiShyati	kuNThitaa	kuNThat	kuNThitvaa
+225	luThu	aalasye ca| cakaaraad gatipratighaate|	"To be idle, to strike"	"aalasa karanaa, maaranaa"	bhvaadi (pa)	luNTh	luNThati	luNThanti	luNThiShyati	luNThitaa	luNThat	luNThitvaa
+226	shuThu	shoShaNe	To dry	sukhaanaa	bhvaadi (pa)	shuNTh	shuNThati	shuNThanti	shuNThiShyati	shuNThitaa	shuNThat	shuNThitvaa
+227	aTha	gatau	To go	jaanaa	bhvaadi (pa)	aTh	aThati	aThanti	aThiShyati	aThitaa	aThat	aThitvaa
+228	ruThu	gatau	To go	jaanaa	bhvaadi (pa)	ruNTh	ruNThati	ruNThanti	ruNThiShyati	ruNThitaa	ruNThat	ruNThitvaa
+229	puDu	pramardane	To rub	raga.Danaa	bhvaadi (pa)	puND	puNDati	puNDanti	puNDiShyati	puNDitaa	puNDat	puNDitvaa
+230	muDu	khaNDane ca| cakaaraatpramardane	"To cut a form, to rub"	"khaNDita karanaa, raga.Danaa"	bhvaadi (pa)	muND	muNDati	muNDanti	muNDiShyati	muNDitaa	muNDat	muNDitvaa
+231	maDu	bhuuShaayaam	To decorate	shobhita karanaa	bhvaadi (pa)	maND	maNDati	maNDanti	maNDiShyati	maNDitaa	maNDat	maNDitvaa
+232	gaDu	vadanaikadeshe| gaNDagatasaMhata nakriyaayaanityarthaH|	To decorate	shobhita karanaa	bhvaadi (pa)	gaND	gaNDati	gaNDanti	gaNDiShyati	gaNDitaa	gaNDat	gaNDitvaa
+233	shauDRRi	garve	To be proud	garva karanaa	bhvaadi (pa)	shauD	shauDati	shauDanti	shauDiShyati	shauDitaa	shauDat	shauDitvaa
+234	yauDRRi	sambandhe| sambandhaH shleShaH|	To join	jo.Danaa	bhvaadi (pa)	yauD	yauDati	yauDanti	yauDiShyati	yauDitaa	yauDat	yauDitvaa
+235	meDa	unmaade	To be mad	paagala honaa	bhvaadi (pa)	meD	meDati	meDanti	meDiShyati	meDitaa	meDat	meDitvaa
+236	mreDRRi	unmaade	To be mad	paagala honaa	bhvaadi (pa)	mreD	mreDati	mreDanti	mreDiShyati	mreDitaa	mreDat	mreDitvaa
+237	mleDa	unmaade	To be mad	paagala honaa	bhvaadi (pa)	mleD	mleDati	mleDanti	mleDiShyati	mleDitaa	mleDat	mleDitvaa
+238	loDRRi	unmaade	To be mad	paagala honaa	bhvaadi (pa)	loD	loDati	loDanti	loDiShyati	loDitaa	loDat	loDitvaa
+239	lauDRRi	unmaade	To be mad	paagala honaa	bhvaadi (pa)	lauD	lauDati	lauDanti	lauDiShyati	lauDitaa	lauDat	lauDitvaa
+240	roDRRi	anaadare	To dishonour	anaadara karanaa	bhvaadi (pa)	roD	roDati	roDanti	roDiShyati	roDitaa	roDat	roDitvaa
+241	rauDRRi	anaadare	To dishonour	anaadara karanaa	bhvaadi (pa)	rauD	rauDati	rauDanti	rauDiShyati	rauDitaa	rauDat	rauDitvaa
+242	tauDRRi	anaadare	To dishonour	anaadara karanaa	bhvaadi (pa)	tauD	tauDati	tauDanti	tauDiShyati	tauDitaa	tauDat	tauDitvaa
+243	kriiDa	vihaare	To play	khelanaa	bhvaadi (pa)	kriiD	kriiDati	kriiDanti	kriiDiShyati	kriiDitaa	kriiDat	kriiDitvaa
+244	tuDRRi	toDane| toDanaM daaraNam	To break	to.Danaa	bhvaadi (pa)	tuD	toDati	toDanti	toDiShyati	toDitaa	toDat	toDitvaa
+245	tuuDRRi	toDane| toDanaM daaraNam	To break	to.Danaa	bhvaadi (pa)	tuuD	tuuDati	tuuDanti	tuuDiShyati	tuuDitaa	tuuDat	tuuDitvaa
+246	toDRRi	toDane| toDanaM daaraNam	To break	to.Danaa	bhvaadi (pa)	toD	toDati	toDanti	toDiShyati	toDitaa	toDat	toDitvaa
+247	huDRRi	gatau	To go	jaanaa	bhvaadi (pa)	huD	hoDati	hoDanti	hoDiShyati	hoDitaa	hoDat	hoDitvaa
+248	huuDRRi	gatau	To go	jaanaa	bhvaadi (pa)	huuD	huuDati	huuDanti	huuDiShyati	huuDitaa	huuDat	huuDitvaa
+249	hruuDRRi	gatau	To go	jaanaa	bhvaadi (pa)	hruuD	hruuDati	hruuDanti	hruuDiShyati	hruuDitaa	hruuDat	hruuDitvaa
+250	hauDRRi	gatau	To go	jaanaa	bhvaadi (pa)	hauD	hauDati	hauDanti	hauDiShyati	hauDitaa	hauDat	hauDitvaa
+251	khoDRRi	pratiighaate gataavityanuvRRittergativiShaye pratighaate	To be lame	laMga.Daa honaa	bhvaadi (pa)	khoD	khoDati	khoDanti	khoDiShyati	khoDitaa	khoDat	khoDitvaa
+252	viDa	aakroshe|	To cry out loudly	jora se cillaanaa	bhvaadi (pa)	viD	veDati	veDanti	veDiShyati	veDitaa	veDat	veDitvaa
+253	aDa	udyame	To exert	udyama karanaa	bhvaadi (pa)	aD	aDati	aDanti	aDiShyati	aDitaa	aDat	aDitvaa
+254	laDa	vilaase	To play	khelanaa	bhvaadi (pa)	laD	laDati	laDanti	laDiShyati	laDitaa	laDat	laDitvaa
+254-1	lala	vilaase	To play	khelanaa	bhvaadi (pa)	lal	lalati	lalanti	laliShyati	lalitaa	lalat	lalitvaa
+255	kaDu	made	To be proud	garva karanaa	bhvaadi (pa)	kaND	kaNDati	kaNDanti	kaNDiShyati	kaNDitaa	kaNDat	kaNDitvaa
+256	kadDa	kaarkashye	To be hard	kaThora honaa	bhvaadi (pa)	kaDD	kaDDati	kaDDanti	kaDDiShyati	kaDDitaa	kaDDat	kaDDitvaa
+257	adDa	abhiyoge	To attack	aakramaNa karanaa	bhvaadi (pa)	aDD	aDDati	aDDanti	aDDiShyati	aDDitaa	aDDat	aDDitvaa
+258	cudDa	haavakaraNe| haaviibhaava suucanam||	To show ones wish	haavabhaava dikhaanaa	bhvaadi (pa)	cuDD	cuDDati	cuDDanti	cuDDiShyati	cuDDitaa	cuDDat	cuDDitvaa
+||atha Naantaa ekonaviMshatiH seTashca||												
+259	aNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	aN	aNati	aNanti	aNiShyati	aNitaa	aNat	aNitvaa
+260	raNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	raN	raNati	raNanti	raNiShyati	raNitaa	raNat	raNitvaa
+261	vaNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	vaN	vaNati	vaNanti	vaNiShyati	vaNitaa	vaNat	vaNitvaa
+262	vraNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	vraN	vraNati	vraNanti	vraNiShyati	vraNitaa	vraNat	vraNitvaa
+263	baNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	baN	baNati	baNanti	baNiShyati	baNitaa	baNat	baNitvaa
+264	bhaNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	bhaN	bhaNati	bhaNanti	bhaNiShyati	bhaNitaa	bhaNat	bhaNitvaa
+265	bhraNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	bhraN	bhraNati	bhraNanti	bhraNiShyati	bhraNitaa	bhraNat	bhraNitvaa
+266	maNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	maN	maNati	maNanti	maNiShyati	maNitaa	maNat	maNitvaa
+267	dhaNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	dhaN	dhaNati	dhaNanti	dhaNiShyati	dhaNitaa	dhaNat	dhaNitvaa
+268	dhvaNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	dhvaN	dhvaNati	dhvaNanti	dhvaNiShyati	dhvaNitaa	dhvaNat	dhvaNitvaa
+269	dhraNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	dhraN	dhraNati	dhraNanti	dhraNiShyati	dhraNitaa	dhraNat	dhraNitvaa
+270	kaNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	kaN	kaNati	kaNanti	kaNiShyati	kaNitaa	kaNat	kaNitvaa
+271	kvaNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	kvaN	kvaNati	kvaNanti	kvaNiShyati	kvaNitaa	kvaNat	kvaNitvaa
+272	caNa	shabde| shabdaH shabdakriyaa	To sound	shabda karanaa	bhvaadi (pa)	caN	caNati	caNanti	caNiShyati	caNitaa	caNat	caNitvaa
+273	oNRRi	apanayane	To remove	haTaanaa	bhvaadi (pa)	oN	oNati	oNanti	oNiShyati	oNitaa	oNat	oNitvaa
+274	soNRRi	varNagatyoH	"To be redish, to go"	"laala honaa, jaanaa"	bhvaadi (pa)	shoN	shoNati	shoNanti	shoNiShyati	shoNitaa	shoNat	shoNitvaa
+275	shroNRRi	saMghaate	To unite	eka honaa	bhvaadi (pa)	shroN	shroNati	shroNanti	shroNiShyati	shroNitaa	shroNat	shroNitvaa
+276	sloNRRi	saMghaate	To unite	eka honaa	bhvaadi (pa)	shloN	shloNati	shloNanti	shloNiShyati	shloNitaa	shloNat	shloNitvaa
+277	paiNRRi	gatipreraNashleShaNeShu	"To go, to embrace, to suggest to act"	"jaanaa, gale lagaanaa, prerita karanaa"	bhvaadi (pa)	paiN	paiNati	paiNanti	paiNiShyati	paiNitaa	paiNat	paiNitvaa
+||atha taantaaH dasha seTashca||												
+278	citai	saMGYaane| saMGYaanaM saMvittiH	To know	jaananaa 	bhvaadi (pa)	cit	cetati	cetanti	cetiShyati	cetitaa	cetat	cetitvaa
+279	ata	saatatyagamane| saatatyogamanaM nityagatiH	To go constantly	nirantara calanaa	bhvaadi (pa)	at	atati	atanti	atiShyati	atitaa	atat	atitvaa
+280	cyutRRi	aasecane| aasecanamiiShatsekaH	To sprinkle in small quanity	tho.Daa chhi.Dakanaa	bhvaadi (pa)	cyut	cyotati	cyotanti	cyotiShyati	cyotitaa	cyotat	cyotitvaa
+281	cutRRi	xaraNe| xaraNaM sravaNam|	To ooze	risanaa	bhvaadi (pa)	cut	cotati	cotanti	cotiShyati	cotitaa	cotat	cotitvaa
+282	scutRRi	xaraNe| xaraNaM sravaNam|	To ooze	risanaa	bhvaadi (pa)	scut	shcotati	shcotanti	shcotiShyati	shcotitaa	shcotat	shcotitvaa
+283	scyutRRi	xaraNe| xaraNaM sravaNam|	To ooze	risanaa	bhvaadi (pa)	scyut	shcyotati	shcyotanti	shcyotiShyati	shcyotitaa	shcyotat	shcyotitvaa
+284	jutRRi	bhaasanam	To shine	camakanaa	bhvaadi (pa)	jut	jotati	jotanti	jotiShyati	jotitaa	jotat	jotitvaa
+285	atu	bandhane	To bind	baaMdhanaa	bhvaadi (pa)	ant	antati	antanti	antiShyati	antitaa	antat	antitvaa
+286	kita	nivaase	To dewll	rahanaa	bhvaadi (pa)	kit	ketati	ketanti	ketiShyati	ketitaa	ketat	ketitvaa
+286-1	cikita	svaarthe sani	To gain for self	svaartha ke liye paanaa	bhvaadi (pa)	cikits	cikitsati	cikitsanti	cikitsiShyati	cikitsitaa	cikitat	cikitvaa
+287	RRita	dhRRiNaagatispardheShu	"To be kind, to go, to compete"	"dayaa karanaa, jaanaa, pratispardhaa karanaa"	bhvaadi (pa)	RRit-RRitiiy	RRitiiyate	RRitiiyante	RRitiiyiShyate	RRitiiyitaa	RRitiiyat	RRititvaa
+288	kRRithu	hiMsaasaMkleshanayoH| hiMsaa praaNyupaghaataH| saMklesho baadhaa|	"To hurt, to kill"	coTa pahu.Ncaanaa| maaranaa	bhvaadi (pa)	kunth	kunthati	kunthanti	kunthiShyati	kunthitaa	kunthat	kunthitvaa
+289	pRRithu	hiMsaasaMkleshanayoH| hiMsaa praaNyupaghaataH| saMklesho baadhaa|	"To hurt, to kill"	coTa pahu.Ncaanaa| maaranaa	bhvaadi (pa)	punth	punthati	punthanti	punthiShyati	punthitaa	punthat	punthitvaa
+290	luthu	hiMsaasaMkleshanayoH| hiMsaa praaNyupaghaataH| saMklesho baadhaa|	"To hurt, to kill"	coTa pahu.Ncaanaa| maaranaa	bhvaadi (pa)	lunth	lunthati	lunthanti	lunthiShyati	lunthitaa	lunthat	lunthitvaa
+291	mathu	hiMsaasaMkleshanayoH| hiMsaa praaNyupaghaataH| saMklesho baadhaa|	"To hurt, to kill"	coTa pahu.Ncaanaa| maaranaa	bhvaadi (pa)	manth	manthati	manthanti	manthiShyati	manthitaa	manthat	manthitvaa
+292	manth	hiMsaasaMkleshanayoH| hiMsaa praaNyupaghaataH| saMklesho baadhaa|	"To hurt, to kill"	coTa pahu.Ncaanaa| maaranaa	bhvaadi (pa)	manth	manthati	manthanti	manthiShyati	manthitaa	manthat	manthitvaa
+293	maantha	hiMsaasaMkleshanayoH| hiMsaa praaNyupaghaataH| saMklesho baadhaa|	"To hurt, to kill"	coTa pahu.Ncaanaa| maaranaa	bhvaadi (pa)	maanth	maanthati	maanthanti	maanthiShyati	maanthitaa	maanthat	maanthitvaa
+||atha daantaaH ShaDviMshatiH skandRRivarjaaH seTashca||												
+294	khaadRRi	bhaxaNe	To eat	khaanaa	bhvaadi (pa)	khaad	khaadati	khaadanti	khaadiShyati	khaaditaa	khaadat	khaaditvaa
+295	bada	sthairye	To be firm	sthira honaa	bhvaadi (pa)	bad	badati	badanti	badiShyati	baditaa	badat	baditvaa
+296	khada	hiMsaayaa~Nca| cakaaraatsthairye|	"To kill, to be firm"	"maaranaa, sthira honaa"	bhvaadi (pa)	khad	khadati	khadanti	khadiShyati	khaditaa	khadat	khaditvaa
+297	gada	vyaktaayaaM vaaci	To speak distinctly	spaShTa bolanaa	bhvaadi (pa)	gad	gadati	gadanti	gadiShyati	gaditaa	gadat	gaditvaa
+298	rada	vilekhane| vilekhanamutpaatanama	To carve	khodanaa	bhvaadi (pa)	rad	radati	radanti	radiShyati	raditaa	radat	raditvaa
+299	Nada	avyakte shabde	To speak indistinctly	aspaShTa bolanaa	bhvaadi (pa)	nad	nadati	nadanti	nadiShyati	naditaa	nadat	naditvaa
+300	bhixvidaa	avyakte shabde	To speak indistinctly	aspaShTa bolanaa	bhvaadi (pa)	xved	xvedati	xvedanti	xvediShyati	xveditaa	xvedat	xveditvaa
+301	arda	gatiyaacanayoH	"To go, to beg"	"jaanaa, maaMganaa"	bhvaadi (pa)	ard	ardati	ardanti	ardiShyati	arditaa	ardat	arditvaa
+302	narda	shabde	To sound	shabda karanaa	bhvaadi (pa)	nard	nardati	nardanti	nardiShyati	narditaa	nardat	narditvaa
+303	Narda	shabde	To sound	shabda karanaa	bhvaadi (pa)	nard	nardati	nardanti	nardiShyati	narditaa	nardat	narditvaa
+304	garda	shabde	To sound	shabda karanaa	bhvaadi (pa)	gard	gardati	gardanti	gardiShyati	garditaa	gardat	garditvaa
+305	tarda	hiMsaayaam	To kill	hiMsaa karanaa	bhvaadi (pa)	tard	tardati	tardanti	tardiShyati	tarditaa	tardat	tarditvaa
+306	karda	kutsite shabde	To rumble	avyakta shabda karanaa	bhvaadi (pa)	kard	kardati	kardanti	kardiShyati	karditaa	kardat	karditvaa
+307	kharda	dashane| dashanamihadanda-shukakartRRikaM dantakarma|	To bite	DaMka maaranaa	bhvaadi (pa)	khard	khardati	khardanti	khardiShyati	kharditaa	khardat	kharditvaa
+308	adu	bandhane	To bind	baaMdhanaa	bhvaadi (pa)	and	andati	andanti	andiShyati	anditaa	andat	anditvaa
+309	idu	paramaishvarye| paramaishvaryaM parameshanakriyaa	To be Lord	svaamii honaa	bhvaadi (pa)	ind	indati	indanti	indiShyati	inditaa	indat	inditvaa
+310	vidu	avayave| avayava ekadeshaH anenasvagataa kriyaa laxyate|	To act in one part	eka bhaaga meM kriyaa karanaa	bhvaadi (pa)	vind	vindati	vindanti	vindiShyati	vinditaa	vindat	vinditvaa
+311	Nidu	kutsaayaam	To censure	nindaa karanaa	bhvaadi (pa)	nind	nindati	nindanti	nindiShyati	ninditaa	nindat	ninditvaa
+312	Tunadu	samRRiddhau	To be prosperous	samRRiddha honaa	bhvaadi (pa)	nand	nandati	nandanti	nandiShyati	nanditaa	nandat	nanditvaa
+313	cadu	diiptyaahlaadanayoH| aahlaadanamaanandotpaadanam	"To shine, to make delightful"	"camakanaa, harShita honaa"	bhvaadi (pa)	cand	candati	candanti	candiShyati	canditaa	candat	canditvaa
+314	tratu	ceShTaayaa|	To act	ceShTaa karanaa	bhvaadi (pa)	trand	trandati	trandanti	trandiShyati	tranditaa	trandat	tranditvaa
+315	kadu	rodanaahvaanayoH|	"To cry, to call"	"cillaanaa, bulaanaa"	bhvaadi (pa)	kand	kandati	kandanti	kandiShyati	kanditaa	kandat	kanditvaa
+316	kradu	rodanaahvaanayoH|	"To cry, to call"	"cillaanaa, bulaanaa"	bhvaadi (pa)	krand	krandati	krandanti	krandiShyati	kranditaa	krandat	kranditvaa
+317	kladu	rodanaahvaanayoH|	"To cry, to call"	"cillaanaa, bulaanaa"	bhvaadi (pa)	kland	klandati	klandanti	klandiShyati	klanditaa	klandat	klanditvaa
+318	klidu	paridevane| paridevanaM shocanam	To lament	rodana karanaa	bhvaadi (pa)	klind	klindati	klindanti	klindiShyati	klinditaa	klindat	klinditvaa
+319	skandRRi	gatishoShaNayoH	"To go, to dry"	"jaanaa, sukhaanaa"	bhvaadi (pa)	skand	skandati	skandanti	skantsyati	skantaa	skandat	skantitvaa
+||atha dhaantaastrayaH||												
+320	Shidhuu	gatyaam	To go	jaanaa	bhvaadi (pa)	sidh	sedhati	sedhanti	sedhiShyati	sedhitaa	sedhat	sedhitvaa
+321	Shidhau	shaastramaa~NgalyayoH| shaastraM shaastraviShayaM shaasanam| maa~NgalyaM ma~NgalaviShyaakriyaa	To advise in scriptures	shaatrayukta salaaha denaa	bhvaadi (pa)	sidh	sedhati	sedhanti	sedhiShyati	sedhitaa	sedhat	sedhitvaa
+322	shundha	suddhau	To be pure	shuddha karanaa	bhvaadi (pa)	shundh	shundhati	shundanti	shundhiShyati	shundhitaa	shundhat	shundhitvaa
+||atha naantaa seTashca||												
+323	stana	shabde	To sound	shabda karanaa	bhvaadi (pa)	stan	stanati	stananti	staniShyati	stanitaa	stanat	stanitvaa
+324	dhana	shabde	To sound	shabda karanaa	bhvaadi (pa)	dhan	dhanati	dhananti	dhaniShyati	dhanitaa	dhanat	dhanitvaa
+325	dhvana	shabde	To sound	shabda karanaa	bhvaadi (pa)	dhvan	dhvanati	dhvananti	dhvaniShyati	dhvanitaa	dhvanat	dhvanitvaa
+326	cana	shabde	To sound	shabda karanaa	bhvaadi (pa)	can	canati	cananti	caniShyati	canitaa	canat	canitvaa
+327	svana	shabde	To sound	shabda karanaa	bhvaadi (pa)	svan	svanati	svananti	svaniShyati	svanitaa	svanat	svanitvaa
+328	vana	shabde	To sound	shabda karanaa	bhvaadi (pa)	van	vanati	vananti	vaniShyati	vanitaa	vanat	vanitvaa
+329	vana	bhaktau| bhaktirbhajanam|	"To pray to god, to go"	"praarthanaa karanaa, jaanaa"	bhvaadi (pa)	van	vanati	vananti	vaniShyati	vanitaa	vanat	vanitvaa
+330	Shana	bhaktau| bhaktirbhajanam|	"To pray to god, to go"	"praarthanaa karanaa, jaanaa"	bhvaadi (pa)	san	sanati	sananti	saniShyati	sanitaa	sanat	sanitvaa
+331	kanai	diiptikaantigatiShu| diiptiH prakaashaH| kantiH shobhaaH|	"To shine, to be beautiful"	"camakanaa, sundara dikhanaa"	bhvaadi (pa)	kan	kanati	kananti	kaniShyati	kanitaa	kanat	kanitvaa
+332	gupau	raxaNe	To protect	raxaa karanaa	bhvaadi (pa)	gup-gopaay	gopaayati	gopaayanti	gopiShyati	gopitaa	gopaayat	gopitvaa
+333	tarpa	saMtaape	To be hot or suffer pain	santapta honaa	bhvaadi (pa)	tap	tapati	tapanti	tapsyati	taptaa	tapat	taptvaa
+334	dhuupa	saMtaape	To be hot or suffer pain	santapta honaa	bhvaadi (pa)	dhuup-ghuupaay	dhuupaayati	dhuupaayanti	dhuupiShyati	dhuupitaa	dhuupaayat	dhuupitvaa
+335	rapa	vyakte vacane	To speak distinctly	spaShTa bolanaa	bhvaadi (pa)	rap	rapati	rapanti	rapiShyati	rapitaa	rapat	rapitvaa
+336	lapa	vyakte vacane	To speak distinctly	spaShTa bolanaa	bhvaadi (pa)	lap	lapati	lapanti	lapiShyati	lapitaa	lapat	lapitvaa
+337	jalpa	vyakte vacane	To speak distinctly	spaShTa bolanaa	bhvaadi (pa)	jalp	jalpati	jalpanti	jalpiShyati	jalpitaa	jalpat	jalpitvaa
+338	japa	maanase ca| manonirvatye vacane| vacane| cakaaraadvyakte vacane	"To mutter, to speak"	"japa karanaa, bolanaa"	bhvaadi (pa)	jap	japati	japanti	japiShyati	japitaa	japat	japitvaa
+339	capa	saantvane	To console	saantvanaa denaa	bhvaadi (pa)	cap	capati	capanti	capiShyati	capitaa	capat	capitvaa
+340	Shapa	samavaaye	To unite	eka honaa	bhvaadi (pa)	sap	sapati	sapanti	sapiShyati	sapitaa	sapat	sapitvaa
+341	sRRiplRRi	gatau	To go	jaanaa	bhvaadi (pa)	sarp	sarpati	sarpanti	sarpiShyati	sarpitaa	sarpat	sarpitvaa
+342	cupa	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	cup	copati	copanti	copiShyati	copitaa	copat	copitvaa
+343	tupa	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	tup	topati	topanti	topiShyati	topitaa	topat	topitvaa
+344	tumpa	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	tump	tumpati	tumpanti	tumpiShyati	tumpitaa	tumpat	tumpitvaa
+345	trupa	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	trup	tropati	tropanti	tropiShyati	tropitaa	tropat	tropitvaa
+346	trumpai	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	trump	trumpati	trumpanti	trumpiShyati	trumpitaa	trumpat	trumpitvaa
+347	tupha	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	tuph	tophati	tophanti	tophiShyati	tophitaa	tophat	tophitvaa
+348	tumpha	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	tumph	tumphati	tumphanti	tumphiShyati	tumphitaa	tumphat	tumphitvaa
+349	trupha	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	truph	trophati	trophanti	trophiShyati	trophitaa	trophat	trophitvaa
+350	trumpha	mandaayaam| gataa-vityanuvRRittermandaayaaM gatau	To go slowly	dhiire jaanaa	bhvaadi (pa)	trumph	trumphati	trumphanti	trumphiShyati	trumphitaa	trumphat	trumphitvaa
+351	varpha	gatau	To go	jaanaa	bhvaadi (pa)	varph	varphati	varphanti	varphiShyati	varphitaa	varphat	varphitvaa
+352	rapha	gatau	To go	jaanaa	bhvaadi (pa)	raph	raphati	raphanti	raphiShyati	raphitaa	raphat	raphitvaa
+353	rephu	gatau	To go	jaanaa	bhvaadi (pa)	ramph	ramphati	ramphanti	ramphiShyati	ramphitaa	ramphat	ramphitvaa
+||atha baantaa aShTaadasha seTashca||												
+354	arba	gatau	To go	jaanaa	bhvaadi (pa)	arb	arbati	arbanti	arbiShyati	arbitaa	arbat	arbitvaa
+355	karba	gatau	To go	jaanaa	bhvaadi (pa)	karb	karbati	karbanti	karbiShyati	karbitaa	karbat	karbitvaa
+356	kharba	gatau	To go	jaanaa	bhvaadi (pa)	kharb	kharbati	kharbanti	kharbiShyati	kharbitaa	kharbat	kharbitvaa
+357	garba	gatau	To go	jaanaa	bhvaadi (pa)	garb	garbati	garbanti	garbiShyati	garbitaa	garbat	garbitvaa
+358	carba	gatau	To go	jaanaa	bhvaadi (pa)	carb	carbati	carbanti	carbiShyati	carbitaa	carbat	carbitvaa
+359	tarba	gatau	To go	jaanaa	bhvaadi (pa)	tarb	tarbati	tarbanti	tarbiShyati	tarbitaa	tarbat	tarbitvaa
+360	narba	gatau	To go	jaanaa	bhvaadi (pa)	narb	narbati	narbanti	narbiShyati	narbitaa	narbat	narbitvaa
+361	parba	gatau	To go	jaanaa	bhvaadi (pa)	parb	parbati	parbanti	parbiShyati	parbitaa	parbat	parbitvaa
+362	barba	gatau	To go	jaanaa	bhvaadi (pa)	barb	barbati	barbanti	barbiShyati	barbitaa	barbat	barbitvaa
+363	sharba	gatau	To go	jaanaa	bhvaadi (pa)	sharb	sharbati	sharbanti	sharbiShyati	sharbitaa	sharbat	sharbitvaa
+364	Sharba	gatau	To go	jaanaa	bhvaadi (pa)	sarb	sarbati	sarbanti	sarbiShyati	sarbitaa	sarbat	sarbitvaa
+365	sarba	gatau	To go	jaanaa	bhvaadi (pa)	sarb	sarbati	sarbanti	sarbiShyati	sarbitaa	sarbat	sarbitvaa
+366	ribu	gatau	To go	jaanaa	bhvaadi (pa)	rimb	rimbati	rimbanti	rimbiShyati	rimbitaa	rimbat	rimbitvaa
+367	rabu	gatau	To go	jaanaa	bhvaadi (pa)	ramb	rambati	rambanti	rambiShyati	rambitaa	rambat	rambitvaa
+368	kubu	aacchhaadane	To cover	Dh.Nkanaa	bhvaadi (pa)	kumb	kumbati	kumbanti	kumbiShyati	kumbitaa	kumbat	kumbitvaa
+369	lubu	ardane	To pain	kaShTa denaa	bhvaadi (pa)	lumb	lumbati	lumbanti	lumbiShyati	lumbitaa	lumbat	lumbitvaa
+370	jubu	ardane	To pain	kaShTa denaa	bhvaadi (pa)	tumb	tumbati	tumbanti	tumbiShyati	tumbitaa	tumbat	tumbitvaa
+371	cubu	vaktrasaMyoge	To kiss	cumbana karanaa	bhvaadi (pa)	cumb	cumbati	cumbanti	cumbiShyati	cumbitaa	cumbat	cumbitvaa
+372	sRRibhuu	hiMsaayaam	To kill	maaranaa	bhvaadi (pa)	sRRibh	sarbhati	sarbhanti	sarbhiShyati	sarbhitaa	sarbhat	sarbhitvaa
+373	sRRimbhuu	hiMsaayaam	To kill	maaranaa	bhvaadi (pa)	sRRimbh	sRRimbhati	sRRimbhanti	sRRimbhiShyati	sRRimbhitaa	sRRimbhat	sRRimbhitvaa
+374	sribhuu	hiMsaayaam	To kill	maaranaa	bhvaadi (pa)	sribh	srebhati	srebhanti	srebhiShyati	srebhitaa	srebhat	srebhitvaa
+375	Shimbhuu	hiMsaayaam	To kill	maaranaa	bhvaadi (pa)	simbh	simbhati	simbhanti	simbhiShyati	simbhitaa	simbhat	simbhitvaa
+376	bharbha	hiMsaayaam	To kill	maaranaa	bhvaadi (pa)	bharbh	bharbhati	bharbhanti	bharbhiShyati	bharbhitaa	bharbhat	bharbhitvaa
+377	shumbha	bhaaShane ca|	To speak	bolanaa	bhvaadi (pa)	shumbh	shumbhati	shumbhanti	shumbhiShyati	shumbhitaa	shumbhat	shumbhitvaa
+378	yabha	maithune| mithunasya karmaNi bhaave vaa|	To do act of intercourse	saMbhoga kriyaa karanaa	bhvaadi (pa)	yabh	yabhati	yabhanti	yabhiShyati	yabhitaa	yabhat	yabhitvaa
+379	jabha	maithune| mithunasya karmaNi bhaave vaa|	To do act of intercourse	saMbhoga kriyaa karanaa	bhvaadi (pa)	jambh	jambhati	jambhanti	jambhiShyati	jambhitaa	jambhat	jambhitvaa
+380	camuu	adane	To eat	khaanaa	bhvaadi (pa)	cam	camati	camanti	camiShyati	camitaa	camat	camitvaa
+381	chhamuu	adane	To eat	khaanaa	bhvaadi (pa)	chham	chhamati	chhamanti	chhamiShyati	chhamitaa	chhamat	chhamitvaa
+382	jamuu	adane	To eat	khaanaa	bhvaadi (pa)	jam	jamati	jamanti	jamiShyati	jamitaa	jamat	jamitvaa
+383	jhamuu	adane	To eat	khaanaa	bhvaadi (pa)	jham	jhamati	jhamanti	jhamiShyati	jhamitaa	jhamat	jhamitvaa
+384	jimuu	adane	To eat	khaanaa	bhvaadi (pa)	jim	jemati	jemanti	jemiShyati	jemitaa	jemat	jemitvaa
+385	kramuu	paadavixepe| paadanyaasa ityarthaH	To walk	calanaa	bhvaadi (pa)	kram	kraamati	kraamanti	kramiShyati	kramitaa	kraamat	kramitvaa
+386	yamuuM	uparame| uparamo nivRRittiH	To stop	sthira honaa	bhvaadi (pa)	yam	yacchhati	yacchhanti	yaMsyati	yantaa	yacchhat	yantvaa
+387	syamuu	shabde	To sound	shabda karanaa	bhvaadi (pa)	syam	syamati	syamanti	syamiShyati	syamitaa	syamat	syamitvaa
+388	NamaM	prahvatve| prahvatvaM kaataratvam	To bend	moDanaa	bhvaadi (pa)	nam	namati	namanti	naMsyati	nantaa	namat	nantvaa
+389	Shama	vaiklavye| vaiklavyaM kaataratvam	To be vigourless	kaatara honaa	bhvaadi (pa)	sam	samati	samanti	samiShyati	samitaa	samat	samitvaa
+390	ShTama	vaiklavye| vaiklavyaM kaataratvam	To be vigourless	kaatara honaa	bhvaadi (pa)	stam	stamati	stamanti	stamiShyati	stamitaa	stamat	stamitvaa
+391	ama	shabdabhaktyoH bhaktirbhajanam	"To sound, to pray"	"shabda karanaa, praarthanaa karanaa"	bhvaadi (pa)	am	amati	amanti	amiShyati	amitaa	amat	amitvaa
+392	ama	gatau	To go	jaanaa	bhvaadi (pa)	am	amati	amanti	amiShyati	amitaa	amat	amitvaa
+393	drama	gatau	To go	jaanaa	bhvaadi (pa)	dram	dramati	dramanti	dramiShyati	dramitaa	dramat	dramitvaa
+394	hamma	gatau	To go	jaanaa	bhvaadi (pa)	hamm	hammati	hammanti	hammiShyati	hammitaa	hammat	hammitvaa
+395	miimRRi	gatau	To go	jaanaa	bhvaadi (pa)	miim	miimati	miimanti	miimiShyati	miimitaa	miimat	miimitvaa
+396	gamlRRim	gatau	To go	jaanaa	bhvaadi (pa)	gam	gacchhati	gacchhanti	gamiShyati	gantaa	gacchhat	gatvaa
+||atha yaantaa aShTau seTashca||												
+397	haya	klaantau ca| cakaaradgatau|	"To be weary, to go"	"thakaana honaa, jaanaa"	bhvaadi (pa)	hay	hayati	hayanti	hayiShyati	hayitaa	hayat	hayitvaa
+398	harya	klaantau ca| cakaaradgatau|	"To be weary, to go"	"thakaana honaa, jaanaa"	bhvaadi (pa)	hary	haryati	haryanti	haryiShyati	haryitaa	haryat	haryitvaa
+399	mavya	bandhane	To bind	baaMdhanaa	bhvaadi (pa)	mavy	mavyati	mavyanti	mavyiShyati	mavyitaa	mavyat	mavyitvaa
+400	suurxya	iirShyaarthaa	To envy	iirShyaa karanaa	bhvaadi (pa)	suurxy	suurxyati	suurxyanti	suurxyiShyati	suurxyitaa	suurxyat	suurxyitvaa
+401	iirxya	iirShyaarthaa	To envy	iirShyaa karanaa	bhvaadi (pa)	iirxy	iirxyati	iirxyanti	iirxyiShyati	iirxyitaa	iirxyat	iirxyitvaa
+402	iirshya	iirShyaarthaa	To envy	iirShyaa karanaa	bhvaadi (pa)	iirShy	iirShyati	iirShyanti	iirShyiShyati	iirShyitaa	iirShyat	iirShyitvaa
+403	shucyai	abhiShave| draveNa dravaaNaaM parivaasanamabhiShavaH|	To perfune a fluid by another fluid	eka dravya se anya dravya ko sugandhita karanaa	bhvaadi (pa)	shucy	shucyati	shucyanti	shucyiShyati	shucyitaa	shucyat	shucyitvaa
+404	cucyai	abhiShave| draveNa dravaaNaaM parivaasanamabhiShavaH|	To perfune a fluid by another fluid	eka dravya se anya dravya ko sugandhita karanaa	bhvaadi (pa)	cucy	cucyati	cucyanti	cucyiShyati	cucyitaa	cucyat	cucyitvaa
+405	tsara	chhadmagatau| chhadmaprakaara ityarthaH	To cheat	chhalakapaTa karanaa	bhvaadi (pa)	tsar	tsarati	tsaranti	tsariShyati	tsaritaa	tsarat	tsaritvaa
+406	kmara	huurchhane| huurchhanaM kauTilyam	To be crooked	TeDhaa honaa	bhvaadi (pa)	kmar	kmarati	kmaranti	kmariShyati	kmaritaa	kmarat	kmaritvaa
+407	abhra	gatau	To go	jaanaa	bhvaadi (pa)	abhr	abhrati	abhranti	abhriShyati	abhritaa	abhrat	abhritvaa
+408	babhra	gatau	To go	jaanaa	bhvaadi (pa)	babhr	babhrati	babhranti	babhriShyati	babhritaa	babhrat	babhritvaa
+409	mabhra	gatau	To go	jaanaa	bhvaadi (pa)	mabhr	mabhrati	mabhranti	mabhriShyati	mabhritaa	mabhrat	mabhritvaa
